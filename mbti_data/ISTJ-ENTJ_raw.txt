@@ -1,0 +1,188 @@
+```typescript
+"ISTJ": {
+  "ENTJ": {
+    overallScore: 82,
+    mediator: "ENTJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJ and ENTJ form a complementary partnership where structure meets vision. The ISTJ's reliability and attention to detail balances the ENTJ's big-picture thinking. While both value efficiency, their different cognitive functions create a dynamic where the ISTJ grounds the ENTJ's ambitions with practical considerations. Conflicts may arise from the ENTJ's directness and the ISTJ's resistance to change.",
+      zh: "ISTJ和ENTJ形成了一种结构性与愿景性互补的伙伴关系。ISTJ的可靠性和对细节的关注平衡了ENTJ的宏观思维。虽然两者都重视效率，但不同的认知功能创造了一种动态平衡，ISTJ用实际考量来锚定ENTJ的雄心。ENTJ的直接性和ISTJ对变化的抗拒可能导致冲突。"
+    },
+    relationshipType: {
+      en: "Strategic Alliance",
+      zh: "战略联盟"
+    },
+    relationshipDesc: {
+      en: "A productive partnership where Te-dominant types combine efficiency with execution.",
+      zh: "一种高效的伙伴关系，两个Te主导类型将效率与执行力相结合。"
+    },
+    sharedValues: {
+      en: "Efficiency & Responsibility",
+      zh: "效率与责任感"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value competence, reliability and getting things done effectively.",
+      zh: "两种类型都高度重视能力、可靠性和高效完成任务。"
+    },
+    communicationStyle: {
+      en: "Direct & Fact-Based",
+      zh: "直接且基于事实"
+    },
+    communicationDesc: {
+      en: "Communication is straightforward but may lack emotional nuance. Both prefer logical arguments.",
+      zh: "沟通直接了当但可能缺乏情感细腻度，双方都偏好逻辑论证。"
+    },
+    cognitiveCompatibility: {
+      "Si_Te": {
+        score: 88,
+        type1Function: "Si (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Si's practical experience supports Te's efficient execution, creating reliable systems.",
+          zh: "Si的实际经验支持Te的高效执行，共同创建可靠的系统。"
+        }
+      },
+      "Te_Te": {
+        score: 92,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Shared Te creates strong work ethic and mutual understanding of efficiency needs.",
+          zh: "共同的Te功能创造了强烈的职业道德和对效率需求的相互理解。"
+        }
+      },
+      "Fi_Fe": {
+        score: 65,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Potential tension as both struggle with emotional expression in different ways.",
+          zh: "潜在紧张点，因为双方都以不同方式在情感表达上存在困难。"
+        }
+      },
+      "Ne_Ni": {
+        score: 70,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ENTJ's strategic vision can overwhelm ISTJ's preference for concrete details.",
+          zh: "ENTJ的战略愿景可能让偏好具体细节的ISTJ感到压力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Te values of efficiency and competence, though ENTJ's dominant Te may overshadow ISTJ's auxiliary Te. ISTJ's Si provides grounding for ENTJ's visionary Ni. The main challenge is balancing ENTJ's change-driven nature with ISTJ's stability preference.",
+      zh: "他们的兼容性源于对效率和能力的共同Te价值观，尽管ENTJ的主导Te可能盖过ISTJ的辅助Te。ISTJ的Si为ENTJ的愿景型Ni提供了基础。主要挑战在于平衡ENTJ的变革驱动本性与ISTJ的稳定性偏好。"
+    },
+    growthPotential: {
+      en: "ISTJ can learn to embrace strategic thinking from ENTJ, while ENTJ can develop appreciation for established systems from ISTJ. Both benefit from improving emotional communication.",
+      zh: "ISTJ可以向ENTJ学习战略思维，而ENTJ可以从ISTJ那里学会欣赏既有系统。双方都能从改善情感沟通中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ISTJ and ENTJ handle conflicts?",
+          zh: "ISTJ和ENTJ如何处理冲突？"
+        },
+        answer: {
+          en: "Conflicts are typically logical debates. ISTJ may withdraw while ENTJ confronts directly. Finding middle ground on practical solutions works best.",
+          zh: "冲突通常是逻辑辩论。ISTJ可能退缩而ENTJ直接对抗。在实际解决方案上找到中间立场最有效。"
+        }
+      }
+    ]
+  }
+},
+"ENTJ": {
+  "ISTJ": {
+    overallScore: 85,
+    mediator: "ENTJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ENTJs appreciate ISTJs' reliability and precision, while ISTJs respect ENTJs' leadership and vision. This pairing excels at implementing complex projects, with ENTJ providing direction and ISTJ ensuring flawless execution. The ENTJ may need to moderate their intensity to avoid overwhelming the more reserved ISTJ.",
+      zh: "ENTJ欣赏ISTJ的可靠性和精确性，而ISTJ尊重ENTJ的领导力和远见。这对组合擅长实施复杂项目，ENTJ提供方向而ISTJ确保完美执行。ENTJ可能需要调节自己的强度以避免让更内敛的ISTJ感到压力。"
+    },
+    relationshipType: {
+      en: "Power Partnership",
+      zh: "强力搭档"
+    },
+    relationshipDesc: {
+      en: "A high-performance duo combining strategic vision with meticulous execution.",
+      zh: "将战略愿景与细致执行相结合的高绩效组合。"
+    },
+    sharedValues: {
+      en: "Competence & Achievement",
+      zh: "能力与成就"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize results, competence and meeting objectives effectively.",
+      zh: "双方都优先考虑结果、能力和有效达成目标。"
+    },
+    communicationStyle: {
+      en: "Task-Oriented & Direct",
+      zh: "任务导向且直接"
+    },
+    communicationDesc: {
+      en: "Communication focuses on objectives and solutions rather than emotions.",
+      zh: "沟通聚焦于目标和解决方案而非情感。"
+    },
+    cognitiveCompatibility: {
+      "Te_Si": {
+        score: 90,
+        type1Function: "Te (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Te's efficiency combines with Si's attention to detail for excellent implementation.",
+          zh: "Te的效率与Si对细节的关注相结合，实现卓越执行。"
+        }
+      },
+      "Ni_Ne": {
+        score: 68,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "ENTJ's strategic focus may frustrate ISTJ who prefers concrete, immediate details.",
+          zh: "ENTJ的战略焦点可能让偏好具体即时细节的ISTJ感到沮丧。"
+        }
+      },
+      "Se_Fi": {
+        score: 72,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both can be stubborn about personal preferences but in different domains.",
+          zh: "双方都可能对个人偏好固执，但领域不同。"
+        }
+      },
+      "Fi_Te": {
+        score: 75,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ISTJ's auxiliary Te supports ENTJ's dominant Te in practical matters.",
+          zh: "ISTJ的辅助Te在实际事务上支持ENTJ的主导Te。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The ENTJ-ISTJ dynamic works because both are logical, responsible types who value competence. ENTJ brings vision and drive while ISTJ provides stability and precision. Their shared Te creates mutual understanding, though ENTJ needs to respect ISTJ's need for structure.",
+      zh: "ENTJ-ISTJ的动态关系有效，因为两者都是重视能力的逻辑型负责类型。ENTJ带来愿景和驱动力，而ISTJ提供稳定性和精确性。他们共同的Te创造了相互理解，尽管ENTJ需要尊重ISTJ对结构的需求。"
+    },
+    growthPotential: {
+      en: "ENTJ can learn patience and attention to detail from ISTJ, while ISTJ can develop more strategic thinking from ENTJ. Both benefit from developing emotional intelligence to complement their strong logical sides.",
+      zh: "ENTJ可以向ISTJ学习耐心和注重细节，而ISTJ可以从ENTJ那里发展更多战略思维。双方都能从发展情商中受益，以补充他们强大的逻辑面。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What projects are ISTJ-ENTJ pairs best suited for?",
+          zh: "ISTJ-ENTJ组合最适合什么项目？"
+        },
+        answer: {
+          en: "They excel at complex, detail-oriented projects requiring both vision and flawless execution, like operations management or large-scale event planning.",
+          zh: "他们擅长需要愿景和无瑕疵执行的复杂细节导向项目，如运营管理或大型活动策划。"
+        }
+      }
+    ]
+  }
+}
+```

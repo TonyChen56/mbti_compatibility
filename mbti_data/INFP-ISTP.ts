@@ -1,0 +1,186 @@
+{
+  "ISTP": {
+    overallScore: 78,
+    mediator: "INFP",
+    provider: "ISTP",
+    summary: {
+      en: "The INFP-ISTP pairing forms an intriguing complementary relationship. INFPs bring emotional depth and idealism, while ISTPs contribute practical problem-solving skills. Their differences can create initial attraction but may lead to misunderstandings. The INFP's dominant Fi (Introverted Feeling) clashes with ISTP's Ti (Introverted Thinking), yet their shared Perceiving preference allows for flexibility. With mutual respect, they can balance each other's strengths and weaknesses.",
+      zh: "INFP和ISTP的配对形成了一种有趣的互补关系。INFP带来情感深度和理想主义，而ISTP提供实际解决问题的能力。他们的差异可能产生最初的吸引力，但也可能导致误解。INFP主导的Fi(内倾情感)与ISTP的Ti(内倾思考)存在冲突，但他们共有的感知偏好提供了灵活性。在相互尊重的基础上，他们可以平衡彼此的优缺点。"
+    },
+    relationshipType: {
+      en: "Explorer-Idealist Dynamic",
+      zh: "探索者-理想主义者的动态"
+    },
+    relationshipDesc: {
+      en: "A relationship where the dreamer meets the doer, creating potential for mutual growth through their contrasting perspectives.",
+      zh: "梦想家与实干家的相遇，通过截然不同的视角创造共同成长的潜力。"
+    },
+    sharedValues: {
+      en: "Authenticity & Freedom",
+      zh: "真实性与自由"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal authenticity and independence, though they express these values differently in daily life.",
+      zh: "两种类型都高度重视个人真实性和独立性，尽管他们在日常生活中表达这些价值观的方式不同。"
+    },
+    communicationStyle: {
+      en: "Indirect-Direct Tension",
+      zh: "间接-直接的张力"
+    },
+    communicationDesc: {
+      en: "INFPs prefer nuanced emotional expression while ISTPs favor straightforward factual communication, requiring adaptation from both sides.",
+      zh: "INFP偏好细腻的情感表达，而ISTP喜欢直截了当的事实沟通，需要双方都做出调整。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Ti": {
+        score: 72,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "Both use introverted judging functions but focus on different domains (values vs logic), creating both understanding and friction.",
+          zh: "两者都使用内倾判断功能但关注不同领域(价值观vs逻辑)，既产生理解也造成摩擦。"
+        }
+      },
+      "Ne_Se": {
+        score: 85,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "Their extroverted perceiving functions complement well - INFP's imagination balances ISTP's sensory awareness.",
+          zh: "他们的外倾感知功能互补良好 - INFP的想象力平衡了ISTP的感官意识。"
+        }
+      },
+      "Si_Ni": {
+        score: 68,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Underdeveloped introverted perceiving functions may lead to different memory and foresight approaches.",
+          zh: "发展不足的内倾感知功能可能导致不同的记忆和预见方式。"
+        }
+      },
+      "Te_Fe": {
+        score: 75,
+        type1Function: "Te (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Their inferior functions can emerge under stress, creating unexpected common ground in challenging situations.",
+          zh: "他们的劣势功能可能在压力下显现，在挑战性情境中创造意想不到的共同点。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The compatibility stems from their complementary strengths - INFP's emotional insight balances ISTP's practical skills. While their decision-making processes differ (values vs logic), their shared Perceiving preference creates flexibility. The main challenge lies in communication styles and emotional expression differences.",
+      zh: "兼容性源于他们的互补优势 - INFP的情感洞察力平衡了ISTP的实用技能。虽然他们的决策过程不同(价值观vs逻辑)，但共同的感知偏好创造了灵活性。主要挑战在于沟通方式和情感表达的差异。"
+    },
+    growthPotential: {
+      en: "INFP can learn practical problem-solving from ISTP, while ISTP can develop emotional intelligence through INFP. Both may grow in appreciating different perspectives.",
+      zh: "INFP可以向ISTP学习实际问题解决能力，而ISTP可以通过INFP发展情商。双方都可能通过欣赏不同观点而成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INFP and ISTP improve their communication?",
+          zh: "INFP和ISTP如何改善他们的沟通？"
+        },
+        answer: {
+          en: "INFPs should be more direct with facts, while ISTPs should acknowledge emotions. Finding shared activities can bridge communication gaps.",
+          zh: "INFP应该在事实表达上更直接，而ISTP应该承认情感。找到共同活动可以弥合沟通差距。"
+        }
+      }
+    ]
+  }
+},
+"ISTP": {
+  "INFP": {
+    overallScore: 75,
+    mediator: "INFP",
+    provider: "ISTP",
+    summary: {
+      en: "From the ISTP's perspective, the INFP offers emotional depth and creative possibilities that complement their pragmatic approach. ISTPs appreciate INFP's authenticity but may find their emotional intensity challenging. The ISTP's calm problem-solving can ground the INFP, while the INFP helps the ISTP connect with deeper values. Their relationship thrives when they respect each other's differing worldviews.",
+      zh: "从ISTP的角度来看，INFP提供了情感深度和创造可能性，补充了他们务实的方法。ISTP欣赏INFP的真实性，但可能觉得他们的情感强度具有挑战性。ISTP冷静的问题解决能力可以让INFP脚踏实地，而INFP帮助ISTP连接更深层次的价值观。当他们尊重彼此不同的世界观时，他们的关系就会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Pragmatist-Visionary Pair",
+      zh: "实用主义者-远见者组合"
+    },
+    relationshipDesc: {
+      en: "A partnership where hands-on skills meet imaginative vision, requiring patience to bridge their different approaches to life.",
+      zh: "实用技能与想象力的结合，需要耐心来弥合他们对生活的不同态度。"
+    },
+    sharedValues: {
+      en: "Personal Integrity",
+      zh: "个人诚信"
+    },
+    sharedValuesDesc: {
+      en: "Both types fiercely value being true to themselves, though ISTPs demonstrate this through actions while INFPs through emotional consistency.",
+      zh: "两种类型都非常重视忠于自己，尽管ISTP通过行动展示这一点，而INFP通过情感一致性展示。"
+    },
+    communicationStyle: {
+      en: "Concrete-Abstract Blend",
+      zh: "具体-抽象的混合"
+    },
+    communicationDesc: {
+      en: "ISTPs focus on tangible details while INFPs discuss abstract concepts, requiring conscious effort to meet halfway.",
+      zh: "ISTP关注具体细节而INFP讨论抽象概念，需要有意愿折中沟通。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fi": {
+        score: 70,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Both dominant introverted judging functions create internal certainty but in different domains, leading to respectful disagreements.",
+          zh: "两种主导的内倾判断功能在不同领域创造了内部确定性，导致相互尊重的分歧。"
+        }
+      },
+      "Se_Ne": {
+        score: 82,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ISTP's present-moment awareness and INFP's imaginative exploration can stimulate each other's secondary functions positively.",
+          zh: "ISTP的当下意识与INFP的想象探索可以积极地相互刺激对方的辅助功能。"
+        }
+      },
+      "Ni_Si": {
+        score: 65,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Their less-developed introverted perceiving functions may cause different approaches to past experiences and future planning.",
+          zh: "他们发展不足的内倾感知功能可能导致对过去经历和未来规划的不同处理方式。"
+        }
+      },
+      "Fe_Te": {
+        score: 73,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "When stressed, ISTP may awkwardly express emotions while INFP becomes overly critical - ironically creating understanding.",
+          zh: "在压力下，ISTP可能会笨拙地表达情感，而INFP变得过于挑剔 - 讽刺地创造了相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTPs find INFPs intriguing for their depth of feeling and creativity, though sometimes overwhelming. The ISTP's calm rationality can help ground INFP's emotions, while INFP helps ISTP access deeper meaning. Their compatibility depends on accepting their fundamentally different decision-making frameworks.",
+      zh: "ISTP发现INFP因其情感深度和创造力而有趣，尽管有时令人难以招架。ISTP冷静的理性可以帮助INFP的情感落地，而INFP帮助ISTP触及更深层次的意义。他们的兼容性取决于接受他们根本不同的决策框架。"
+    },
+    growthPotential: {
+      en: "ISTP can develop emotional awareness through INFP, while INFP can learn practical adaptability from ISTP. Both may expand their comfort zones in this relationship.",
+      zh: "ISTP可以通过INFP发展情感意识，而INFP可以向ISTP学习实际适应能力。在这种关系中，双方都可能扩展他们的舒适区。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities can help strengthen the ISTP-INFP bond?",
+          zh: "哪些活动有助于加强ISTP-INFP的联系？"
+        },
+        answer: {
+          en: "Hands-on creative projects (like DIY or art) combine ISTP's skills with INFP's imagination. Outdoor adventures also satisfy both types' need for authentic experiences.",
+          zh: "动手创意项目(如DIY或艺术)结合了ISTP的技能与INFP的想象力。户外冒险也满足两种类型对真实体验的需求。"
+        }
+      }
+    ]
+  }
+}

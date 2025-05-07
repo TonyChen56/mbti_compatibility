@@ -1,0 +1,186 @@
+{
+  "ESTP": {
+    overallScore: 82,
+    mediator: "ENFP",
+    provider: "ESTP",
+    summary: {
+      en: "ENFPs and ESTPs form a dynamic and energetic pair, bonded by their shared love for excitement and new experiences. While ENFPs focus on possibilities and meanings, ESTPs thrive in the present moment with practical action. Their differences can create a stimulating balance, though ESTPs may sometimes find ENFPs too abstract, while ENFPs may see ESTPs as overly pragmatic.",
+      zh: "ENFP和ESTP组成充满活力和能量的组合，他们对刺激和新体验的共同热爱将他们联系在一起。ENFP关注可能性和意义，而ESTP则擅长活在当下采取实际行动。他们的差异可以创造令人兴奋的平衡，尽管ESTP有时可能觉得ENFP过于抽象，而ENFP可能认为ESTP过于务实。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A lively relationship full of spontaneity and shared enthusiasm for life's adventures.",
+      zh: "充满自发性和对生活冒险共同热情的有趣关系。"
+    },
+    sharedValues: {
+      en: "Freedom & Excitement",
+      zh: "自由与刺激"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal freedom, spontaneity, and seeking thrilling experiences in life.",
+      zh: "两种类型都高度重视个人自由、自发性和在生活中寻求刺激体验。"
+    },
+    communicationStyle: {
+      en: "Energetic & Direct",
+      zh: "充满活力且直接"
+    },
+    communicationDesc: {
+      en: "Conversations are fast-paced and engaging, though ENFPs tend to explore ideas while ESTPs focus on immediate realities.",
+      zh: "对话节奏快且引人入胜，尽管ENFP倾向于探索想法，而ESTP则关注眼前的现实。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Se": {
+        score: 85,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "Both enjoy exploring possibilities, though ENFPs focus on abstract ideas while ESTPs prefer tangible experiences.",
+          zh: "两者都喜欢探索可能性，尽管ENFP关注抽象想法，而ESTP更喜欢具体的体验。"
+        }
+      },
+      "Fi_Ti": {
+        score: 75,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ENFPs' values-driven approach can complement ESTPs' logical analysis, creating balanced decision-making.",
+          zh: "ENFP基于价值观的方法可以补充ESTP的逻辑分析，创造平衡的决策过程。"
+        }
+      },
+      "Te_Fe": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both may struggle with organization but can help each other develop these skills.",
+          zh: "两者都可能在与组织相关的方面有困难，但可以互相帮助发展这些技能。"
+        }
+      },
+      "Si_Ni": {
+        score: 65,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Neither type naturally focuses on long-term planning, which could lead to future challenges.",
+          zh: "两种类型都不自然关注长期规划，这可能导致未来的挑战。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extraversion and spontaneity, with ENFPs bringing imagination and ESTPs providing practical action. The main challenge lies in ENFPs' abstract thinking versus ESTPs' concrete focus.",
+      zh: "他们的兼容性源于共同的外向性和自发性，ENFP带来想象力，ESTP提供实际行动。主要挑战在于ENFP的抽象思维与ESTP的具体关注之间的差异。"
+    },
+    growthPotential: {
+      en: "ENFPs can learn from ESTPs to be more present-focused and decisive, while ESTPs can develop greater imagination and consideration of future possibilities from ENFPs.",
+      zh: "ENFP可以向ESTP学习更关注当下和果断，而ESTP可以从ENFP那里发展更大的想象力和对未来可能性的考虑。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the biggest challenges in ENFP-ESTP relationships?",
+          zh: "ENFP和ESTP关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "The main challenge is balancing ENFPs' abstract thinking with ESTPs' concrete focus, and ensuring both follow through on long-term commitments.",
+          zh: "主要挑战是平衡ENFP的抽象思维与ESTP的具体关注，并确保两者都能坚持长期承诺。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "ENFP": {
+    overallScore: 80,
+    mediator: "ENFP",
+    provider: "ESTP",
+    summary: {
+      en: "ESTPs appreciate ENFPs' enthusiasm and creativity, while ENFPs enjoy ESTPs' boldness and ability to take action. This pairing thrives on shared energy and spontaneity, though ESTPs may need to be patient with ENFPs' tendency to explore multiple possibilities before deciding.",
+      zh: "ESTP欣赏ENFP的热情和创造力，而ENFP喜欢ESTP的大胆和行动能力。这种配对在共享的能量和自发性中蓬勃发展，尽管ESTP可能需要耐心对待ENFP在决定前探索多种可能性的倾向。"
+    },
+    relationshipType: {
+      en: "Dynamic Duo",
+      zh: "活力二人组"
+    },
+    relationshipDesc: {
+      en: "A high-energy partnership where both types motivate each other to embrace life's adventures.",
+      zh: "一个高能量的伙伴关系，两种类型互相激励对方拥抱生活的冒险。"
+    },
+    sharedValues: {
+      en: "Action & Novelty",
+      zh: "行动与新奇"
+    },
+    sharedValuesDesc: {
+      en: "Both value taking action and seeking new experiences, though ESTPs focus on the physical world while ENFPs explore ideas.",
+      zh: "两者都重视采取行动和寻求新体验，尽管ESTP关注物质世界，而ENFP探索想法。"
+    },
+    communicationStyle: {
+      en: "Fast-Paced & Engaging",
+      zh: "快节奏且引人入胜"
+    },
+    communicationDesc: {
+      en: "Their conversations are lively and spontaneous, with ESTPs keeping discussions grounded while ENFPs expand possibilities.",
+      zh: "他们的对话活泼且自发，ESTP保持讨论实际，而ENFP扩展可能性。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ne": {
+        score: 85,
+        type1Function: "Se (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ESTPs' focus on immediate experiences complements ENFPs' exploration of possibilities, creating an exciting dynamic.",
+          zh: "ESTP对即时体验的关注补充了ENFP对可能性的探索，创造了一种令人兴奋的互动。"
+        }
+      },
+      "Ti_Fi": {
+        score: 75,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ESTPs' logical analysis can help ground ENFPs' value-based decisions in reality.",
+          zh: "ESTP的逻辑分析可以帮助ENFP基于价值的决策更接地气。"
+        }
+      },
+      "Fe_Te": {
+        score: 70,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Both can develop their weaker functions by learning from each other's approaches to organization and social harmony.",
+          zh: "两者都可以通过互相学习对方在组织和社交和谐方面的方法来发展他们较弱的认知功能。"
+        }
+      },
+      "Ni_Si": {
+        score: 65,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Neither naturally focuses on long-term planning, which may require conscious effort to address.",
+          zh: "两者都不自然关注长期规划，这可能需要有意识的努力来解决。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility comes from shared energy and love for action, with ESTPs helping ENFPs implement ideas while ENFPs inspire ESTPs with new perspectives. Differences in focus (concrete vs abstract) require mutual understanding.",
+      zh: "他们的兼容性来自共享的能量和对行动的热爱，ESTP帮助ENFP实现想法，而ENFP用新视角激励ESTP。关注点的差异(具体vs抽象)需要相互理解。"
+    },
+    growthPotential: {
+      en: "ESTPs can develop greater imagination and consideration of future possibilities from ENFPs, while learning to appreciate abstract thinking. ENFPs can become more decisive and action-oriented from ESTPs.",
+      zh: "ESTP可以从ENFP那里发展更大的想象力和对未来可能性的考虑，同时学会欣赏抽象思维。ENFP可以从ESTP那里变得更果断和行动导向。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ESTPs and ENFPs improve their relationship?",
+          zh: "ESTP和ENFP如何改善他们的关系？"
+        },
+        answer: {
+          en: "By appreciating their differences - ESTPs valuing ENFPs' creativity while ENFPs respect ESTPs' practicality - and finding shared projects that combine ideas with action.",
+          zh: "通过欣赏他们的差异 - ESTP重视ENFP的创造力，而ENFP尊重ESTP的实用性 - 并找到将想法与行动结合的共享项目。"
+        }
+      }
+    ]
+  }
+}

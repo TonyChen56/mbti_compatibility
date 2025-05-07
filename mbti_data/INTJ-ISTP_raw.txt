@@ -1,0 +1,188 @@
+```typescript
+"INTJ": {
+  "ISTP": {
+    overallScore: 82,
+    mediator: "INTJ",
+    provider: "ISTP",
+    summary: {
+      en: "INTJ and ISTP form a complementary pairing where strategic thinking meets practical execution. The INTJ's visionary planning (Ni-Te) finds concrete implementation through the ISTP's hands-on problem-solving (Ti-Se). Both types value competence, independence and efficiency, though they may initially struggle with emotional expression. Their shared preference for logic over emotion creates a straightforward dynamic where conflicts are resolved through rational discussion rather than emotional appeals.",
+      zh: "INTJ和ISTP形成战略思维与实践执行的互补配对。INTJ的远见规划(Ni-Te)通过ISTP的实践问题解决能力(Ti-Se)得到具体实施。两种类型都重视能力、独立性和效率，尽管最初可能在情感表达上存在困难。他们对逻辑而非情感的共同偏好创造了一种直接的动态关系，冲突通过理性讨论而非情感诉求来解决。"
+    },
+    relationshipType: {
+      en: "Mastermind & Craftsman",
+      zh: "战略家与工匠"
+    },
+    relationshipDesc: {
+      en: "A partnership where big-picture strategy meets precise technical execution.",
+      zh: "整体战略与精确技术执行的合作关系。"
+    },
+    sharedValues: {
+      en: "Competence, Independence, Efficiency",
+      zh: "能力、独立性、效率"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value logical consistency, practical results and personal autonomy in their pursuits.",
+      zh: "双方都高度重视逻辑一致性、实际结果和追求目标时的个人自主权。"
+    },
+    communicationStyle: {
+      en: "Direct & Fact-Based",
+      zh: "直接且基于事实"
+    },
+    communicationDesc: {
+      en: "Conversations tend to be concise and solution-focused, sometimes lacking emotional nuance.",
+      zh: "对话往往简洁且以解决方案为中心，有时缺乏情感上的微妙表达。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Se": {
+        score: 85,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "INTJ's future vision combines well with ISTP's present-moment awareness for balanced planning.",
+          zh: "INTJ的未来愿景与ISTP的当下意识相结合，实现平衡的规划。"
+        }
+      },
+      "Te_Ti": {
+        score: 78,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "Te efficiency complements Ti precision, though they may debate methodology.",
+          zh: "Te效率与Ti精确性互补，尽管他们可能在方法论上存在争论。"
+        }
+      },
+      "Fi_Fe": {
+        score: 65,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both struggle with emotional expression but can develop mutual understanding over time.",
+          zh: "双方都在情感表达上存在困难，但可以随着时间的推移发展相互理解。"
+        }
+      },
+      "Se_Ni": {
+        score: 80,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ISTP's developed Ni helps bridge INTJ's weaker Se for practical implementation.",
+          zh: "ISTP发展良好的Ni有助于弥补INTJ较弱的Se，实现实际执行。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions - INTJ's strategic vision (Ni) benefits from ISTP's practical execution (Se), while ISTP's analytical precision (Ti) appreciates INTJ's systematic efficiency (Te). Both types respect competence and autonomy in the other.",
+      zh: "他们的兼容性源于互补的认知功能——INTJ的战略愿景(Ni)受益于ISTP的实践执行(Se)，而ISTP的分析精确性(Ti)欣赏INTJ的系统效率(Te)。两种类型都尊重对方的能力和自主权。"
+    },
+    growthPotential: {
+      en: "INTJ can develop better present-moment awareness from ISTP, while ISTP can learn long-term planning from INTJ. Both may need to consciously develop emotional expression skills.",
+      zh: "INTJ可以从ISTP那里发展更好的当下意识，而ISTP可以从INTJ那里学习长期规划。双方都可能需要有意识地发展情感表达技巧。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INTJ and ISTP handle conflicts?",
+          zh: "INTJ和ISTP如何处理冲突？"
+        },
+        answer: {
+          en: "They typically approach conflicts logically, focusing on facts and solutions rather than emotions. This can be efficient but may neglect emotional needs.",
+          zh: "他们通常以逻辑方式处理冲突，专注于事实和解决方案而非情感。这种方式可能很高效，但可能会忽视情感需求。"
+        }
+      }
+    ]
+  }
+},
+"ISTP": {
+  "INTJ": {
+    overallScore: 80,
+    mediator: "INTJ",
+    provider: "ISTP",
+    summary: {
+      en: "From the ISTP's perspective, the INTJ offers strategic depth to their practical skills. ISTPs appreciate INTJs' ability to see long-term implications while INTJs value ISTPs' capacity to turn ideas into reality. The relationship works best when both respect each other's areas of expertise - strategy for INTJ and execution for ISTP. Their shared preference for direct communication minimizes misunderstandings.",
+      zh: "从ISTP的角度来看，INTJ为他们的实践技能提供了战略深度。ISTP欣赏INTJ洞察长期影响的能力，而INTJ重视ISTP将想法变为现实的能力。当双方尊重彼此的专业领域——INTJ的战略和ISTP的执行时，这种关系效果最好。他们对直接沟通的共同偏好最大限度地减少了误解。"
+    },
+    relationshipType: {
+      en: "Precision Partners",
+      zh: "精确合作伙伴"
+    },
+    relationshipDesc: {
+      en: "A dynamic where theoretical frameworks meet practical applications.",
+      zh: "理论框架与实际应用的动态结合。"
+    },
+    sharedValues: {
+      en: "Autonomy, Problem-Solving, Competence",
+      zh: "自主性、解决问题、能力"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize independent thinking and effective solutions over social conventions.",
+      zh: "双方都优先考虑独立思考和有效解决方案，而非社会惯例。"
+    },
+    communicationStyle: {
+      en: "Concise & Technical",
+      zh: "简洁且技术性"
+    },
+    communicationDesc: {
+      en: "Communication is often brief and focused on technical or factual content.",
+      zh: "沟通通常很简短，专注于技术或事实内容。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Te": {
+        score: 76,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Ti's precision analysis works with Te's systematic approach for comprehensive solutions.",
+          zh: "Ti的精确分析与Te的系统方法相结合，形成全面的解决方案。"
+        }
+      },
+      "Se_Ni": {
+        score: 83,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ISTP's Se grounds INTJ's Ni visions in practical reality.",
+          zh: "ISTP的Se将INTJ的Ni愿景扎根于实际现实。"
+        }
+      },
+      "Fe_Fi": {
+        score: 62,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both may struggle with emotional expression but can develop understanding.",
+          zh: "双方可能在情感表达上存在困难，但可以发展理解。"
+        }
+      },
+      "Ni_Se": {
+        score: 82,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "INTJ's strong Ni helps ISTP develop their own long-term perspective.",
+          zh: "INTJ强大的Ni帮助ISTP发展自己的长期视角。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTPs find INTJs' strategic thinking valuable for giving direction to their practical skills, while INTJs appreciate ISTPs' ability to implement ideas effectively. Their shared Thinking preference creates mutual understanding, though both may need to work on emotional connection.",
+      zh: "ISTP认为INTJ的战略思维对于指导他们的实践技能很有价值，而INTJ欣赏ISTP有效实施想法的能力。他们共同的思维偏好创造了相互理解，尽管双方可能需要努力建立情感联系。"
+    },
+    growthPotential: {
+      en: "ISTP can develop more strategic thinking from INTJ, while INTJ can become more adaptable from ISTP. Both benefit from developing emotional intelligence skills.",
+      zh: "ISTP可以从INTJ那里发展更多的战略思维，而INTJ可以从ISTP那里变得更适应性强。双方都受益于发展情商技能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ISTP to INTJ?",
+          zh: "ISTP被INTJ什么吸引？"
+        },
+        answer: {
+          en: "ISTPs are drawn to INTJs' depth of knowledge, strategic thinking, and competence - qualities they highly respect. They also appreciate INTJs' direct communication style.",
+          zh: "ISTP被INTJ的知识深度、战略思维和能力所吸引——这些都是他们非常尊重的品质。他们也欣赏INTJ的直接沟通风格。"
+        }
+      }
+    ]
+  }
+}
+```

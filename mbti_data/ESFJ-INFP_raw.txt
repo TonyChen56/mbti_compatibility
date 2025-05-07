@@ -1,0 +1,188 @@
+```typescript
+"ESFJ": {
+  "INFP": {
+    overallScore: 78,
+    mediator: "INFP",
+    provider: "ESFJ",
+    summary: {
+      en: "ESFJs and INFPs form a complementary relationship where ESFJs provide practical support while INFPs offer emotional depth. The ESFJ's Fe (Extraverted Feeling) harmonizes well with INFP's Fi (Introverted Feeling), creating mutual understanding of values. However, ESFJ's focus on social norms may sometimes clash with INFP's need for authenticity. Their shared Feeling function creates strong emotional bonds, though communication styles differ significantly.",
+      zh: "ESFJ和INFP形成互补关系，ESFJ提供实际支持而INFP提供情感深度。ESFJ的外倾情感(Fe)与INFP的内倾情感(Fi)和谐相处，形成价值观上的相互理解。不过ESFJ对社会规范的关注有时会与INFP对真实性的需求产生冲突。他们共同的情感功能创造了强烈的情感纽带，尽管沟通方式差异显著。"
+    },
+    relationshipType: {
+      en: "Harmony Seekers",
+      zh: "和谐追求者"
+    },
+    relationshipDesc: {
+      en: "A relationship built on mutual care but requiring understanding of different emotional expression styles.",
+      zh: "建立在相互关怀基础上的关系，但需要理解不同的情感表达方式。"
+    },
+    sharedValues: {
+      en: "Harmony & Authenticity",
+      zh: "和谐与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both value meaningful relationships, though ESFJs focus on social harmony while INFPs prioritize personal authenticity.",
+      zh: "双方都重视有意义的关系，尽管ESFJ关注社会和谐而INFP优先考虑个人真实性。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Metaphorical",
+      zh: "直接vs隐喻"
+    },
+    communicationDesc: {
+      en: "ESFJs prefer straightforward communication while INFPs often express themselves through metaphors and indirect language.",
+      zh: "ESFJ喜欢直截了当的沟通，而INFP经常通过隐喻和间接语言表达自己。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Fi": {
+        score: 85,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Both value feelings but express them differently - ESFJs externally focused on group harmony, INFPs internally focused on personal values.",
+          zh: "双方都重视情感但表达方式不同-ESFJ外部关注群体和谐，INFP内部关注个人价值观。"
+        }
+      },
+      "Si_Ne": {
+        score: 72,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ESFJ's concrete memory complements INFP's imaginative possibilities, though may cause misunderstandings about practical matters.",
+          zh: "ESFJ的具体记忆补充了INFP的想象可能性，尽管可能在实务问题上造成误解。"
+        }
+      },
+      "Ti_Te": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Both have underdeveloped thinking functions, potentially struggling with logical analysis in conflicts.",
+          zh: "双方的思维功能都不发达，在冲突中可能难以进行逻辑分析。"
+        }
+      },
+      "Se_Ni": {
+        score: 68,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their weakest functions may cause occasional mismatches in perceiving reality versus future implications.",
+          zh: "他们最弱的功能可能导致在感知现实与未来影响方面偶尔不匹配。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Feeling values but is challenged by different expression styles. ESFJs provide structure and care that INFPs appreciate, while INFPs help ESFJs explore deeper emotional authenticity. However, ESFJ's need for social conformity may frustrate INFP's individualism.",
+      zh: "他们的兼容性源于共同的情感价值观，但受到不同表达方式的挑战。ESFJ提供INFP欣赏的结构和关怀，而INFP帮助ESFJ探索更深层的情感真实性。然而，ESFJ对社会一致性的需求可能会让INFP的个人主义感到沮丧。"
+    },
+    growthPotential: {
+      en: "ESFJs can learn authentic self-expression from INFPs, while INFPs can develop better social skills from ESFJs. Both benefit from appreciating their different approaches to emotional connection.",
+      zh: "ESFJ可以从INFP那里学习真实的自我表达，而INFP可以从ESFJ那里发展更好的社交技能。双方都能从欣赏他们不同的情感连接方式中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ESFJs and INFPs resolve conflicts effectively?",
+          zh: "ESFJ和INFP如何有效解决冲突？"
+        },
+        answer: {
+          en: "By acknowledging their different conflict styles - ESFJs should give INFPs space to process, while INFPs should express needs directly rather than withdrawing.",
+          zh: "通过承认他们不同的冲突风格-ESFJ应给INFP处理的空间，而INFP应直接表达需求而不是退缩。"
+        }
+      }
+    ]
+  }
+},
+"INFP": {
+  "ESFJ": {
+    overallScore: 82,
+    mediator: "INFP",
+    provider: "ESFJ",
+    summary: {
+      en: "From the INFP perspective, ESFJs offer warmth and practical support that helps ground their idealistic nature. INFPs appreciate ESFJ's nurturing qualities but may feel constrained by their traditional expectations. The INFP's depth of feeling resonates with ESFJ's emotional expressiveness, creating potential for profound connection when both respect their differences.",
+      zh: "从INFP的角度来看，ESFJ提供了温暖和实际支持，有助于稳定他们的理想主义本性。INFP欣赏ESFJ的养育品质，但可能会感到受其传统期望的限制。INFP的情感深度与ESFJ的情感表达产生共鸣，当双方尊重差异时，有可能建立深刻的联系。"
+    },
+    relationshipType: {
+      en: "Nurturing Balance",
+      zh: "滋养平衡"
+    },
+    relationshipDesc: {
+      en: "ESFJs provide stability while INFPs inspire authenticity - a yin-yang dynamic when balanced well.",
+      zh: "ESFJ提供稳定性而INFP激发真实性-平衡良好时的阴阳动态。"
+    },
+    sharedValues: {
+      en: "Compassion & Meaning",
+      zh: "同情与意义"
+    },
+    sharedValuesDesc: {
+      en: "Both deeply care about helping others and creating meaningful connections, though express it differently.",
+      zh: "双方都非常关心帮助他人和建立有意义的联系，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Practical vs. Poetic",
+      zh: "务实vs诗意"
+    },
+    communicationDesc: {
+      en: "ESFJs communicate in practical terms while INFPs prefer symbolic, abstract expression - requiring translation.",
+      zh: "ESFJ以实际术语沟通，而INFP更喜欢象征性、抽象的表达-需要转换。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Fe": {
+        score: 88,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Their dominant Feeling functions create emotional understanding, though Fi focuses inward while Fe focuses outward.",
+          zh: "他们的主导情感功能创造了情感理解，尽管Fi向内聚焦而Fe向外聚焦。"
+        }
+      },
+      "Ne_Si": {
+        score: 75,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "INFP's imagination balances ESFJ's tradition-awareness, offering creative solutions to practical problems.",
+          zh: "INFP的想象力平衡了ESFJ的传统意识，为实际问题提供创造性解决方案。"
+        }
+      },
+      "Te_Ti": {
+        score: 62,
+        type1Function: "Te (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Both struggle with logical systems, potentially making objective decision-making challenging.",
+          zh: "双方都在逻辑系统方面有困难，可能使客观决策具有挑战性。"
+        }
+      },
+      "Ni_Se": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Their shared weakness in sensory-future perception can lead to mismatched practical expectations.",
+          zh: "他们在感官-未来感知方面的共同弱点可能导致实际期望不匹配。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "INFPs are drawn to ESFJ's warmth and ability to create harmony, while ESFJs appreciate INFP's depth and idealism. The INFP's need for independence may conflict with ESFJ's desire for togetherness, but their shared emotional intelligence helps bridge differences.",
+      zh: "INFP被ESFJ的温暖和创造和谐的能力所吸引，而ESFJ欣赏INFP的深度和理想主义。INFP对独立的需求可能与ESFJ对团聚的渴望相冲突，但他们共同的情商有助于弥合分歧。"
+    },
+    growthPotential: {
+      en: "INFPs can learn practical relationship skills from ESFJs, while developing healthier boundaries. ESFJs can grow by embracing INFP's authenticity lessons while maintaining their nurturing nature.",
+      zh: "INFP可以从ESFJ那里学习实用的关系技巧，同时发展更健康的界限。ESFJ可以通过接受INFP的真实性课程同时保持其养育本性来成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for INFPs in relationships with ESFJs?",
+          zh: "INFP在与ESFJ的关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "Navigating ESFJ's need for social conformity while maintaining their own authenticity - requires clear communication about boundaries.",
+          zh: "在满足ESFJ对社会一致性的需求同时保持自己的真实性-需要关于界限的清晰沟通。"
+        }
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,188 @@
+```typescript
+"ISTP": {
+  "ENFP": {
+    overallScore: 82,
+    mediator: "ENFP",
+    provider: "ISTP",
+    summary: {
+      en: "The ISTP-ENFP pairing creates an intriguing balance between practicality and enthusiasm. ISTPs bring grounded realism and hands-on problem-solving, while ENFPs contribute boundless energy and creative possibilities. Their complementary cognitive functions allow for mutual growth - ISTPs can learn to embrace spontaneity while ENFPs benefit from ISTP's technical competence. Challenges may arise around emotional expression and long-term planning, but their shared love for freedom and adventure forms a strong bond.",
+      zh: "ISTP与ENFP的配对在实用主义和热情之间创造了有趣的平衡。ISTP带来脚踏实地的现实主义和动手解决问题的能力，而ENFP则贡献无限的精力和创造性可能。他们互补的认知功能促进了共同成长——ISTP可以学会拥抱自发性，而ENFP则受益于ISTP的技术能力。在情感表达和长期规划方面可能出现挑战，但他们共同对自由和冒险的热爱形成了牢固的纽带。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A dynamic duo that thrives on new experiences, with ENFP inspiring action and ISTP ensuring practicality.",
+      zh: "一个在新体验中蓬勃发展的活力组合，ENFP激发行动，ISTP确保实用性。"
+    },
+    sharedValues: {
+      en: "Freedom & Authenticity",
+      zh: "自由与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal freedom and dislike constraints, preferring genuine interactions over social pretense.",
+      zh: "两种类型都高度重视个人自由，不喜欢约束，更喜欢真诚的互动而非社交伪装。"
+    },
+    communicationStyle: {
+      en: "Direct-Expressive Blend",
+      zh: "直接-表达混合型"
+    },
+    communicationDesc: {
+      en: "ISTP's concise communication balances ENFP's expressive style, creating an engaging yet grounded dialogue.",
+      zh: "ISTP简洁的沟通平衡了ENFP的表达风格，创造出引人入胜又脚踏实地的对话。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Ne": {
+        score: 85,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ISTP's analytical thinking complements ENFP's idea generation, creating practical yet innovative solutions.",
+          zh: "ISTP的分析思维补充了ENFP的创意生成，创造出实用而创新的解决方案。"
+        }
+      },
+      "Se_Fi": {
+        score: 78,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ISTP's sensory awareness helps ground ENFP's values-driven approach in tangible reality.",
+          zh: "ISTP的感官意识帮助ENFP基于价值观的方法扎根于有形现实。"
+        }
+      },
+      "Ni_Te": {
+        score: 72,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Their developing functions allow for some strategic alignment, though with different priorities.",
+          zh: "他们发展中的功能允许一定的战略一致性，尽管优先事项不同。"
+        },
+      },
+      "Fe_Si": {
+        score: 65,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Both may struggle with traditional expectations, but can support each other's growth in these areas.",
+          zh: "双方都可能与传统期望斗争，但可以支持彼此在这些领域的成长。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions - ISTP's Ti-Se provides grounding for ENFP's Ne-Fi, while ENFP brings out ISTP's adventurous side. Both value autonomy and dislike rigid structures, though may need to work on emotional connection and long-term commitment.",
+      zh: "他们的兼容性源于互补的功能——ISTP的Ti-Se为ENFP的Ne-Fi提供了基础，而ENFP则激发了ISTP的冒险精神。双方都重视自主性，不喜欢僵化的结构，但可能需要努力建立情感联系和长期承诺。"
+    },
+    growthPotential: {
+      en: "ISTP can develop greater spontaneity and emotional expression, while ENFP can learn practical implementation skills. Together they balance action with reflection.",
+      zh: "ISTP可以发展更强的自发性和情感表达，而ENFP可以学习实际的执行技能。他们一起平衡行动与反思。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ISTP and ENFP handle conflicts?",
+          zh: "ISTP和ENFP如何处理冲突？"
+        },
+        answer: {
+          en: "ISTPs tend to withdraw while ENFPs want to discuss emotions immediately. Finding a middle ground is key - allowing space but also addressing issues.",
+          zh: "ISTP倾向于退缩，而ENFP希望立即讨论情感。找到中间立场是关键——给予空间但也解决问题。"
+        }
+      }
+    ]
+  }
+},
+"ENFP": {
+  "ISTP": {
+    overallScore: 85,
+    mediator: "ENFP",
+    provider: "ISTP",
+    summary: {
+      en: "From the ENFP perspective, ISTPs offer a stabilizing influence and practical skills that complement their big ideas. ENFPs appreciate ISTP's competence and authenticity, while ISTPs enjoy ENFP's enthusiasm and ability to draw them out of their shells. This pairing excels in adventurous activities and problem-solving, though ENFPs may need to respect ISTP's need for space and independence.",
+      zh: "从ENFP的角度来看，ISTP提供了稳定的影响力和实用技能，补充了他们的大想法。ENFP欣赏ISTP的能力和真实性，而ISTP则喜欢ENFP的热情和让他们走出舒适区的能力。这对组合在冒险活动和解决问题方面表现出色，尽管ENFP可能需要尊重ISTP对空间和独立性的需求。"
+    },
+    relationshipType: {
+      en: "Spark-Plug & Stabilizer",
+      zh: "火花塞与稳定器"
+    },
+    relationshipDesc: {
+      en: "ENFP ignites excitement while ISTP provides reliable grounding, creating an energizing yet balanced dynamic.",
+      zh: "ENFP点燃激情，而ISTP提供可靠的根基，创造出充满活力又平衡的互动。"
+    },
+    sharedValues: {
+      en: "Authenticity & Action",
+      zh: "真实与行动"
+    },
+    sharedValuesDesc: {
+      en: "Both prefer genuine interactions and value doing over talking, though express this differently.",
+      zh: "双方都喜欢真诚的互动，重视行动而非空谈，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Idea-Execution Balance",
+      zh: "想法-执行平衡"
+    },
+    communicationDesc: {
+      en: "ENFP's brainstorming meets ISTP's focus on practical application, creating productive conversations.",
+      zh: "ENFP的头脑风暴遇到ISTP对实际应用的关注，创造出富有成效的对话。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ti": {
+        score: 88,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ENFP's idea generation flourishes with ISTP's logical analysis to refine concepts.",
+          zh: "ENFP的创意生成与ISTP的逻辑分析相结合，完善概念。"
+        }
+      },
+      "Fi_Se": {
+        score: 80,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ENFP's values connect with ISTP's sensory awareness for meaningful experiences.",
+          zh: "ENFP的价值观与ISTP的感官意识相连，创造有意义的体验。"
+        }
+      },
+      "Te_Ni": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their developing functions allow for some strategic cooperation when needed.",
+          zh: "他们发展中的功能在需要时允许一定的战略合作。"
+        }
+      },
+      "Si_Fe": {
+        score: 63,
+        type1Function: "Si (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both may neglect traditional emotional expectations but can grow together here.",
+          zh: "双方都可能忽视传统的情感期望，但可以在这里共同成长。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFPs are drawn to ISTP's quiet competence and authenticity, while ISTPs appreciate ENFP's ability to bring excitement and social connection. Their functional stack creates natural complementarity - ENFP's intuition opens possibilities that ISTP can concretely implement.",
+      zh: "ENFP被ISTP安静的能力和真实性所吸引，而ISTP则欣赏ENFP带来兴奋和社交联系的能力。他们的功能堆栈创造了自然的互补性——ENFP的直觉打开了ISTP可以具体实施的可能性。"
+    },
+    growthPotential: {
+      en: "ENFP can develop more focus and practical follow-through, while ISTP can expand emotional expression. Together they create a balance between dreaming and doing.",
+      zh: "ENFP可以发展更多的专注力和实际的执行力，而ISTP可以扩展情感表达。他们一起在梦想和行动之间创造平衡。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do ENFP and ISTP both enjoy?",
+          zh: "ENFP和ISTP都喜欢什么活动？"
+        },
+        answer: {
+          en: "They thrive in hands-on adventures - outdoor sports, travel, or creative projects that combine ENFP's ideas with ISTP's technical skills.",
+          zh: "他们在动手冒险中茁壮成长——户外运动、旅行或创造性项目，将ENFP的想法与ISTP的技术技能结合起来。"
+        }
+      }
+    ]
+  }
+}
+```

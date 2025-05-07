@@ -1,0 +1,188 @@
+```typescript
+"ESTJ": {
+  "ISTJ": {
+    overallScore: 85,
+    mediator: "ISTJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJ and ISTJ share a strong practical orientation and value structure, making them highly compatible in work and personal relationships. Both types prioritize responsibility, efficiency, and tradition. While ESTJs are more outgoing and action-oriented, ISTJs provide thoughtful analysis and stability. Their shared Sensing-Judging preference creates mutual understanding, though ESTJs may need to respect ISTJs' need for solitude.",
+      zh: "ESTJ和ISTJ都具有务实的取向和相似的价值观，在工作与个人关系中高度兼容。两种类型都重视责任、效率和传统。ESTJ更外向且行动导向，而ISTJ则提供深思熟虑的分析和稳定性。他们共有的感觉-判断偏好创造了相互理解，但ESTJ可能需要尊重ISTJ对独处的需求。"
+    },
+    relationshipType: {
+      en: "Stability Architects",
+      zh: "稳定建筑师"
+    },
+    relationshipDesc: {
+      en: "A partnership built on mutual respect for competence, reliability, and shared practical goals.",
+      zh: "建立在相互尊重能力、可靠性和共同实际目标基础上的伙伴关系。"
+    },
+    sharedValues: {
+      en: "Duty, Efficiency, Tradition",
+      zh: "责任、效率、传统"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value responsibility, practical results, and maintaining established systems and traditions.",
+      zh: "两种类型都高度重视责任感、实际结果以及维护既定系统和传统。"
+    },
+    communicationStyle: {
+      en: "Direct & Fact-Based",
+      zh: "直接且基于事实"
+    },
+    communicationDesc: {
+      en: "Communication is straightforward and focused on practical matters, though ESTJs may be more assertive while ISTJs are more reserved.",
+      zh: "沟通直接且专注于实际事务，不过ESTJ可能更自信果断，而ISTJ则更为保守。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 90,
+        type1Function: "Te (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Shared extraverted Thinking creates strong alignment in decision-making and problem-solving approaches.",
+          zh: "共同的外向思考功能使他们在决策和问题解决方法上高度一致。"
+        }
+      },
+      "Si_Si": {
+        score: 88,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Their introverted Sensing creates mutual respect for experience and established methods.",
+          zh: "他们的内向感觉功能创造了对于经验和既定方法的相互尊重。"
+        }
+      },
+      "Ne_Ne": {
+        score: 70,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Both have underdeveloped intuition, but ESTJ's tertiary Ne may help generate more options when needed.",
+          zh: "两者的直觉功能都不太发达，但ESTJ的第三功能Ne可能在需要时帮助产生更多选项。"
+        }
+      },
+      "Fi_Fi": {
+        score: 75,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both struggle with emotional expression, though ISTJ has slightly better access to personal values.",
+          zh: "两者都不擅长情感表达，不过ISTJ对个人价值观的把握稍好一些。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their high compatibility stems from shared Judging functions (Te/Si) that create alignment in how they process information and make decisions. Both value efficiency, facts, and practical results, though ESTJs' extraversion may sometimes overwhelm ISTJs.",
+      zh: "他们的高兼容性源于共同的判断功能(Te/Si)，这使他们在信息处理和决策方式上保持一致。两者都重视效率、事实和实际结果，不过ESTJ的外向性有时可能会让ISTJ感到压力。"
+    },
+    growthPotential: {
+      en: "ESTJ can learn patience and attention to detail from ISTJ, while ISTJ can develop more assertiveness and adaptability from ESTJ. Both benefit from developing their inferior Feeling functions.",
+      zh: "ESTJ可以从ISTJ那里学习耐心和注重细节，而ISTJ可以从ESTJ那里培养更强的自信和适应能力。双方都能从发展他们的劣势情感功能中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ESTJ and ISTJ handle conflicts?",
+          zh: "ESTJ和ISTJ如何处理冲突？"
+        },
+        answer: {
+          en: "They typically address conflicts logically and factually, though ESTJs may be more confrontational while ISTJs prefer to avoid emotional outbursts.",
+          zh: "他们通常以逻辑和事实为基础处理冲突，不过ESTJ可能更对抗性，而ISTJ则倾向于避免情绪爆发。"
+        }
+      }
+    ]
+  }
+},
+"ISTJ": {
+  "ESTJ": {
+    overallScore: 83,
+    mediator: "ISTJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ISTJs appreciate ESTJs' decisive leadership and shared commitment to order and efficiency, while providing thorough analysis and stability. The ISTJ's attention to detail complements the ESTJ's big-picture focus. Their main challenge is balancing the ESTJ's need for action with the ISTJ's preference for careful consideration.",
+      zh: "ISTJ欣赏ESTJ果断的领导力和对秩序效率的共同承诺，同时提供全面的分析和稳定性。ISTJ对细节的关注与ESTJ的大局观相辅相成。他们的主要挑战是平衡ESTJ对行动的需求与ISTJ偏好谨慎考虑的特点。"
+    },
+    relationshipType: {
+      en: "Practical Partners",
+      zh: "务实伙伴"
+    },
+    relationshipDesc: {
+      en: "A reliable partnership where both contribute complementary strengths to achieve concrete results.",
+      zh: "可靠的伙伴关系，双方贡献互补优势以实现具体成果。"
+    },
+    sharedValues: {
+      en: "Reliability, Hard Work, Integrity",
+      zh: "可靠性、努力工作、正直"
+    },
+    sharedValuesDesc: {
+      en: "Both types prize dependability, diligent work ethic, and doing things the 'right way' according to proven methods.",
+      zh: "两种类型都珍视可靠性、勤奋的工作道德以及按照经过验证的方法'正确'做事。"
+    },
+    communicationStyle: {
+      en: "Structured & Detail-Oriented",
+      zh: "结构化且注重细节"
+    },
+    communicationDesc: {
+      en: "Communication is systematic and precise, though ESTJs tend to be more concise while ISTJs provide more exhaustive details.",
+      zh: "沟通系统且精确，不过ESTJ往往更简洁，而ISTJ则提供更详尽的细节。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 88,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Their shared Te creates efficient collaboration, though ISTJs may sometimes find ESTJs overly directive.",
+          zh: "他们共同的Te功能创造了高效协作，不过ISTJ有时可能觉得ESTJ过于指令化。"
+        }
+      },
+      "Si_Si": {
+        score: 92,
+        type1Function: "Si (Dominant)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "Strong Si alignment ensures mutual understanding of practical realities and respect for experience.",
+          zh: "强大的Si一致性确保了对实际现实的相互理解和经验的尊重。"
+        }
+      },
+      "Ne_Ne": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Both struggle with abstract possibilities, though ESTJs are slightly more comfortable with change.",
+          zh: "两者都不擅长处理抽象可能性，不过ESTJ对变化的适应稍好一些。"
+        }
+      },
+      "Fi_Fi": {
+        score: 72,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Emotional expression is challenging for both, with ISTJs having marginally better self-awareness.",
+          zh: "情感表达对两者都具有挑战性，ISTJ的自我意识略好一些。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The compatibility comes from their shared Sensing-Judging orientation and similar function stack. ISTJs provide depth and precision where ESTJs offer drive and organization. Their main differences in energy direction (introversion/extraversion) create complementary strengths.",
+      zh: "兼容性源于他们共同的感觉-判断取向和相似的功能栈。ISTJ提供深度和精确性，而ESTJ则提供动力和组织能力。他们在能量方向(内向/外向)上的主要差异创造了互补优势。"
+    },
+    growthPotential: {
+      en: "ISTJs can learn to be more adaptable and outgoing from ESTJs, while ESTJs can develop greater patience and attention to detail from ISTJs. Both benefit from developing emotional intelligence.",
+      zh: "ISTJ可以从ESTJ那里学习变得更适应性强和外向，而ESTJ可以从ISTJ那里培养更大的耐心和对细节的关注。双方都能从发展情商中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are potential areas of tension between ISTJ and ESTJ?",
+          zh: "ISTJ和ESTJ之间潜在的紧张领域是什么？"
+        },
+        answer: {
+          en: "Main tensions may arise from ESTJ's faster pace and preference for quick decisions versus ISTJ's need for thorough analysis and slower, more deliberate approach.",
+          zh: "主要紧张可能源于ESTJ更快的节奏和偏好快速决策，与ISTJ需要全面分析和更缓慢、更慎重的方法之间的差异。"
+        }
+      }
+    ]
+  }
+}
+```

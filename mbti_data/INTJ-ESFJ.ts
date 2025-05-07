@@ -1,0 +1,186 @@
+{
+  "ESFJ": {
+    overallScore: 72,
+    mediator: "ESFJ",
+    provider: "ESFJ",
+    summary: {
+      en: "INTJ and ESFJ have complementary cognitive functions that can create a balanced relationship. INTJs bring strategic vision and logical analysis, while ESFJs provide warmth and practical support. Their differences in communication styles (direct vs diplomatic) may cause friction, but mutual respect for each other's strengths can foster growth. ESFJs help INTJs develop emotional intelligence, while INTJs help ESFJs think more objectively.",
+      zh: "INTJ和ESFJ的认知功能互补，可以形成平衡的关系。INTJ带来战略眼光和逻辑分析，ESFJ则提供温暖和实际支持。他们沟通风格的差异(直接vs委婉)可能引发摩擦，但对彼此优势的相互尊重能促进成长。ESFJ帮助INTJ发展情商，INTJ则帮助ESFJ更客观思考。"
+    },
+    relationshipType: {
+      en: "Growth Partnership",
+      zh: "成长伙伴关系"
+    },
+    relationshipDesc: {
+      en: "A relationship where both types can learn significantly from each other's contrasting strengths.",
+      zh: "双方都能从彼此截然不同的优势中学习成长的关系。"
+    },
+    sharedValues: {
+      en: "Commitment to Excellence",
+      zh: "追求卓越"
+    },
+    sharedValuesDesc: {
+      en: "Both types value high standards, though INTJs focus on intellectual excellence while ESFJs emphasize relational excellence.",
+      zh: "两种类型都重视高标准，INTJ关注智力卓越，而ESFJ强调关系卓越。"
+    },
+    communicationStyle: {
+      en: "Direct vs Diplomatic",
+      zh: "直接vs委婉"
+    },
+    communicationDesc: {
+      en: "INTJs communicate bluntly focusing on facts, while ESFJs prioritize harmony and social norms in communication.",
+      zh: "INTJ沟通直率注重事实，ESFJ则优先考虑和谐与社会规范。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Fe": {
+        score: 68,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "INTJ's future-focused intuition contrasts with ESFJ's people-focused feeling, creating interesting but sometimes conflicting perspectives.",
+          zh: "INTJ面向未来的直觉与ESFJ以人为本的情感形成有趣但有时冲突的视角。"
+        }
+      },
+      "Te_Si": {
+        score: 75,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "Both value efficiency and practical solutions, though INTJs prefer innovation while ESFJs rely on proven methods.",
+          zh: "两者都重视效率和实际解决方案，但INTJ偏好创新，ESFJ依赖已验证的方法。"
+        }
+      },
+      "Fi_Ti": {
+        score: 65,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their tertiary functions are both introspective but focus on different aspects (values vs logic).",
+          zh: "他们的第三功能都是内省的，但关注不同方面(价值观vs逻辑)。"
+        }
+      },
+      "Se_Ne": {
+        score: 70,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Both struggle with their inferior functions but can help each other develop these areas.",
+          zh: "两者都难以驾驭劣势功能，但可以互相帮助发展这些方面。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their complementary functions create potential for mutual growth, though their different communication styles and priorities require conscious effort to bridge. INTJs can learn emotional intelligence from ESFJs, while ESFJs can develop more strategic thinking from INTJs.",
+      zh: "他们互补的功能创造了共同成长的潜力，但不同的沟通方式和优先级需要有意识的努力来弥合。INTJ可以向ESFJ学习情商，而ESFJ可以从INTJ那里发展更具战略性的思维。"
+    },
+    growthPotential: {
+      en: "High growth potential if both appreciate their differences. INTJs develop emotional awareness while ESFJs expand their strategic thinking. Conflict may arise from their different decision-making approaches.",
+      zh: "如果双方都能欣赏彼此的差异，则成长潜力很大。INTJ发展情感意识，ESFJ扩展战略思维。不同的决策方式可能引发冲突。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the main challenges in an INTJ-ESFJ relationship?",
+          zh: "INTJ-ESFJ关系中的主要挑战是什么？"
+        },
+        answer: {
+          en: "The biggest challenges are communication style differences (direct vs indirect) and decision-making approaches (logic-driven vs harmony-driven).",
+          zh: "最大的挑战是沟通风格差异(直接vs间接)和决策方式(逻辑驱动vs和谐驱动)。"
+        }
+      }
+    ]
+  }
+},
+"ESFJ": {
+  "INTJ": {
+    overallScore: 75,
+    mediator: "ESFJ",
+    provider: "ESFJ",
+    summary: {
+      en: "From the ESFJ perspective, INTJs offer intellectual depth and strategic thinking that ESFJs admire. While ESFJs may initially find INTJs too blunt or detached, they can appreciate their reliability and competence. ESFJs provide the social warmth and practical support that INTJs often lack.",
+      zh: "从ESFJ的角度来看，INTJ提供了ESFJ所欣赏的智力深度和战略思维。虽然ESFJ最初可能觉得INTJ太直率或超然，但他们可以欣赏INTJ的可靠性和能力。ESFJ提供了INTJ通常缺乏的社会温暖和实际支持。"
+    },
+    relationshipType: {
+      en: "Complementary Partners",
+      zh: "互补伙伴"
+    },
+    relationshipDesc: {
+      en: "A relationship where each type fills the gaps in the other's natural tendencies.",
+      zh: "每种类型都能填补对方自然倾向中的空白。"
+    },
+    sharedValues: {
+      en: "Responsibility & Achievement",
+      zh: "责任感与成就"
+    },
+    sharedValuesDesc: {
+      en: "Both types take responsibilities seriously and value tangible accomplishments, though they define success differently.",
+      zh: "两种类型都认真对待责任并重视切实的成就，尽管他们对成功的定义不同。"
+    },
+    communicationStyle: {
+      en: "Harmony vs Truth",
+      zh: "和谐vs真相"
+    },
+    communicationDesc: {
+      en: "ESFJs prioritize maintaining harmony while INTJs prioritize factual accuracy, which can lead to misunderstandings.",
+      zh: "ESFJ优先考虑保持和谐，而INTJ优先考虑事实准确性，这可能导致误解。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Ni": {
+        score: 70,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ESFJ's focus on group harmony contrasts with INTJ's focus on future visions, creating complementary perspectives.",
+          zh: "ESFJ对群体和谐的关注与INTJ对未来愿景的关注形成互补视角。"
+        }
+      },
+      "Si_Te": {
+        score: 78,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Both value practical implementation, with ESFJs drawing on tradition and INTJs on efficiency.",
+          zh: "两者都重视实际执行，ESFJ借鉴传统，INTJ注重效率。"
+        }
+      },
+      "Ti_Fi": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their tertiary functions are both introspective but operate differently (logic vs values).",
+          zh: "他们的第三功能都是内省的，但运作方式不同(逻辑vs价值观)。"
+        }
+      },
+      "Ne_Se": {
+        score: 72,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both can help each other develop their inferior functions - ESFJs with new possibilities, INTJs with present-moment awareness.",
+          zh: "两者都可以互相帮助发展劣势功能 - ESFJ发展新的可能性，INTJ发展当下意识。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESFJs appreciate INTJs' competence and depth, while INTJs value ESFJs' warmth and practicality. Their differences become strengths when each type respects what the other brings to the relationship.",
+      zh: "ESFJ欣赏INTJ的能力和深度，而INTJ重视ESFJ的温暖和务实。当双方都尊重对方为关系带来的东西时，他们的差异就会变成优势。"
+    },
+    growthPotential: {
+      en: "ESFJs can develop more independent thinking and tolerance for conflict, while INTJs can learn emotional expression and social skills. The relationship thrives when both step outside their comfort zones.",
+      zh: "ESFJ可以发展更独立的思维和对冲突的容忍度，而INTJ可以学习情感表达和社交技巧。当双方都走出舒适区时，关系就会蓬勃发展。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What do ESFJs find most frustrating about INTJs?",
+          zh: "ESFJ对INTJ最感到沮丧的是什么？"
+        },
+        answer: {
+          en: "ESFJs often find INTJs' blunt communication style and lack of emotional expression frustrating, as they value harmony and emotional connection.",
+          zh: "ESFJ通常觉得INTJ直率的沟通方式和缺乏情感表达令人沮丧，因为他们重视和谐和情感联系。"
+        }
+      }
+    ]
+  }
+}

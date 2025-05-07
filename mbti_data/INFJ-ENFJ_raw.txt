@@ -1,0 +1,188 @@
+```typescript
+"INFJ": {
+  "ENFJ": {
+    overallScore: 88,
+    mediator: "INFJ",
+    provider: "ENFJ",
+    summary: {
+      en: "INFJ and ENFJ share a deep connection through their dominant intuitive and feeling functions. Both types value harmony, personal growth, and meaningful relationships. While INFJs tend to be more introspective and reserved, ENFJs are outgoing and action-oriented. This complementary dynamic allows them to balance each other well, though INFJs may sometimes feel overwhelmed by ENFJs' social energy.",
+      zh: "INFJ和ENFJ通过他们主导的直觉和情感功能建立了深刻联系。两种类型都重视和谐、个人成长和有意义的关系。INFJ通常更内省和保守，而ENFJ则外向且行动导向。这种互补性让他们能很好地平衡彼此，尽管INFJ有时可能会被ENFJ的社交能量所压倒。"
+    },
+    relationshipType: {
+      en: "Harmonious Visionaries",
+      zh: "和谐愿景家"
+    },
+    relationshipDesc: {
+      en: "A spiritually rich connection where both types inspire each other to grow while maintaining deep emotional understanding.",
+      zh: "一种精神丰富的连接，两种类型在保持深刻情感理解的同时互相激励成长。"
+    },
+    sharedValues: {
+      en: "Authenticity & Human Potential",
+      zh: "真实性与人类潜能"
+    },
+    sharedValuesDesc: {
+      en: "Both types deeply value personal authenticity and believe in helping others reach their full potential through meaningful connections.",
+      zh: "两种类型都高度重视个人真实性，并相信通过有意义的连接帮助他人发挥全部潜能。"
+    },
+    communicationStyle: {
+      en: "Intuitive-Emotional",
+      zh: "直觉-情感型"
+    },
+    communicationDesc: {
+      en: "Their communication flows naturally with deep emotional understanding, though ENFJs may prefer more verbal expression than INFJs.",
+      zh: "他们的交流有着深刻的情感理解自然流动，尽管ENFJ可能比INFJ更喜欢言语表达。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Fe": {
+        score: 92,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Their shared focus on future possibilities and group harmony creates strong intuitive-emotional synergy.",
+          zh: "他们对未来可能性和群体和谐的共同关注创造了强大的直觉-情感协同效应。"
+        }
+      },
+      "Fe_Ni": {
+        score: 90,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ENFJ's auxiliary Ni complements INFJ's Fe well, allowing for deep emotional insights with future-oriented thinking.",
+          zh: "ENFJ的辅助Ni很好地补充了INFJ的Fe，使得深刻的情感洞察与面向未来的思维相结合。"
+        }
+      },
+      "Ti_Se": {
+        score: 78,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "Their tertiary functions provide balance - INFJ's logical analysis tempers ENFJ's sensory impulsiveness.",
+          zh: "他们的第三功能提供了平衡 - INFJ的逻辑分析缓和了ENFJ的感官冲动。"
+        }
+      },
+      "Se_Ti": {
+        score: 75,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "Both may struggle with these inferior functions but can help each other develop better practical awareness and logical detachment.",
+          zh: "两者都可能在这些劣势功能上挣扎，但可以帮助彼此发展更好的实际意识和逻辑超脱。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their high compatibility stems from shared NF temperament and complementary function stacks. While both lead with intuitive-feeling functions, ENFJ's extraversion balances INFJ's introversion, creating a dynamic where each can learn from the other's strengths.",
+      zh: "他们的高兼容性源于共享的NF气质和互补的功能栈。虽然两者都以直觉-情感功能为主导，但ENFJ的外向性平衡了INFJ的内向性，创造了一种可以互相学习对方优点的动态关系。"
+    },
+    growthPotential: {
+      en: "INFJs can learn from ENFJs to be more action-oriented and socially engaged, while ENFJs can develop deeper introspection and patience from INFJs. Together they can achieve remarkable personal and interpersonal growth.",
+      zh: "INFJ可以向ENFJ学习变得更加行动导向和社交参与，而ENFJ可以从INFJ那里发展更深的内省和耐心。他们一起可以实现显著的个人和人际关系成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INFJ and ENFJ handle conflicts differently?",
+          zh: "INFJ和ENFJ处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "INFJs tend to withdraw to analyze conflicts internally, while ENFJs prefer to address issues immediately through open discussion. Finding a middle ground is key.",
+          zh: "INFJ倾向于退避并在内部分析冲突，而ENFJ更喜欢通过公开讨论立即解决问题。找到中间立场是关键。"
+        }
+      }
+    ]
+  }
+},
+"ENFJ": {
+  "INFJ": {
+    overallScore: 85,
+    mediator: "INFJ",
+    provider: "ENFJ",
+    summary: {
+      en: "ENFJs appreciate INFJs' depth and insight, while INFJs admire ENFJs' social grace and ability to inspire action. The ENFJ's natural leadership complements the INFJ's contemplative nature, creating a partnership where vision meets implementation. ENFJs may need to respect INFJs' need for solitude while INFJs can learn to appreciate ENFJs' social enthusiasm.",
+      zh: "ENFJ欣赏INFJ的深度和洞察力，而INFJ钦佩ENFJ的社交魅力和激励行动的能力。ENFJ天生的领导力与INFJ的沉思本性相辅相成，创造了一个愿景与实施相结合的伙伴关系。ENFJ可能需要尊重INFJ对独处的需求，而INFJ可以学会欣赏ENFJ的社交热情。"
+    },
+    relationshipType: {
+      en: "Visionary Partners",
+      zh: "愿景伙伴"
+    },
+    relationshipDesc: {
+      en: "A mutually inspiring relationship where abstract ideas meet practical implementation through complementary strengths.",
+      zh: "一种互相激励的关系，通过互补的优势让抽象的想法与实际实施相结合。"
+    },
+    sharedValues: {
+      en: "Empathy & Meaningful Impact",
+      zh: "共情与有意义的影响"
+    },
+    sharedValuesDesc: {
+      en: "Both types prioritize making a positive difference in people's lives through understanding and compassionate action.",
+      zh: "两种类型都优先考虑通过理解和富有同情心的行动在人们的生活中产生积极影响。"
+    },
+    communicationStyle: {
+      en: "Harmony-Seeking",
+      zh: "寻求和谐型"
+    },
+    communicationDesc: {
+      en: "They communicate with sensitivity to others' feelings, though ENFJs may be more direct while INFJs prefer subtlety.",
+      zh: "他们在沟通时对他人的感受很敏感，尽管ENFJ可能更直接，而INFJ更喜欢微妙的方式。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Ni": {
+        score: 90,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ENFJ's focus on group harmony blends well with INFJ's future-oriented insights, creating a powerful visionary team.",
+          zh: "ENFJ对群体和谐的关注与INFJ面向未来的洞察力很好地融合，创造了一个强大的愿景团队。"
+        }
+      },
+      "Ni_Fe": {
+        score: 88,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "INFJ's auxiliary Fe enhances ENFJ's Ni by providing deeper emotional understanding to their visions.",
+          zh: "INFJ的辅助Fe通过为他们的愿景提供更深的情感理解来增强ENFJ的Ni。"
+        }
+      },
+      "Se_Ti": {
+        score: 76,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ENFJ's enjoyment of sensory experiences can help INFJ become more present, while INFJ's logic can ground ENFJ's ideas.",
+          zh: "ENFJ对感官体验的享受可以帮助INFJ变得更加当下，而INFJ的逻辑可以使ENFJ的想法更加接地气。"
+        }
+      },
+      "Ti_Se": {
+        score: 72,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both may need to consciously work on these weaker functions but can support each other's development in these areas.",
+          zh: "两者可能需要有意识地努力发展这些较弱的功能，但可以互相支持在这些领域的发展。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility arises from shared intuitive-feeling orientation with complementary energy directions. ENFJs bring the INFJ's ideas into reality through social action, while INFJs provide the depth and reflection that enriches ENFJs' visions.",
+      zh: "他们的兼容性源于共享的直觉-情感取向与互补的能量方向。ENFJ通过社会行动将INFJ的想法变为现实，而INFJ提供丰富ENFJ愿景的深度和反思。"
+    },
+    growthPotential: {
+      en: "ENFJs can develop greater patience and depth from INFJs, while INFJs can learn to translate their insights into tangible actions from ENFJs. Their relationship fosters growth in both visionary thinking and practical implementation.",
+      zh: "ENFJ可以从INFJ那里发展更大的耐心和深度，而INFJ可以学习如何将他们的洞察力转化为ENFJ的实际行动。他们的关系促进了愿景思维和实际实施两方面的成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What challenges might ENFJs face in relationships with INFJs?",
+          zh: "ENFJ在与INFJ的关系中可能面临什么挑战？"
+        },
+        answer: {
+          en: "ENFJs may struggle with INFJs' need for solitude and slower decision-making pace. Learning to appreciate INFJs' reflective nature is important.",
+          zh: "ENFJ可能会对INFJ需要独处和较慢的决策节奏感到困扰。学会欣赏INFJ的反思本性很重要。"
+        }
+      }
+    ]
+  }
+}
+```

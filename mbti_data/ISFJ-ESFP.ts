@@ -1,0 +1,186 @@
+{
+  "ESFP": {
+    overallScore: 82,
+    mediator: "ISFJ",
+    provider: "ESFP",
+    summary: {
+      en: "ISFJs and ESFPs form a complementary pair where the ISFJ's nurturing nature balances the ESFP's spontaneity. The ISFJ provides stability and emotional support, while the ESFP brings excitement and helps the ISFJ step out of their comfort zone. Their shared Sensing preference creates practical harmony, though the ISFJ may need to adapt to the ESFP's need for novelty.",
+      zh: "ISFJ和ESFP形成互补配对，ISFJ的养育特质平衡了ESFP的自发性。ISFJ提供稳定性和情感支持，而ESFP带来兴奋感并帮助ISFJ走出舒适区。他们共有的感觉型偏好创造了实际的和谐，尽管ISFJ可能需要适应ESFP对新奇事物的需求。"
+    },
+    relationshipType: {
+      en: "Harmonious Complement",
+      zh: "和谐互补"
+    },
+    relationshipDesc: {
+      en: "A balanced dynamic where both types learn from each other's strengths while maintaining mutual respect.",
+      zh: "一种平衡的动态关系，双方都能从对方的优势中学习，同时保持相互尊重。"
+    },
+    sharedValues: {
+      en: "Present-focused, Practical Care",
+      zh: "关注当下，实际关怀"
+    },
+    sharedValuesDesc: {
+      en: "Both value tangible expressions of care and enjoy creating comfortable, enjoyable present moments.",
+      zh: "双方都重视有形的关怀表达，并喜欢创造舒适、愉快的当下时刻。"
+    },
+    communicationStyle: {
+      en: "Action-Oriented with Emotional Depth",
+      zh: "行动导向兼具情感深度"
+    },
+    communicationDesc: {
+      en: "ESFPs communicate through lively actions while ISFJs add emotional nuance, creating a vibrant yet meaningful exchange.",
+      zh: "ESFP通过活泼的行动交流，而ISFJ增添情感细微差别，创造出充满活力又有意义的交流。"
+    },
+    cognitiveCompatibility: {
+      "Si_Se": {
+        score: 85,
+        type1Function: "Si (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "Both value sensory experiences but approach them differently - ISFJ through memory and tradition, ESFP through immediate novelty.",
+          zh: "双方都重视感官体验但方式不同-ISFJ通过记忆和传统，ESFP通过即时的新鲜感。"
+        }
+      },
+      "Fe_Fi": {
+        score: 78,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ISFJ's outward-focused emotions complement ESFP's developing inner values, creating emotional balance.",
+          zh: "ISFJ外向的情感与ESFP发展的内在价值观互补，创造情感平衡。"
+        }
+      },
+      "Ti_Te": {
+        score: 72,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Both have weaker thinking functions but can help each other develop more logical decision-making approaches.",
+          zh: "双方的思考功能都较弱，但可以互相帮助发展更逻辑的决策方法。"
+        }
+      },
+      "Ne_Ni": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both struggle with intuition but can appreciate each other's occasional insights.",
+          zh: "双方都较不擅长直觉，但能欣赏对方偶尔的洞察力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Sensing preference and complementary Judging/Perceiving dynamics. ISFJ provides structure and care that ESFP appreciates, while ESFP helps ISFJ embrace spontaneity. Their different emotional approaches (Fe/Fi) create growth opportunities rather than conflict.",
+      zh: "他们的兼容性源于共同的感觉偏好和互补的判断/感知动态。ISFJ提供ESFP欣赏的结构和关怀，而ESFP帮助ISFJ拥抱自发性。他们不同的情感方式(Fe/Fi)创造了成长机会而非冲突。"
+    },
+    growthPotential: {
+      en: "ISFJ can learn to be more spontaneous from ESFP, while ESFP can develop greater consistency and emotional depth through ISFJ's influence. Both benefit from balancing their natural tendencies.",
+      zh: "ISFJ可以向ESFP学习更自发，而ESFP通过ISFJ的影响可以发展出更强的一致性和情感深度。双方都能从平衡自然倾向中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ISFJ and ESFP handle conflicts?",
+          zh: "ISFJ和ESFP如何处理冲突？"
+        },
+        answer: {
+          en: "ISFJs prefer resolving conflicts through discussion, while ESFPs may avoid heavy topics. Finding a balance between directness and lightness is key.",
+          zh: "ISFJ喜欢通过讨论解决冲突，而ESFP可能回避沉重话题。在直接和轻松之间找到平衡是关键。"
+        }
+      }
+    ]
+  }
+},
+"ESFP": {
+  "ISFJ": {
+    overallScore: 80,
+    mediator: "ISFJ",
+    provider: "ESFP",
+    summary: {
+      en: "ESFPs enjoy ISFJs' warmth and reliability, while ISFJs appreciate ESFPs' energy and ability to bring fun into daily life. The ESFP's spontaneity can initially unsettle the ISFJ, but their shared focus on practical matters creates common ground. ESFPs help ISFJs loosen up, while ISFJs provide ESFPs with emotional anchoring.",
+      zh: "ESFP喜欢ISFJ的温暖和可靠，而ISFJ欣赏ESFP的活力和为日常生活带来乐趣的能力。ESFP的自发性最初可能让ISFJ不安，但他们共同关注实际事务创造了共同点。ESFP帮助ISFJ放松，而ISFJ为ESFP提供情感锚点。"
+    },
+    relationshipType: {
+      en: "Vitality Anchor",
+      zh: "活力锚点"
+    },
+    relationshipDesc: {
+      en: "ESFPs bring excitement while ISFJs offer stability, creating a dynamic where both feel energized and secure.",
+      zh: "ESFP带来兴奋感，而ISFJ提供稳定性，创造出双方都感到充满活力和安全的动态。"
+    },
+    sharedValues: {
+      en: "Experiential Living, Concrete Kindness",
+      zh: "体验式生活，具体善意"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize real-world experiences and express care through practical actions rather than abstract ideas.",
+      zh: "双方都重视现实世界体验，并通过实际行动而非抽象概念表达关怀。"
+    },
+    communicationStyle: {
+      en: "Energetic with Thoughtful Undertones",
+      zh: "活力充沛兼具体贴底色"
+    },
+    communicationDesc: {
+      en: "ESFPs' lively communication is tempered by ISFJs' considerate nature, creating engaging yet meaningful interactions.",
+      zh: "ESFP活泼的交流被ISFJ体贴的本性调和，创造出引人入胜又有意义的互动。"
+    },
+    cognitiveCompatibility: {
+      "Se_Si": {
+        score: 83,
+        type1Function: "Se (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "ESFP's focus on immediate experience complements ISFJ's reliance on past experiences, creating a complete sensory perspective.",
+          zh: "ESFP对即时体验的关注与ISFJ对过去经验的依赖互补，创造了完整的感官视角。"
+        }
+      },
+      "Fi_Fe": {
+        score: 75,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ESFP's developing inner values benefit from ISFJ's emotionally attuned approach to relationships.",
+          zh: "ESFP发展的内在价值观受益于ISFJ情感协调的关系处理方式。"
+        }
+      },
+      "Te_Ti": {
+        score: 70,
+        type1Function: "Te (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Both can struggle with logical consistency but help each other develop more balanced decision-making.",
+          zh: "双方都可能难以保持逻辑一致性，但能互相帮助发展更平衡的决策能力。"
+        }
+      },
+      "Ni_Ne": {
+        score: 63,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Their shared weakness in intuition means they bond more over concrete experiences than abstract concepts.",
+          zh: "他们共同的直觉弱点意味着他们更多通过具体经验而非抽象概念建立联系。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works because ESFPs' love for excitement is grounded by ISFJs' stability, while ISFJs' routine is brightened by ESFPs' spontaneity. Their shared Sensing preference ensures practical compatibility, while their differing Feeling functions create emotional growth opportunities.",
+      zh: "这种配对有效是因为ESFP对兴奋的热爱被ISFJ的稳定性锚定，而ISFJ的日常被ESFP的自发性点亮。他们共同的感觉偏好确保了实际兼容性，而不同的情感功能创造了情感成长机会。"
+    },
+    growthPotential: {
+      en: "ESFPs can develop greater emotional consistency and follow-through from ISFJs, while ISFJs can learn to embrace spontaneity and present-moment joy from ESFPs. Their differences become areas of mutual enrichment.",
+      zh: "ESFP可以从ISFJ那里发展出更强的情感一致性和坚持性，而ISFJ可以向ESFP学习拥抱自发性和当下的快乐。他们的差异成为相互丰富的领域。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What challenges might ESFP and ISFJ face?",
+          zh: "ESFP和ISFJ可能面临什么挑战？"
+        },
+        answer: {
+          en: "ESFPs may find ISFJs too routine-bound, while ISFJs might see ESFPs as unpredictable. Finding middle ground in planning vs spontaneity is crucial.",
+          zh: "ESFP可能觉得ISFJ太拘泥于常规，而ISFJ可能认为ESFP难以预测。在计划与自发性之间找到中间地带至关重要。"
+        }
+      }
+    ]
+  }
+}

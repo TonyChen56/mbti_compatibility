@@ -1,0 +1,186 @@
+{
+  "ESFJ": {
+    overallScore: 85,
+    mediator: "ENFP",
+    provider: "ESFJ",
+    summary: {
+      en: "ENFPs and ESFJs form a dynamic and complementary pair. ENFPs bring creativity and spontaneity, while ESFJs provide stability and practical support. Their shared extroversion creates an energetic bond, though ENFPs may sometimes feel constrained by ESFJs' need for structure. With mutual understanding, they can balance each other's strengths and weaknesses effectively.",
+      zh: "ENFP和ESFJ形成充满活力且互补的组合。ENFP带来创造力和自发性，而ESFJ提供稳定性和实际支持。他们共同的外向特质创造了充满能量的联系，尽管ENFP有时可能觉得ESFJ对结构的需求限制了自由。通过相互理解，他们能有效平衡彼此的优缺点。"
+    },
+    relationshipType: {
+      en: "Harmonious Complement",
+      zh: "和谐互补"
+    },
+    relationshipDesc: {
+      en: "A relationship where ENFP's inspiration meets ESFJ's nurturing nature, creating a warm and supportive dynamic.",
+      zh: "ENFP的灵感与ESFJ的养育特质相遇的关系，创造出温暖且相互支持的动力。"
+    },
+    sharedValues: {
+      en: "Harmony & Connection",
+      zh: "和谐与连接"
+    },
+    sharedValuesDesc: {
+      en: "Both types value meaningful relationships and creating positive experiences for others, though they express it differently.",
+      zh: "两种类型都重视有意义的关系和为他人创造积极体验，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Expressive & Engaging",
+      zh: "富有表现力且引人入胜"
+    },
+    communicationDesc: {
+      en: "ENFPs bring imaginative ideas while ESFJs focus on practical details, creating balanced conversations.",
+      zh: "ENFP带来富有想象力的想法，而ESFJ专注于实际细节，形成平衡的对话。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Fe": {
+        score: 88,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "ENFP's exploratory Ne synergizes with ESFJ's people-focused Fe, creating engaging social interactions.",
+          zh: "ENFP探索性的Ne与ESFJ以人为本的Fe协同作用，创造引人入胜的社交互动。"
+        }
+      },
+      "Fi_Si": {
+        score: 75,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ENFP's personal values may sometimes clash with ESFJ's traditional approach, requiring understanding.",
+          zh: "ENFP的个人价值观有时可能与ESFJ的传统方式冲突，需要相互理解。"
+        }
+      },
+      "Te_Ti": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their weaker thinking functions can lead to occasional logical disconnects in decision-making.",
+          zh: "他们较弱的思维功能可能导致决策时偶尔出现逻辑断层。"
+        }
+      },
+      "Si_Ne": {
+        score: 82,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "ESFJ can help ENFP with practical details while ENFP inspires ESFJ to explore new possibilities.",
+          zh: "ESFJ可以帮助ENFP处理实际细节，而ENFP则能激励ESFJ探索新的可能性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary strengths - ENFP's innovation balances ESFJ's practicality, while ESFJ's social skills support ENFP's ideas. Challenges arise when ENFP feels restricted or ESFJ feels unsettled by too much spontaneity.",
+      zh: "他们的兼容性源于互补的优势 - ENFP的创新平衡了ESFJ的实用性，而ESFJ的社交技巧支持ENFP的想法。当ENFP感到受限或ESFJ因过多的自发性而感到不安时，挑战就会出现。"
+    },
+    growthPotential: {
+      en: "ENFPs can learn organization and follow-through from ESFJs, while ESFJs can develop more flexibility and openness to new ideas from ENFPs.",
+      zh: "ENFP可以向ESFJ学习组织和执行力，而ESFJ可以从ENFP那里发展出对新想法更多的灵活性和开放性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENFP and ESFJ handle conflicts?",
+          zh: "ENFP和ESFJ如何处理冲突？"
+        },
+        answer: {
+          en: "ESFJs seek immediate harmony while ENFPs want authentic expression. Finding a balance between emotional honesty and tact is key.",
+          zh: "ESFJ追求即时和谐，而ENFP想要真实的表达。在情感诚实和机智之间找到平衡是关键。"
+        }
+      }
+    ]
+  }
+},
+"ESFJ": {
+  "ENFP": {
+    overallScore: 83,
+    mediator: "ENFP",
+    provider: "ESFJ",
+    summary: {
+      en: "ESFJs appreciate ENFPs' enthusiasm and creativity, while providing the structure and care ENFPs often need. The ESFJ's desire for stability can sometimes conflict with ENFP's love of spontaneity, but their shared warmth and sociability create a strong foundation.",
+      zh: "ESFJ欣赏ENFP的热情和创造力，同时提供ENFP经常需要的结构和关怀。ESFJ对稳定的渴望有时可能与ENFP对自发性的热爱相冲突，但他们共同的温暖和社交性创造了坚实的基础。"
+    },
+    relationshipType: {
+      en: "Nurturing Partnership",
+      zh: "滋养型伙伴关系"
+    },
+    relationshipDesc: {
+      en: "ESFJs provide emotional security while ENFPs bring excitement and new perspectives to the relationship.",
+      zh: "ESFJ提供情感安全感，而ENFP为关系带来兴奋和新视角。"
+    },
+    sharedValues: {
+      en: "People-Centric Values",
+      zh: "以人为本的价值观"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize human connections and making others happy, though ESFJs focus more on practical care while ENFPs seek meaningful interactions.",
+      zh: "两者都重视人际关系和让他人快乐，尽管ESFJ更注重实际关怀，而ENFP寻求有意义的互动。"
+    },
+    communicationStyle: {
+      en: "Warm & Engaging",
+      zh: "温暖且引人入胜"
+    },
+    communicationDesc: {
+      en: "ESFJs' detail-oriented communication blends well with ENFPs' big-picture thinking when both appreciate each other's styles.",
+      zh: "当双方都欣赏对方的风格时，ESFJ注重细节的沟通与ENFP的大局思维能很好融合。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Ne": {
+        score: 86,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ESFJ's Fe creates a welcoming environment for ENFP's Ne to explore ideas and connections.",
+          zh: "ESFJ的Fe为ENFP的Ne探索想法和联系创造了欢迎的环境。"
+        }
+      },
+      "Si_Fi": {
+        score: 72,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ESFJ's reliance on past experiences may sometimes conflict with ENFP's personal value system.",
+          zh: "ESFJ对过去经验的依赖有时可能与ENFP的个人价值体系相冲突。"
+        }
+      },
+      "Ti_Te": {
+        score: 68,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Their weaker thinking functions can cause occasional misunderstandings in practical matters.",
+          zh: "他们较弱的思维功能可能导致在实际事务上偶尔出现误解。"
+        }
+      },
+      "Ne_Si": {
+        score: 80,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "ENFP helps ESFJ consider new possibilities while ESFJ helps ENFP remember important details.",
+          zh: "ENFP帮助ESFJ考虑新的可能性，而ESFJ帮助ENFP记住重要细节。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well because ESFJs provide the emotional and practical support ENFPs need, while ENFPs help ESFJs break out of routines and see new perspectives. Their shared extroversion creates energy, though they may need to compromise on spontaneity versus planning.",
+      zh: "这种配对效果很好，因为ESFJ提供ENFP需要的情感和实际支持，而ENFP帮助ESFJ打破常规并看到新视角。他们共同的外向特质创造了能量，尽管他们可能需要在自发性和计划性上妥协。"
+    },
+    growthPotential: {
+      en: "ESFJs can learn to embrace change and innovation from ENFPs, while ENFPs can develop more consistency and attention to details from ESFJs.",
+      zh: "ESFJ可以向ENFP学习拥抱变化和创新，而ENFP可以从ESFJ那里发展出更多的一致性和对细节的关注。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for ESFJ-ENFP relationships?",
+          zh: "ESFJ-ENFP关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "Balancing ESFJ's need for predictability with ENFP's desire for spontaneity requires conscious effort and compromise from both sides.",
+          zh: "平衡ESFJ对可预测性的需求与ENFP对自发性的渴望，需要双方有意识的努力和妥协。"
+        }
+      }
+    ]
+  }
+}

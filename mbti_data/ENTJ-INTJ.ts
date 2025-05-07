@@ -1,0 +1,186 @@
+{
+  "INTJ": {
+    overallScore: 88,
+    mediator: "INTJ",
+    provider: "ENTJ",
+    summary: {
+      en: "ENTJs and INTJs form a highly strategic partnership with excellent intellectual compatibility. Both share dominant Intuition and Thinking functions, creating a powerful visionary duo. While ENTJs bring decisive action and social confidence, INTJs contribute deep analysis and long-term planning. Their main challenge lies in balancing ENTJ's extraverted leadership with INTJ's need for independence.",
+      zh: "ENTJ和INTJ形成高度战略性的伙伴关系，具有极佳的思想兼容性。两者都拥有主导的直觉和思考功能，创造了强大的远见组合。ENTJ带来果断的行动和社交自信，而INTJ则贡献深度分析和长期规划。他们的主要挑战在于平衡ENTJ外向的领导风格与INTJ对独立性的需求。"
+    },
+    relationshipType: {
+      en: "Strategic Alliance",
+      zh: "战略联盟"
+    },
+    relationshipDesc: {
+      en: "A power couple of strategic minds who challenge each other intellectually while respecting mutual competence.",
+      zh: "战略思维的强力组合，在智力上相互挑战同时尊重彼此的能力。"
+    },
+    sharedValues: {
+      en: "Efficiency & Vision",
+      zh: "效率与远见"
+    },
+    sharedValuesDesc: {
+      en: "Both value competence, strategic thinking and continuous improvement, often prioritizing long-term goals over immediate comfort.",
+      zh: "双方都重视能力、战略思维和持续改进，通常将长期目标置于即时舒适之上。"
+    },
+    communicationStyle: {
+      en: "Direct & Conceptual",
+      zh: "直接且概念化"
+    },
+    communicationDesc: {
+      en: "Conversations are intellectually stimulating but may lack emotional expression, focusing instead on ideas and strategies.",
+      zh: "对话充满智力刺激但可能缺乏情感表达，主要聚焦于想法和策略。"
+    },
+    cognitiveCompatibility: {
+      "Te_Ni": {
+        score: 92,
+        type1Function: "Te (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ENTJ's decisive Te complements INTJ's visionary Ni, creating effective strategy implementation.",
+          zh: "ENTJ果断的Te功能与INTJ远见的Ni功能互补，形成有效的战略实施。"
+        }
+      },
+      "Ni_Te": {
+        score: 90,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ENTJ's developing Ni finds guidance in INTJ's strong Ni, while INTJ benefits from ENTJ's Te execution.",
+          zh: "ENTJ发展中的Ni功能在INTJ强大的Ni中找到指引，而INTJ则受益于ENTJ的Te执行力。"
+        }
+      },
+      "Se_Fi": {
+        score: 75,
+        type1Function: "Se (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their shared weaker functions may cause occasional clashes in personal values and sensory experiences.",
+          zh: "他们共同的弱势功能可能导致在个人价值观和感官体验上偶尔发生冲突。"
+        }
+      },
+      "Fi_Se": {
+        score: 78,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both may struggle with emotional expression but can develop mutual understanding through intellectual connection.",
+          zh: "双方可能在情感表达上存在困难，但可以通过智力连接发展相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared NT temperament and complementary strengths - ENTJ's execution power balances INTJ's conceptual depth. Both respect competence and strategic thinking, though may need to consciously address emotional needs.",
+      zh: "他们的兼容性源于共享的NT气质和互补优势——ENTJ的执行力平衡了INTJ的概念深度。双方都尊重能力和战略思维，但可能需要有意识地解决情感需求。"
+    },
+    growthPotential: {
+      en: "ENTJs can learn patience and deeper analysis from INTJs, while INTJs can develop better social skills and decisive action from ENTJs. Together they can achieve remarkable strategic goals.",
+      zh: "ENTJ可以从INTJ那里学习耐心和更深入的分析，而INTJ可以从ENTJ那里发展更好的社交技巧和果断行动。他们一起可以实现非凡的战略目标。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENTJ and INTJ handle conflicts?",
+          zh: "ENTJ和INTJ如何处理冲突？"
+        },
+        answer: {
+          en: "They typically approach conflicts logically but may need to consciously address emotional aspects. INTJs may withdraw while ENTJs confront directly.",
+          zh: "他们通常以逻辑方式处理冲突，但可能需要有意识地解决情感方面。INTJ可能会退缩，而ENTJ会直接面对。"
+        }
+      }
+    ]
+  }
+},
+"INTJ": {
+  "ENTJ": {
+    overallScore: 86,
+    mediator: "INTJ",
+    provider: "ENTJ",
+    summary: {
+      en: "INTJs appreciate ENTJs' decisive leadership and ability to execute their visions, while ENTJs value INTJs' depth of insight. This pairing excels at long-term planning but may need to work on emotional connection. INTJs may sometimes feel overwhelmed by ENTJs' energy and social demands.",
+      zh: "INTJ欣赏ENTJ果断的领导力和执行他们愿景的能力，而ENTJ则重视INTJ的洞察深度。这对组合擅长长期规划，但可能需要建立情感连接。INTJ有时可能会被ENTJ的能量和社交需求所压倒。"
+    },
+    relationshipType: {
+      en: "Visionary Partnership",
+      zh: "远见伙伴关系"
+    },
+    relationshipDesc: {
+      en: "A complementary relationship where big-picture thinking meets decisive action, though requiring balance between social engagement and solitude.",
+      zh: "一种互补关系，宏观思维与果断行动相遇，但需要在社交参与和独处之间取得平衡。"
+    },
+    sharedValues: {
+      en: "Competence & Innovation",
+      zh: "能力与创新"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize competence, intellectual growth and system improvement, often dismissing conventional approaches in favor of innovative solutions.",
+      zh: "双方都优先考虑能力、智力成长和系统改进，常常摒弃传统方法而选择创新解决方案。"
+    },
+    communicationStyle: {
+      en: "Precise & Forward-thinking",
+      zh: "精确且前瞻性"
+    },
+    communicationDesc: {
+      en: "Discussions are efficient and future-oriented, though may benefit from more emotional expression and patience with differing processing speeds.",
+      zh: "讨论高效且面向未来，但可能受益于更多情感表达和对不同处理速度的耐心。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Te": {
+        score: 90,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "INTJ's visionary Ni finds practical implementation through ENTJ's strong Te, creating powerful strategic execution.",
+          zh: "INTJ的远见Ni通过ENTJ强大的Te找到实际实施，创造了强大的战略执行。"
+        }
+      },
+      "Te_Ni": {
+        score: 88,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "INTJ's analytical Te appreciates ENTJ's decisive leadership while helping refine ENTJ's developing Ni insights.",
+          zh: "INTJ的分析型Te欣赏ENTJ果断的领导力，同时帮助完善ENTJ发展中的Ni洞察力。"
+        }
+      },
+      "Fi_Se": {
+        score: 72,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Their shared weaker functions may lead to occasional misunderstandings in emotional expression and practical matters.",
+          zh: "他们共同的弱势功能可能导致在情感表达和实际事务上偶尔产生误解。"
+        }
+      },
+      "Se_Fi": {
+        score: 74,
+        type1Function: "Se (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Both may neglect sensory experiences and personal values initially, requiring conscious effort to develop these areas.",
+          zh: "双方最初都可能忽视感官体验和个人价值观，需要有意识地努力发展这些方面。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well due to shared intuition and thinking preferences, with INTJ providing depth of insight and ENTJ bringing execution power. Challenges may arise from ENTJ's extraversion overwhelming INTJ's need for solitude.",
+      zh: "这种配对效果良好，源于共享的直觉和思考偏好，INTJ提供洞察深度，ENTJ带来执行力。挑战可能来自ENTJ的外向性压倒INTJ对独处的需求。"
+    },
+    growthPotential: {
+      en: "INTJs can develop better social skills and quicker decision-making from ENTJs, while ENTJs can cultivate more patience and deeper analysis from INTJs. Their combined strategic abilities are formidable.",
+      zh: "INTJ可以从ENTJ那里发展更好的社交技巧和更快的决策能力，而ENTJ可以从INTJ那里培养更多耐心和更深入的分析。他们结合的战略能力非常强大。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for INTJ-ENTJ relationships?",
+          zh: "INTJ-ENTJ关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "Balancing ENTJ's need for social engagement with INTJ's need for solitude, and ensuring emotional needs are addressed alongside intellectual connection.",
+          zh: "平衡ENTJ对社交参与的需求与INTJ对独处的需求，并确保在智力连接之外也满足情感需求。"
+        }
+      }
+    ]
+  }
+}

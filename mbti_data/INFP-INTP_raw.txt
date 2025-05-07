@@ -1,0 +1,188 @@
+```typescript
+"INFP": {
+  "INTP": {
+    overallScore: 85,
+    mediator: "INFP",
+    provider: "INTP",
+    summary: {
+      en: "INFP and INTP form a highly compatible pair due to their shared intuitive and perceiving traits. While INFPs bring emotional depth and values-driven perspectives, INTPs contribute logical analysis and intellectual curiosity. Their differences complement each other, creating a balanced relationship where both can grow. Potential challenges may arise from INFP's need for emotional connection conflicting with INTP's more detached nature.",
+      zh: "INFP和INTP由于共享直觉(N)和感知(P)特质而具有高度兼容性。INFP带来情感深度和价值观驱动的视角，而INTP则提供逻辑分析和求知欲。他们的差异互补，形成一种平衡的关系，双方都能成长。潜在的挑战可能来自INFP对情感连接的需求与INTP较为超然的性格之间的冲突。"
+    },
+    relationshipType: {
+      en: "Idealist-Thinker Synergy",
+      zh: "理想主义者-思考者协同"
+    },
+    relationshipDesc: {
+      en: "A harmonious blend of emotional depth and intellectual exploration that stimulates both partners.",
+      zh: "情感深度与智力探索的和谐融合，能够同时激发双方的潜能。"
+    },
+    sharedValues: {
+      en: "Authenticity & Intellectual Freedom",
+      zh: "真实性与思想自由"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value authenticity in self-expression and cherish intellectual freedom to explore ideas without constraints.",
+      zh: "两种类型都高度重视自我表达的真实性，并珍视无拘无束探索思想的自由。"
+    },
+    communicationStyle: {
+      en: "Abstract & Conceptual",
+      zh: "抽象与概念化"
+    },
+    communicationDesc: {
+      en: "They enjoy deep, theoretical discussions but may need to bridge the gap between emotional and logical expression.",
+      zh: "他们喜欢深入的理论讨论，但可能需要在情感表达和逻辑表达之间搭建桥梁。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Fe": {
+        score: 65,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "INFP's strong internal values may clash with INTP's underdeveloped Fe, causing occasional misunderstandings.",
+          zh: "INFP强大的内在价值观可能与INTP不发达的情感功能(Fe)产生冲突，导致偶尔的误解。"
+        }
+      },
+      "Ne_Ne": {
+        score: 90,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "Their shared Ne creates wonderful intellectual synergy and endless creative possibilities.",
+          zh: "他们共同的外向直觉(Ne)创造了美妙的智力协同效应和无限的创造可能性。"
+        }
+      },
+      "Si_Ti": {
+        score: 75,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "INTP's dominant Ti provides logical structure to INFP's more subjective thought processes.",
+          zh: "INTP主导的内向思考(Ti)为INFP更主观的思维过程提供了逻辑结构。"
+        }
+      },
+      "Te_Te": {
+        score: 70,
+        type1Function: "Te (Inferior)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Both struggle with Te but can help each other develop better organizational skills.",
+          zh: "双方都在外向思考(Te)方面有困难，但可以互相帮助发展更好的组织能力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared intuition and perceiving traits, with INFP's Fi providing emotional depth to INTP's Ti logic. The Ne synergy creates endless creative possibilities, though they need to navigate differences in emotional expression.",
+      zh: "他们的兼容性源于共同的直觉和感知特质，INFP的内向情感(Fi)为INTP的内向思考(Ti)逻辑提供了情感深度。外向直觉(Ne)的协同作用创造了无限的创造可能性，尽管他们需要处理情感表达方式的差异。"
+    },
+    growthPotential: {
+      en: "INFP can help INTP develop emotional intelligence, while INTP can help INFP strengthen logical reasoning. Both benefit from expanding their Te capabilities for practical implementation.",
+      zh: "INFP可以帮助INTP发展情商，而INTP可以帮助INFP加强逻辑推理。双方都能从扩展外向思考(Te)能力以实现实际应用中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INFP and INTP handle conflicts differently?",
+          zh: "INFP和INTP处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "INFPs approach conflicts through personal values and emotions, while INTPs analyze them logically. Finding middle ground is key.",
+          zh: "INFP通过个人价值观和情感处理冲突，而INTP则逻辑分析冲突。找到中间立场是关键。"
+        }
+      }
+    ]
+  }
+},
+"INTP": {
+  "INFP": {
+    overallScore: 82,
+    mediator: "INFP",
+    provider: "INTP",
+    summary: {
+      en: "From the INTP perspective, INFP offers emotional richness and humanistic insights that complement their logical worldview. While INTPs appreciate INFPs' authenticity, they may sometimes find their emotional needs overwhelming. The relationship thrives when both respect each other's cognitive styles and communication preferences.",
+      zh: "从INTP的角度来看，INFP提供了情感丰富性和人文洞察力，补充了他们的逻辑世界观。虽然INTP欣赏INFP的真实性，但有时可能会觉得他们的情感需求过于强烈。当双方尊重彼此的认知风格和沟通偏好时，这种关系就会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Logic-Heart Balance",
+      zh: "逻辑-心灵平衡"
+    },
+    relationshipDesc: {
+      en: "A complementary pairing where heart and mind find mutual appreciation and growth opportunities.",
+      zh: "一种互补的配对，心灵与思想在这里找到相互欣赏和成长的机会。"
+    },
+    sharedValues: {
+      en: "Truth & Individuality",
+      zh: "真理与个性"
+    },
+    sharedValuesDesc: {
+      en: "Both value truth-seeking and maintaining individuality, though they approach these differently.",
+      zh: "双方都重视追求真理和保持个性，尽管他们的方式不同。"
+    },
+    communicationStyle: {
+      en: "Idea-Focused with Emotional Nuance",
+      zh: "以思想为中心，带有情感细微差别"
+    },
+    communicationDesc: {
+      en: "INTPs focus on abstract concepts while INFPs add emotional context, creating rich dialogues.",
+      zh: "INTP专注于抽象概念，而INFP则添加情感背景，创造出丰富的对话。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fi": {
+        score: 80,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Both dominant introverted functions create understanding of each other's need for internal processing.",
+          zh: "两种主导的内向功能使双方都能理解彼此对内部处理的需求。"
+        }
+      },
+      "Ne_Ne": {
+        score: 90,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "Their shared Ne makes conversations endlessly fascinating and intellectually stimulating.",
+          zh: "他们共同的外向直觉(Ne)使对话变得无穷迷人且智力刺激。"
+        }
+      },
+      "Fe_Si": {
+        score: 68,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "INTP's weak Fe may struggle with INFP's need for emotional connection through shared experiences.",
+          zh: "INTP薄弱的外向情感(Fe)可能难以满足INFP通过共同经历建立情感连接的需求。"
+        }
+      },
+      "Te_Te": {
+        score: 72,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Both can collaborate on developing practical implementation skills, though it's not their natural strength.",
+          zh: "双方可以合作发展实际执行能力，尽管这不是他们的天然优势。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "INTPs value INFP's authenticity and depth, while appreciating how their Ne aligns. The main challenge is bridging INTP's logical detachment with INFP's emotional needs, which offers growth opportunities for both.",
+      zh: "INTP重视INFP的真实性和深度，同时欣赏他们外向直觉(Ne)的一致性。主要挑战在于连接INTP的逻辑超然与INFP的情感需求，这为双方提供了成长机会。"
+    },
+    growthPotential: {
+      en: "INTP can develop emotional intelligence and relationship skills through INFP's influence, while refining their ability to communicate complex ideas accessibly.",
+      zh: "INTP可以通过INFP的影响发展情商和关系技能，同时提高他们以易懂方式传达复杂想法的能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts INTP to INFP the most?",
+          zh: "INTP最喜欢INFP的什么特质？"
+        },
+        answer: {
+          en: "INTPs are drawn to INFPs' genuine nature, creative imagination, and ability to add emotional depth to abstract concepts.",
+          zh: "INTP被INFP真诚的天性、创造性的想象力以及为抽象概念增添情感深度的能力所吸引。"
+        }
+      }
+    ]
+  }
+}
+```

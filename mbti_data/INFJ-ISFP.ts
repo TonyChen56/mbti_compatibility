@@ -1,0 +1,186 @@
+{
+  "ISFP": {
+    overallScore: 82,
+    mediator: "INFJ",
+    provider: "ISFP",
+    summary: {
+      en: "INFJs and ISFPs form a complementary relationship where the INFJ's intuitive depth meets the ISFP's sensory awareness. While INFJs focus on future possibilities and abstract concepts, ISFPs ground the relationship with present-moment appreciation and practical action. Their shared Introverted Feeling (Fi) creates a strong emotional bond, though INFJ's Extraverted Intuition (Ne) may sometimes clash with ISFP's Introverted Sensing (Si). With mutual respect, this pairing can achieve beautiful harmony between vision and action.",
+      zh: "INFJ和ISFP形成互补关系，INFJ的直觉深度与ISFP的感官意识相遇。INFJ关注未来可能性和抽象概念，而ISFP通过当下欣赏和实际行动使关系更接地气。他们共有的内向情感(Fi)创造了强烈的情感纽带，尽管INFJ的外向直觉(Ne)有时可能与ISFP的内向感觉(Si)产生冲突。通过相互尊重，这种配对可以在愿景和行动之间实现美妙的和谐。"
+    },
+    relationshipType: {
+      en: "Harmonious Duality",
+      zh: "和谐二元体"
+    },
+    relationshipDesc: {
+      en: "A balanced pairing where intuition and sensing complement each other, creating depth in both thought and experience.",
+      zh: "直觉与感知相互补充的平衡配对，在思想和体验上都创造了深度。"
+    },
+    sharedValues: {
+      en: "Authenticity & Compassion",
+      zh: "真实性与同理心"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value genuine emotional expression and caring for others, though they may express it differently.",
+      zh: "两种类型都高度重视真实的情感表达和关心他人，尽管表达方式可能不同。"
+    },
+    communicationStyle: {
+      en: "Thoughtful & Tactful",
+      zh: "体贴周到"
+    },
+    communicationDesc: {
+      en: "Conversations flow gently with mutual respect, though INFJs may desire more abstract discussions than ISFPs prefer.",
+      zh: "对话在相互尊重中温和流动，尽管INFJ可能比ISFP更喜欢抽象讨论。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Se": {
+        score: 85,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "INFJ's visionary intuition benefits from ISFP's present-focused awareness, creating a future-present balance.",
+          zh: "INFJ的远见直觉受益于ISFP关注当下的意识，创造了未来-现在的平衡。"
+        }
+      },
+      "Fe_Fi": {
+        score: 88,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Their shared focus on feelings creates deep understanding, though Fe seeks harmony while Fi values authenticity.",
+          zh: "他们对感受的共同关注创造了深刻理解，尽管Fe寻求和谐而Fi重视真实性。"
+        }
+      },
+      "Ti_Te": {
+        score: 75,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "INFJ's internal logic may sometimes frustrate ISFP's desire for practical action, but both value efficiency.",
+          zh: "INFJ的内部逻辑有时可能让ISFP对实际行动的渴望受挫，但两者都重视效率。"
+        }
+      },
+      "Ne_Si": {
+        score: 70,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "This is their most challenging pairing as INFJ's abstract exploration contrasts with ISFP's concrete memories.",
+          zh: "这是他们最具挑战性的配对，因为INFJ的抽象探索与ISFP的具体记忆形成对比。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions - INFJ's Ni/Fe and ISFP's Fi/Se create a yin-yang dynamic where intuition and sensing balance each other. Shared introversion and feeling preference foster deep emotional connection, though they may need to work on communication styles.",
+      zh: "他们的兼容性源于互补的认知功能 - INFJ的Ni/Fe和ISFP的Fi/Se创造了阴阳动态，直觉和感知相互平衡。共同的内向和情感偏好培养了深厚的情感联系，尽管他们可能需要调整沟通方式。"
+    },
+    growthPotential: {
+      en: "INFJs can learn from ISFPs to appreciate the present moment and express themselves more authentically, while ISFPs can develop broader perspectives and strategic thinking from INFJs.",
+      zh: "INFJ可以向ISFP学习欣赏当下并更真实地表达自己，而ISFP可以从INFJ那里发展更广阔的视角和战略思维。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge in INFJ-ISFP relationships?",
+          zh: "INFJ-ISFP关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "The main challenge is bridging INFJ's abstract, future-oriented thinking with ISFP's concrete, present-focused perspective.",
+          zh: "主要挑战是将INFJ抽象的、面向未来的思维与ISFP具体的、关注当下的视角连接起来。"
+        }
+      }
+    ]
+  }
+},
+"ISFP": {
+  "INFJ": {
+    overallScore: 80,
+    mediator: "INFJ",
+    provider: "ISFP",
+    summary: {
+      en: "From the ISFP's perspective, INFJs offer depth and meaning that complements their sensory experience. ISFPs appreciate INFJ's emotional intelligence and vision, while providing grounding practical support. The ISFP's authenticity and present-moment focus can help INFJs stay connected to reality. Their differences in cognitive processing can lead to misunderstandings but also create valuable growth opportunities.",
+      zh: "从ISFP的角度来看，INFJ提供了深度和意义，补充了他们的感官体验。ISFP欣赏INFJ的情商和愿景，同时提供务实的支持。ISFP的真实性和当下专注可以帮助INFJ保持与现实联系。他们在认知处理上的差异可能导致误解，但也创造了宝贵的成长机会。"
+    },
+    relationshipType: {
+      en: "Balanced Complement",
+      zh: "平衡互补"
+    },
+    relationshipDesc: {
+      en: "ISFPs find INFJs inspiring yet sometimes overwhelming, creating a dynamic of mutual growth.",
+      zh: "ISFP觉得INFJ鼓舞人心但有时令人不知所措，创造了相互成长的动态。"
+    },
+    sharedValues: {
+      en: "Personal Integrity & Emotional Depth",
+      zh: "个人诚信与情感深度"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize authentic emotional connections, though ISFPs express it more privately while INFJs seek communal harmony.",
+      zh: "两者都重视真实的情感联系，尽管ISFP表达得更私密，而INFJ寻求共同和谐。"
+    },
+    communicationStyle: {
+      en: "Gentle & Considerate",
+      zh: "温和体贴"
+    },
+    communicationDesc: {
+      en: "ISFPs appreciate INFJ's thoughtful communication but may feel pressured by their intensity at times.",
+      zh: "ISFP欣赏INFJ体贴的沟通，但有时可能因他们的强烈而感到压力。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ni": {
+        score: 83,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ISFP's sensory awareness helps ground INFJ's abstract visions in tangible reality.",
+          zh: "ISFP的感官意识有助于将INFJ的抽象愿景扎根于有形现实。"
+        }
+      },
+      "Fi_Fe": {
+        score: 85,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "Their shared feeling focus creates empathy, with ISFP's inner values balancing INFJ's social harmony.",
+          zh: "他们共同的情感关注创造了同理心，ISFP的内在价值观平衡了INFJ的社会和谐。"
+        }
+      },
+      "Te_Ti": {
+        score: 72,
+        type1Function: "Te (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ISFP's practical decision-making may conflict with INFJ's internal logic systems occasionally.",
+          zh: "ISFP的务实决策偶尔可能与INFJ的内部逻辑系统冲突。"
+        }
+      },
+      "Si_Ne": {
+        score: 68,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "ISFP's memory-based approach contrasts with INFJ's exploratory thinking, requiring patience.",
+          zh: "ISFP基于记忆的方法与INFJ的探索性思维形成对比，需要耐心。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISFPs value INFJ's depth and caring nature, while providing the practical support and sensory richness INFJs often lack. Their functional stack creates natural complementarity, with ISFP's Se balancing INFJ's Ni, though their different approaches to feeling (Fi vs Fe) requires mutual understanding.",
+      zh: "ISFP重视INFJ的深度和关怀本性，同时提供INFJ经常缺乏的实际支持和感官丰富性。他们的功能堆栈创造了自然的互补性，ISFP的Se平衡INFJ的Ni，尽管他们对感受的不同方法(Fi vs Fe)需要相互理解。"
+    },
+    growthPotential: {
+      en: "ISFPs can develop greater future-orientation and conceptual thinking from INFJs, while INFJs benefit from ISFP's ability to live authentically in the present moment and appreciate sensory experiences.",
+      zh: "ISFP可以从INFJ那里发展更强的未来导向和概念思维，而INFJ受益于ISFP在当下真实生活和欣赏感官体验的能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISFPs and INFJs resolve conflicts?",
+          zh: "ISFP和INFJ如何解决冲突？"
+        },
+        answer: {
+          en: "By respecting each other's communication styles - ISFPs needing space to process, INFJs wanting to discuss immediately - and finding middle ground.",
+          zh: "通过尊重彼此的沟通方式 - ISFP需要空间来处理，INFJ希望立即讨论 - 并找到中间立场。"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+```typescript
+"INTJ": {
+  "ENFJ": {
+    overallScore: 85,
+    mediator: "ENFJ",
+    provider: "INTJ",
+    summary: {
+      en: "INTJ and ENFJ form a complementary pairing where strategic thinking meets emotional intelligence. The INTJ's Ni-Te provides visionary planning while the ENFJ's Fe-Ni offers social harmony. Their shared intuition creates mutual understanding, though the INTJ may find the ENFJ overly expressive while the ENFJ might see the INTJ as emotionally distant. When balanced, they create a powerful combination of logic and empathy.",
+      zh: "INTJ和ENFJ形成战略思维与情商互补的组合。INTJ的Ni-Te提供远见规划，而ENFJ的Fe-Ni带来社交和谐。他们共有的直觉功能创造相互理解，尽管INTJ可能觉得ENFJ过于情感外露，而ENFJ可能认为INTJ情感疏离。平衡时，他们能创造逻辑与共情的强大结合。"
+    },
+    relationshipType: {
+      en: "Visionary Partners",
+      zh: "远见伙伴"
+    },
+    relationshipDesc: {
+      en: "A relationship where big-picture thinking meets human connection, creating both intellectual and emotional synergy.",
+      zh: "这种关系将宏观思维与人际连接结合，创造智力与情感的双重协同。"
+    },
+    sharedValues: {
+      en: "Growth & Purpose",
+      zh: "成长与目标"
+    },
+    sharedValuesDesc: {
+      en: "Both types value personal development and meaningful pursuits, though they approach them differently - INTJs through systems and ENFJs through relationships.",
+      zh: "两种类型都重视个人发展和有意义的目标，尽管方式不同——INTJ通过系统，ENFJ通过人际关系。"
+    },
+    communicationStyle: {
+      en: "Conceptual-Emotional",
+      zh: "概念-情感型"
+    },
+    communicationDesc: {
+      en: "INTJs communicate abstract ideas while ENFJs focus on emotional impact. They must bridge this gap for effective dialogue.",
+      zh: "INTJ交流抽象概念而ENFJ关注情感影响。他们需要弥合这一差异才能有效沟通。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Ni": {
+        score: 92,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "Their shared intuition creates deep understanding of patterns and future possibilities, forming a strong mental connection.",
+          zh: "共有的直觉功能让他们对模式和未来可能性有深刻理解，形成强大的思维连接。"
+        }
+      },
+      "Te_Fe": {
+        score: 78,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "INTJ's logical approach may clash with ENFJ's focus on harmony, but can balance each other when respected.",
+          zh: "INTJ的逻辑方式可能与ENFJ对和谐的关注冲突，但若相互尊重则可平衡互补。"
+        }
+      },
+      "Fi_Ti": {
+        score: 82,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their developing introspective functions allow mutual appreciation for personal values and analytical depth.",
+          zh: "他们发展中的内省功能使双方能欣赏彼此的个人价值观和分析深度。"
+        }
+      },
+      "Se_Se": {
+        score: 68,
+        type1Function: "Se (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Shared struggle with sensory engagement can create bonding through mutual growth in this area.",
+          zh: "在感官参与方面的共同挣扎可通过在此领域的共同成长创造联结。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared intuition (Ni) that creates mental synergy, while their differing judging functions (Te/Fe) provide complementary strengths. The INTJ brings strategic depth while the ENFJ offers social intelligence, making them effective partners when they appreciate their differences.",
+      zh: "他们的兼容性源于创造思维协同的共有直觉(Ni)，而不同的判断功能(Te/Fe)提供互补优势。INTJ带来战略深度，ENFJ提供社交智慧，当欣赏彼此差异时，他们能成为高效伙伴。"
+    },
+    growthPotential: {
+      en: "INTJs can develop emotional intelligence and social skills from ENFJs, while ENFJs can learn strategic thinking and objective analysis from INTJs. Their greatest growth comes from integrating these complementary perspectives.",
+      zh: "INTJ可从ENFJ处发展情商和社交技能，而ENFJ可从INTJ处学习战略思维和客观分析。他们最大的成长来自整合这些互补视角。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTJs and ENFJs resolve conflicts?",
+          zh: "INTJ和ENFJ如何解决冲突？"
+        },
+        answer: {
+          en: "INTJs should articulate logical concerns clearly while ENFJs should express emotional needs directly. Finding common ground in their shared vision helps bridge differences.",
+          zh: "INTJ应清晰表达逻辑关切，而ENFJ应直接表达情感需求。在他们共同的愿景中找到共同点有助于弥合分歧。"
+        }
+      }
+    ]
+  }
+},
+"ENFJ": {
+  "INTJ": {
+    overallScore: 83,
+    mediator: "ENFJ",
+    provider: "INTJ",
+    summary: {
+      en: "ENFJs are drawn to INTJs' depth of thought while INTJs appreciate ENFJs' social grace. The ENFJ's warmth can soften the INTJ's reserve, while the INTJ's clarity can ground the ENFJ's idealism. Their relationship thrives when the ENFJ respects the INTJ's need for independence and the INTJ values the ENFJ's emotional insights.",
+      zh: "ENFJ被INTJ的思想深度吸引，而INTJ欣赏ENFJ的社交魅力。ENFJ的温暖可软化INTJ的保留，而INTJ的清晰能让ENFJ的理想主义落地。当ENFJ尊重INTJ对独立的需求且INTJ重视ENFJ的情感洞察时，他们的关系会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Balanced Mentors",
+      zh: "平衡导师"
+    },
+    relationshipDesc: {
+      en: "A dynamic where each type mentors the other in their weaker areas - ENFJs in relationships, INTJs in systems thinking.",
+      zh: "每种类型都在对方较弱领域相互指导——ENFJ指导人际关系，INTJ指导系统思维。"
+    },
+    sharedValues: {
+      en: "Impact & Improvement",
+      zh: "影响与改进"
+    },
+    sharedValuesDesc: {
+      en: "Both desire to make meaningful contributions and continuously better themselves, though their methods differ significantly.",
+      zh: "双方都希望做出有意义的贡献并持续自我提升，尽管他们的方法差异显著。"
+    },
+    communicationStyle: {
+      en: "Empathic-Analytical",
+      zh: "共情-分析型"
+    },
+    communicationDesc: {
+      en: "ENFJs lead with emotional attunement while INTJs prioritize factual accuracy. Successful communication requires meeting halfway.",
+      zh: "ENFJ以情感协调为主导，而INTJ优先考虑事实准确性。成功的沟通需要折中。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Te": {
+        score: 76,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ENFJ's focus on group harmony may initially conflict with INTJ's efficiency-driven approach, but can complement when balanced.",
+          zh: "ENFJ对群体和谐的关注最初可能与INTJ效率驱动的方式冲突，但平衡时可互补。"
+        }
+      },
+      "Ni_Ni": {
+        score: 90,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Their shared intuitive perspective creates a rare depth of understanding and future-oriented thinking.",
+          zh: "他们共有的直觉视角创造了罕见的深刻理解和面向未来的思维。"
+        }
+      },
+      "Se_Se": {
+        score: 65,
+        type1Function: "Se (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both may neglect practical details but can support each other in developing this area.",
+          zh: "双方都可能忽视实际细节，但可以相互支持发展这一领域。"
+        }
+      },
+      "Ti_Fi": {
+        score: 80,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their developing introverted judging functions allow appreciation for each other's decision-making processes.",
+          zh: "他们发展中的内倾判断功能使双方能欣赏彼此的决策过程。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFJs and INTJs connect through their shared Ni perspective while balancing each other with Fe/Te differences. The ENFJ helps the INTJ navigate social complexities while the INTJ helps the ENFJ maintain objective standards. Their mutual respect for competence and vision sustains the relationship.",
+      zh: "ENFJ和INTJ通过共有的Ni视角连接，同时以Fe/Te差异相互平衡。ENFJ帮助INTJ应对社交复杂性，而INTJ帮助ENFJ保持客观标准。他们对能力和愿景的相互尊重维持着这段关系。"
+    },
+    growthPotential: {
+      en: "ENFJs can develop more objective decision-making from INTJs, while INTJs can cultivate greater emotional awareness from ENFJs. Their greatest growth comes when they consciously learn from each other's strengths.",
+      zh: "ENFJ可从INTJ处发展更客观的决策能力，而INTJ可从ENFJ处培养更强的情绪意识。当他们有意识地从对方优势中学习时，能获得最大成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ENFJs to INTJs?",
+          zh: "ENFJ被INTJ什么特质吸引？"
+        },
+        answer: {
+          en: "ENFJs admire INTJs' intellectual depth, independence, and ability to see through superficiality - qualities that complement their own social strengths.",
+          zh: "ENFJ欣赏INTJ的智力深度、独立性以及看透肤浅的能力——这些特质与他们自身的社交优势互补。"
+        }
+      }
+    ]
+  }
+}
+```

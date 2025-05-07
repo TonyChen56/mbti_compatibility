@@ -1,0 +1,188 @@
+```typescript
+"INTJ": {
+  "ISFP": {
+    overallScore: 72,
+    mediator: "ISFP",
+    provider: "INTJ",
+    summary: {
+      en: "INTJ and ISFP form an intriguing but challenging pairing. The INTJ's strategic thinking contrasts with ISFP's present-focused sensitivity, creating both complementary strengths and potential friction. While INTJs provide structure and vision, ISFPs bring authenticity and adaptability. Their differences can lead to growth if both appreciate each other's perspectives.",
+      zh: "INTJ和ISFP形成了一种有趣但具有挑战性的配对。INTJ的战略思维与ISFP关注当下的敏感性形成对比，既创造了互补优势，也可能产生摩擦。虽然INTJ提供结构和远见，但ISFP带来真实性和适应性。如果双方都能欣赏对方的观点，他们的差异可以促进成长。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "This pairing pushes both types outside their comfort zones, fostering mutual development through their contrasting approaches.",
+      zh: "这种配对将两种类型都推出舒适区，通过他们截然不同的方法促进共同发展。"
+    },
+    sharedValues: {
+      en: "Authenticity & Depth",
+      zh: "真实性与深度"
+    },
+    sharedValuesDesc: {
+      en: "Both value genuine expression and meaningful connections, though they express and pursue these differently.",
+      zh: "双方都重视真实的表达和有意义的联系，尽管他们的表达和追求方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs Tactful",
+      zh: "直接vs委婉"
+    },
+    communicationDesc: {
+      en: "INTJs prefer straightforward logic while ISFPs communicate through nuance and feeling, requiring mutual adaptation.",
+      zh: "INTJ偏好直截了当的逻辑，而ISFP通过细微差别和感受交流，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Se": {
+        score: 75,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "INTJ's future vision can ground ISFP's sensory experiences, while ISFP helps INTJ appreciate present moments.",
+          zh: "INTJ的未来愿景可以夯实ISFP的感官体验，而ISFP帮助INTJ欣赏当下时刻。"
+        }
+      },
+      "Te_Fi": {
+        score: 68,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "INTJ's logical efficiency may clash with ISFP's personal values, requiring conscious compromise.",
+          zh: "INTJ的逻辑效率可能与ISFP的个人价值观冲突，需要有意识的妥协。"
+        }
+      },
+      "Fi_Te": {
+        score: 65,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "INTJ's developing values may resonate with ISFP, but their expression differs significantly.",
+          zh: "INTJ发展中的价值观可能与ISFP产生共鸣，但他们的表达方式差异很大。"
+        }
+      },
+      "Se_Ni": {
+        score: 70,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ISFP's sensory awareness can help INTJ connect with reality, though INTJ may resist this initially.",
+          zh: "ISFP的感官意识可以帮助INTJ与现实联系，尽管INTJ最初可能会抗拒。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions (Ni-Se axis) but faces challenges on the Te-Fi axis. INTJs admire ISFPs' authenticity while ISFPs respect INTJs' competence. Successful relationships require INTJs to soften their directness and ISFPs to articulate needs more clearly.",
+      zh: "他们的兼容性源于互补功能(Ni-Se轴)，但在Te-Fi轴上存在挑战。INTJ欣赏ISFP的真实性，而ISFP尊重INTJ的能力。成功的关系需要INTJ软化他们的直接性，而ISFP更清楚地表达需求。"
+    },
+    growthPotential: {
+      en: "INTJs can develop greater emotional awareness and present-moment appreciation, while ISFPs can cultivate strategic thinking and assertiveness through this relationship.",
+      zh: "INTJ可以发展更强的情绪意识和当下欣赏能力，而ISFP可以通过这种关系培养战略思维和自信。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTJs and ISFPs resolve conflicts effectively?",
+          zh: "INTJ和ISFP如何有效解决冲突？"
+        },
+        answer: {
+          en: "INTJs should express concerns logically but gently, while ISFPs should share feelings openly. Finding common ground in shared values helps bridge differences.",
+          zh: "INTJ应该以逻辑但温和的方式表达关切，而ISFP应该公开分享感受。在共同价值观中找到共同点有助于弥合分歧。"
+        }
+      }
+    ]
+  }
+},
+"ISFP": {
+  "INTJ": {
+    overallScore: 75,
+    mediator: "ISFP",
+    provider: "INTJ",
+    summary: {
+      en: "From the ISFP perspective, INTJs offer stability and intellectual stimulation that ISFPs may find intriguing. ISFPs appreciate INTJs' competence but may feel overwhelmed by their intensity. The ISFP's adaptability helps navigate this relationship, while their authenticity appeals to INTJs.",
+      zh: "从ISFP的角度来看，INTJ提供了ISFP可能觉得有趣的稳定性和智力刺激。ISFP欣赏INTJ的能力，但可能会被他们的强度压倒。ISFP的适应性有助于驾驭这种关系，而他们的真实性吸引着INTJ。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的对立面"
+    },
+    relationshipDesc: {
+      en: "ISFPs often admire INTJs' confidence and vision, while INTJs respect ISFPs' genuineness and flexibility.",
+      zh: "ISFP通常钦佩INTJ的自信和远见，而INTJ尊重ISFP的真实性和灵活性。"
+    },
+    sharedValues: {
+      en: "Integrity & Independence",
+      zh: "正直与独立"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal integrity and autonomy, though they manifest these differently in daily life.",
+      zh: "两种类型都非常重视个人正直和自主权，尽管他们在日常生活中表现不同。"
+    },
+    communicationStyle: {
+      en: "Harmonious vs Analytical",
+      zh: "和谐vs分析"
+    },
+    communicationDesc: {
+      en: "ISFPs prioritize maintaining harmony while INTJs focus on problem-solving, requiring mutual understanding of these priorities.",
+      zh: "ISFP优先考虑保持和谐，而INTJ专注于解决问题，需要相互理解这些优先事项。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ni": {
+        score: 78,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ISFP's sensory awareness complements INTJ's intuition, creating a balanced perception of reality.",
+          zh: "ISFP的感官意识补充了INTJ的直觉，创造了对现实的平衡感知。"
+        }
+      },
+      "Fi_Te": {
+        score: 70,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ISFP's strong values can ground INTJ's logical approach when balanced properly.",
+          zh: "当适当平衡时，ISFP的强烈价值观可以夯实INTJ的逻辑方法。"
+        }
+      },
+      "Te_Fi": {
+        score: 65,
+        type1Function: "Te (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ISFP may struggle with INTJ's decisive logic but can learn practical skills from it.",
+          zh: "ISFP可能会与INTJ的决定性逻辑斗争，但可以从中学习实用技能。"
+        }
+      },
+      "Ni_Se": {
+        score: 72,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "INTJ's vision can inspire ISFP, while ISFP helps INTJ stay connected to sensory reality.",
+          zh: "INTJ的愿景可以激励ISFP，而ISFP帮助INTJ保持与感官现实的联系。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISFPs often feel initially drawn to INTJs' confidence and competence, while INTJs appreciate ISFPs' authenticity. The relationship works best when ISFPs assert their needs and INTJs make space for emotional expression. Their complementary functions create balance if both respect differences.",
+      zh: "ISFP最初经常被INTJ的自信和能力所吸引，而INTJ欣赏ISFP的真实性。当ISFP坚持自己的需求而INTJ为情感表达留出空间时，这种关系效果最好。如果双方都尊重差异，他们的互补功能会创造平衡。"
+    },
+    growthPotential: {
+      en: "ISFPs can develop greater strategic thinking and assertiveness, while INTJs learn emotional sensitivity and flexibility through this pairing.",
+      zh: "ISFP可以发展更强的战略思维和自信，而INTJ通过这种配对学习情感敏感性和灵活性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ISFPs to INTJs initially?",
+          zh: "最初是什么吸引ISFP到INTJ？"
+        },
+        answer: {
+          en: "ISFPs are often drawn to INTJs' confidence, competence, and intellectual depth, finding these qualities intriguing and admirable.",
+          zh: "ISFP通常被INTJ的自信、能力和智力深度所吸引，发现这些品质有趣且令人钦佩。"
+        }
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,188 @@
+```typescript
+"ENFJ": {
+  "ISFP": {
+    overallScore: 82,
+    mediator: "ENFJ",
+    provider: "ISFP",
+    summary: {
+      en: "ENFJs and ISFPs form a complementary relationship where ENFJs provide vision and social connection while ISFPs bring authenticity and present-moment awareness. The ENFJ's extraverted feeling (Fe) harmonizes well with the ISFP's introverted feeling (Fi), creating mutual appreciation for emotional depth. However, ENFJs may need to adjust their tendency to organize others, while ISFPs can help ground ENFJs in tangible experiences.",
+      zh: "ENFJ和ISFP形成互补关系，ENFJ提供愿景和社交连接，而ISFP带来真实性和当下意识。ENFJ的外向情感(Fe)与ISFP的内向情感(Fi)和谐相处，产生对情感深度的相互欣赏。不过ENFJ可能需要调整他们组织他人的倾向，而ISFP可以帮助ENFJ扎根于具体体验中。"
+    },
+    relationshipType: {
+      en: "Harmony Seekers",
+      zh: "和谐追求者"
+    },
+    relationshipDesc: {
+      en: "A balanced pairing where ENFJs inspire action while ISFPs provide thoughtful reflection and aesthetic sensitivity.",
+      zh: "一种平衡的配对，ENFJ激励行动，而ISFP提供深思熟虑的反思和审美敏感度。"
+    },
+    sharedValues: {
+      en: "Authenticity & Harmony",
+      zh: "真实性与和谐"
+    },
+    sharedValuesDesc: {
+      en: "Both types value genuine emotional expression and seek to create harmonious environments, though they approach this differently.",
+      zh: "两种类型都重视真实的情感表达并寻求创造和谐环境，尽管他们的方式不同。"
+    },
+    communicationStyle: {
+      en: "Expressive-Measured",
+      zh: "表达型-审慎型"
+    },
+    communicationDesc: {
+      en: "ENFJs communicate enthusiastically about possibilities while ISFPs prefer concrete, sensory-based discussions.",
+      zh: "ENFJ热情地交流可能性，而ISFP更喜欢具体的、基于感官的讨论。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Fi": {
+        score: 85,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Both value emotional authenticity but express it differently - ENFJs externally focused while ISFPs internally oriented.",
+          zh: "两者都重视情感真实性但表达方式不同 - ENFJ外向关注而ISFP内向导向。"
+        }
+      },
+      "Ni_Se": {
+        score: 78,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ISFP's Se helps ENFJ stay present while ENFJ's Ni offers future insights that intrigue the ISFP.",
+          zh: "ISFP的Se帮助ENFJ保持当下，而ENFJ的Ni提供吸引ISFP的未来洞察。"
+        }
+      },
+      "Se_Ni": {
+        score: 75,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ENFJ can learn to appreciate sensory details from ISFP, while ISFP may benefit from ENFJ's intuitive perspectives.",
+          zh: "ENFJ可以从ISFP那里学会欣赏感官细节，而ISFP可能受益于ENFJ的直觉视角。"
+        }
+      },
+      "Ti_Te": {
+        score: 68,
+        type1Function: "Ti (Critical Parent)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Both types share weaker thinking functions but can develop logical analysis skills together.",
+          zh: "两种类型的思考功能都较弱，但可以共同发展逻辑分析能力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions - ENFJ's Fe-Ni balances ISFP's Fi-Se, creating a relationship where both can grow. ENFJs appreciate ISFPs' authenticity while ISFPs value ENFJs' social warmth. Potential challenges arise from ENFJs' desire for structure conflicting with ISFPs' preference for spontaneity.",
+      zh: "他们的兼容性源于互补功能 - ENFJ的Fe-Ni平衡ISFP的Fi-Se，创造了一个双方都能成长的关系。ENFJ欣赏ISFP的真实性，而ISFP重视ENFJ的社交热情。潜在挑战来自ENFJ对结构的渴望与ISFP对自发性的偏好之间的冲突。"
+    },
+    growthPotential: {
+      en: "ENFJs can develop greater present-moment awareness from ISFPs, while ISFPs may expand their social confidence through ENFJs. Both benefit from appreciating their different approaches to emotional expression.",
+      zh: "ENFJ可以从ISFP那里发展更强的当下意识，而ISFP可能通过ENFJ扩展他们的社交信心。双方都受益于欣赏他们不同的情感表达方式。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENFJs avoid overwhelming ISFPs with their enthusiasm?",
+          zh: "ENFJ如何避免用他们的热情压倒ISFP？"
+        },
+        answer: {
+          en: "ENFJs should practice giving ISFPs space and expressing ideas in more concrete, sensory terms rather than abstract concepts.",
+          zh: "ENFJ应该练习给ISFP空间，并用更具体、感官的术语而不是抽象概念来表达想法。"
+        }
+      }
+    ]
+  }
+},
+"ISFP": {
+  "ENFJ": {
+    overallScore: 80,
+    mediator: "ENFJ",
+    provider: "ISFP",
+    summary: {
+      en: "ISFPs find ENFJs inspiring yet sometimes overwhelming, appreciating their warmth but needing space for independence. The ISFP's artistic sensibility complements the ENFJ's visionary nature, creating potential for creative collaboration. ISFPs help ENFJs slow down and appreciate beauty in the present moment.",
+      zh: "ISFP觉得ENFJ鼓舞人心但有时令人难以招架，欣赏他们的热情但需要独立空间。ISFP的艺术敏感性与ENFJ的远见卓识相辅相成，为创造性合作创造了潜力。ISFP帮助ENFJ放慢脚步，欣赏当下的美好。"
+    },
+    relationshipType: {
+      en: "Creative Balance",
+      zh: "创造性平衡"
+    },
+    relationshipDesc: {
+      en: "ISFPs ground ENFJs in sensory reality while ENFJs help ISFPs see broader possibilities.",
+      zh: "ISFP将ENFJ锚定在感官现实中，而ENFJ帮助ISFP看到更广泛的可能性。"
+    },
+    sharedValues: {
+      en: "Personal Growth & Aesthetics",
+      zh: "个人成长与美学"
+    },
+    sharedValuesDesc: {
+      en: "Both types value personal development and aesthetic experiences, though ISFPs focus more on individual expression while ENFJs emphasize collective harmony.",
+      zh: "两种类型都重视个人发展和审美体验，尽管ISFP更关注个人表达而ENFJ强调集体和谐。"
+    },
+    communicationStyle: {
+      en: "Tactile-Visual",
+      zh: "触觉-视觉型"
+    },
+    communicationDesc: {
+      en: "ISFPs communicate through actions and sensory experiences while ENFJs prefer verbal and symbolic expression.",
+      zh: "ISFP通过行动和感官体验交流，而ENFJ更喜欢语言和象征性表达。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Fe": {
+        score: 83,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Both prioritize feelings but ISFPs focus on internal values while ENFJs seek external harmony.",
+          zh: "两者都优先考虑感受，但ISFP关注内在价值观而ENFJ寻求外部和谐。"
+        }
+      },
+      "Se_Ni": {
+        score: 77,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ISFP's present-focused Se helps balance ENFJ's future-oriented Ni tendencies.",
+          zh: "ISFP关注当下的Se有助于平衡ENFJ面向未来的Ni倾向。"
+        }
+      },
+      "Ni_Se": {
+        score: 74,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "ENFJ's intuition can inspire ISFPs while ISFPs help ENFJs appreciate sensory details.",
+          zh: "ENFJ的直觉可以激励ISFP，而ISFP帮助ENFJ欣赏感官细节。"
+        }
+      },
+      "Te_Ti": {
+        score: 65,
+        type1Function: "Te (Inferior)",
+        type2Function: "Ti (Critical Parent)",
+        description: {
+          en: "Both share underdeveloped thinking functions but can develop logical skills together.",
+          zh: "两者都有未充分发展的思考功能，但可以共同发展逻辑技能。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well because ISFPs' authenticity grounds ENFJs' idealism, while ENFJs help ISFPs expand their social connections. Challenges may arise when ENFJs push for premature decisions before ISFPs feel ready, or when ISFPs' need for solitude conflicts with ENFJs' desire for togetherness.",
+      zh: "这种配对效果很好，因为ISFP的真实性使ENFJ的理想主义落地，而ENFJ帮助ISFP扩展他们的社交联系。当ENFJ在ISFP准备好之前推动过早的决定，或者当ISFP对独处的需求与ENFJ对团聚的渴望冲突时，可能会出现挑战。"
+    },
+    growthPotential: {
+      en: "ISFPs can develop greater social confidence through ENFJs, while ENFJs learn to appreciate the present moment from ISFPs. Both benefit from balancing action with reflection.",
+      zh: "ISFP可以通过ENFJ发展更强的社交信心，而ENFJ从ISFP那里学会欣赏当下。双方都受益于平衡行动与反思。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISFPs communicate their need for space without hurting ENFJs' feelings?",
+          zh: "ISFP如何在不伤害ENFJ感情的情况下表达他们对空间的需求？"
+        },
+        answer: {
+          en: "ISFPs should frame their alone time as personal rejuvenation rather than rejection, reassuring ENFJs of their continued care.",
+          zh: "ISFP应该将他们的独处时间描述为个人恢复活力而不是拒绝，向ENFJ保证他们持续的关心。"
+        }
+      }
+    ]
+  }
+}
+```

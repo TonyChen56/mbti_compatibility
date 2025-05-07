@@ -1,0 +1,188 @@
+```typescript
+"ISTP": {
+  "ESTP": {
+    overallScore: 85,
+    mediator: "ISTP",
+    provider: "ESTP",
+    summary: {
+      en: "ISTP and ESTP share a dynamic and action-oriented compatibility. Both types are pragmatic, adaptable, and enjoy hands-on experiences. While ISTPs are more reserved and introspective, ESTPs bring energy and social engagement to the relationship. Their shared dominant Ti and auxiliary Se create a strong foundation for understanding each other's thought processes and enjoying spontaneous activities together.",
+      zh: "ISTP和ESTP之间有着充满活力且注重行动的兼容性。两种类型都务实、适应力强，喜欢实践体验。ISTP更为内敛和自省，而ESTP则为关系带来活力和社交互动。他们共同的主导功能Ti和辅助功能Se为理解彼此的思维过程和享受即兴活动奠定了坚实基础。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A high-energy pairing that thrives on shared experiences and practical problem-solving.",
+      zh: "一个充满活力的组合，在共同经历和实际问题解决中蓬勃发展。"
+    },
+    sharedValues: {
+      en: "Freedom & Action",
+      zh: "自由与行动"
+    },
+    sharedValuesDesc: {
+      en: "Both value independence, hands-on learning, and living in the present moment.",
+      zh: "双方都重视独立性、实践学习和活在当下。"
+    },
+    communicationStyle: {
+      en: "Direct & Pragmatic",
+      zh: "直接且务实"
+    },
+    communicationDesc: {
+      en: "Communication is straightforward, focused on practical matters and immediate experiences.",
+      zh: "沟通直接了当，专注于实际问题和即时体验。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Ti": {
+        score: 90,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "Shared dominant Ti creates strong logical understanding and problem-solving synergy.",
+          zh: "共同的主导Ti功能创造了强大的逻辑理解和问题解决协同效应。"
+        }
+      },
+      "Se_Se": {
+        score: 88,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "Shared Se makes them highly attuned to sensory experiences and present-moment awareness.",
+          zh: "共同的Se功能使他们高度适应感官体验和当下意识。"
+        }
+      },
+      "Ni_Fe": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "ISTP's Ni and ESTP's Fe can create some differences in long-term vision and social harmony.",
+          zh: "ISTP的Ni和ESTP的Fe可能在长期愿景和社会和谐方面存在一些差异。"
+        }
+      },
+      "Fe_Ni": {
+        score: 72,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both may struggle with their inferior functions but can help each other develop these areas.",
+          zh: "双方都可能与自己的劣势功能斗争，但可以互相帮助发展这些方面。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared dominant Ti and auxiliary Se, creating natural understanding and enjoyment of practical activities. Differences in extraversion/introversion balance the relationship, with ESTP bringing social energy and ISTP providing thoughtful reflection.",
+      zh: "他们的兼容性源于共同的主导Ti和辅助Se功能，创造了自然理解和实践活动的乐趣。外向/内向的差异平衡了关系，ESTP带来社交能量，ISTP提供深思熟虑。"
+    },
+    growthPotential: {
+      en: "ISTP can help ESTP develop deeper reflection, while ESTP can encourage ISTP to engage more socially. Both can improve emotional expression through developing their inferior functions.",
+      zh: "ISTP可以帮助ESTP发展更深层次的反思，而ESTP可以鼓励ISTP更多地参与社交。双方都可以通过发展劣势功能来改善情感表达。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the main challenges in an ISTP-ESTP relationship?",
+          zh: "ISTP-ESTP关系中的主要挑战是什么？"
+        },
+        answer: {
+          en: "The main challenges may include differing social energy levels and approaches to long-term planning, with ISTP preferring more solitude and ESTP seeking more external stimulation.",
+          zh: "主要挑战可能包括不同的社交能量水平和对长期规划的方法，ISTP更喜欢独处，而ESTP寻求更多的外部刺激。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "ISTP": {
+    overallScore: 87,
+    mediator: "ISTP",
+    provider: "ESTP",
+    summary: {
+      en: "ESTP and ISTP form a highly compatible pair due to their shared cognitive functions and practical outlook. ESTPs appreciate ISTP's technical skills and calm demeanor, while ISTPs value ESTP's enthusiasm and ability to draw them out of their shell. Their relationship is characterized by mutual respect for competence and a love for hands-on activities.",
+      zh: "ESTP和ISTP由于共同的认知功能和务实观点形成了高度兼容的一对。ESTP欣赏ISTP的技术能力和冷静举止，而ISTP重视ESTP的热情和引导他们走出舒适区的能力。他们的关系特点是相互尊重能力并热爱实践活动。"
+    },
+    relationshipType: {
+      en: "Dynamic Duo",
+      zh: "活力二人组"
+    },
+    relationshipDesc: {
+      en: "A complementary partnership where both types bring out each other's strengths in action-oriented situations.",
+      zh: "一种互补的伙伴关系，在行动导向的情境中双方都能发挥彼此的优势。"
+    },
+    sharedValues: {
+      en: "Competence & Spontaneity",
+      zh: "能力与自发性"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value practical skills, quick thinking, and the ability to adapt to changing circumstances.",
+      zh: "双方都非常重视实践技能、快速思考和适应变化环境的能力。"
+    },
+    communicationStyle: {
+      en: "Concise & Action-Oriented",
+      zh: "简洁且行动导向"
+    },
+    communicationDesc: {
+      en: "Conversations are brief, to-the-point, and often focused on immediate plans or problem-solving.",
+      zh: "对话简短扼要，通常专注于即时计划或问题解决。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Ti": {
+        score: 92,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "Their shared Ti creates a strong bond through similar logical frameworks and analytical approaches.",
+          zh: "他们共同的Ti通过相似的逻辑框架和分析方法创造了强大的联系。"
+        }
+      },
+      "Se_Se": {
+        score: 90,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "Shared Se makes them highly compatible in physical activities and present-moment awareness.",
+          zh: "共同的Se使他们在体育活动和当下意识方面高度兼容。"
+        }
+      },
+      "Fe_Ni": {
+        score: 68,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ESTP's Fe and ISTP's Ni can sometimes create minor misunderstandings about social dynamics and future planning.",
+          zh: "ESTP的Fe和ISTP的Ni有时会在社交动态和未来规划方面产生小误解。"
+        }
+      },
+      "Ni_Fe": {
+        score: 70,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both may need to consciously work on their inferior functions to achieve better emotional connection and long-term vision.",
+          zh: "双方可能需要有意识地努力发展劣势功能，以实现更好的情感联系和长期愿景。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The natural compatibility comes from their identical function stack (Ti-Se-Ni-Fe), with ESTP's extraversion complementing ISTP's introversion. They understand each other's need for independence while enjoying shared practical pursuits.",
+      zh: "自然的兼容性来自他们相同的功能栈(Ti-Se-Ni-Fe)，ESTP的外向性补充了ISTP的内向性。他们理解彼此对独立的需求，同时享受共同的实践追求。"
+    },
+    growthPotential: {
+      en: "ESTP can help ISTP engage more with the external world, while ISTP can teach ESTP the value of focused reflection. Together they can develop greater emotional intelligence and future-oriented thinking.",
+      zh: "ESTP可以帮助ISTP更多地参与外部世界，而ISTP可以教导ESTP专注反思的价值。他们可以共同发展更高的情商和面向未来的思维。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ESTP and ISTP handle conflicts differently?",
+          zh: "ESTP和ISTP处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "ESTPs tend to address conflicts directly and immediately, while ISTPs may need time to process before responding. However, both prefer logical solutions over emotional confrontations.",
+          zh: "ESTP倾向于直接立即解决冲突，而ISTP可能需要时间处理后再回应。然而，双方都更喜欢逻辑解决方案而非情感对抗。"
+        }
+      }
+    ]
+  }
+}
+```

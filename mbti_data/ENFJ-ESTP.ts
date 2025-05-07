@@ -1,0 +1,186 @@
+{
+  "ESTP": {
+    overallScore: 82,
+    mediator: "ENFJ",
+    provider: "ESTP",
+    summary: {
+      en: "ENFJs and ESTPs form a dynamic and energetic pairing where the ENFJ's warmth and idealism complements the ESTP's practicality and spontaneity. The ENFJ provides emotional depth and vision, while the ESTP brings action and adaptability. Their extroverted nature creates an active social life, though they may need to work on balancing the ENFJ's need for emotional connection with the ESTP's preference for living in the moment.",
+      zh: "ENFJ和ESTP形成充满活力和能量的配对，ENFJ的热情和理想主义与ESTP的务实和随性相互补充。ENFJ提供情感深度和愿景，而ESTP带来行动力和适应力。他们外向的性格创造了活跃的社交生活，但需要平衡ENFJ对情感连接的需求与ESTP活在当下的偏好。"
+    },
+    relationshipType: {
+      en: "Dynamic Energizers",
+      zh: "活力催化剂"
+    },
+    relationshipDesc: {
+      en: "A high-energy partnership that thrives on mutual stimulation and shared adventures.",
+      zh: "建立在相互激励和共同冒险基础上的高能量伙伴关系。"
+    },
+    sharedValues: {
+      en: "Action & Social Connection",
+      zh: "行动力与社交连接"
+    },
+    sharedValuesDesc: {
+      en: "Both value active lifestyles and meaningful social interactions, though they express these differently.",
+      zh: "双方都重视积极的生活方式和有意义的社交互动，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Expressive & Direct",
+      zh: "表达型与直接型"
+    },
+    communicationDesc: {
+      en: "ENFJs communicate with emotional warmth while ESTPs are straightforward - this contrast can be complementary.",
+      zh: "ENFJ带着情感温度沟通，而ESTP则直截了当——这种对比可以形成互补。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Se": {
+        score: 88,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "Their dominant functions create strong external focus - ENFJ on people harmony, ESTP on sensory experiences.",
+          zh: "他们的主导功能都聚焦外部——ENFJ关注人际和谐，ESTP关注感官体验。"
+        }
+      },
+      "Ni_Ti": {
+        score: 72,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "ENFJ's developing intuition can appreciate ESTP's logical analysis, though they approach problems differently.",
+          zh: "ENFJ发展中的直觉能欣赏ESTP的逻辑分析，尽管他们解决问题的方式不同。"
+        }
+      },
+      "Se_Fe": {
+        score: 85,
+        type1Function: "Se (Inferior)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "ESTP's emerging emotional awareness connects with ENFJ's values, while ENFJ can learn spontaneity from ESTP.",
+          zh: "ESTP逐渐显现的情感意识与ENFJ的价值观相连，而ENFJ可以从ESTP那里学习随性。"
+        }
+      },
+      "Ti_Ni": {
+        score: 68,
+        type1Function: "Ti (Critical Parent)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Potential tension point as ENFJ may critique ESTP's logic while ESTP struggles with ENFJ's abstract visions.",
+          zh: "潜在紧张点：ENFJ可能批评ESTP的逻辑，而ESTP难以理解ENFJ的抽象愿景。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extroversion and complementary strengths - ENFJ provides emotional depth while ESTP offers practical action. Challenges may arise from ENFJ's need for emotional connection versus ESTP's present-focused nature, but their mutual energy creates exciting possibilities.",
+      zh: "他们的兼容性源于共同的外向性和互补优势——ENFJ提供情感深度，ESTP提供实际行动。ENFJ对情感连接的需求与ESTP关注当下的天性可能产生挑战，但彼此的能量创造了令人兴奋的可能性。"
+    },
+    growthPotential: {
+      en: "ENFJ can help ESTP develop emotional intelligence while ESTP can teach ENFJ to be more spontaneous. Together they can balance vision with action.",
+      zh: "ENFJ可以帮助ESTP发展情商，而ESTP可以教会ENFJ更随性。他们可以共同平衡愿景与行动。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENFJ and ESTP handle conflicts?",
+          zh: "ENFJ和ESTP如何处理冲突？"
+        },
+        answer: {
+          en: "ENFJs want to discuss feelings while ESTPs prefer practical solutions. Finding a middle ground is key.",
+          zh: "ENFJ希望讨论感受，而ESTP更喜欢实际解决方案。找到中间立场是关键。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "ENFJ": {
+    overallScore: 80,
+    mediator: "ENFJ",
+    provider: "ESTP",
+    summary: {
+      en: "ESTPs appreciate ENFJs' charisma and ability to connect people, while ENFJs admire ESTPs' boldness and ability to take action. This pairing enjoys an active social life but may need to work on deeper emotional connection. The ESTP's realism can ground the ENFJ's idealism, while the ENFJ can help the ESTP consider long-term consequences.",
+      zh: "ESTP欣赏ENFJ的魅力和连接人们的能力，而ENFJ钦佩ESTP的大胆和行动力。这对组合享受活跃的社交生活，但可能需要建立更深的情感连接。ESTP的现实主义可以使ENFJ的理想主义落地，而ENFJ可以帮助ESTP考虑长期后果。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A lively duo that combines social charm with thrill-seeking energy.",
+      zh: "将社交魅力与寻求刺激的能量结合在一起的活跃二人组。"
+    },
+    sharedValues: {
+      en: "Excitement & Social Impact",
+      zh: "刺激感与社会影响"
+    },
+    sharedValuesDesc: {
+      en: "Both enjoy being center of attention and making things happen, though with different motivations.",
+      zh: "双方都喜欢成为关注中心并使事情发生，尽管动机不同。"
+    },
+    communicationStyle: {
+      en: "Direct & Engaging",
+      zh: "直接型与互动型"
+    },
+    communicationDesc: {
+      en: "ESTP's straightforwardness pairs with ENFJ's engaging style - energetic but may miss deeper topics.",
+      zh: "ESTP的直接了当与ENFJ的互动风格相配——充满活力但可能忽略更深层话题。"
+    },
+    cognitiveCompatibility: {
+      "Se_Fe": {
+        score: 86,
+        type1Function: "Se (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Both focus outwardly - ESTP on immediate experiences, ENFJ on group dynamics, creating energetic synergy.",
+          zh: "都向外聚焦——ESTP关注即时体验，ENFJ关注群体动态，创造能量协同。"
+        }
+      },
+      "Ti_Ni": {
+        score: 70,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ESTP's logical analysis can help ground ENFJ's intuitive insights when balanced properly.",
+          zh: "当平衡得当时，ESTP的逻辑分析可以帮助ENFJ的直觉洞察落地。"
+        }
+      },
+      "Fe_Se": {
+        score: 84,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "ESTP's developing social awareness connects with ENFJ's strengths, while ENFJ can learn presence from ESTP.",
+          zh: "ESTP发展中的社交意识与ENFJ的优势相连，而ENFJ可以从ESTP那里学习临在感。"
+        }
+      },
+      "Ni_Ti": {
+        score: 65,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Ti (Critical Parent)",
+        description: {
+          en: "Potential friction as ENFJ may critique ESTP's lack of long-term thinking which ESTP finds limiting.",
+          zh: "潜在摩擦：ENFJ可能批评ESTP缺乏长远思考，而ESTP觉得这限制了自己。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well due to their shared energy and complementary perspectives - ESTP brings spontaneity while ENFJ provides social insight. They may need to consciously create space for emotional intimacy beyond their active shared experiences.",
+      zh: "由于共同的能量和互补的视角，这对组合运作良好——ESTP带来随性，ENFJ提供社交洞察。他们可能需要有意识地超越活跃的共同体验，为情感亲密创造空间。"
+    },
+    growthPotential: {
+      en: "ESTP can develop emotional intelligence through ENFJ's example, while ENFJ can learn to be more present-focused. Together they balance action with meaning.",
+      zh: "ESTP可以通过ENFJ的榜样发展情商，而ENFJ可以学习更关注当下。他们共同平衡行动与意义。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do ENFJ and ESTP enjoy together?",
+          zh: "ENFJ和ESTP喜欢一起做什么活动？"
+        },
+        answer: {
+          en: "They thrive in social events, sports, or any activity combining people and action - parties, team sports, or adventure travel.",
+          zh: "他们在社交活动、运动或任何结合人群和行动的活动（派对、团队运动或冒险旅行）中表现活跃。"
+        }
+      }
+    ]
+  }
+}

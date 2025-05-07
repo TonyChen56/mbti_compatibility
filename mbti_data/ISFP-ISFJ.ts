@@ -1,0 +1,185 @@
+{
+  "ISFJ": {
+    overallScore: 82,
+    mediator: "ISFP",
+    provider: "ISFJ",
+    summary: {
+      en: "ISFPs and ISFJs share a warm, considerate approach to relationships with strong practical care for others. While ISFPs lead with introverted Feeling (Fi) seeking authentic self-expression, ISFJs lead with introverted Sensing (Si) valuing tradition and stability. Their shared auxiliary Extraverted Feeling (Fe) creates harmony, though ISFPs may find ISFJs overly conventional while ISFJs may see ISFPs as too spontaneous. Mutual respect for each other's kindness forms a solid foundation.",
+      zh: "ISFP和ISFJ都以温暖体贴的方式对待人际关系，注重实际关怀他人。ISFP主导功能为内向情感(Fi)追求真实自我表达，而ISFJ主导功能为内向感觉(Si)重视传统与稳定。他们共同的外向情感(Fe)辅助功能创造和谐，但ISFP可能觉得ISFJ过于传统，而ISFJ可能认为ISFP太过随性。彼此对善良品质的尊重构成了牢固基础。"
+    },
+    relationshipType: {
+      en: "Harmonious Caregivers",
+      zh: "和谐照顾者"
+    },
+    relationshipDesc: {
+      en: "A nurturing bond where both types express care in complementary ways - ISFJ through practical service, ISFP through emotional authenticity.",
+      zh: "一种滋养型关系，双方以互补方式表达关怀：ISFJ通过实际服务，ISFP通过情感真实。"
+    },
+    sharedValues: {
+      en: "Kindness & Harmony",
+      zh: "善良与和谐"
+    },
+    sharedValuesDesc: {
+      en: "Both deeply value creating positive emotional atmospheres and helping others in tangible ways.",
+      zh: "双方都高度重视创造积极的情感氛围，并以切实方式帮助他人。"
+    },
+    communicationStyle: {
+      en: "Tactful & Considerate",
+      zh: "得体周到"
+    },
+    communicationDesc: {
+      en: "Gentle communicators who avoid conflict, though ISFPs may be more direct about personal values while ISFJs focus on social harmony.",
+      zh: "温和的沟通者都避免冲突，但ISFP对个人价值观更直接，而ISFJ更关注社会和谐。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Si": {
+        score: 75,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Fi's personal values may clash with Si's traditional views, but both value depth in their respective domains.",
+          zh: "Fi的个人价值观可能与Si的传统观念冲突，但都重视各自领域的深度。"
+        }
+      },
+      "Se_Fe": {
+        score: 88,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ISFP's Se and ISFJ's Fe create good practical teamwork - combining sensory awareness with social consideration.",
+          zh: "ISFP的Se与ISFJ的Fe形成良好实践协作，结合感官意识与社会考量。"
+        }
+      },
+      "Ni_Ti": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their tertiary functions provide balanced perspective-taking, though not their natural strength.",
+          zh: "他们的第三功能提供平衡的视角采纳能力，虽非天生强项。"
+        },
+      "Te_Ne": {
+        score: 65,
+        type1Function: "Te (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Under stress, ISFP may become rigidly opinionated while ISFJ may imagine worst-case scenarios.",
+          zh: "压力下，ISFP可能变得固执己见，而ISFJ可能想象最坏情况。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Fe values of harmony and care, though they express it differently. ISFJ provides stability ISFP appreciates, while ISFP brings spontaneity ISFJ admires. Potential conflicts arise from Fi-Si value differences but are manageable.",
+      zh: "兼容性源于共同的Fe和谐关怀价值观，尽管表达方式不同。ISFJ提供ISFP欣赏的稳定性，ISFP带来ISFJ钦佩的随性。潜在的Fi-Si价值观差异可能引发冲突但可控。"
+    },
+    growthPotential: {
+      en: "ISFP can learn commitment from ISFJ, while ISFJ can embrace more flexibility from ISFP. Both benefit from developing their inferior functions in healthy ways.",
+      zh: "ISFP可向ISFJ学习承诺精神，ISFJ可从ISFP获得更多灵活性。双方都能通过健康发展劣势功能而受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge in ISFP-ISFJ relationships?",
+          zh: "ISFP与ISFJ关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "Balancing ISFP's need for personal freedom with ISFJ's desire for predictable routines requires conscious compromise.",
+          zh: "平衡ISFP的个人自由需求与ISFJ对可预测常规的渴望，需要双方有意识的妥协。"
+        }
+      }
+    ]
+  }
+},
+"ISFJ": {
+  "ISFP": {
+    overallScore: 85,
+    mediator: "ISFP",
+    provider: "ISFJ",
+    summary: {
+      en: "From the ISFJ perspective, ISFPs bring refreshing spontaneity and emotional depth to the relationship. ISFJs appreciate ISFPs' authenticity while providing the stability and practical support ISFPs need. Their shared focus on present-moment care creates strong emotional bonds, though ISFJs may need to adapt to ISFPs' less structured approach to life.",
+      zh: "从ISFJ角度看，ISFP为关系带来令人耳目一新的随性和情感深度。ISFJ欣赏ISFP的真实性，同时提供ISFP所需的稳定性和实际支持。他们对当下关怀的共同关注创造了强烈情感纽带，尽管ISFJ可能需要适应ISFP较松散的生活方式。"
+    },
+    relationshipType: {
+      en: "Balanced Nurturers",
+      zh: "平衡养育者"
+    },
+    relationshipDesc: {
+      en: "ISFJ provides structured care while ISFP offers emotional validation - creating a complete support system.",
+      zh: "ISFJ提供有组织的关怀，ISFP给予情感确认，形成完整的支持系统。"
+    },
+    sharedValues: {
+      en: "Compassion in Action",
+      zh: "行动中的同情心"
+    },
+    sharedValuesDesc: {
+      en: "Both demonstrate care through concrete actions rather than just words, valuing tangible expressions of love.",
+      zh: "双方都通过具体行动而非空谈来表现关怀，重视爱的实质表达。"
+    },
+    communicationStyle: {
+      en: "Gentle & Supportive",
+      zh: "温柔支持型"
+    },
+    communicationDesc: {
+      en: "Non-confrontational styles mesh well, with ISFJ offering practical advice and ISFP providing emotional understanding.",
+      zh: "非对抗性沟通方式配合良好，ISFJ提供实用建议，ISFP给予情感理解。"
+    },
+    cognitiveCompatibility: {
+      "Si_Fi": {
+        score: 78,
+        type1Function: "Si (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Si's respect for experience complements Fi's value authenticity when both remain open-minded.",
+          zh: "当双方保持开放心态时，Si对经验的尊重与Fi对真实性的重视形成互补。"
+        }
+      },
+      "Fe_Se": {
+        score: 90,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "Their strongest connection - Fe's social awareness blends beautifully with Se's present-moment engagement.",
+          zh: "他们最强的连接点——Fe的社会意识与Se的当下参与完美融合。"
+        }
+      },
+      "Ti_Ni": {
+        score: 68,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Provides analytical balance, though not their primary mode of interacting with the world.",
+          zh: "提供分析性平衡，虽非他们与世界互动的主要模式。"
+        }
+      },
+      "Ne_Te": {
+        score: 62,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Under stress, ISFJ may become overly anxious about possibilities while ISFP may become unreasonably critical.",
+          zh: "压力下，ISFJ可能对可能性过度焦虑，而ISFP可能变得不合理地挑剔。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISFJs find ISFPs' genuine emotional expression inspiring, while ISFPs benefit from ISFJs' reliable support. Their complementary strengths in sensory awareness (Se) and social harmony (Fe) create natural synergy in daily life.",
+      zh: "ISFJ认为ISFP真诚的情感表达很有启发性，而ISFP受益于ISFJ可靠的支持。他们在感官意识(Se)和社会和谐(Fe)方面的互补优势在日常生活中创造自然协同。"
+    },
+    growthPotential: {
+      en: "ISFJ can learn to embrace more spontaneity from ISFP, while ISFP can develop greater consistency from ISFJ. Mutual appreciation of their differences leads to well-rounded personal growth.",
+      zh: "ISFJ可向ISFP学习拥抱更多随性，ISFP可从ISFJ培养更强一致性。对差异的相互欣赏带来全面的个人成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISFJ and ISFP resolve conflicts effectively?",
+          zh: "ISFJ和ISFP如何有效解决冲突？"
+        },
+        answer: {
+          en: "By combining ISFJ's desire for harmonious discussion with ISFP's need for authentic emotional expression - addressing issues with both care and honesty.",
+          zh: "结合ISFJ对和谐讨论的渴望与ISFP对真实情感表达的需求，以关怀和诚实的态度解决问题。"
+        }
+      }
+    ]
+  }
+}

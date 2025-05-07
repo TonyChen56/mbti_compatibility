@@ -1,0 +1,188 @@
+```typescript
+"ENTJ": {
+  "ESTJ": {
+    overallScore: 85,
+    mediator: "ENTJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ENTJs and ESTJs form a highly efficient and goal-oriented partnership. Both types share dominant Te (Extraverted Thinking), creating a strong foundation for logical decision-making and productivity. Their complementary Ni (Introverted Intuition) in ENTJs and Si (Introverted Sensing) in ESTJs allows for balanced strategic planning and attention to detail. While both are natural leaders, ENTJs' visionary approach complements ESTJs' practical execution.",
+      zh: "ENTJ和ESTJ能形成高效且目标导向的伙伴关系。两种类型共享主导功能Te(外倾思考)，为逻辑决策和生产力奠定了坚实基础。ENTJ的辅助功能Ni(内倾直觉)与ESTJ的辅助功能Si(内倾感觉)互补，实现了战略规划与细节关注的平衡。虽然两者都是天生的领导者，但ENTJ的远见卓识与ESTJ的务实执行相得益彰。"
+    },
+    relationshipType: {
+      en: "Power Duo",
+      zh: "强力组合"
+    },
+    relationshipDesc: {
+      en: "A dynamic partnership where both types drive each other to achieve ambitious goals with remarkable efficiency.",
+      zh: "一种充满活力的伙伴关系，双方都能以非凡的效率推动彼此实现雄心勃勃的目标。"
+    },
+    sharedValues: {
+      en: "Efficiency & Achievement",
+      zh: "效率与成就"
+    },
+    sharedValuesDesc: {
+      en: "Both value productivity, competence, and tangible results, creating strong alignment in professional settings.",
+      zh: "双方都重视生产力、能力和切实成果，在专业环境中形成高度一致。"
+    },
+    communicationStyle: {
+      en: "Direct & Task-Oriented",
+      zh: "直接且任务导向"
+    },
+    communicationDesc: {
+      en: "Communication is straightforward and focused on objectives, though ENTJs may find ESTJs less open to unconventional ideas.",
+      zh: "沟通直接且以目标为中心，尽管ENTJ可能会发现ESTJ对非传统想法的接受度较低。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 95,
+        type1Function: "Te (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Shared dominant Te creates exceptional alignment in decision-making and organizational approaches.",
+          zh: "共享主导功能Te使他们在决策和组织方法上高度一致。"
+        }
+      },
+      "Ni_Si": {
+        score: 75,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ENTJ's future-focused Ni balances ESTJ's detail-oriented Si, creating comprehensive planning.",
+          zh: "ENTJ面向未来的Ni与ESTJ注重细节的Si形成互补，实现全面规划。"
+        }
+      },
+      "Se_Ne": {
+        score: 70,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Both enjoy action and possibilities, though ESTJ may prefer more concrete options.",
+          zh: "双方都喜欢行动和可能性，尽管ESTJ可能更喜欢具体的选择。"
+        }
+      },
+      "Fi_Fi": {
+        score: 65,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Shared inferior Fi means both may struggle with emotional expression but understand this in each other.",
+          zh: "共享劣势功能Fi意味着双方都可能不擅长情感表达，但能相互理解这一点。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Te dominance ensuring efficient collaboration, while their differing auxiliary functions (Ni vs Si) provide complementary perspectives. Both types respect competence and drive, though may compete for leadership roles. The main challenge lies in ENTJ's desire for innovation versus ESTJ's preference for proven methods.",
+      zh: "他们的兼容性源于共享的Te主导功能确保了高效协作，而不同的辅助功能(Ni与Si)提供了互补视角。双方都尊重能力和驱动力，尽管可能会竞争领导角色。主要挑战在于ENTJ渴望创新，而ESTJ偏好经过验证的方法。"
+    },
+    growthPotential: {
+      en: "ENTJs can learn from ESTJs' attention to practical details and established systems, while ESTJs can develop more strategic vision through ENTJs. Both can grow in emotional intelligence by acknowledging their shared Fi inferior.",
+      zh: "ENTJ可以从ESTJ对实际细节和既定体系的关注中学习，而ESTJ可以通过ENTJ培养更具战略性的视野。双方都能通过承认共同的劣势功能Fi来提升情商。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENTJ and ESTJ handle conflicts?",
+          zh: "ENTJ和ESTJ如何处理冲突？"
+        },
+        answer: {
+          en: "Both approach conflicts logically but may escalate due to strong wills. Best resolved through objective data and clear goals.",
+          zh: "双方都理性处理冲突，但因意志坚强可能升级。最好通过客观数据和明确目标来解决。"
+        }
+      }
+    ]
+  }
+},
+"ESTJ": {
+  "ENTJ": {
+    overallScore: 82,
+    mediator: "ENTJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJs appreciate ENTJs' strategic vision and drive, while providing the practical execution ESTJs value. The relationship thrives when ESTJs respect ENTJs' innovative ideas and ENTJs acknowledge ESTJs' organizational expertise. Both types' direct communication style prevents misunderstandings, though ESTJs may need to adapt to ENTJs' faster pace of change.",
+      zh: "ESTJ欣赏ENTJ的战略眼光和驱动力，同时提供ESTJ重视的实际执行。当ESTJ尊重ENTJ的创新想法，ENTJ认可ESTJ的组织专长时，这种关系就会蓬勃发展。双方直接的沟通方式避免了误解，尽管ESTJ可能需要适应ENTJ更快的变革节奏。"
+    },
+    relationshipType: {
+      en: "Complementary Achievers",
+      zh: "互补型成就者"
+    },
+    relationshipDesc: {
+      en: "A productive alliance where ESTJs' reliability meets ENTJs' innovation for exceptional results.",
+      zh: "一种富有成效的联盟，ESTJ的可靠性与ENTJ的创新性相结合，取得卓越成果。"
+    },
+    sharedValues: {
+      en: "Structure & Success",
+      zh: "结构与成功"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value effective systems and measurable achievements, though prioritize them differently.",
+      zh: "双方都非常重视有效的系统和可衡量的成就，尽管优先顺序不同。"
+    },
+    communicationStyle: {
+      en: "Fact-Based & Decisive",
+      zh: "基于事实且果断"
+    },
+    communicationDesc: {
+      en: "Conversations are efficient and solution-focused, with ESTJs providing concrete details and ENTJs offering big-picture insights.",
+      zh: "对话高效且以解决方案为中心，ESTJ提供具体细节，ENTJ提供全局见解。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 95,
+        type1Function: "Te (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Mutual Te dominance ensures aligned priorities and respect for competence.",
+          zh: "共同的Te主导功能确保了优先事项的一致和对能力的尊重。"
+        }
+      },
+      "Si_Ni": {
+        score: 72,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ESTJ's Si provides stability while ENTJ's Ni offers innovation potential.",
+          zh: "ESTJ的Si提供稳定性，而ENTJ的Ni提供创新潜力。"
+        }
+      },
+      "Ne_Se": {
+        score: 68,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "ENTJ's action-oriented Se can help ESTJ explore new possibilities through their Ne.",
+          zh: "ENTJ行动导向的Se可以帮助ESTJ通过他们的Ne探索新的可能性。"
+        }
+      },
+      "Fi_Fi": {
+        score: 65,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Shared underdeveloped Fi means both may neglect emotional needs in pursuit of goals.",
+          zh: "共享发展不足的Fi意味着双方都可能为了追求目标而忽视情感需求。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The relationship works because both types speak the language of efficiency and results. ESTJs ground ENTJs' ideas in reality, while ENTJs help ESTJs see beyond immediate practicalities. Potential friction arises when ESTJs resist ENTJs' rapid changes or ENTJs dismiss ESTJs' traditional approaches.",
+      zh: "这种关系之所以有效，是因为两种类型都讲效率和结果的共同语言。ESTJ将ENTJ的想法落实于现实，而ENTJ帮助ESTJ超越眼前的实际考量。当ESTJ抵制ENTJ的快速变革或ENTJ轻视ESTJ的传统方法时，可能会产生摩擦。"
+    },
+    growthPotential: {
+      en: "ESTJs can expand their perspectives through ENTJs' visionary thinking, while ENTJs can develop more patience for implementation details. Both benefit from developing their emotional awareness to balance their strong task-focus.",
+      zh: "ESTJ可以通过ENTJ的远见思维扩展视野，而ENTJ可以培养对实施细节的更多耐心。双方都能从发展情感意识中受益，以平衡他们强烈的任务导向。"
+    },
+    faq: [
+      {
+        question: {
+          en: "Who typically takes the lead in ENTJ-ESTJ relationships?",
+          zh: "在ENTJ-ESTJ关系中，通常由谁主导？"
+        },
+        answer: {
+          en: "ENTJs naturally assume leadership for visionary direction, while ESTJs excel at operational management. Successful partnerships divide these roles clearly.",
+          zh: "ENTJ自然地承担愿景方向的领导，而ESTJ擅长运营管理。成功的伙伴关系会明确划分这些角色。"
+        }
+      }
+    ]
+  }
+}
+```

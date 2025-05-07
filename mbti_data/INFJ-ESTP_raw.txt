@@ -1,0 +1,188 @@
+```typescript
+"INFJ": {
+  "ESTP": {
+    overallScore: 75,
+    mediator: "INFJ",
+    provider: "ESTP",
+    summary: {
+      en: "INFJ and ESTP form an intriguing 'opposites attract' dynamic. The INFJ's deep intuition and idealism contrasts with ESTP's pragmatic realism, creating both tension and growth opportunities. While their cognitive functions are nearly inverted, they can balance each other well when both value personal growth. The ESTP brings spontaneity and action to the relationship, while the INFJ provides depth and long-term vision.",
+      zh: "INFJ和ESTP形成一种有趣的'异性相吸'动态。INFJ的深刻直觉和理想主义与ESTP的务实现实主义形成对比，既产生张力也创造成长机会。虽然他们的认知功能几乎相反，但当双方都重视个人成长时，可以很好地互补。ESTP为关系带来自发性和行动力，而INFJ则提供深度和长远愿景。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "This pairing challenges each other to develop their inferior functions while appreciating their differences.",
+      zh: "这种配对促使双方发展劣势功能，同时欣赏彼此的差异。"
+    },
+    sharedValues: {
+      en: "Authenticity & Excitement",
+      zh: "真实性与激情"
+    },
+    sharedValuesDesc: {
+      en: "Both types value authentic experiences, though INFJs seek emotional depth while ESTPs prefer physical intensity.",
+      zh: "两种类型都重视真实的体验，尽管INFJ追求情感深度，而ESTP更喜欢身体上的刺激。"
+    },
+    communicationStyle: {
+      en: "Conceptual vs Practical",
+      zh: "概念性vs实用性"
+    },
+    communicationDesc: {
+      en: "INFJs communicate abstract ideas while ESTPs focus on concrete details, requiring patience to bridge the gap.",
+      zh: "INFJ交流抽象概念，而ESTP关注具体细节，需要耐心来弥合这种差异。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Se": {
+        score: 82,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "Both value perception but differ in focus - INFJs see future possibilities while ESTPs live in the present moment.",
+          zh: "双方都重视感知但焦点不同 - INFJ看到未来可能性，而ESTP活在当下。"
+        }
+      },
+      "Fe_Ti": {
+        score: 78,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "Fe seeks harmony while Ti values logic, creating an interesting balance between emotional and rational approaches.",
+          zh: "Fe追求和谐而Ti重视逻辑，在情感和理性方法之间创造有趣的平衡。"
+        }
+      },
+      "Ti_Fe": {
+        score: 70,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Their weaker functions can complement each other when developed, with INFJs adding logic and ESTPs adding social awareness.",
+          zh: "当发展成熟时，他们的弱势功能可以互补，INFJ增加逻辑性，ESTP增加社交意识。"
+        }
+      },
+      "Se_Ni": {
+        score: 68,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both struggle with their inferior functions but can help each other develop - ESTPs with foresight and INFJs with presence.",
+          zh: "双方都难以驾驭劣势功能但可以帮助对方发展 - ESTP培养远见，INFJ培养临在感。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary differences - ESTPs ground INFJs in reality while INFJs help ESTPs consider deeper meanings. Challenges arise when INFJs feel ESTPs are too impulsive or ESTPs feel INFJs are too abstract.",
+      zh: "他们的兼容性源于互补的差异 - ESTP使INFJ接地气，而INFJ帮助ESTP思考更深层的意义。当INFJ觉得ESTP太冲动或ESTP觉得INFJ太抽象时，挑战就会出现。"
+    },
+    growthPotential: {
+      en: "Great potential for mutual growth if both appreciate their differences. INFJs can learn to be more present and action-oriented, while ESTPs can develop greater foresight and emotional depth.",
+      zh: "如果双方都能欣赏彼此的差异，就有很大的共同成长潜力。INFJ可以学会更临在和行动导向，而ESTP可以培养更强的远见和情感深度。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the biggest challenges in INFJ-ESTP relationships?",
+          zh: "INFJ与ESTP关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "The main challenges are communication style differences and conflicting needs - INFJs want deep connection while ESTPs prefer lighthearted spontaneity.",
+          zh: "主要挑战是沟通方式的差异和需求冲突 - INFJ想要深度连接，而ESTP更喜欢轻松的自发性。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "INFJ": {
+    overallScore: 78,
+    mediator: "INFJ",
+    provider: "ESTP",
+    summary: {
+      en: "ESTPs often find INFJs fascinating yet puzzling. The INFJ's depth and intuition provides an interesting contrast to ESTP's pragmatic approach to life. While initially drawn to each other's differences, long-term success requires ESTPs to slow down and INFJs to step out of their comfort zones.",
+      zh: "ESTP常觉得INFJ既迷人又令人困惑。INFJ的深度和直觉与ESTP务实的生活方式形成有趣对比。虽然最初被彼此的差异吸引，但要长期成功需要ESTP放慢脚步，INFJ走出舒适区。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "ESTPs bring excitement to INFJs' lives while INFJs offer ESTPs new perspectives and depth.",
+      zh: "ESTP为INFJ的生活带来刺激，而INFJ为ESTP提供新的视角和深度。"
+    },
+    sharedValues: {
+      en: "Freedom & Authenticity",
+      zh: "自由与真实性"
+    },
+    sharedValuesDesc: {
+      en: "Both value personal freedom and dislike pretense, though they express it differently - ESTPs through action and INFJs through introspection.",
+      zh: "双方都重视个人自由且讨厌虚伪，尽管表达方式不同 - ESTP通过行动，INFJ通过内省。"
+    },
+    communicationStyle: {
+      en: "Direct vs Nuanced",
+      zh: "直接vs微妙"
+    },
+    communicationDesc: {
+      en: "ESTPs communicate bluntly while INFJs speak more diplomatically, which can cause misunderstandings initially.",
+      zh: "ESTP沟通直率，而INFJ说话更委婉，最初可能会造成误解。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ni": {
+        score: 85,
+        type1Function: "Se (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ESTPs' present-moment focus balances INFJs' future orientation, helping each other develop their inferior functions.",
+          zh: "ESTP的当下焦点平衡了INFJ的未来导向，帮助彼此发展劣势功能。"
+        }
+      },
+      "Ti_Fe": {
+        score: 80,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ESTPs' logical analysis complements INFJs' social awareness, creating a balanced decision-making approach.",
+          zh: "ESTP的逻辑分析补充了INFJ的社交意识，创造平衡的决策方法。"
+        }
+      },
+      "Fe_Ti": {
+        score: 72,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "When developed, ESTPs' emerging social skills and INFJs' emerging logic can strengthen their connection.",
+          zh: "当发展成熟时，ESTP新兴的社交技巧和INFJ新兴的逻辑能力可以加强他们的联系。"
+        }
+      },
+      "Ni_Se": {
+        score: 70,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both can help each other with their weaker functions - INFJs with presence and ESTPs with foresight.",
+          zh: "双方都可以帮助彼此发展弱势功能 - INFJ帮助培养临在感，ESTP帮助培养远见。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESTPs appreciate how INFJs broaden their perspectives, while INFJs enjoy ESTPs' energy and spontaneity. Conflicts may arise when ESTPs dismiss INFJs' abstract thinking or INFJs criticize ESTPs' impulsiveness.",
+      zh: "ESTP欣赏INFJ如何拓宽他们的视野，而INFJ喜欢ESTP的能量和自发性。当ESTP忽视INFJ的抽象思维或INFJ批评ESTP的冲动时，可能会产生冲突。"
+    },
+    growthPotential: {
+      en: "Significant growth potential exists as each type develops their inferior functions. ESTPs can learn to consider long-term consequences while INFJs can become more comfortable with spontaneity and action.",
+      zh: "当每种类型都发展其劣势功能时，存在显著的成长潜力。ESTP可以学会考虑长期后果，而INFJ可以变得更适应自发性和行动。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What do ESTPs find most attractive about INFJs?",
+          zh: "ESTP觉得INFJ最具吸引力的是什么？"
+        },
+        answer: {
+          en: "ESTPs are often drawn to INFJs' depth, insightfulness, and ability to see beneath the surface of things.",
+          zh: "ESTP通常被INFJ的深度、洞察力以及看透事物表面之下的能力所吸引。"
+        }
+      }
+    ]
+  }
+}
+```

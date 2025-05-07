@@ -1,0 +1,186 @@
+{
+  "ISTJ": {
+    overallScore: 85,
+    mediator: "ISFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ISFJs and ISTJs share a practical and detail-oriented approach to life, creating a stable and harmonious relationship. Both types value tradition, reliability, and duty, which forms a strong foundation. ISFJs bring warmth and emotional support, while ISTJs provide structure and logical consistency. Their main difference lies in decision-making: ISFJs prioritize harmony and others' feelings, whereas ISTJs focus on facts and efficiency.",
+      zh: "ISFJ和ISTJ都注重实际和细节，能建立稳定和谐的关系。两种类型都重视传统、可靠性和责任感，这构成了坚实的基础。ISFJ带来温暖和情感支持，而ISTJ提供结构和逻辑一致性。主要区别在于决策方式：ISFJ优先考虑和谐与他人感受，而ISTJ更关注事实和效率。"
+    },
+    relationshipType: {
+      en: "Stabilizing Partnership",
+      zh: "稳定型伙伴关系"
+    },
+    relationshipDesc: {
+      en: "A relationship built on mutual respect, shared values, and complementary strengths in emotional and practical domains.",
+      zh: "建立在相互尊重、共同价值观以及在情感和实践领域优势互补的关系。"
+    },
+    sharedValues: {
+      en: "Duty, Reliability, Tradition",
+      zh: "责任感、可靠性、传统"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value fulfilling obligations, maintaining stability, and respecting established social norms and traditions.",
+      zh: "两种类型都高度重视履行义务、保持稳定以及尊重既定的社会规范和传统。"
+    },
+    communicationStyle: {
+      en: "Fact-based with Emotional Consideration",
+      zh: "基于事实但考虑情感"
+    },
+    communicationDesc: {
+      en: "ISTJs communicate directly with facts, while ISFJs soften messages with emotional awareness, creating balanced exchanges.",
+      zh: "ISTJ基于事实直接沟通，而ISFJ会用情感意识软化信息，形成平衡的交流方式。"
+    },
+    cognitiveCompatibility: {
+      "Si_Si": {
+        score: 95,
+        type1Function: "Si (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Shared dominant Si creates strong common ground in recalling details, maintaining traditions, and practical routines.",
+          zh: "共同的主导功能Si在回忆细节、保持传统和实际日常方面建立了强大的共同基础。"
+        }
+      },
+      "Fe_Te": {
+        score: 70,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ISFJ's Fe seeks harmony while ISTJ's Te values efficiency, sometimes causing tension in decision-making approaches.",
+          zh: "ISFJ的Fe追求和谐，而ISTJ的Te重视效率，有时会在决策方式上产生紧张。"
+        }
+      },
+      "Ti_Fi": {
+        score: 75,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both have introverted judging functions in tertiary position, showing similar but not identical personal value systems.",
+          zh: "两者都在第三功能位置拥有内倾判断功能，表现出相似但不完全相同的个人价值体系。"
+        }
+      },
+      "Ne_Ne": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Shared inferior Ne means both may struggle with abstract possibilities but can support each other's growth in this area.",
+          zh: "共同处于劣势的Ne功能意味着两者都可能难以应对抽象可能性，但可以互相支持这方面的成长。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared dominant Si and similar lifestyles, though they must navigate differences between Fe and Te. The relationship benefits when ISFJs appreciate ISTJs' reliability while ISTJs value ISFJs' warmth.",
+      zh: "他们的兼容性源于共同的主导功能Si和相似的生活方式，尽管他们必须处理Fe和Te之间的差异。当ISFJ欣赏ISTJ的可靠性而ISTJ重视ISFJ的温暖时，这种关系会受益。"
+    },
+    growthPotential: {
+      en: "ISFJs can develop more logical decision-making from ISTJs, while ISTJs can learn emotional sensitivity from ISFJs. Both can help each other develop their inferior Ne function.",
+      zh: "ISFJ可以从ISTJ那里发展更逻辑的决策能力，而ISTJ可以从ISFJ那里学习情感敏感性。两者都可以帮助对方发展他们的劣势Ne功能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the main conflicts between ISFJs and ISTJs?",
+          zh: "ISFJ和ISTJ之间的主要冲突是什么？"
+        },
+        answer: {
+          en: "Primary conflicts arise when ISFJs prioritize emotional harmony over facts, while ISTJs value objective truth over feelings, especially in decision-making.",
+          zh: "当ISFJ将情感和谐置于事实之上，而ISTJ重视客观事实胜过感受时，特别是在决策过程中，会产生主要冲突。"
+        }
+      }
+    ]
+  }
+},
+"ISTJ": {
+  "ISFJ": {
+    overallScore: 83,
+    mediator: "ISFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJs appreciate ISFJs' caring nature and attention to others' needs, while ISFJs value ISTJs' reliability and practical competence. Both types create a stable environment through their shared sensing preference, though ISTJs may sometimes perceive ISFJs as too emotionally focused, while ISFJs may see ISTJs as overly rigid.",
+      zh: "ISTJ欣赏ISFJ关心他人和关注他人需求的天性，而ISFJ重视ISTJ的可靠性和实际能力。两种类型通过共同的感觉偏好创造稳定环境，尽管ISTJ有时可能认为ISFJ过于情感化，而ISFJ可能认为ISTJ过于僵化。"
+    },
+    relationshipType: {
+      en: "Complementary Guardians",
+      zh: "互补型守护者"
+    },
+    relationshipDesc: {
+      en: "A practical partnership where ISTJs provide structure and ISFJs add emotional depth, creating balanced support.",
+      zh: "一种实际的伙伴关系，ISTJ提供结构，ISFJ增加情感深度，形成平衡的支持。"
+    },
+    sharedValues: {
+      en: "Responsibility, Security, Hard Work",
+      zh: "责任心、安全感、努力工作"
+    },
+    sharedValuesDesc: {
+      en: "Both types are committed to their responsibilities, value security, and believe in the importance of diligent work.",
+      zh: "两种类型都致力于履行责任、重视安全感，并相信勤奋工作的重要性。"
+    },
+    communicationStyle: {
+      en: "Direct but Considerate",
+      zh: "直接但体贴"
+    },
+    communicationDesc: {
+      en: "ISTJs communicate directly while ISFJs ensure emotional needs are considered, creating effective but caring exchanges.",
+      zh: "ISTJ直接沟通，而ISFJ确保考虑情感需求，形成有效但体贴的交流方式。"
+    },
+    cognitiveCompatibility: {
+      "Si_Si": {
+        score: 95,
+        type1Function: "Si (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Their shared Si creates strong understanding in practical matters and memory of details.",
+          zh: "他们共同的Si功能在实际事务和细节记忆方面建立了深刻的理解。"
+        }
+      },
+      "Te_Fe": {
+        score: 72,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ISTJ's Te focuses on efficiency while ISFJ's Fe values harmony, requiring mutual understanding.",
+          zh: "ISTJ的Te注重效率，而ISFJ的Fe重视和谐，需要相互理解。"
+        }
+      },
+      "Fi_Ti": {
+        score: 78,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Both have introverted judging functions that provide personal frameworks, though with different emphases.",
+          zh: "两者都有提供个人框架的内倾判断功能，尽管侧重点不同。"
+        }
+      },
+      "Ne_Ne": {
+        score: 68,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Their shared inferior Ne means they can relate to each other's struggles with uncertainty and change.",
+          zh: "他们共同的劣势Ne功能意味着他们能够理解彼此在面对不确定性和变化时的困难。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The relationship works well due to shared Si dominance and complementary Te/Fe functions. ISTJs provide stability that ISFJs appreciate, while ISFJs offer emotional connection that ISTJs may lack.",
+      zh: "由于共同的Si主导功能和互补的Te/Fe功能，这种关系运作良好。ISTJ提供了ISFJ欣赏的稳定性，而ISFJ提供了ISTJ可能缺乏的情感连接。"
+    },
+    growthPotential: {
+      en: "ISTJs can develop greater emotional intelligence from ISFJs, while ISFJs can learn more objective decision-making from ISTJs. Both can help each other become more comfortable with change and new possibilities.",
+      zh: "ISTJ可以从ISFJ那里发展更高的情商，而ISFJ可以从ISTJ那里学习更客观的决策。两者都可以帮助对方更适应变化和新的可能性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISTJs and ISFJs improve their communication?",
+          zh: "ISTJ和ISFJ如何改善他们的沟通？"
+        },
+        answer: {
+          en: "ISTJs should acknowledge feelings before facts, while ISFJs should present concerns logically. Finding middle ground between emotional and practical perspectives is key.",
+          zh: "ISTJ应该在陈述事实前承认感受，而ISFJ应该逻辑地表达关切。在情感和实际视角之间找到中间地带是关键。"
+        }
+      }
+    ]
+  }
+}

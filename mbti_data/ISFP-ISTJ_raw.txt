@@ -1,0 +1,188 @@
+```typescript
+"ISFP": {
+  "ISTJ": {
+    overallScore: 75,
+    mediator: "ISFP",
+    provider: "ISTJ",
+    summary: {
+      en: "ISFPs and ISTJs form a complementary pair with moderate compatibility. The ISFP's artistic sensitivity balances the ISTJ's practicality, while the ISTJ's reliability grounds the ISFP's spontaneity. Their differences in decision-making (Feeling vs Thinking) may cause friction, but mutual respect for each other's strengths can create a stable relationship.",
+      zh: "ISFP和ISTJ形成具有中等兼容性的互补配对。ISFP的艺术敏感性与ISTJ的务实性相互平衡，而ISTJ的可靠性为ISFP的自发性提供了基础。他们在决策方式(情感型vs思维型)上的差异可能引发摩擦，但对彼此优势的相互尊重可以建立稳定的关系。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的对立面"
+    },
+    relationshipDesc: {
+      en: "A relationship where structure meets flexibility, creating opportunities for mutual growth through their differences.",
+      zh: "一种结构性与灵活性相遇的关系，通过差异为彼此创造成长机会。"
+    },
+    sharedValues: {
+      en: "Loyalty & Practicality",
+      zh: "忠诚与务实"
+    },
+    sharedValuesDesc: {
+      en: "Both types value commitment and concrete results, though they approach them differently. ISFPs focus on personal authenticity while ISTJs prioritize duty.",
+      zh: "两种类型都重视承诺和实际成果，尽管方式不同。ISFP关注个人真实性，而ISTJ优先考虑责任。"
+    },
+    communicationStyle: {
+      en: "Direct vs Diplomatic",
+      zh: "直接vs委婉"
+    },
+    communicationDesc: {
+      en: "ISTJs communicate in straightforward terms while ISFPs prefer more tactful expression. This can lead to misunderstandings but also balance each other.",
+      zh: "ISTJ以直截了当的方式沟通，而ISFP更喜欢委婉的表达。这可能导致误解，但也相互平衡。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Te": {
+        score: 82,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ISFP's internal values complement ISTJ's external logic, creating a values-action balance when working together.",
+          zh: "ISFP的内在价值观与ISTJ的外部逻辑互补，合作时形成价值观-行动的平衡。"
+        }
+      },
+      "Se_Si": {
+        score: 68,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "ISFP's present-focused sensory awareness contrasts with ISTJ's detail-oriented memory, offering different perspectives.",
+          zh: "ISFP关注当下的感官意识与ISTJ注重细节的记忆形成对比，提供不同视角。"
+        }
+      },
+      "Ni_Ne": {
+        score: 72,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Both have limited intuition but ISFP's focused insights can help ISTJ consider future possibilities.",
+          zh: "两者直觉功能都不强，但ISFP的聚焦洞察可帮助ISTJ考虑未来可能性。"
+        }
+      },
+      "Te_Fi": {
+        score: 78,
+        type1Function: "Te (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ISTJ's underdeveloped values resonate with ISFP's dominant Fi, creating emotional understanding.",
+          zh: "ISTJ发展不足的价值观与ISFP主导的Fi产生共鸣，形成情感理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions (Fi-Te and Se-Si) that balance each other's weaknesses. The ISFP brings flexibility and emotional depth while the ISTJ provides stability and practical solutions. However, their different decision-making approaches may require conscious effort to reconcile.",
+      zh: "他们的兼容性源于互补功能(Fi-Te和Se-Si)平衡了彼此的弱点。ISFP带来灵活性和情感深度，而ISTJ提供稳定性和实际解决方案。然而，他们不同的决策方式可能需要有意识的努力来调和。"
+    },
+    growthPotential: {
+      en: "ISFPs can learn organization and follow-through from ISTJs, while ISTJs can develop emotional awareness and adaptability from ISFPs. Their differences become growth opportunities with mutual understanding.",
+      zh: "ISFP可以向ISTJ学习组织性和坚持性，而ISTJ可以从ISFP那里发展情感意识和适应性。通过相互理解，他们的差异成为成长机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the main challenges in ISFP-ISTJ relationships?",
+          zh: "ISFP与ISTJ关系中的主要挑战是什么？"
+        },
+        answer: {
+          en: "The biggest challenge is reconciling ISFP's flexible, values-based decisions with ISTJ's structured, rule-based approach. Communication styles also differ significantly.",
+          zh: "最大的挑战是调和ISFP灵活的、基于价值观的决策与ISTJ结构化的、基于规则的方法。沟通风格也有很大差异。"
+        }
+      }
+    ]
+  }
+},
+"ISTJ": {
+  "ISFP": {
+    overallScore: 78,
+    mediator: "ISFP",
+    provider: "ISTJ",
+    summary: {
+      en: "From the ISTJ's perspective, ISFPs offer a refreshing spontaneity and emotional depth that complements their structured nature. While initially perplexed by ISFP's flexible approach, ISTJs often come to appreciate how ISFPs humanize their systems and bring warmth to practical matters.",
+      zh: "从ISTJ的角度来看，ISFP提供了令人耳目一新的自发性和情感深度，与他们结构化的特性互补。虽然最初对ISFP的灵活方式感到困惑，但ISTJ往往会欣赏ISFP如何使他们的系统人性化并为实际事务带来温暖。"
+    },
+    relationshipType: {
+      en: "Practical Harmony",
+      zh: "务实的和谐"
+    },
+    relationshipDesc: {
+      en: "A partnership where traditional methods meet creative expression, finding common ground in tangible results.",
+      zh: "传统方法与创造性表达相遇的合作关系，在实际成果中找到共同点。"
+    },
+    sharedValues: {
+      en: "Integrity & Authenticity",
+      zh: "正直与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both types deeply value honesty, though ISTJs express it through facts and ISFPs through emotional truth. They share a dislike for pretense.",
+      zh: "两种类型都非常重视诚实，尽管ISTJ通过事实表达，ISFP通过情感真实表达。他们都讨厌虚伪。"
+    },
+    communicationStyle: {
+      en: "Fact-Based vs Feeling-Based",
+      zh: "基于事实vs基于感受"
+    },
+    communicationDesc: {
+      en: "ISTJs focus on objective information while ISFPs emphasize personal impact. Bridging this gap requires patience from both sides.",
+      zh: "ISTJ关注客观信息，而ISFP强调个人影响。弥合这一差距需要双方的耐心。"
+    },
+    cognitiveCompatibility: {
+      "Si_Se": {
+        score: 70,
+        type1Function: "Si (Dominant)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ISTJ's detailed memory provides context for ISFP's present-focused observations, creating comprehensive awareness.",
+          zh: "ISTJ的详细记忆为ISFP关注当下的观察提供背景，形成全面的认知。"
+        }
+      },
+      "Te_Fi": {
+        score: 85,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "ISTJ's efficient problem-solving supports ISFP's value-driven life, creating a practical-idealistic balance.",
+          zh: "ISTJ高效的问题解决能力支持ISFP价值驱动的生活，形成务实与理想的平衡。"
+        }
+      },
+      "Ne_Ni": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Both struggle with intuition but can combine ISTJ's pattern recognition with ISFP's symbolic insights.",
+          zh: "两者都在直觉方面有困难，但可以将ISTJ的模式识别与ISFP的象征性洞察结合起来。"
+        }
+      },
+      "Fi_Te": {
+        score: 80,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "ISTJ's developing values align with ISFP's strong Fi, allowing for meaningful emotional connection.",
+          zh: "ISTJ发展中的价值观与ISFP强大的Fi一致，允许有意义的情感连接。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTJs appreciate ISFPs' authenticity and ability to make routine more enjoyable, while ISFPs value ISTJs' reliability. Their functional stack creates natural complementarity - ISTJs provide structure that ISFPs can soften, while ISFPs bring creativity that ISTJs can ground in reality.",
+      zh: "ISTJ欣赏ISFP的真实性和使日常生活更有趣的能力，而ISFP重视ISTJ的可靠性。他们的功能堆栈创造了自然的互补性——ISTJ提供ISFP可以软化的结构，而ISFP带来ISTJ可以落地的创造力。"
+    },
+    growthPotential: {
+      en: "ISTJs can learn from ISFPs to be more emotionally expressive and adaptable, while ISFPs can develop greater consistency and responsibility through ISTJs' example. Their differences become assets when viewed as learning opportunities.",
+      zh: "ISTJ可以向ISFP学习更有情感表达力和适应性，而ISFP可以通过ISTJ的榜样发展更强的一致性和责任感。当被视为学习机会时，他们的差异就变成了资产。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISTJs and ISFPs improve their communication?",
+          zh: "ISTJ和ISFP如何改善他们的沟通？"
+        },
+        answer: {
+          en: "ISTJs should acknowledge feelings before facts, while ISFPs should appreciate ISTJs' intent to be helpful. Finding a middle ground between directness and tact is key.",
+          zh: "ISTJ应该在陈述事实前承认感受，而ISFP应该理解ISTJ想要提供帮助的意图。在直接和委婉之间找到中间地带是关键。"
+        }
+      }
+    ]
+  }
+}
+```

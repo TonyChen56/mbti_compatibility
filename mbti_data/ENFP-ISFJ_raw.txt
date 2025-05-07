@@ -1,0 +1,188 @@
+```typescript
+"ENFP": {
+  "ISFJ": {
+    overallScore: 82,
+    mediator: "ENFP",
+    provider: "ISFJ",
+    summary: {
+      en: "ENFPs and ISFJs form a complementary pair where ENFPs bring creativity and spontaneity while ISFJs provide stability and practical support. Their differences can create a balanced relationship, though ENFPs may need to be mindful of ISFJs' need for routine and ISFJs may need to adapt to ENFPs' unpredictability. When both appreciate each other's strengths, they can form a deeply nurturing bond.",
+      zh: "ENFP和ISFJ形成互补配对，ENFP带来创造力和自发性，而ISFJ提供稳定性和实际支持。他们的差异可以创造平衡的关系，尽管ENFP需要注意ISFJ对常规的需求，ISFJ可能需要适应ENFP的不可预测性。当双方都欣赏对方的优势时，他们可以形成深厚的滋养关系。"
+    },
+    relationshipType: {
+      en: "Harmonious Complement",
+      zh: "和谐互补"
+    },
+    relationshipDesc: {
+      en: "A relationship where ENFP's enthusiasm and ISFJ's care create a warm, supportive dynamic.",
+      zh: "ENFP的热情和ISFJ的关怀创造了一种温暖、支持性的关系动态。"
+    },
+    sharedValues: {
+      en: "Harmony & Authenticity",
+      zh: "和谐与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both types value genuine connections and creating positive environments, though they express it differently.",
+      zh: "两种类型都重视真实的联系和创造积极的环境，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Expressive vs. Reserved",
+      zh: "表达型vs保留型"
+    },
+    communicationDesc: {
+      en: "ENFPs communicate with excitement and ideas while ISFJs focus on practical details and emotional support.",
+      zh: "ENFP以兴奋和想法交流，而ISFJ专注于实际细节和情感支持。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Si": {
+        score: 85,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "ENFP's Ne explores possibilities while ISFJ's Si provides stability, creating a balanced perspective.",
+          zh: "ENFP的Ne探索可能性，而ISFJ的Si提供稳定性，创造平衡的视角。"
+        }
+      },
+      "Fi_Fe": {
+        score: 78,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ENFP's internal values complement ISFJ's focus on others' needs, creating emotional depth.",
+          zh: "ENFP的内在价值观补充了ISFJ对他人需求的关注，创造了情感深度。"
+        }
+      },
+      "Te_Ti": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their thinking functions differ but can collaborate when ENFP organizes and ISFJ analyzes.",
+          zh: "他们的思维功能不同，但当ENFP组织和ISFJ分析时可以协作。"
+        }
+      },
+      "Si_Ne": {
+        score: 80,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Both can appreciate each other's strengths in these less-developed functions.",
+          zh: "双方都能欣赏对方在这些不太发达的功能中的优势。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFPs and ISFJs complement each other well as their dominant functions (Ne/Si) create a balance between exploration and stability. Their shared feeling functions (Fi/Fe) allow for emotional connection, though they express care differently. The main challenge comes from differing communication styles and needs for routine vs spontaneity.",
+      zh: "ENFP和ISFJ很好地互补，因为他们的主导功能(Ne/Si)在探索和稳定之间创造了平衡。他们共同的情感功能(Fi/Fe)允许情感联系，尽管他们表达关心的方式不同。主要挑战来自不同的沟通风格和对常规与自发性的需求。"
+    },
+    growthPotential: {
+      en: "ENFPs can learn reliability and attention to detail from ISFJs, while ISFJs can develop more spontaneity and openness to new experiences from ENFPs. Their differences can become strengths if both remain patient and appreciative.",
+      zh: "ENFP可以从ISFJ那里学习可靠性和对细节的关注，而ISFJ可以从ENFP那里发展更多的自发性和对新体验的开放性。如果双方都保持耐心和欣赏，他们的差异可以变成优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENFPs and ISFJs resolve conflicts?",
+          zh: "ENFP和ISFJ如何解决冲突？"
+        },
+        answer: {
+          en: "ENFPs should express needs directly while ISFJs should share feelings openly. Finding a balance between spontaneity and routine is key.",
+          zh: "ENFP应直接表达需求，而ISFJ应公开分享感受。在自发性和常规之间找到平衡是关键。"
+        }
+      }
+    ]
+  }
+},
+"ISFJ": {
+  "ENFP": {
+    overallScore: 80,
+    mediator: "ENFP",
+    provider: "ISFJ",
+    summary: {
+      en: "ISFJs appreciate ENFPs' energy and creativity, while ENFPs value ISFJs' reliability and care. ISFJs may initially struggle with ENFPs' unpredictability but can learn to enjoy their spontaneity. ENFPs help ISFJs step out of their comfort zone, while ISFJs provide ENFPs with much-needed stability.",
+      zh: "ISFJ欣赏ENFP的精力和创造力，而ENFP重视ISFJ的可靠性和关怀。ISFJ最初可能会对ENFP的不可预测性感到挣扎，但可以学会享受他们的自发性。ENFP帮助ISFJ走出舒适区，而ISFJ为ENFP提供急需的稳定性。"
+    },
+    relationshipType: {
+      en: "Nurturing Balance",
+      zh: "滋养平衡"
+    },
+    relationshipDesc: {
+      en: "ISFJs ground ENFPs while ENFPs bring excitement to ISFJs' lives, creating mutual growth.",
+      zh: "ISFJ为ENFP提供基础，而ENFP为ISFJ的生活带来兴奋，创造共同成长。"
+    },
+    sharedValues: {
+      en: "Care & Authenticity",
+      zh: "关怀与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both deeply value authentic relationships and helping others, forming a strong emotional foundation.",
+      zh: "双方都高度重视真实的关系和帮助他人，形成牢固的情感基础。"
+    },
+    communicationStyle: {
+      en: "Practical vs. Conceptual",
+      zh: "实际型vs概念型"
+    },
+    communicationDesc: {
+      en: "ISFJs focus on concrete details while ENFPs discuss abstract ideas, requiring mutual adaptation.",
+      zh: "ISFJ专注于具体细节，而ENFP讨论抽象想法，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Si_Ne": {
+        score: 85,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ISFJ's stability complements ENFP's exploration, offering mutual perspective-taking.",
+          zh: "ISFJ的稳定性补充了ENFP的探索，提供了相互的视角转换。"
+        }
+      },
+      "Fe_Fi": {
+        score: 78,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ISFJ's focus on others' needs balances ENFP's internal values system.",
+          zh: "ISFJ对他人需求的关注平衡了ENFP的内在价值体系。"
+        }
+      },
+      "Ti_Te": {
+        score: 72,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Different thinking approaches can collaborate when ISFJ analyzes and ENFP organizes.",
+          zh: "当ISFJ分析和ENFP组织时，不同的思维方法可以协作。"
+        }
+      },
+      "Ne_Si": {
+        score: 82,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Both can develop appreciation for each other's strengths in these areas.",
+          zh: "双方都可以发展对这些领域彼此优势的欣赏。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The ISFJ-ENFP pairing works well because their dominant functions (Si/Ne) create a natural balance between tradition and innovation. ISFJs provide the stability ENFPs often lack, while ENFPs help ISFJs embrace new experiences. Their shared focus on authentic relationships helps bridge communication differences.",
+      zh: "ISFJ-ENFP配对效果很好，因为他们的主导功能(Si/Ne)在传统和创新之间创造了自然的平衡。ISFJ提供了ENFP经常缺乏的稳定性，而ENFP帮助ISFJ拥抱新体验。他们对真实关系的共同关注有助于弥合沟通差异。"
+    },
+    growthPotential: {
+      en: "ISFJs can become more adaptable and open to new ideas through ENFPs, while ENFPs can develop greater reliability and attention to detail from ISFJs. Their differences encourage mutual development when approached with patience.",
+      zh: "ISFJ可以通过ENFP变得更适应性强并对新想法更开放，而ENFP可以从ISFJ那里发展出更大的可靠性和对细节的关注。当以耐心对待时，他们的差异鼓励共同发展。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for ISFJs in ENFP relationships?",
+          zh: "ISFJ在ENFP关系中的最大挑战是什么？"
+        },
+        answer: {
+          en: "ISFJs may struggle with ENFPs' unpredictability and need for constant change, requiring compromise on both sides.",
+          zh: "ISFJ可能会对ENFP的不可预测性和对不断变化的需求感到挣扎，需要双方妥协。"
+        }
+      }
+    ]
+  }
+}
+```

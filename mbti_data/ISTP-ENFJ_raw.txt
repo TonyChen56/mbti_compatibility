@@ -1,0 +1,188 @@
+```typescript
+"ISTP": {
+  "ENFJ": {
+    overallScore: 78,
+    mediator: "ENFJ",
+    provider: "ISTP",
+    summary: {
+      en: "ISTP and ENFJ form a complementary pair with intriguing dynamics. The pragmatic ISTP brings hands-on problem-solving skills, while the charismatic ENFJ provides emotional warmth and social intelligence. Their differing cognitive functions create both attraction and challenges, with ENFJ's Fe helping ISTP develop emotional awareness, and ISTP's Ti offering ENFJ logical grounding. Their relationship thrives when they appreciate each other's strengths.",
+      zh: "ISTP和ENFJ形成互补配对，具有有趣的动态关系。务实的ISTP带来实际解决问题的能力，而富有魅力的ENFJ提供情感温暖和社交智慧。他们不同的认知功能既产生吸引力也带来挑战，ENFJ的Fe帮助ISTP发展情感意识，而ISTP的Ti为ENFJ提供逻辑基础。当他们欣赏彼此优势时，关系会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的对立面"
+    },
+    relationshipDesc: {
+      en: "A relationship where practical skills meet emotional intelligence, creating mutual growth opportunities.",
+      zh: "实用技能与情商相遇的关系，创造共同成长的机会。"
+    },
+    sharedValues: {
+      en: "Action-Oriented, Authenticity",
+      zh: "行动导向，真实性"
+    },
+    sharedValuesDesc: {
+      en: "Both value taking action and being genuine, though they express these values differently in daily life.",
+      zh: "双方都重视采取行动和保持真实，尽管在日常生活中表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs Diplomatic",
+      zh: "直接vs外交"
+    },
+    communicationDesc: {
+      en: "ISTP communicates concisely and factually, while ENFJ focuses on emotional tone and group harmony.",
+      zh: "ISTP沟通简明扼要且注重事实，而ENFJ则关注情感基调和群体和谐。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fe": {
+        score: 82,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "ISTP's logical analysis complements ENFJ's emotional intelligence, creating balanced decision-making.",
+          zh: "ISTP的逻辑分析补充了ENFJ的情商，创造了平衡的决策过程。"
+        }
+      },
+      "Se_Ni": {
+        score: 75,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ISTP's present-focused observation and ENFJ's future vision can collaborate effectively on projects.",
+          zh: "ISTP关注当下的观察力和ENFJ的未来愿景可以在项目上有效合作。"
+        }
+      },
+      "Ni_Se": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "Their shared but weaker Se/Ni functions allow some intuitive understanding of each other's perspectives.",
+          zh: "他们共同但较弱的Se/Ni功能允许对彼此观点有一定直觉理解。"
+        }
+      },
+      "Fe_Ti": {
+        score: 68,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "Under stress, ISTP may neglect emotions while ENFJ may overthink, creating temporary disconnection.",
+          zh: "压力下，ISTP可能忽视情感而ENFJ可能过度思考，造成暂时性脱节。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions: ISTP's Ti-Se provides practical solutions to ENFJ's visions, while ENFJ's Fe-Ni helps ISTP consider emotional and long-term impacts. However, their different communication styles require mutual adaptation.",
+      zh: "他们的兼容性源于互补功能：ISTP的Ti-Se为ENFJ的愿景提供实际解决方案，而ENFJ的Fe-Ni帮助ISTP考虑情感和长期影响。然而，他们不同的沟通方式需要相互适应。"
+    },
+    growthPotential: {
+      en: "ISTP can develop emotional intelligence and social skills from ENFJ, while ENFJ can learn practical problem-solving and logical consistency from ISTP. Their differences become strengths when appreciated.",
+      zh: "ISTP可以从ENFJ那里发展情商和社交技能，而ENFJ可以从ISTP那里学习实际解决问题和逻辑一致性。当被欣赏时，他们的差异会成为优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISTP and ENFJ improve their communication?",
+          zh: "ISTP和ENFJ如何改善他们的沟通？"
+        },
+        answer: {
+          en: "ISTP should practice expressing feelings more, while ENFJ should allow space for ISTP's direct, factual communication style without taking it personally.",
+          zh: "ISTP应该练习更多表达感受，而ENFJ应该为ISTP直接、事实性的沟通方式留出空间，不要把它当作针对个人。"
+        }
+      }
+    ]
+  }
+},
+"ENFJ": {
+  "ISTP": {
+    overallScore: 80,
+    mediator: "ENFJ",
+    provider: "ISTP",
+    summary: {
+      en: "ENFJs are drawn to ISTPs' calm competence and practical skills, while ISTPs appreciate ENFJs' warmth and social intelligence. This pairing benefits from ENFJ's ability to draw out ISTP's emotions and ISTP's capacity to ground ENFJ's idealism in reality. Their differences create a dynamic where both can grow significantly.",
+      zh: "ENFJ被ISTP冷静的能力和实用技能所吸引，而ISTP欣赏ENFJ的温暖和社交智慧。这种配对受益于ENFJ引出ISTP情感的能力，以及ISTP将ENFJ的理想主义扎根于现实的能力。他们的差异创造了一个双方都能显著成长的动态关系。"
+    },
+    relationshipType: {
+      en: "Mutual Growth Partners",
+      zh: "共同成长伙伴"
+    },
+    relationshipDesc: {
+      en: "ENFJ helps ISTP develop emotional expression, while ISTP helps ENFJ stay grounded in practical realities.",
+      zh: "ENFJ帮助ISTP发展情感表达，而ISTP帮助ENFJ扎根于实际现实。"
+    },
+    sharedValues: {
+      en: "Competence, Integrity",
+      zh: "能力，正直"
+    },
+    sharedValuesDesc: {
+      en: "Both respect competence and authenticity, though ENFJ expresses this through social harmony while ISTP through individual skill.",
+      zh: "双方都尊重能力和真实性，尽管ENFJ通过社会和谐表达这一点，而ISTP通过个人技能表达。"
+    },
+    communicationStyle: {
+      en: "Harmonious vs Pragmatic",
+      zh: "和谐vs务实"
+    },
+    communicationDesc: {
+      en: "ENFJ seeks emotionally connected dialogue while ISTP prefers efficient, solution-focused exchanges.",
+      zh: "ENFJ寻求情感连接的对话，而ISTP更喜欢高效、以解决方案为中心的交流。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Ti": {
+        score: 85,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ENFJ's emotional intelligence helps ISTP develop feelings awareness, while ISTP's logic provides valuable perspective.",
+          zh: "ENFJ的情商帮助ISTP发展情感意识，而ISTP的逻辑提供了宝贵的视角。"
+        }
+      },
+      "Ni_Se": {
+        score: 78,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ENFJ's future vision combines well with ISTP's present-moment awareness for balanced planning.",
+          zh: "ENFJ的未来愿景与ISTP的当下意识相结合，实现平衡规划。"
+        }
+      },
+      "Se_Ni": {
+        score: 72,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their shared but less developed functions create moments of intuitive understanding about each other.",
+          zh: "他们共同但不太发达的功能创造了彼此直觉理解的时刻。"
+        }
+      },
+      "Ti_Fe": {
+        score: 65,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Under stress, ENFJ may become overly analytical while ISTP may withdraw emotionally.",
+          zh: "压力下，ENFJ可能变得过度分析，而ISTP可能在情感上退缩。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFJ's dominant Fe and ISTP's dominant Ti create a natural teacher-student dynamic where both can learn from each other. ENFJ helps ISTP navigate social situations, while ISTP helps ENFJ develop more objective thinking. Their auxiliary functions (Ni-Se) allow for complementary approaches to problem-solving.",
+      zh: "ENFJ的主导Fe和ISTP的主导Ti创造了一种自然的师生动态，双方都可以互相学习。ENFJ帮助ISTP应对社交场合，而ISTP帮助ENFJ发展更客观的思维。他们的辅助功能(Ni-Se)允许互补的解决问题方法。"
+    },
+    growthPotential: {
+      en: "ENFJ can learn from ISTP's independence and practical problem-solving, while ISTP can develop greater emotional intelligence and social awareness through ENFJ's influence. Their differences provide rich opportunities for personal development.",
+      zh: "ENFJ可以从ISTP的独立性和实际解决问题中学习，而ISTP可以通过ENFJ的影响发展更高的情商和社交意识。他们的差异为个人发展提供了丰富的机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the biggest challenges for ENFJ-ISTP relationships?",
+          zh: "ENFJ-ISTP关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "The main challenges are ENFJ's need for emotional connection versus ISTP's preference for independence, and differing communication styles that can lead to misunderstandings.",
+          zh: "主要挑战是ENFJ对情感连接的需求与ISTP对独立性的偏好，以及可能导致误解的不同沟通风格。"
+        }
+      }
+    ]
+  }
+}
+```

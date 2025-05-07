@@ -1,0 +1,95 @@
+export default {
+  "ISTP": {
+    "INTJ": {
+    overallScore: 85,
+    mediator: "INTJ",
+    provider: "ISTP",
+    summary: {
+      en: "INTJs appreciate ISTPs' hands-on competence and problem-solving skills, while ISTPs respect INTJs' strategic depth. The INTJ's vision benefits from ISTP's practical adjustments, creating a powerful 'thinker-doer' dynamic. Potential friction arises when INTJs dismiss ISTPs' improvisation as undisciplined.",
+      zh: "INTJ欣赏ISTP的实践能力和解决问题的技巧，而ISTP尊重INTJ的战略深度。INTJ的愿景受益于ISTP的实际调整，形成强大的'思想者-执行者'动态。当INTJ将ISTP的即兴发挥视为缺乏纪律时，可能会产生摩擦。"
+    },
+    relationshipType: {
+      en: "Visionary Partnership",
+      zh: "远见伙伴关系"
+    },
+    relationshipDesc: {
+      en: "A complementary alliance where theoretical planning meets skilled execution.",
+      zh: "理论规划与熟练执行相结合的互补联盟。"
+    },
+    sharedValues: {
+      en: "Efficiency & Autonomy",
+      zh: "效率与自主"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize independent thinking and dislike unnecessary rules or emotional demands.",
+      zh: "双方都优先考虑独立思考，不喜欢不必要的规则或情感要求。"
+    },
+    communicationStyle: {
+      en: "Precision-Focused",
+      zh: "注重精确"
+    },
+    communicationDesc: {
+      en: "Exchanges are typically brief and technical, though INTJs should simplify abstract concepts for ISTPs.",
+      zh: "交流通常简短且技术性强，但INTJ应为ISTP简化抽象概念。"
+    },
+    cognitiveCompatibility: {
+      "Te_Ti": {
+        score: 86,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "INTJ's systematic approach organizes ISTP's analytical depth into actionable plans.",
+          zh: "INTJ的系统方法将ISTP的分析深度组织成可执行的计划。"
+        }
+      },
+      "Ni_Se": {
+        score: 90,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "INTJ's foresight combined with ISTP's sensory awareness creates comprehensive understanding.",
+          zh: "INTJ的远见与ISTP的感官意识相结合，形成全面的理解。"
+        }
+      },
+      "Se_Ni": {
+        score: 80,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "INTJ may overlook immediate details that ISTP naturally notices and utilizes.",
+          zh: "INTJ可能会忽略ISTP自然注意到并利用的即时细节。"
+        }
+      },
+      "Fi_Fe": {
+        score: 62,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Both struggle with emotional expression, potentially creating relationship blind spots.",
+          zh: "双方都不擅长情感表达，可能造成关系盲点。"
+        }
+},
+    compatibilityReason: {
+      en: "This pairing succeeds through complementary strengths - INTJ provides strategic direction while ISTP offers practical adaptation. Their mutual respect for competence overrides personality differences. Emotional connection requires conscious effort.",
+      zh: "这种配对通过互补优势取得成功 - INTJ提供战略方向，而ISTP提供实际适应。他们对能力的相互尊重超越了性格差异。情感连接需要有意识的努力。"
+    },
+    growthPotential: {
+      en: "INTJ learns to value real-world constraints from ISTP, while ISTP develops long-term thinking. Both can grow by developing emotional attunement.",
+      zh: "INTJ从ISTP那里学会重视现实世界的限制，而ISTP发展长期思维。双方都可以通过发展情感协调来成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What projects do INTJ-ISTP pairs excel at?",
+          zh: "INTJ-ISTP组合擅长什么项目？"
+        },
+        answer: {
+          en: "They thrive in technical implementations requiring both strategic planning and hands-on expertise, like engineering or systems design.",
+          zh: "他们在需要战略规划和实践专业知识的技术实施中表现出色，如工程或系统设计。"
+        }
+      }
+    ]
+  }
+}
+  }
+}

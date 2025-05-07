@@ -1,0 +1,186 @@
+{
+  "ISTP": {
+    overallScore: 75,
+    mediator: "ISTP",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJ and ISTP form a pragmatic but sometimes challenging pairing. ESTJs bring structure and decisiveness while ISTPs contribute adaptability and hands-on problem-solving. Their shared focus on tangible results creates common ground, but their differing approaches to planning (ESTJs prefer schedules while ISTPs prefer spontaneity) may cause friction. With mutual respect, they can balance each other well - the ESTJ provides stability while the ISTP brings flexibility.",
+      zh: "ESTJ和ISTP形成务实但有时具有挑战性的配对。ESTJ带来结构和决断力，而ISTP贡献适应性和实际解决问题的能力。他们对具体结果的共同关注创造了共同点，但他们对待计划的不同方式（ESTJ喜欢计划而ISTP喜欢自发）可能会引起摩擦。通过相互尊重，他们可以很好地平衡彼此 - ESTJ提供稳定性而ISTP带来灵活性。"
+    },
+    relationshipType: {
+      en: "Practical Complement",
+      zh: "务实互补"
+    },
+    relationshipDesc: {
+      en: "A partnership where structure meets spontaneity, creating balanced problem-solving dynamics.",
+      zh: "一种结构性与自发性相遇的伙伴关系，创造平衡的问题解决动态。"
+    },
+    sharedValues: {
+      en: "Efficiency & Competence",
+      zh: "效率与能力"
+    },
+    sharedValuesDesc: {
+      en: "Both value practical results and respect each other's competence in their respective domains.",
+      zh: "双方都重视实际结果，并尊重彼此在各自领域的能力。"
+    },
+    communicationStyle: {
+      en: "Direct but Different",
+      zh: "直接但不同"
+    },
+    communicationDesc: {
+      en: "ESTJs communicate systematically while ISTPs are more concise. Both appreciate factual discussions.",
+      zh: "ESTJ系统化沟通，而ISTP更简洁。双方都欣赏事实性讨论。"
+    },
+    cognitiveCompatibility: {
+      "Te_Dominant_Ti_Auxiliary": {
+        score: 82,
+        type1Function: "Te (Dominant)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "ESTJ's decisive Te complements ISTP's analytical Ti, creating effective problem-solving when balanced.",
+          zh: "ESTJ果断的Te与ISTP分析的Ti互补，平衡时能创造有效的问题解决。"
+        }
+      },
+      "Si_Auxiliary_Se_Dominant": {
+        score: 68,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "ESTJ's reliance on past experience may clash with ISTP's present-focused Se at times.",
+          zh: "ESTJ对过去经验的依赖有时可能与ISTP关注当下的Se产生冲突。"
+        }
+      },
+      "Fi_Tertiary_Fe_Inferior": {
+        score: 72,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both have underdeveloped feeling functions but can develop emotional understanding over time.",
+          zh: "双方的情感功能都不太发达，但可以随着时间的推移发展情感理解。"
+        }
+      },
+      "Ne_Inferior_Ni_Tertiary": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their intuitive functions are least developed, potentially causing misunderstandings about future plans.",
+          zh: "他们的直觉功能最不发达，可能导致对未来计划的误解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared focus on practical outcomes and mutual respect for competence. ESTJs appreciate ISTPs' technical skills while ISTPs value ESTJs' organizational abilities. Challenges arise from ESTJs' need for structure conflicting with ISTPs' preference for spontaneity, requiring compromise.",
+      zh: "他们的兼容性源于对实际结果的共同关注和对能力的相互尊重。ESTJ欣赏ISTP的技术技能，而ISTP重视ESTJ的组织能力。挑战来自于ESTJ对结构的需求与ISTP对自发性的偏好相冲突，需要妥协。"
+    },
+    growthPotential: {
+      en: "ESTJs can learn flexibility from ISTPs while ISTPs can benefit from ESTJs' planning skills. Both may develop their inferior feeling functions through the relationship.",
+      zh: "ESTJ可以从ISTP那里学习灵活性，而ISTP可以从ESTJ的计划技能中受益。双方都可能通过这段关系发展他们较弱的情感功能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ESTJs and ISTPs resolve conflicts about planning?",
+          zh: "ESTJ和ISTP如何解决关于计划的冲突？"
+        },
+        answer: {
+          en: "By finding middle ground - ESTJs allowing some flexibility while ISTPs respecting certain non-negotiable structures.",
+          zh: "通过找到中间立场 - ESTJ允许一定的灵活性，而ISTP尊重某些不可协商的结构。"
+        }
+      }
+    ]
+  }
+},
+"ISTP": {
+  "ESTJ": {
+    overallScore: 78,
+    mediator: "ISTP",
+    provider: "ESTJ",
+    summary: {
+      en: "From the ISTP's perspective, ESTJs offer valuable structure and reliability that can complement their spontaneous nature. While ISTPs may initially resist ESTJs' need for planning, they often come to appreciate the stability it provides. The ISTP's adaptability helps navigate ESTJ's rigidity, creating a balanced dynamic where both can learn from each other's strengths.",
+      zh: "从ISTP的角度来看，ESTJ提供了有价值的结构和可靠性，可以补充他们的自发性。虽然ISTP最初可能会抵制ESTJ对计划的需求，但他们往往会欣赏它提供的稳定性。ISTP的适应性有助于应对ESTJ的僵化，创造一种平衡的动态，双方都可以从彼此的优势中学习。"
+    },
+    relationshipType: {
+      en: "Stability-Adventure Balance",
+      zh: "稳定-冒险平衡"
+    },
+    relationshipDesc: {
+      en: "ISTPs find grounding in ESTJs' reliability while maintaining their independent problem-solving approach.",
+      zh: "ISTP在ESTJ的可靠性中找到基础，同时保持他们独立解决问题的方法。"
+    },
+    sharedValues: {
+      en: "Practical Results & Independence",
+      zh: "实际结果与独立性"
+    },
+    sharedValuesDesc: {
+      en: "Both value getting things done efficiently while maintaining their autonomy in the process.",
+      zh: "双方都重视高效完成任务，同时在此过程中保持自主性。"
+    },
+    communicationStyle: {
+      en: "Action-Oriented",
+      zh: "行动导向"
+    },
+    communicationDesc: {
+      en: "ISTPs prefer demonstrating through actions while ESTJs articulate plans verbally - both focus on tangible outcomes.",
+      zh: "ISTP更喜欢通过行动展示，而ESTJ用语言表达计划 - 双方都关注具体结果。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Auxiliary_Te_Dominant": {
+        score: 85,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "ISTP's analytical Ti works well with ESTJ's decisive Te when focused on shared practical goals.",
+          zh: "当专注于共同的实际目标时，ISTP的分析性Ti与ESTJ的果断性Te配合良好。"
+        }
+      },
+      "Se_Dominant_Si_Auxiliary": {
+        score: 70,
+        type1Function: "Se (Dominant)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ISTP's present-focused Se may occasionally frustrate ESTJ's preference for established methods.",
+          zh: "ISTP关注当下的Se偶尔可能会让偏好既定方法的ESTJ感到沮丧。"
+        }
+      },
+      "Fe_Inferior_Fi_Tertiary": {
+        score: 75,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both can develop emotional intelligence through their less dominant feeling functions.",
+          zh: "双方都可以通过他们不太占优势的情感功能发展情商。"
+        }
+      },
+      "Ni_Tertiary_Ne_Inferior": {
+        score: 63,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Their intuitive functions may struggle to connect, making long-term planning challenging.",
+          zh: "他们的直觉功能可能难以连接，使长期计划具有挑战性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTPs appreciate how ESTJs handle logistical details they find tedious, while ESTJs admire ISTPs' hands-on skills. The pairing works when ISTPs respect some structure and ESTJs allow space for improvisation. Their complementary approaches to problem-solving can be highly effective.",
+      zh: "ISTP欣赏ESTJ处理他们认为繁琐的后勤细节，而ESTJ钦佩ISTP的动手能力。当ISTP尊重某些结构而ESTJ允许即兴发挥的空间时，这种配对就会奏效。他们互补的问题解决方法可能非常有效。"
+    },
+    growthPotential: {
+      en: "ISTPs can develop better planning skills while maintaining adaptability. ESTJs may learn to appreciate more spontaneous approaches. Both can grow in emotional expression through the relationship.",
+      zh: "ISTP可以在保持适应性的同时发展更好的计划技能。ESTJ可能会学会欣赏更自发的方法。双方都可以通过这段关系在情感表达方面成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ISTPs to ESTJs?",
+          zh: "ISTP被ESTJ吸引的是什么？"
+        },
+        answer: {
+          en: "ISTPs often admire ESTJs' ability to organize and execute plans efficiently, something that doesn't come as naturally to them.",
+          zh: "ISTP通常钦佩ESTJ有效组织和执行计划的能力，这对他们来说并不那么自然。"
+        }
+      }
+    ]
+  }
+}

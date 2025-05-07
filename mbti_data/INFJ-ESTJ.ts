@@ -1,0 +1,186 @@
+{
+  "ESTJ": {
+    overallScore: 72,
+    mediator: "INFJ",
+    provider: "ESTJ",
+    summary: {
+      en: "INFJ and ESTJ form a complementary but challenging pairing. The INFJ's intuitive idealism contrasts with ESTJ's practical realism, creating both tension and growth opportunities. While ESTJs provide structure and action, INFJs offer depth and vision. Their differences can lead to mutual frustration but also significant personal development when both respect each other's strengths.",
+      zh: "INFJ和ESTJ形成互补但具有挑战性的配对。INFJ的直觉理想主义与ESTJ的务实现实主义形成对比，既产生张力也创造成长机会。ESTJ提供结构和行动力，INFJ则带来深度和愿景。当双方尊重彼此优势时，他们的差异可能导致相互挫败，但也带来显著的个人成长。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "A relationship where differences push both types to develop their weaker functions and broaden perspectives.",
+      zh: "这种关系中，差异推动双方发展弱势功能并拓宽视野。"
+    },
+    sharedValues: {
+      en: "Commitment to Growth",
+      zh: "对成长的承诺"
+    },
+    sharedValuesDesc: {
+      en: "Both value personal development and meaningful achievement, though they define success differently.",
+      zh: "双方都重视个人发展和有意义的成就，尽管对成功的定义不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Nuanced",
+      zh: "直接vs微妙"
+    },
+    communicationDesc: {
+      en: "ESTJs prefer straightforward communication while INFJs convey layered meanings, requiring patience to bridge styles.",
+      zh: "ESTJ偏好直接沟通，而INFJ传达多层次含义，需要耐心来弥合风格差异。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Te": {
+        score: 68,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "INFJ's visionary insights may clash with ESTJ's fact-based decision making, but can complement when balanced.",
+          zh: "INFJ的远见卓识可能与ESTJ基于事实的决策冲突，但平衡时可以互补。"
+        }
+      },
+      "Fe_Si": {
+        score: 75,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "INFJ's social harmony focus and ESTJ's practical experience can create stable, caring environments.",
+          zh: "INFJ的社会和谐关注与ESTJ的实践经验可以创造稳定、关怀的环境。"
+        }
+      },
+      "Ti_Ne": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Their weaker functions may struggle to connect, as INFJ's logic differs from ESTJ's exploratory thinking.",
+          zh: "他们的弱势功能可能难以连接，因为INFJ的逻辑与ESTJ的探索性思维不同。"
+        }
+      },
+      "Se_Fi": {
+        score: 70,
+        type1Function: "Se (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Under stress, INFJ may become overly sensory while ESTJ becomes overly personal - potential conflict point.",
+          zh: "压力下，INFJ可能变得过度感官化，而ESTJ变得过度个人化——这是潜在的冲突点。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary strengths - ESTJ's practicality grounds INFJ's idealism, while INFJ's insight helps ESTJ see beyond immediate facts. However, their different decision-making processes (intuitive vs. practical) require mutual understanding.",
+      zh: "他们的兼容性源于互补优势——ESTJ的务实性使INFJ的理想主义落地，而INFJ的洞察力帮助ESTJ超越眼前事实。然而，他们不同的决策过程(直觉vs务实)需要相互理解。"
+    },
+    growthPotential: {
+      en: "INFJ can learn decisive action and practical implementation from ESTJ, while ESTJ can develop intuition and consider abstract possibilities from INFJ.",
+      zh: "INFJ可以向ESTJ学习果断行动和实际执行，而ESTJ可以从INFJ那里发展直觉并考虑抽象可能性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INFJ and ESTJ resolve conflicts?",
+          zh: "INFJ和ESTJ如何解决冲突？"
+        },
+        answer: {
+          en: "INFJs should express needs directly while ESTJs should pause to consider emotional impacts. Finding common goals helps bridge differences.",
+          zh: "INFJ应直接表达需求，而ESTJ应暂停考虑情感影响。找到共同目标有助于弥合分歧。"
+        }
+      }
+    ]
+  }
+},
+"ESTJ": {
+  "INFJ": {
+    overallScore: 75,
+    mediator: "INFJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJs appreciate INFJs' depth and insight, though may find their abstract thinking frustrating. INFJs help ESTJs see beyond concrete realities, while ESTJs provide INFJs with much-needed structure and action orientation. With mutual respect, this pairing can achieve remarkable results by combining vision with execution.",
+      zh: "ESTJ欣赏INFJ的深度和洞察力，尽管可能觉得他们的抽象思维令人沮丧。INFJ帮助ESTJ看到超越具体现实的东西，而ESTJ为INFJ提供急需的结构和行动导向。在相互尊重下，这种配对通过将愿景与执行相结合，可以取得显著成果。"
+    },
+    relationshipType: {
+      en: "Vision-Execution Pair",
+      zh: "愿景-执行组合"
+    },
+    relationshipDesc: {
+      en: "A productive partnership where one provides ideas and the other makes them happen.",
+      zh: "一种富有成效的伙伴关系，一方提供想法，另一方将其实现。"
+    },
+    sharedValues: {
+      en: "Integrity and Responsibility",
+      zh: "诚信与责任"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value keeping commitments and acting with integrity, though express it differently.",
+      zh: "两种类型都高度重视履行承诺和诚信行事，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Results vs. Meaning",
+      zh: "结果vs意义"
+    },
+    communicationDesc: {
+      en: "ESTJs focus on tangible outcomes while INFJs seek deeper significance, requiring translation between perspectives.",
+      zh: "ESTJ关注有形结果，而INFJ寻求更深层次的意义，需要在视角间转换。"
+    },
+    cognitiveCompatibility: {
+      "Te_Ni": {
+        score: 72,
+        type1Function: "Te (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ESTJ's efficiency can help implement INFJ's visions, though may initially dismiss their abstract nature.",
+          zh: "ESTJ的效率可以帮助实现INFJ的愿景，尽管最初可能忽视其抽象性。"
+        }
+      },
+      "Si_Fe": {
+        score: 78,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ESTJ's attention to detail supports INFJ's social harmony focus in practical ways.",
+          zh: "ESTJ对细节的关注以实际方式支持INFJ的社会和谐关注。"
+        }
+      },
+      "Ne_Ti": {
+        score: 65,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their exploratory thinking and logical analysis may not naturally align, requiring conscious effort.",
+          zh: "他们的探索性思维和逻辑分析可能不会自然一致，需要有意识的努力。"
+        }
+      },
+      "Fi_Se": {
+        score: 68,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "When stressed, ESTJ may become overly personal while INFJ becomes overly sensory - needing mutual understanding.",
+          zh: "压力下，ESTJ可能变得过度个人化，而INFJ变得过度感官化——需要相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESTJs benefit from INFJs' ability to see possibilities beyond the obvious, while INFJs gain from ESTJs' organizational skills and realism. Their different worldviews can create friction but also remarkable synergy when combined effectively.",
+      zh: "ESTJ受益于INFJ看到显而易见之外可能性的能力，而INFJ从ESTJ的组织技巧和现实主义中获益。他们不同的世界观可能产生摩擦，但有效结合时也能产生显著的协同效应。"
+    },
+    growthPotential: {
+      en: "ESTJs can develop greater intuition and flexibility from INFJs, while INFJs can learn practical implementation and decisiveness from ESTJs.",
+      zh: "ESTJ可以从INFJ那里发展更强的直觉和灵活性，而INFJ可以向ESTJ学习实际执行和果断性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What projects suit INFJ-ESTJ collaborations?",
+          zh: "什么项目适合INFJ-ESTJ合作？"
+        },
+        answer: {
+          en: "Community initiatives or business ventures that require both visionary planning and practical execution play to their combined strengths.",
+          zh: "需要愿景规划和实际执行的社区倡议或商业项目能发挥他们的综合优势。"
+        }
+      }
+    ]
+  }
+}

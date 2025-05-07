@@ -1,0 +1,188 @@
+```typescript
+"INTJ": {
+  "ESTP": {
+    overallScore: 75,
+    mediator: "INTJ",
+    provider: "ESTP",
+    summary: {
+      en: "The INTJ-ESTP pairing forms a dynamic but challenging relationship. INTJs bring strategic vision while ESTPs provide spontaneous action. Their complementary cognitive functions create an intriguing balance between planning and execution, though their fundamental differences in temperament may cause friction. The INTJ's Ni-Te seeks long-term efficiency, while the ESTP's Se-Ti thrives in immediate experiences.",
+      zh: "INTJ与ESTP的组合形成一种充满活力但具有挑战性的关系。INTJ带来战略眼光，而ESTP提供即兴行动。他们互补的认知功能在规划与执行间创造了有趣的平衡，尽管他们气质上的根本差异可能导致摩擦。INTJ的Ni-Te追求长期效率，而ESTP的Se-Ti则擅长即时体验。"
+    },
+    relationshipType: {
+      en: "Strategic Adventurers",
+      zh: "战略冒险家"
+    },
+    relationshipDesc: {
+      en: "A partnership where vision meets action, combining INTJ's foresight with ESTP's adaptability.",
+      zh: "一种远见与行动相结合的伙伴关系，融合了INTJ的预见性和ESTP的适应力。"
+    },
+    sharedValues: {
+      en: "Efficiency & Competence",
+      zh: "效率与能力"
+    },
+    sharedValuesDesc: {
+      en: "Both types value practical results and intellectual competence, though they approach problems differently.",
+      zh: "两种类型都重视实际结果和智力能力，尽管他们解决问题的方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct but Different",
+      zh: "直接但不同"
+    },
+    communicationDesc: {
+      en: "INTJs communicate abstract theories while ESTPs focus on concrete facts, requiring mutual adaptation.",
+      zh: "INTJ交流抽象理论，而ESTP关注具体事实，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Se": {
+        score: 82,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "INTJ's future vision complements ESTP's present awareness, creating a complete time perspective.",
+          zh: "INTJ的未来愿景与ESTP的当下意识互补，形成了完整的时间视角。"
+        }
+      },
+      "Te_Ti": {
+        score: 68,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "INTJ's systematic thinking sometimes conflicts with ESTP's analytical approach to problems.",
+          zh: "INTJ的系统思维有时与ESTP对问题的分析方法相冲突。"
+        }
+      },
+      "Fi_Fe": {
+        score: 65,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "INTJ's internal values and ESTP's social harmony focus may create emotional disconnection.",
+          zh: "INTJ的内在价值观与ESTP的社会和谐关注可能导致情感脱节。"
+        }
+      },
+      "Se_Ni": {
+        score: 78,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ESTP's strong Se helps INTJ engage with reality, while INTJ's Ni offers ESTP future insights.",
+          zh: "ESTP强大的Se帮助INTJ与现实接轨，而INTJ的Ni为ESTP提供未来洞察。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary dominant functions (Ni-Se) that create a complete perception of time. However, their different decision-making approaches (Te-Ti) and values (Fi-Fe) require conscious effort to bridge. The INTJ can help the ESTP consider long-term consequences, while the ESTP can help the INTJ act more spontaneously.",
+      zh: "他们的兼容性源于互补的主导功能(Ni-Se)，创造了完整的时间感知。然而，他们不同的决策方法(Te-Ti)和价值观(Fi-Fe)需要有意识的努力来弥合。INTJ可以帮助ESTP考虑长期后果，而ESTP可以帮助INTJ更自发地行动。"
+    },
+    growthPotential: {
+      en: "This pairing offers significant growth potential: INTJs develop better present-moment awareness and adaptability, while ESTPs gain strategic thinking skills. Their differences can become strengths if both appreciate each other's perspectives.",
+      zh: "这种配对提供了显著的成长潜力：INTJ培养更好的当下意识和适应能力，而ESTP获得战略思维能力。如果双方都能欣赏对方的观点，他们的差异可以变成优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the biggest challenges for INTJ-ESTP relationships?",
+          zh: "INTJ与ESTP关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "The main challenge is reconciling INTJ's need for planning with ESTP's preference for spontaneity. Communication styles also differ significantly regarding abstract vs concrete thinking.",
+          zh: "主要挑战是协调INTJ对计划的需求与ESTP对自发性的偏好。在抽象与具体思维方面，沟通方式也有很大差异。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "INTJ": {
+    overallScore: 78,
+    mediator: "INTJ",
+    provider: "ESTP",
+    summary: {
+      en: "From the ESTP's perspective, the INTJ offers depth and strategic thinking that complements their action-oriented nature. While ESTPs may initially find INTJs too theoretical, they can come to appreciate their long-term vision. The ESTP's energy and practicality help ground the INTJ's abstract ideas in reality.",
+      zh: "从ESTP的角度来看，INTJ提供了深度和战略思维，与他们行动导向的天性互补。虽然ESTP最初可能觉得INTJ过于理论化，但他们可以逐渐欣赏其长期愿景。ESTP的精力和实用性有助于将INTJ的抽象想法落实到现实中。"
+    },
+    relationshipType: {
+      en: "Reality Anchors",
+      zh: "现实锚点"
+    },
+    relationshipDesc: {
+      en: "ESTPs help INTJs experience life, while INTJs help ESTPs plan for the future - a mutually beneficial exchange.",
+      zh: "ESTP帮助INTJ体验生活，而INTJ帮助ESTP规划未来——一种互惠互利的交流。"
+    },
+    sharedValues: {
+      en: "Results-Oriented",
+      zh: "结果导向"
+    },
+    sharedValuesDesc: {
+      en: "Both types ultimately want effective solutions, valuing competence and practical outcomes above all.",
+      zh: "两种类型最终都想要有效的解决方案，最重视能力和实际结果。"
+    },
+    communicationStyle: {
+      en: "Direct Pragmatism",
+      zh: "直接实用主义"
+    },
+    communicationDesc: {
+      en: "Both prefer straightforward communication, though ESTPs focus on immediate facts while INTJs discuss underlying principles.",
+      zh: "两者都喜欢直接的沟通，尽管ESTP关注即时事实，而INTJ讨论基本原则。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ni": {
+        score: 85,
+        type1Function: "Se (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ESTP's present focus balances INTJ's future orientation, creating a complete temporal perspective.",
+          zh: "ESTP的当下关注平衡了INTJ的未来导向，创造了完整的时间视角。"
+        }
+      },
+      "Ti_Te": {
+        score: 72,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ESTP's internal logic sometimes conflicts with INTJ's systematic efficiency approach.",
+          zh: "ESTP的内部逻辑有时与INTJ的系统效率方法相冲突。"
+        }
+      },
+      "Fe_Fi": {
+        score: 63,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ESTP's social awareness and INTJ's personal values may create emotional misunderstandings.",
+          zh: "ESTP的社会意识与INTJ的个人价值观可能导致情感误解。"
+        }
+      },
+      "Ni_Se": {
+        score: 80,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "INTJ's intuition helps ESTP see future implications, while ESTP's sensing helps INTJ stay grounded.",
+          zh: "INTJ的直觉帮助ESTP看到未来影响，而ESTP的感知帮助INTJ保持脚踏实地。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works because ESTPs and INTJs share a results-driven mindset despite different approaches. The ESTP's Se dominant function provides real-world data that the INTJ's Ni can analyze, while the INTJ's strategic thinking helps the ESTP consider long-term consequences of their actions.",
+      zh: "这种配对之所以有效，是因为ESTP和INTJ尽管方法不同，但都秉持结果导向的思维模式。ESTP的主导功能Se提供了现实世界的数据供INTJ的Ni分析，而INTJ的战略思维帮助ESTP考虑其行动的长期后果。"
+    },
+    growthPotential: {
+      en: "ESTPs can develop greater foresight and patience through INTJ influence, while INTJs can learn to be more spontaneous and present-focused from ESTPs. Their differences become complementary strengths when both types remain open-minded.",
+      zh: "在INTJ的影响下，ESTP可以培养更强的远见和耐心，而INTJ可以从ESTP那里学会更加自发和关注当下。当两种类型都保持开放心态时，他们的差异会成为互补的优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ESTPs and INTJs improve their communication?",
+          zh: "ESTP和INTJ如何改善他们的沟通？"
+        },
+        answer: {
+          en: "ESTPs should practice patience with INTJ's abstract theories, while INTJs should connect ideas to concrete examples for ESTPs. Finding practical applications for discussions helps bridge the gap.",
+          zh: "ESTP应对INTJ的抽象理论保持耐心，而INTJ应将想法与具体例子联系起来。为讨论寻找实际应用有助于弥合差距。"
+        }
+      }
+    ]
+  }
+}
+```

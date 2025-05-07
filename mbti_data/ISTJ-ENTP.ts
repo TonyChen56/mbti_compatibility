@@ -1,0 +1,186 @@
+{
+  "ENTP": {
+    overallScore: 75,
+    mediator: "ENTP",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJ and ENTP form a complementary but challenging pairing. The ISTJ's structured, detail-oriented approach contrasts with the ENTP's big-picture thinking and love for debate. While ISTJs provide stability and reliability, ENTPs bring innovation and intellectual stimulation. Their differences can lead to growth if both appreciate each other's strengths.",
+      zh: "ISTJ和ENTP形成互补但具有挑战性的配对。ISTJ结构化、注重细节的思维方式与ENTP宏观思考和热爱辩论的特质形成对比。虽然ISTJ提供稳定性和可靠性，ENTP带来创新和智力刺激。如果双方能欣赏彼此的优点，他们的差异可以促进成长。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "A relationship that pushes both types out of their comfort zones, fostering mutual development.",
+      zh: "这种关系会推动双方走出舒适区，促进共同发展。"
+    },
+    sharedValues: {
+      en: "Intellectual Honesty, Problem-Solving",
+      zh: "知识诚实，解决问题"
+    },
+    sharedValuesDesc: {
+      en: "Both value logical analysis and practical solutions, though they approach problems differently.",
+      zh: "双方都重视逻辑分析和实际解决方案，尽管他们处理问题的方式不同。"
+    },
+    communicationStyle: {
+      en: "Fact-Based vs. Idea-Based",
+      zh: "基于事实 vs 基于想法"
+    },
+    communicationDesc: {
+      en: "ISTJs prefer concrete details while ENTPs enjoy theoretical possibilities, requiring patience from both sides.",
+      zh: "ISTJ偏好具体细节，而ENTP喜欢理论可能性，需要双方都保持耐心。"
+    },
+    cognitiveCompatibility: {
+      "Si_Ne": {
+        score: 82,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "Si's focus on past experiences can balance Ne's future-oriented possibilities, creating a complete perspective.",
+          zh: "Si对过去经验的关注可以平衡Ne面向未来的可能性，形成完整的视角。"
+        }
+      },
+      "Te_Ti": {
+        score: 68,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "Te's efficiency focus may clash with Ti's internal logic, requiring compromise in decision-making.",
+          zh: "Te的效率导向可能与Ti的内在逻辑冲突，需要在决策中妥协。"
+        }
+      },
+      "Fi_Fe": {
+        score: 72,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Both have developing feeling functions, with ISTJ valuing authenticity and ENTP seeking harmony.",
+          zh: "双方都有发展中的情感功能，ISTJ重视真实性，ENTP寻求和谐。"
+        }
+      },
+      "Ne_Si": {
+        score: 85,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Their inferior functions mirror each other, offering mutual understanding of each other's vulnerabilities.",
+          zh: "他们的劣势功能相互镜像，提供了对彼此弱点的相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their complementary cognitive functions create potential for balance: ISTJ's Si-Te provides stability to ENTP's Ne-Ti innovation. However, their different approaches to information processing (concrete vs abstract) requires conscious effort to bridge.",
+      zh: "他们互补的认知功能创造了平衡的潜力：ISTJ的Si-Te为ENTP的Ne-Ti创新提供了稳定性。然而，他们在信息处理方式上的差异（具体vs抽象）需要有意识的努力来弥合。"
+    },
+    growthPotential: {
+      en: "ISTJs can learn to embrace new possibilities from ENTPs, while ENTPs can develop better follow-through from ISTJs. Both can expand their emotional intelligence through this relationship.",
+      zh: "ISTJ可以从ENTP那里学会接受新的可能性，而ENTP可以从ISTJ那里发展出更好的执行力。双方都可以通过这种关系扩展他们的情商。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISTJ and ENTP resolve conflicts?",
+          zh: "ISTJ和ENTP如何解决冲突？"
+        },
+        answer: {
+          en: "ISTJs should express concerns directly while ENTPs should avoid debating for fun. Finding practical compromises works best.",
+          zh: "ISTJ应该直接表达关切，而ENTP应该避免为了好玩而辩论。寻找实际的妥协最有效。"
+        }
+      }
+    ]
+  }
+},
+"ENTP": {
+  "ISTJ": {
+    overallScore: 78,
+    mediator: "ENTP",
+    provider: "ISTJ",
+    summary: {
+      en: "ENTPs find ISTJs' reliability grounding but may feel constrained by their routines. ISTJs appreciate ENTPs' creativity but may find their unpredictability stressful. With mutual respect, they can form a balanced partnership where ideas meet execution.",
+      zh: "ENTP觉得ISTJ的可靠性很踏实，但可能会感到被他们的常规所限制。ISTJ欣赏ENTP的创造力，但可能会觉得他们的不可预测性令人压力。在相互尊重的情况下，他们可以形成一个想法与执行相结合的平衡伙伴关系。"
+    },
+    relationshipType: {
+      en: "Idea Implementers",
+      zh: "想法实施者"
+    },
+    relationshipDesc: {
+      en: "ENTP generates ideas while ISTJ provides the structure to make them reality.",
+      zh: "ENTP产生想法，而ISTJ提供使其成为现实的结构。"
+    },
+    sharedValues: {
+      en: "Competence, Continuous Improvement",
+      zh: "能力，持续改进"
+    },
+    sharedValuesDesc: {
+      en: "Both value competence in their fields and believe in refining their approaches over time.",
+      zh: "双方都重视各自领域的能力，并相信随着时间的推移改进他们的方法。"
+    },
+    communicationStyle: {
+      en: "Theoretical vs. Practical",
+      zh: "理论性 vs 实用性"
+    },
+    communicationDesc: {
+      en: "ENTPs enjoy exploring concepts while ISTJs want actionable conclusions, requiring translation between perspectives.",
+      zh: "ENTP喜欢探索概念，而ISTJ想要可操作的结论，需要在视角之间进行转换。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Si": {
+        score: 85,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Ne's idea generation benefits from Si's practical experience, creating innovative yet grounded solutions.",
+          zh: "Ne的想法生成受益于Si的实践经验，创造出创新又接地气的解决方案。"
+        }
+      },
+      "Ti_Te": {
+        score: 70,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Ti's internal logic may frustrate Te's efficiency focus, but can provide deeper analysis when combined.",
+          zh: "Ti的内在逻辑可能会让Te的效率导向感到沮丧，但结合起来可以提供更深入的分析。"
+        }
+      },
+      "Fe_Fi": {
+        score: 75,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their developing feeling functions allow mutual emotional growth, though they express care differently.",
+          zh: "他们发展中的情感功能允许共同的情感成长，尽管他们表达关心的方式不同。"
+        }
+      },
+      "Si_Ne": {
+        score: 80,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Their inferior functions create mutual understanding of each other's vulnerabilities and growth areas.",
+          zh: "他们的劣势功能创造了对彼此弱点和成长领域的相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENTPs benefit from ISTJs' grounded perspective while ISTJs gain fresh ideas from ENTPs. Their function stack mirroring creates both tension and complementarity, making the relationship dynamic.",
+      zh: "ENTP受益于ISTJ务实的观点，而ISTJ从ENTP那里获得新鲜的想法。他们功能栈的镜像既创造了紧张又创造了互补性，使关系充满活力。"
+    },
+    growthPotential: {
+      en: "ENTPs can develop better focus and follow-through from ISTJs, while ISTJs can expand their creative thinking through ENTPs. Both types mature their feeling functions through this interaction.",
+      zh: "ENTP可以从ISTJ那里发展出更好的专注力和执行力，而ISTJ可以通过ENTP扩展创造性思维。两种类型都可以通过这种互动使他们的情感功能更加成熟。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What projects are ISTJ and ENTP good at working on together?",
+          zh: "ISTJ和ENTP适合一起做什么项目？"
+        },
+        answer: {
+          en: "They excel at projects requiring both innovation and implementation - like business startups or process improvements where ENTPs brainstorm and ISTJs systematize.",
+          zh: "他们擅长需要创新和实施的项目 - 比如商业创业或流程改进，ENTP头脑风暴，ISTJ系统化。"
+        }
+      }
+    ]
+  }
+}

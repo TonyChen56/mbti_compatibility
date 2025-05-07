@@ -1,0 +1,188 @@
+```typescript
+"ENFP": {
+  "ISTP": {
+    overallScore: 78,
+    mediator: "ENFP",
+    provider: "ISTP",
+    summary: {
+      en: "ENFPs and ISTPs form an intriguing pair where ENFP's enthusiasm meets ISTP's practicality. While ENFPs bring creativity and social energy, ISTPs provide grounded solutions and hands-on skills. Their differences can create a dynamic balance, though ENFPs may need to adapt to ISTP's reserved nature while ISTPs can learn to appreciate ENFP's spontaneity.",
+      zh: "ENFP和ISTP的组合充满趣味性，ENFP的热情遇上ISTP的务实。ENFP带来创造力和社交能量，而ISTP提供实际的解决方案和动手能力。他们的差异可以形成动态平衡，尽管ENFP可能需要适应ISTP的内敛性格，而ISTP可以学会欣赏ENFP的自发性。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A complementary pair where ENFP's ideas meet ISTP's execution skills for exciting shared experiences.",
+      zh: "ENFP的想法与ISTP的执行力相辅相成，共同创造精彩体验。"
+    },
+    sharedValues: {
+      en: "Freedom & Authenticity",
+      zh: "自由与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both types value personal freedom and dislike rigid structures, though they express it differently - ENFPs through social exploration and ISTPs through independent action.",
+      zh: "两种类型都重视个人自由，厌恶僵化的结构，尽管表现方式不同——ENFP通过社交探索，ISTP通过独立行动。"
+    },
+    communicationStyle: {
+      en: "Conceptual ↔ Practical",
+      zh: "概念性 ↔ 实用性"
+    },
+    communicationDesc: {
+      en: "ENFPs communicate in abstract possibilities while ISTPs focus on concrete facts, requiring mutual adaptation.",
+      zh: "ENFP用抽象可能性交流，而ISTP专注于具体事实，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ti": {
+        score: 82,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ENFP's idea generation complements ISTP's logical analysis, creating innovative solutions.",
+          zh: "ENFP的想法生成与ISTP的逻辑分析互补，能创造创新解决方案。"
+        }
+      },
+      "Fi_Se": {
+        score: 75,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ENFP's values may clash with ISTP's sensory focus, but can balance each other.",
+          zh: "ENFP的价值观可能与ISTP的感官关注冲突，但可以相互平衡。"
+        }
+      },
+      "Te_Ni": {
+        score: 68,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Both have underdeveloped Te/Ni, potentially struggling with long-term planning.",
+          zh: "两者的Te/Ni功能都不够成熟，可能在长期规划上遇到困难。"
+        }
+      },
+      "Si_Fe": {
+        score: 72,
+        type1Function: "Si (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both may neglect routine details (ENFP) or social harmony (ISTP) under stress.",
+          zh: "压力下，两者都可能忽视日常细节(ENFP)或社交和谐(ISTP)。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary strengths - ENFP's vision and ISTP's practicality. However, ENFP's need for emotional connection may frustrate ISTP's independence, while ISTP's reserved nature may leave ENFP feeling unheard.",
+      zh: "他们的兼容性源于互补优势——ENFP的远见和ISTP的务实。然而，ENFP对情感连接的需求可能让独立的ISTP感到困扰，而ISTP的内敛可能让ENFP感到不被倾听。"
+    },
+    growthPotential: {
+      en: "ENFPs can learn practical implementation from ISTPs, while ISTPs can develop emotional expression through ENFPs. Their differences become growth opportunities with mutual understanding.",
+      zh: "ENFP可以向ISTP学习实际执行，而ISTP可以通过ENFP发展情感表达。在相互理解下，他们的差异会成为成长机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENFPs and ISTPs improve communication?",
+          zh: "ENFP和ISTP如何改善沟通？"
+        },
+        answer: {
+          en: "ENFPs should present ideas concisely while ISTPs should engage more emotionally. Finding shared activities helps bridge differences.",
+          zh: "ENFP应简洁表达想法，ISTP应更多情感投入。寻找共同活动有助于弥合差异。"
+        }
+      }
+    ]
+  }
+},
+"ISTP": {
+  "ENFP": {
+    overallScore: 76,
+    mediator: "ENFP",
+    provider: "ISTP",
+    summary: {
+      en: "From ISTP's perspective, ENFPs bring excitement and new perspectives, though their emotional intensity can be overwhelming. ISTPs appreciate ENFP's creativity but may withdraw when needing space. With patience, this pairing offers valuable growth for both.",
+      zh: "从ISTP角度看，ENFP带来兴奋和新视角，尽管他们的情感强度可能令人不知所措。ISTP欣赏ENFP的创造力，但需要空间时可能会退缩。若有耐心，这种配对能为双方提供宝贵的成长。"
+    },
+    relationshipType: {
+      en: "Mutual Growth",
+      zh: "共同成长"
+    },
+    relationshipDesc: {
+      en: "ISTPs ground ENFPs' ideas while ENFPs help ISTPs explore emotional depth - a potentially transformative relationship.",
+      zh: "ISTP使ENFP的想法落地，而ENFP帮助ISTP探索情感深度——这是种可能变革性的关系。"
+    },
+    sharedValues: {
+      en: "Autonomy & Novelty",
+      zh: "自主性与新鲜感"
+    },
+    sharedValuesDesc: {
+      en: "Both cherish independence and dislike routine, though ISTPs prefer physical freedom while ENFPs seek intellectual variety.",
+      zh: "两者都珍视独立，厌恶常规，尽管ISTP偏爱身体自由而ENFP追求智力多样性。"
+    },
+    communicationStyle: {
+      en: "Direct ↔ Expressive",
+      zh: "直接 ↔ 表达性"
+    },
+    communicationDesc: {
+      en: "ISTPs communicate concisely while ENFPs elaborate emotionally - learning each other's style prevents misunderstandings.",
+      zh: "ISTP简洁沟通而ENFP情感丰富地阐述——学习对方的风格能预防误解。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Ne": {
+        score: 80,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ISTP's logical precision helps refine ENFP's creative ideas into actionable plans.",
+          zh: "ISTP的逻辑精确性帮助将ENFP的创意提炼为可执行计划。"
+        }
+      },
+      "Se_Fi": {
+        score: 73,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ISTP's present-moment focus balances ENFP's value-driven approach to experiences.",
+          zh: "ISTP的当下关注平衡了ENFP对体验的价值驱动方式。"
+        }
+      },
+      "Ni_Te": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Both can develop strategic thinking together, though it's not their natural strength.",
+          zh: "两者可以共同发展战略思维，尽管这不是他们的天然优势。"
+        }
+      },
+      "Fe_Si": {
+        score: 65,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Under stress, ISTPs may neglect social niceties while ENFPs overlook practical details.",
+          zh: "压力下，ISTP可能忽视社交礼仪而ENFP忽略实际细节。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTPs admire ENFP's energy and ideas but need space to process emotions. ENFPs help ISTPs open up emotionally, while ISTPs teach ENFPs practical implementation. Their differences complement when respected.",
+      zh: "ISTP欣赏ENFP的能量和想法，但需要空间处理情感。ENFP帮助ISTP情感上开放，而ISTP教会ENFP实际执行。当差异被尊重时，他们就能互补。"
+    },
+    growthPotential: {
+      en: "ISTPs can develop emotional intelligence through ENFPs, while ENFPs learn practical focus from ISTPs. Their contrasting approaches become assets with maturity.",
+      zh: "ISTP可以通过ENFP发展情商，而ENFP向ISTP学习实际专注。随着成熟，他们对比鲜明的方法会成为优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities suit ENFP-ISTP couples?",
+          zh: "ENFP-ISTP情侣适合什么活动？"
+        },
+        answer: {
+          en: "Hands-on adventures (ISTP's preference) with social elements (ENFP's preference), like group sports or travel with problem-solving challenges.",
+          zh: "结合动手冒险(ISTP偏好)和社交元素(ENFP偏好)的活动，如团体运动或带有问题解决挑战的旅行。"
+        }
+      }
+    ]
+  }
+}
+```

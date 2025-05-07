@@ -1,0 +1,186 @@
+{
+  "ESTJ": {
+    overallScore: 85,
+    mediator: "ISTJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ISTJ and ESTJ share a strong practical orientation and value for structure, making them highly compatible in work and daily life. Both types are detail-oriented, responsible, and respect traditions. While ESTJs are more outgoing and action-oriented, ISTJs provide stability and thoroughness. Their shared Sensing and Thinking functions create efficient teamwork, though they may need to consciously develop emotional connection.",
+      zh: "ISTJ和ESTJ都具有强烈的务实导向和对结构的重视，使他们在工作和日常生活中高度兼容。两种类型都注重细节、负责任且尊重传统。ESTJ更外向且行动导向，而ISTJ则提供稳定性和全面性。他们共有的感觉和思考功能创造了高效的团队合作，但可能需要有意识地发展情感连接。"
+    },
+    relationshipType: {
+      en: "Structured Partners",
+      zh: "结构化伙伴"
+    },
+    relationshipDesc: {
+      en: "A relationship built on mutual respect for efficiency, order and practical problem-solving.",
+      zh: "建立在相互尊重效率、秩序和实际问题解决基础上的关系。"
+    },
+    sharedValues: {
+      en: "Duty, Reliability, Efficiency",
+      zh: "责任、可靠、效率"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value responsibility, punctuality and getting things done properly. They respect rules and proven methods.",
+      zh: "两种类型都非常重视责任感、守时性和正确完成任务。他们尊重规则和经过验证的方法。"
+    },
+    communicationStyle: {
+      en: "Direct & Fact-based",
+      zh: "直接且基于事实"
+    },
+    communicationDesc: {
+      en: "Communication tends to be straightforward and focused on practical matters. Both prefer clear, concise information.",
+      zh: "沟通往往是直接的，专注于实际问题。两者都喜欢清晰简洁的信息。"
+    },
+    cognitiveCompatibility: {
+      "Si_Si": {
+        score: 90,
+        type1Function: "Si (Dominant)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "Shared Si creates strong common ground in practical experience and attention to detail.",
+          zh: "共有的Si功能在实际经验和关注细节方面创造了强大的共同基础。"
+        }
+      },
+      "Te_Te": {
+        score: 88,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Te alignment ensures efficient decision-making and organization, though ESTJs may be more assertive.",
+          zh: "Te功能的一致性确保了高效的决策和组织，尽管ESTJ可能更自信。"
+        }
+      },
+      "Fi_Fe": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Potential tension area as ISTJs value personal values while ESTJs focus more on social harmony.",
+          zh: "潜在紧张区域，因为ISTJ重视个人价值观，而ESTJ更关注社会和谐。"
+        }
+      },
+      "Ne_Ne": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Both may struggle with abstract possibilities, preferring concrete facts and established methods.",
+          zh: "两者都可能难以处理抽象可能性，更喜欢具体事实和既定方法。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "High compatibility stems from shared Sensing and Thinking functions, creating mutual understanding in practical matters. Differences in energy orientation (introversion/extroversion) can complement each other when managed well. Potential challenges may arise in emotional expression and flexibility.",
+      zh: "高兼容性源于共有的感觉和思考功能，在实际问题上产生相互理解。能量导向的差异(内向/外向)在良好管理下可以互补。在情感表达和灵活性方面可能出现潜在挑战。"
+    },
+    growthPotential: {
+      en: "ISTJs can learn from ESTJs' decisiveness and social confidence, while ESTJs can benefit from ISTJs' depth of focus and attention to detail. Together they can develop greater emotional intelligence.",
+      zh: "ISTJ可以从ESTJ的果断和社交自信中学习，而ESTJ可以从ISTJ的专注深度和对细节的关注中受益。他们可以共同发展更高的情商。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ISTJ and ESTJ handle conflicts?",
+          zh: "ISTJ和ESTJ如何处理冲突？"
+        },
+        answer: {
+          en: "Both prefer direct, factual conflict resolution. ESTJs may initiate confrontation while ISTJs prefer private discussions. Finding common ground in facts helps resolution.",
+          zh: "两者都喜欢直接、基于事实的冲突解决方式。ESTJ可能主动对抗，而ISTJ更喜欢私下讨论。在事实上找到共同点有助于解决冲突。"
+        }
+      }
+    ]
+  }
+},
+"ESTJ": {
+  "ISTJ": {
+    overallScore: 83,
+    mediator: "ISTJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJs appreciate ISTJs' reliability and attention to detail, while ISTJs value ESTJs' leadership and efficiency. This pairing excels in practical, goal-oriented environments. The ESTJ's outgoing nature complements the ISTJ's thoughtfulness, creating a balanced dynamic when mutual respect is maintained.",
+      zh: "ESTJ欣赏ISTJ的可靠性和对细节的关注，而ISTJ重视ESTJ的领导力和效率。这种组合在务实、目标导向的环境中表现出色。ESTJ外向的性格与ISTJ的深思熟虑相辅相成，在保持相互尊重的情况下创造平衡的互动。"
+    },
+    relationshipType: {
+      en: "Efficiency Alliance",
+      zh: "效率联盟"
+    },
+    relationshipDesc: {
+      en: "A productive partnership where both types contribute their strengths to achieve tangible results.",
+      zh: "一种富有成效的伙伴关系，两种类型都贡献自己的优势以实现切实成果。"
+    },
+    sharedValues: {
+      en: "Hard Work, Integrity, Practicality",
+      zh: "努力工作、正直、实用性"
+    },
+    sharedValuesDesc: {
+      en: "Both types believe in doing things the right way, honoring commitments and valuing tangible results over abstract theories.",
+      zh: "两种类型都相信以正确的方式做事，履行承诺，重视切实成果而非抽象理论。"
+    },
+    communicationStyle: {
+      en: "Structured & Goal-oriented",
+      zh: "结构化且目标导向"
+    },
+    communicationDesc: {
+      en: "Communication focuses on actionable items and clear expectations. Both appreciate directness and dislike ambiguity.",
+      zh: "沟通侧重于可操作项目和明确期望。两者都欣赏直接性，不喜欢模棱两可。"
+    },
+    cognitiveCompatibility: {
+      "Si_Si": {
+        score: 90,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Shared respect for experience and detail creates strong practical understanding between them.",
+          zh: "对经验和细节的共同尊重在他们之间创造了强大的实际理解。"
+        }
+      },
+      "Te_Te": {
+        score: 86,
+        type1Function: "Te (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Te alignment enables effective collaboration, with ESTJs taking more initiative in leadership roles.",
+          zh: "Te功能的一致性实现了有效协作，ESTJ在领导角色中采取更多主动。"
+        }
+      },
+      "Fe_Fi": {
+        score: 68,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Different approaches to values may cause misunderstandings, requiring conscious effort to bridge.",
+          zh: "不同的价值观处理方式可能导致误解，需要有意识的努力来弥合。"
+        }
+      },
+      "Ne_Ne": {
+        score: 63,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Neither type naturally focuses on abstract possibilities, which can limit innovation but increase stability.",
+          zh: "两种类型都不会自然地关注抽象可能性，这可能会限制创新但增加稳定性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The ESTJ-ISTJ relationship thrives on shared practicality and organizational skills. While ESTJs provide drive and social confidence, ISTJs contribute depth and thoroughness. Their main challenge is balancing the ESTJ's need for action with the ISTJ's need for reflection.",
+      zh: "ESTJ-ISTJ关系在共有的实用性和组织技能上蓬勃发展。ESTJ提供动力和社交自信，而ISTJ贡献深度和全面性。他们的主要挑战是平衡ESTJ对行动的需求与ISTJ对反思的需求。"
+    },
+    growthPotential: {
+      en: "ESTJs can develop more patience and attention to detail from ISTJs, while ISTJs can learn to be more assertive and socially engaged from ESTJs. Together they can create highly effective systems.",
+      zh: "ESTJ可以从ISTJ那里培养更多耐心和对细节的关注，而ISTJ可以学习从ESTJ那里变得更自信和社交参与。他们可以共同创建高效的系统。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the main differences between ESTJ and ISTJ?",
+          zh: "ESTJ和ISTJ的主要区别是什么？"
+        },
+        answer: {
+          en: "The key difference is energy orientation - ESTJs are outgoing and action-oriented, while ISTJs are reserved and methodical. ESTJs prefer leading, ISTJs prefer working independently.",
+          zh: "关键区别在于能量导向 - ESTJ外向且行动导向，而ISTJ保守且有条不紊。ESTJ喜欢领导，ISTJ更喜欢独立工作。"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "ENTJ": {
+    overallScore: 75,
+    mediator: "ISFJ",
+    provider: "ENTJ",
+    summary: {
+      en: "The ISFJ-ENTJ pairing creates a complementary dynamic where the ISFJ's nurturing nature balances the ENTJ's assertive leadership. While their cognitive functions differ significantly, this contrast can foster mutual growth when both appreciate each other's strengths. The ISFJ provides emotional support and practical care, while the ENTJ offers strategic vision and decisive action.",
+      zh: "ISFJ与ENTJ的配对形成互补关系，ISFJ的养育特质平衡了ENTJ的强势领导风格。虽然他们的认知功能差异显著，但当双方欣赏彼此优势时，这种反差能促进共同成长。ISFJ提供情感支持和实际关怀，ENTJ则贡献战略眼光和果断行动。"
+    },
+    relationshipType: {
+      en: "Complementary Growth",
+      zh: "互补成长型"
+    },
+    relationshipDesc: {
+      en: "A relationship where differences create balance, with each partner compensating for the other's blind spots.",
+      zh: "差异创造平衡的关系，双方能互补彼此的盲点。"
+    },
+    sharedValues: {
+      en: "Responsibility & Achievement",
+      zh: "责任感与成就导向"
+    },
+    sharedValuesDesc: {
+      en: "Both value responsibility and getting things done, though they approach tasks differently - ISFJs through care, ENTJs through efficiency.",
+      zh: "双方都重视责任感和完成任务，尽管方式不同——ISFJ通过关怀，ENTJ通过效率。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Diplomatic",
+      zh: "直接型 vs 外交型"
+    },
+    communicationDesc: {
+      en: "ENTJs communicate directly and goal-oriented, while ISFJs prefer diplomatic, considerate language. This can cause friction but also broaden perspectives.",
+      zh: "ENTJ沟通直接且目标导向，ISFJ则偏好委婉体贴的表达。这可能产生摩擦，但也能拓宽双方视野。"
+    },
+    cognitiveCompatibility: {
+      "Si_Te": {
+        score: 68,
+        type1Function: "Si (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Si's focus on traditions contrasts with Te's efficiency focus, but both value practical results.",
+          zh: "Si的传统导向与Te的效率导向形成对比，但双方都重视实际结果。"
+        }
+      },
+      "Fe_Te": {
+        score: 72,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Fe's harmony-seeking can soften Te's bluntness, while Te helps Fe set healthy boundaries.",
+          zh: "Fe的和谐追求能软化Te的直率，而Te帮助Fe建立健康界限。"
+        }
+      },
+      "Ti_Ni": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "Ti's analytical approach complements Ni's strategic thinking, though they operate differently.",
+          zh: "Ti的分析方法与Ni的战略思维互补，尽管运作方式不同。"
+        }
+      },
+      "Ne_Se": {
+        score: 70,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "Both can struggle with adaptability but together can explore new experiences more comfortably.",
+          zh: "双方都可能面临适应性问题，但一起能更舒适地探索新体验。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary strengths - ISFJs bring emotional intelligence and attention to people's needs, while ENTJs provide decisive leadership and strategic thinking. The challenge lies in appreciating their different approaches to problem-solving.",
+      zh: "他们的兼容性源于优势互补——ISFJ带来情商和对人的关注，ENTJ提供果断领导和战略思维。挑战在于欣赏彼此不同的解决问题方式。"
+    },
+    growthPotential: {
+      en: "ISFJs can learn assertiveness and big-picture thinking from ENTJs, while ENTJs can develop emotional sensitivity and patience through ISFJs. Mutual respect is key.",
+      zh: "ISFJ可以从ENTJ身上学习果断和大局观，ENTJ则能通过ISFJ培养情感敏感度和耐心。相互尊重是关键。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISFJs and ENTJs resolve conflicts?",
+          zh: "ISFJ和ENTJ如何解决冲突？"
+        },
+        answer: {
+          en: "By acknowledging their different conflict styles - ISFJs prefer harmony, ENTJs direct confrontation. Finding middle ground through structured discussions helps.",
+          zh: "需认识彼此不同的冲突风格——ISFJ倾向和谐，ENTJ喜欢直接面对。通过结构化讨论寻找中间立场最有效。"
+        }
+      }
+    ]
+  }
+},
+"ENTJ": {
+  "ISFJ": {
+    overallScore: 78,
+    mediator: "ISFJ",
+    provider: "ENTJ",
+    summary: {
+      en: "ENTJs may initially appreciate ISFJs' reliability and practical support, while ISFJs value ENTJs' confidence and competence. Over time, ENTJs can learn emotional intelligence from ISFJs, while ISFJs gain confidence from ENTJs' encouragement.",
+      zh: "ENTJ最初会欣赏ISFJ的可靠性和实际支持，ISFJ则看重ENTJ的自信与能力。随着时间推移，ENTJ能从ISFJ身上学习情商，ISFJ则通过ENTJ的鼓励获得自信。"
+    },
+    relationshipType: {
+      en: "Mutual Development",
+      zh: "共同发展型"
+    },
+    relationshipDesc: {
+      en: "A partnership where each helps the other develop their weaker functions in a supportive environment.",
+      zh: "在支持性环境中互相帮助发展弱势功能的伙伴关系。"
+    },
+    sharedValues: {
+      en: "Dependability & Excellence",
+      zh: "可靠性与卓越追求"
+    },
+    sharedValuesDesc: {
+      en: "Both strive for excellence in their domains - ISFJs in caregiving, ENTJs in leadership - and value dependable partners.",
+      zh: "双方都在各自领域追求卓越——ISFJ在关怀方面，ENTJ在领导力方面——并重视可靠的伴侣。"
+    },
+    communicationStyle: {
+      en: "Results vs. Relationships",
+      zh: "结果导向 vs 关系导向"
+    },
+    communicationDesc: {
+      en: "ENTJs focus on outcomes and solutions, while ISFJs prioritize maintaining positive relationships during communication.",
+      zh: "ENTJ关注结果和解决方案，ISFJ则优先考虑在沟通中保持积极关系。"
+    },
+    cognitiveCompatibility: {
+      "Te_Si": {
+        score: 70,
+        type1Function: "Te (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Te's efficiency can benefit from Si's attention to detail, though they prioritize differently.",
+          zh: "Te的效率能受益于Si对细节的关注，尽管优先级不同。"
+        }
+      },
+      "Ni_Fe": {
+        score: 75,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "Ni's vision combined with Fe's empathy can create compassionate leadership strategies.",
+          zh: "Ni的远见与Fe的共情结合，能形成富有同情心的领导策略。"
+        }
+      },
+      "Se_Ne": {
+        score: 68,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Both can help each other become more adaptable to new experiences and possibilities.",
+          zh: "双方能帮助彼此对新体验和可能性更加开放适应。"
+        }
+      },
+      "Fi_Ti": {
+        score: 65,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Both types struggle with these functions but can support each other's development in these areas.",
+          zh: "两种类型在这些功能上都较薄弱，但能互相支持这些领域的发展。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works when ENTJs value ISFJs' emotional intelligence and stability, while ISFJs appreciate ENTJs' drive and protection. Their differences become assets when properly balanced.",
+      zh: "当ENTJ重视ISFJ的情商和稳定性，ISFJ欣赏ENTJ的动力和保护欲时，这种配对就能奏效。适当平衡时，他们的差异会成为优势。"
+    },
+    growthPotential: {
+      en: "ENTJs can develop greater emotional awareness and patience, while ISFJs can become more assertive and strategic. The relationship thrives when both step outside comfort zones.",
+      zh: "ENTJ能培养更强的情绪意识和耐心，ISFJ则能变得更果断和具有战略思维。当双方都走出舒适区时，关系会蓬勃发展。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ENTJs to ISFJs?",
+          zh: "ENTJ被ISFJ什么特质吸引？"
+        },
+        answer: {
+          en: "ENTJs often admire ISFJs' reliability, practical support skills, and ability to create warm, stable environments.",
+          zh: "ENTJ通常欣赏ISFJ的可靠性、实际支持能力，以及创造温暖稳定环境的本领。"
+        }
+      }
+    ]
+  }
+}

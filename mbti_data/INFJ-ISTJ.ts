@@ -1,0 +1,186 @@
+{
+  "ISTJ": {
+    overallScore: 72,
+    mediator: "INFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "INFJ and ISTJ form a complementary relationship where their differences can create balance or tension. INFJs bring vision and empathy, while ISTJs provide stability and practicality. Their shared Introversion creates comfort in private settings, but INFJ's intuitive idealism may clash with ISTJ's concrete realism. With mutual respect, they can learn much from each other's perspectives.",
+      zh: "INFJ和ISTJ形成互补关系，他们的差异既能创造平衡也可能导致紧张。INFJ带来远见和共情能力，而ISTJ提供稳定性和务实态度。他们共有的内向特质使他们在私人场合感到舒适，但INFJ的直觉理想主义可能与ISTJ的具体现实主义产生冲突。如果相互尊重，他们能从对方的视角中学到很多。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的对立面"
+    },
+    relationshipDesc: {
+      en: "A relationship where differences create both attraction and challenges, requiring conscious effort to bridge cognitive gaps.",
+      zh: "差异既产生吸引力又带来挑战的关系，需要有意努力来弥合认知差距。"
+    },
+    sharedValues: {
+      en: "Integrity, Responsibility",
+      zh: "正直、责任感"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal integrity and taking responsibility, though they express it differently in daily life.",
+      zh: "两种类型都高度重视个人正直和责任感，尽管在日常生活中表现方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Nuanced",
+      zh: "直接vs微妙"
+    },
+    communicationDesc: {
+      en: "ISTJs prefer straightforward communication while INFJs use more metaphorical language, which can cause misunderstandings.",
+      zh: "ISTJ偏好直接沟通而INFJ使用更隐喻的语言，这可能导致误解。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Te": {
+        score: 68,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "INFJ's visionary insights may overwhelm ISTJ's practical thinking, but can provide valuable long-term perspectives.",
+          zh: "INFJ的远见卓识可能压倒ISTJ的实用思维，但能提供有价值的长期视角。"
+        }
+      },
+      "Fe_Si": {
+        score: 75,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Fe's social harmony complements Si's respect for traditions, creating shared appreciation for stable relationships.",
+          zh: "Fe的社会和谐与Si对传统的尊重相辅相成，共同创造对稳定关系的欣赏。"
+        }
+      },
+      "Ti_Fi": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both have underdeveloped personal logic systems that may conflict when making subjective judgments.",
+          zh: "两者都有发展不足的个人逻辑系统，在做主观判断时可能产生冲突。"
+        }
+      },
+      "Se_Ne": {
+        score: 70,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Shared discomfort with uncertainty, but can bond over enjoying sensory experiences together.",
+          zh: "对不确定性有共同的不适，但可以通过一起享受感官体验建立联系。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary strengths - INFJ's intuition balances ISTJ's sensing, while ISTJ's structure supports INFJ's idealism. However, communication styles and decision-making approaches require conscious adaptation.",
+      zh: "他们的兼容性源于互补优势——INFJ的直觉平衡ISTJ的实感，而ISTJ的结构支持INFJ的理想主义。然而，沟通方式和决策方法需要有意识的调整。"
+    },
+    growthPotential: {
+      en: "INFJ can learn practical implementation from ISTJ, while ISTJ can develop more openness to abstract possibilities. Both benefit from appreciating their different worldviews.",
+      zh: "INFJ可以向ISTJ学习实际执行，而ISTJ可以培养对抽象可能性的开放态度。双方都能从欣赏彼此不同的世界观中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INFJ and ISTJ improve communication?",
+          zh: "INFJ和ISTJ如何改善沟通？"
+        },
+        answer: {
+          en: "INFJs should be more direct with facts, while ISTJs should practice active listening for underlying meanings and emotions.",
+          zh: "INFJ应更直接陈述事实，而ISTJ应练习积极倾听潜在含义和情绪。"
+        }
+      }
+    ]
+  }
+},
+"ISTJ": {
+  "INFJ": {
+    overallScore: 75,
+    mediator: "INFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "From the ISTJ perspective, INFJs offer inspiring visions and emotional depth that complement their practical nature. While initially perplexed by INFJ's abstract thinking, ISTJs come to appreciate their unique insights. The relationship works best when both respect each other's contributions.",
+      zh: "从ISTJ的角度看，INFJ提供了鼓舞人心的愿景和情感深度，与他们的务实本性相辅相成。虽然最初对INFJ的抽象思维感到困惑，但ISTJ逐渐欣赏他们独特的见解。当双方尊重彼此的贡献时，这种关系效果最好。"
+    },
+    relationshipType: {
+      en: "Practical Visionaries",
+      zh: "务实的梦想家"
+    },
+    relationshipDesc: {
+      en: "ISTJs ground INFJ's idealism while gaining new perspectives, creating a mutually beneficial dynamic.",
+      zh: "ISTJ使INFJ的理想主义落地，同时获得新视角，创造互利的动态关系。"
+    },
+    sharedValues: {
+      en: "Loyalty, Dependability",
+      zh: "忠诚、可靠"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize commitment in relationships, with ISTJ showing it through actions and INFJ through emotional support.",
+      zh: "双方都重视关系中的承诺，ISTJ通过行动表现，INFJ通过情感支持表现。"
+    },
+    communicationStyle: {
+      en: "Fact-based vs. Meaning-based",
+      zh: "基于事实vs基于意义"
+    },
+    communicationDesc: {
+      en: "ISTJs focus on concrete details while INFJs seek deeper meanings, requiring patience to understand each other's style.",
+      zh: "ISTJ关注具体细节而INFJ寻求更深层的意义，需要耐心理解对方的风格。"
+    },
+    cognitiveCompatibility: {
+      "Si_Fe": {
+        score: 78,
+        type1Function: "Si (Dominant)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "Si's respect for proven methods combines well with Fe's social awareness in maintaining harmonious traditions.",
+          zh: "Si对已验证方法的尊重与Fe的社会意识相结合，很好地维护了和谐传统。"
+        }
+      },
+      "Te_Ni": {
+        score: 70,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Te's efficiency can help implement Ni's visions, though ISTJ may initially doubt INFJ's abstract concepts.",
+          zh: "Te的效率有助于实现Ni的愿景，尽管ISTJ最初可能怀疑INFJ的抽象概念。"
+        }
+      },
+      "Fi_Ti": {
+        score: 67,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Both have developing introspective functions that may cause occasional but resolvable value conflicts.",
+          zh: "两者都有发展中的内省功能，可能导致偶尔但可解决的价值观冲突。"
+        }
+      },
+      "Ne_Se": {
+        score: 72,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Shared preference for familiarity over novelty, but can enjoy exploring new experiences together cautiously.",
+          zh: "共同偏好熟悉而非新奇，但可以谨慎地一起探索新体验。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTJs appreciate INFJ's depth of caring and unique insights, while providing the structure INFJs often need. Their different approaches to life create a balanced partnership when both value their complementary strengths.",
+      zh: "ISTJ欣赏INFJ的深切关怀和独特见解，同时提供INFJ常需要的结构。他们对生活的不同方法在双方都重视互补优势时创造了平衡的伙伴关系。"
+    },
+    growthPotential: {
+      en: "ISTJs expand their perspective by considering INFJ's intuitive insights, while INFJs learn practical implementation from ISTJs. Both develop greater appreciation for different ways of processing information.",
+      zh: "ISTJ通过考虑INFJ的直觉见解扩展视角，而INFJ向ISTJ学习实际执行。双方都对不同的信息处理方式培养更大的欣赏。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ISTJs to INFJs?",
+          zh: "ISTJ被INFJ什么吸引？"
+        },
+        answer: {
+          en: "ISTJs admire INFJ's depth of character, genuine care for others, and ability to see beyond surface realities.",
+          zh: "ISTJ欣赏INFJ的品格深度、对他人的真诚关怀以及超越表面现实的能力。"
+        }
+      }
+    ]
+  }
+}

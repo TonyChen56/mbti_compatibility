@@ -1,0 +1,186 @@
+{
+  "ISFJ": {
+    overallScore: 78,
+    mediator: "ISFJ",
+    provider: "ISFJ",
+    summary: {
+      en: "INTP and ISFJ form a complementary pairing where their differences can create balance. INTPs bring logical analysis and innovation, while ISFJs provide practical support and emotional warmth. Their relationship thrives when they appreciate each other's strengths - INTPs admire ISFJs' reliability, and ISFJs value INTPs' intellectual depth. Challenges may arise from INTP's abstract thinking conflicting with ISFJ's concrete approach.",
+      zh: "INTP和ISFJ形成互补配对，他们的差异可以创造平衡。INTP带来逻辑分析和创新，而ISFJ提供实际支持和情感温暖。当双方欣赏彼此优势时关系最佳——INTP欣赏ISFJ的可靠性，ISFJ看重INTP的智慧深度。挑战可能来自INTP的抽象思维与ISFJ具体方式的冲突。"
+    },
+    relationshipType: {
+      en: "Mutual Growth Partners",
+      zh: "共同成长伙伴"
+    },
+    relationshipDesc: {
+      en: "A relationship where both types help each other develop their inferior functions through patient understanding.",
+      zh: "一种通过耐心理解帮助彼此发展劣势功能的关系"
+    },
+    sharedValues: {
+      en: "Loyalty & Intellectual Curiosity",
+      zh: "忠诚与求知欲"
+    },
+    sharedValuesDesc: {
+      en: "Both value deep commitment in relationships and enjoy exploring ideas, though from different perspectives.",
+      zh: "双方都重视关系中的深度承诺，并喜欢从不同角度探索想法。"
+    },
+    communicationStyle: {
+      en: "Abstract ↔ Concrete",
+      zh: "抽象 ↔ 具体"
+    },
+    communicationDesc: {
+      en: "INTPs communicate in theoretical frameworks while ISFJs prefer practical details, requiring mutual adaptation.",
+      zh: "INTP以理论框架沟通，ISFJ偏好实际细节，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fe": {
+        score: 82,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "INTP's logical analysis complements ISFJ's social harmony focus, creating balanced decision-making.",
+          zh: "INTP的逻辑分析补充ISFJ的社会和谐关注，创造平衡决策。"
+        }
+      },
+      "Ne_Si": {
+        score: 75,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "INTP's idea generation stimulates ISFJ, while ISFJ's experience provides grounding for INTP.",
+          zh: "INTP的想法激发ISFJ，而ISFJ的经验为INTP提供基础。"
+        }
+      },
+      "Si_Ne": {
+        score: 72,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "ISFJ's strong memory helps INTP with details, while INTP helps ISFJ consider possibilities.",
+          zh: "ISFJ的强大记忆力帮助INTP处理细节，而INTP帮助ISFJ考虑可能性。"
+        }
+      },
+      "Fe_Ti": {
+        score: 68,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ISFJ's emotional intelligence helps INTP develop empathy, though this pairing requires more effort.",
+          zh: "ISFJ的情商帮助INTP发展同理心，尽管这个配对需要更多努力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions - INTP's Ti-Ne balances ISFJ's Si-Fe. While different, they share introversion and can learn much from each other. ISFJs provide stability INTPs need, while INTPs help ISFJs expand their perspectives.",
+      zh: "他们的兼容性源于互补功能——INTP的Ti-Ne平衡ISFJ的Si-Fe。虽然不同，但共享内向特质并能互相学习。ISFJ提供INTP需要的稳定性，而INTP帮助ISFJ扩展视野。"
+    },
+    growthPotential: {
+      en: "Great potential for mutual development - INTPs can develop emotional intelligence and practical skills, while ISFJs can enhance abstract thinking and adaptability through this relationship.",
+      zh: "巨大的共同发展潜力——INTP可以发展情商和实践技能，而ISFJ可以通过这种关系增强抽象思维和适应能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTP and ISFJ improve communication?",
+          zh: "INTP和ISFJ如何改善沟通？"
+        },
+        answer: {
+          en: "INTPs should explain their theories with practical examples, while ISFJs should try understanding the bigger picture before focusing on details.",
+          zh: "INTP应该用实际例子解释理论，而ISFJ应该在关注细节前尝试理解整体框架。"
+        }
+      }
+    ]
+  }
+},
+"ISFJ": {
+  "INTP": {
+    overallScore: 80,
+    mediator: "ISFJ",
+    provider: "ISFJ",
+    summary: {
+      en: "From ISFJ's perspective, INTPs offer intellectual stimulation and help break routine thinking patterns. ISFJs appreciate INTPs' honesty and depth, while providing the emotional support and practical care INTPs often overlook. The relationship works best when ISFJs give INTPs space for independent thinking while INTPs acknowledge ISFJs' need for emotional connection.",
+      zh: "从ISFJ的角度看，INTP提供智力刺激并帮助打破常规思维。ISFJ欣赏INTP的诚实和深度，同时提供INTP常忽视的情感支持和实际关怀。当ISFJ给予INTP独立思考空间而INTP承认ISFJ的情感连接需求时，关系最佳。"
+    },
+    relationshipType: {
+      en: "Nurturing Companions",
+      zh: "滋养型伴侣"
+    },
+    relationshipDesc: {
+      en: "ISFJs naturally nurture INTPs' emotional growth while gaining intellectual expansion.",
+      zh: "ISFJ自然地滋养INTP的情感成长，同时获得智力扩展。"
+    },
+    sharedValues: {
+      en: "Integrity & Continuous Learning",
+      zh: "正直与持续学习"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value authenticity and have a lifelong learning orientation, though expressed differently.",
+      zh: "两种类型都高度重视真实性并有终身学习导向，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Practical ↔ Theoretical",
+      zh: "实用 ↔ 理论"
+    },
+    communicationDesc: {
+      en: "ISFJs focus on immediate applications while INTPs explore underlying principles, requiring translation between these modes.",
+      zh: "ISFJ关注即时应用而INTP探索基本原则，需要在这些模式间转换。"
+    },
+    cognitiveCompatibility: {
+      "Si_Ne": {
+        score: 78,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ISFJ's attention to detail helps implement INTP's ideas, while INTP broadens ISFJ's perspectives.",
+          zh: "ISFJ对细节的关注有助于实施INTP的想法，而INTP拓宽ISFJ的视野。"
+        }
+      },
+      "Fe_Ti": {
+        score: 75,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ISFJ's emotional awareness helps navigate INTP's logical approach to relationships.",
+          zh: "ISFJ的情感意识有助于应对INTP对关系的逻辑方法。"
+        }
+      },
+      "Ti_Fe": {
+        score: 70,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "INTP's logical clarity helps ISFJ develop critical thinking, though this requires patience.",
+          zh: "INTP的逻辑清晰性帮助ISFJ发展批判性思维，尽管这需要耐心。"
+        }
+      },
+      "Ne_Si": {
+        score: 65,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "INTP helps ISFJ consider alternatives, while ISFJ helps INTP remember important details.",
+          zh: "INTP帮助ISFJ考虑替代方案，而ISFJ帮助INTP记住重要细节。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISFJs find INTPs intriguing and appreciate their intellectual depth, while INTPs benefit from ISFJs' warmth and practicality. Their differences become strengths when each values what the other brings. ISFJs' strong memory complements INTPs' tendency to overlook details.",
+      zh: "ISFJ觉得INTP有趣并欣赏他们的智慧深度，而INTP受益于ISFJ的温暖和实用性。当双方重视彼此的贡献时，差异成为优势。ISFJ的强大记忆力弥补了INTP忽视细节的倾向。"
+    },
+    growthPotential: {
+      en: "ISFJs can develop more flexibility and abstract thinking, while INTPs learn emotional expression and practical life skills in this mutually beneficial relationship.",
+      zh: "在这种互利关系中，ISFJ可以发展更多灵活性和抽象思维，而INTP学习情感表达和实际生活技能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What do ISFJs find most challenging about INTPs?",
+          zh: "ISFJ觉得INTP最具挑战性的是什么？"
+        },
+        answer: {
+          en: "INTPs' tendency to prioritize logic over emotions and their occasional social obliviousness can frustrate relationship-oriented ISFJs.",
+          zh: "INTP将逻辑置于情感之上的倾向和他们偶尔的社会迟钝可能让关系导向的ISFJ感到沮丧。"
+        }
+      }
+    ]
+  }
+}

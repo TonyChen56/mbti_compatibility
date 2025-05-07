@@ -1,0 +1,186 @@
+{
+  "INTJ": {
+    overallScore: 72,
+    mediator: "ESFP",
+    provider: "INTJ",
+    summary: {
+      en: "ESFPs and INTJs form an intriguing but challenging pairing. The spontaneous, people-oriented ESFP contrasts sharply with the strategic, independent INTJ. While their cognitive functions are nearly opposite, this can create a complementary dynamic where ESFPs bring social warmth and present-moment joy, while INTJs provide long-term vision and logical structure. Their relationship requires mutual appreciation of differences to thrive.",
+      zh: "ESFP和INTJ形成一种有趣但具有挑战性的配对。自发性、人际导向的ESFP与战略性、独立的INTJ形成鲜明对比。虽然他们的认知功能几乎相反，但这可以创造互补的动态：ESFP带来社交温暖和当下快乐，而INTJ提供长期愿景和逻辑结构。他们的关系需要相互欣赏差异才能蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "A relationship that pushes both types out of their comfort zones, fostering personal development.",
+      zh: "这种关系促使两种类型都走出舒适区，促进个人发展。"
+    },
+    sharedValues: {
+      en: "Authenticity & Competence",
+      zh: "真实性与能力"
+    },
+    sharedValuesDesc: {
+      en: "Both value authenticity in different ways - ESFPs through genuine emotional expression, INTJs through intellectual honesty. They also respect competence in their respective domains.",
+      zh: "双方以不同方式重视真实性——ESFP通过真实的情感表达，INTJ通过智识上的诚实。他们也尊重各自领域的能力。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Tactful",
+      zh: "直接vs圆融"
+    },
+    communicationDesc: {
+      en: "INTJs communicate directly and logically, while ESFPs prefer tactful, emotionally-aware communication. This can cause friction but also balance each other.",
+      zh: "INTJ直接且逻辑性地沟通，而ESFP更喜欢圆融、情感敏锐的沟通方式。这可能引起摩擦，但也相互平衡。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ni": {
+        score: 68,
+        type1Function: "Se (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "ESFP's concrete present focus clashes with INTJ's abstract future vision, but can complement when balanced.",
+          zh: "ESFP具体的当下关注与INTJ抽象的未来愿景冲突，但平衡时可以互补。"
+        }
+      },
+      "Fi_Te": {
+        score: 75,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ESFP's personal values and INTJ's logical efficiency can find common ground in practical matters.",
+          zh: "ESFP的个人价值观与INTJ的逻辑效率可以在实际事务中找到共同点。"
+        }
+      },
+      "Te_Fi": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their less developed functions can create mutual frustration but also opportunities for growth.",
+          zh: "他们较不发达的功能可能造成相互挫折，但也提供成长机会。"
+        }
+      },
+      "Ni_Se": {
+        score: 65,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Under stress, ESFPs may become paranoid (Ni) while INTJs may overindulge (Se), creating tension.",
+          zh: "压力下，ESFP可能变得偏执(Ni)，而INTJ可能过度放纵(Se)，造成紧张。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary differences - ESFPs help INTJs connect emotionally and enjoy the present, while INTJs help ESFPs plan for the future and think strategically. However, their fundamentally different worldviews require conscious effort to bridge.",
+      zh: "他们的兼容性源于互补差异——ESFP帮助INTJ情感连接并享受当下，而INTJ帮助ESFP规划未来和战略思考。但他们根本不同的世界观需要有意识的努力来弥合。"
+    },
+    growthPotential: {
+      en: "This pairing has significant growth potential if both appreciate their differences. ESFPs can develop strategic thinking, while INTJs can learn emotional expression and spontaneity.",
+      zh: "如果双方都欣赏差异，这对配对具有显著成长潜力。ESFP可以发展战略思维，而INTJ可以学习情感表达和自发性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for ESFP-INTJ relationships?",
+          zh: "ESFP-INTJ关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "The biggest challenge is bridging ESFP's need for social interaction and spontaneity with INTJ's need for solitude and planning.",
+          zh: "最大挑战是调和ESFP对社交互动和自发性的需求与INTJ对独处和计划的需求。"
+        }
+      }
+    ]
+  }
+},
+"INTJ": {
+  "ESFP": {
+    overallScore: 75,
+    mediator: "ESFP",
+    provider: "INTJ",
+    summary: {
+      en: "From the INTJ's perspective, ESFPs bring much-needed spontaneity and emotional warmth to their lives. While INTJs may initially find ESFPs' lack of long-term planning frustrating, they often come to appreciate their partner's ability to live in the moment and connect with others effortlessly. The INTJ's strategic mind can provide structure to the ESFP's life, creating a balanced dynamic.",
+      zh: "从INTJ的角度看，ESFP为他们的生活带来了急需的自发性和情感温暖。虽然INTJ最初可能对ESFP缺乏长期规划感到沮丧，但他们往往会欣赏伴侣活在当下和轻松与他人连接的能力。INTJ的战略思维可以为ESFP的生活提供结构，创造平衡的动态。"
+    },
+    relationshipType: {
+      en: "Complementary Opposites",
+      zh: "互补对立"
+    },
+    relationshipDesc: {
+      en: "A pairing where opposite strengths create a complete whole when balanced properly.",
+      zh: "当平衡得当时，对立优势创造完整整体的配对。"
+    },
+    sharedValues: {
+      en: "Growth & Independence",
+      zh: "成长与独立"
+    },
+    sharedValuesDesc: {
+      en: "Both value personal growth, though in different areas, and appreciate having independence within the relationship.",
+      zh: "双方都重视个人成长(尽管在不同领域)，并欣赏关系中的独立性。"
+    },
+    communicationStyle: {
+      en: "Conceptual vs. Experiential",
+      zh: "概念性vs体验性"
+    },
+    communicationDesc: {
+      en: "INTJs prefer abstract, theoretical discussions while ESFPs favor concrete, experiential sharing. Finding middle ground is key.",
+      zh: "INTJ偏好抽象、理论性的讨论，而ESFP喜欢具体、体验性的分享。找到中间地带是关键。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Se": {
+        score: 70,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "INTJ's future vision can help ground ESFP's present focus, while ESFP helps INTJ experience the moment.",
+          zh: "INTJ的未来愿景可以帮助锚定ESFP的当下关注，而ESFP帮助INTJ体验当下。"
+        }
+      },
+      "Te_Fi": {
+        score: 72,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "INTJ's logical approach and ESFP's value-based decisions can create a balanced decision-making process.",
+          zh: "INTJ的逻辑方法与ESFP基于价值的决策可以创造平衡的决策过程。"
+        }
+      },
+      "Fi_Te": {
+        score: 68,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Their tertiary functions may cause conflicts but also opportunities for mutual understanding.",
+          zh: "他们的第三功能可能造成冲突，但也提供相互理解的机会。"
+        }
+      },
+      "Se_Ni": {
+        score: 65,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Under stress, INTJs may overindulge in sensory experiences while ESFPs become overly anxious about the future.",
+          zh: "压力下，INTJ可能过度沉溺感官体验，而ESFP对未来变得过度焦虑。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "INTJs benefit from ESFPs' ability to bring them into the present moment and connect emotionally, while ESFPs gain from INTJs' strategic perspective and ability to plan for the future. Their differences, when respected, create a relationship where both can grow beyond their natural tendencies.",
+      zh: "INTJ受益于ESFP将他们带入当下并情感连接的能力，而ESFP从INTJ的战略视角和规划未来的能力中获益。当差异被尊重时，他们创造了一种双方都能超越自然倾向的关系。"
+    },
+    growthPotential: {
+      en: "The growth potential is substantial as each type develops their inferior functions through the relationship - INTJs becoming more present and emotionally expressive, ESFPs more future-oriented and strategic.",
+      zh: "成长潜力巨大，因为每种类型通过关系发展他们的劣势功能——INTJ变得更活在当下和情感表达，ESFP变得更面向未来和战略性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTJs better communicate with ESFPs?",
+          zh: "INTJ如何更好地与ESFP沟通？"
+        },
+        answer: {
+          en: "INTJs should focus on concrete examples, express appreciation openly, and engage in shared activities rather than just theoretical discussions.",
+          zh: "INTJ应关注具体例子，公开表达欣赏，并参与共同活动而不仅仅是理论讨论。"
+        }
+      }
+    ]
+  }
+}

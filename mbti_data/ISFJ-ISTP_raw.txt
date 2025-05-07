@@ -1,0 +1,188 @@
+```typescript
+"ISFJ": {
+  "ISTP": {
+    overallScore: 75,
+    mediator: "ISFJ",
+    provider: "ISFJ",
+    summary: {
+      en: "ISFJs and ISTPs form a complementary relationship where the ISFJ's nurturing nature balances the ISTP's independence. While ISFJs provide emotional support and stability, ISTPs bring spontaneity and practical problem-solving. Their differences can create initial friction but also offer growth opportunities when both appreciate each other's strengths.",
+      zh: "ISFJ和ISTP形成互补关系，ISFJ的关怀特质平衡了ISTP的独立性。ISFJ提供情感支持和稳定性，ISTP则带来即兴发挥和实际问题解决能力。他们的差异可能产生初期摩擦，但当双方欣赏彼此优势时，也能创造成长机会。"
+    },
+    relationshipType: {
+      en: "Practical Harmony",
+      zh: "务实和谐"
+    },
+    relationshipDesc: {
+      en: "A balanced pairing where ISFJ's warmth meets ISTP's hands-on approach to create functional synergy.",
+      zh: "ISFJ的温暖与ISTP的务实方式相结合，形成功能性协同的平衡配对。"
+    },
+    sharedValues: {
+      en: "Loyalty & Authenticity",
+      zh: "忠诚与真实"
+    },
+    sharedValuesDesc: {
+      en: "Both value loyalty in relationships and appreciate genuine, unpretentious interactions.",
+      zh: "双方都重视关系中的忠诚，欣赏真诚不做作的互动方式。"
+    },
+    communicationStyle: {
+      en: "Direct vs Diplomatic",
+      zh: "直接vs委婉"
+    },
+    communicationDesc: {
+      en: "ISTPs prefer blunt honesty while ISFJs use more tactful language, requiring mutual adaptation.",
+      zh: "ISTP偏好直率诚实，而ISFJ使用更委婉的语言，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Si_Ti": {
+        score: 82,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "Both rely on internal processing systems, creating mutual understanding of each other's decision-making.",
+          zh: "双方都依赖内部处理系统，能相互理解对方的决策方式。"
+        }
+      },
+      "Fe_Se": {
+        score: 68,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ISFJ's focus on harmony contrasts with ISTP's sensory engagement, requiring balance.",
+          zh: "ISFJ关注和谐与ISTP关注感官体验形成对比，需要平衡。"
+        }
+      },
+      "Ti_Fe": {
+        score: 72,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "ISFJ's developing logic complements ISTP's emerging emotional awareness.",
+          zh: "ISFJ发展的逻辑能力与ISTP萌发的情感意识相互补充。"
+        },
+      },
+      "Ne_Ni": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Both have weaker intuition functions but can support each other's growth in this area.",
+          zh: "双方的直觉功能都较弱，但可以相互支持这方面的成长。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions - ISFJ's Si/Fe provides stability ISTPs secretly crave, while ISTP's Ti/Se offers practical solutions ISFJs admire. Challenges arise when ISFJs seek more emotional connection than ISTPs naturally provide.",
+      zh: "兼容性源于互补功能：ISFJ的Si/Fe提供ISTP内心渴望的稳定性，而ISTP的Ti/Se提供ISFJ欣赏的实用解决方案。当ISFJ寻求比ISTP自然提供的更多情感连接时，会出现挑战。"
+    },
+    growthPotential: {
+      en: "ISFJs can learn to be more spontaneous from ISTPs, while ISTPs can develop emotional intelligence through ISFJ's example. Both benefit from appreciating their different approaches to life.",
+      zh: "ISFJ可以向ISTP学习更随性，而ISTP可以通过ISFJ的榜样发展情商。双方都能从欣赏彼此不同生活方式中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISFJs and ISTPs resolve conflicts effectively?",
+          zh: "ISFJ和ISTP如何有效解决冲突？"
+        },
+        answer: {
+          en: "ISFJs should express needs directly while ISTPs should acknowledge emotions. Finding practical compromises works best.",
+          zh: "ISFJ应直接表达需求，ISTP应承认情感。寻找务实的妥协最有效。"
+        }
+      }
+    ]
+  }
+},
+"ISTP": {
+  "ISFJ": {
+    overallScore: 78,
+    mediator: "ISFJ",
+    provider: "ISFJ",
+    summary: {
+      en: "ISTPs appreciate ISFJs' reliability and nurturing qualities, while ISFJs admire ISTPs' competence and independence. The ISTP's logical approach balances the ISFJ's emotional sensitivity, creating a grounded partnership where both can learn from each other's perspectives.",
+      zh: "ISTP欣赏ISFJ的可靠性和关怀特质，而ISFJ钦佩ISTP的能力和独立性。ISTP的逻辑方法平衡了ISFJ的情感敏感性，创造了一个务实的伙伴关系，双方都可以从彼此的观点中学习。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的相反面"
+    },
+    relationshipDesc: {
+      en: "ISTP's analytical nature finds unexpected harmony with ISFJ's compassionate approach to life.",
+      zh: "ISTP的分析特质与ISFJ富有同情心的生活方式意外和谐。"
+    },
+    sharedValues: {
+      en: "Practical Support & Integrity",
+      zh: "实际支持与正直"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value keeping commitments and demonstrating reliability through actions.",
+      zh: "两种类型都高度重视信守承诺并通过行动展示可靠性。"
+    },
+    communicationStyle: {
+      en: "Fact-Based vs Feeling-Based",
+      zh: "基于事实vs基于感受"
+    },
+    communicationDesc: {
+      en: "ISTPs focus on objective facts while ISFJs consider emotional impact, requiring translation between styles.",
+      zh: "ISTP关注客观事实，而ISFJ考虑情感影响，需要在风格间转换。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Si": {
+        score: 85,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Both dominant functions are introverted and analytical, creating fundamental understanding.",
+          zh: "两个主导功能都是内向和分析性的，创造了基本理解。"
+        }
+      },
+      "Se_Fe": {
+        score: 70,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "ISTP's sensory focus contrasts with ISFJ's social focus, offering complementary strengths.",
+          zh: "ISTP的感官关注与ISFJ的社交关注形成对比，提供互补优势。"
+        }
+      },
+      "Fe_Ti": {
+        score: 74,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ISTP's emerging emotional awareness connects with ISFJ's developing logical side.",
+          zh: "ISTP萌发的情感意识与ISFJ发展的逻辑面相连接。"
+        }
+      },
+      "Ni_Ne": {
+        score: 63,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Their shared challenge with intuition can become a bonding point for mutual growth.",
+          zh: "他们在直觉方面的共同挑战可以成为相互成长的结合点。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "From the ISTP perspective, ISFJs provide emotional security and practical care they don't always admit needing. ISFJs' structured approach to life complements ISTPs' adaptability, creating a stable yet flexible dynamic.",
+      zh: "从ISTP角度看，ISFJ提供了他们不常承认需要的情感安全感和实际关怀。ISFJ有条理的生活方式补充了ISTP的适应性，创造了稳定而灵活的互动。"
+    },
+    growthPotential: {
+      en: "ISTPs can develop greater emotional intelligence through ISFJ's example, while ISFJs can learn to be more flexible and spontaneous. Their differences become strengths when properly balanced.",
+      zh: "ISTP可以通过ISFJ的榜样发展更高情商，而ISFJ可以学习更灵活和随性。当适当平衡时，他们的差异会成为优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do ISTP-ISFJ couples enjoy together?",
+          zh: "ISTP-ISFJ情侣喜欢一起做什么活动？"
+        },
+        answer: {
+          en: "Hands-on projects, nature activities, or practical tasks where ISTP's skills and ISFJ's care can combine effectively.",
+          zh: "实践项目、自然活动或实际任务，可以有效地结合ISTP的技能和ISFJ的关怀。"
+        }
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,188 @@
+```typescript
+"INFP": {
+  "ISFP": {
+    overallScore: 85,
+    mediator: "INFP",
+    provider: "ISFP",
+    summary: {
+      en: "INFP and ISFP share a deep appreciation for authenticity and personal values. Both are introspective, creative types who value harmony. INFPs bring visionary idealism while ISFPs offer grounded practicality in the present moment. Their shared Fi dominance creates strong emotional understanding, though INFPs' Ne may sometimes overwhelm ISFPs' Se preference for concrete experiences.",
+      zh: "INFP和ISFP都对真实性和个人价值观有着深刻的欣赏。两者都是内省、富有创造力的类型，重视和谐。INFP带来远见卓识的理想主义，而ISFP则在当下提供务实的实践。他们共同的主导功能Fi创造了强烈的情感理解，尽管INFP的Ne有时可能会让偏好具体体验的ISFP的Se感到压力。"
+    },
+    relationshipType: {
+      en: "Harmonious Explorers",
+      zh: "和谐探索者"
+    },
+    relationshipDesc: {
+      en: "A gentle pairing that values emotional authenticity and shared aesthetic experiences.",
+      zh: "重视情感真实性和共同审美体验的温和配对。"
+    },
+    sharedValues: {
+      en: "Authenticity & Beauty",
+      zh: "真实性与美感"
+    },
+    sharedValuesDesc: {
+      en: "Both types prioritize personal integrity and appreciate beauty in all forms, though they may express it differently.",
+      zh: "两种类型都优先考虑个人诚信，并欣赏各种形式的美，尽管表达方式可能不同。"
+    },
+    communicationStyle: {
+      en: "Tactful & Imaginative",
+      zh: "机智且富有想象力"
+    },
+    communicationDesc: {
+      en: "Conversations flow easily about creative topics, though INFPs tend toward abstract ideas while ISFPs focus on tangible experiences.",
+      zh: "关于创意话题的对话很容易展开，尽管INFP倾向于抽象想法，而ISFP则关注具体体验。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Fi": {
+        score: 95,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "Shared dominant Fi creates deep emotional understanding and value alignment between both types.",
+          zh: "共同的主导功能Fi在两种类型之间创造了深刻的情感理解和价值观一致。"
+        }
+      },
+      "Ne_Se": {
+        score: 75,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "INFP's imaginative Ne complements ISFP's sensory Se, offering different but enriching perspectives.",
+          zh: "INFP富有想象力的Ne与ISFP感官的Se互补，提供了不同但丰富的视角。"
+        }
+      },
+      "Si_Ni": {
+        score: 70,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their tertiary functions may cause occasional misunderstandings about past experiences vs future implications.",
+          zh: "他们的第三功能可能会导致偶尔对过去经验与未来影响的误解。"
+        }
+      },
+      "Te_Te": {
+        score: 80,
+        type1Function: "Te (Inferior)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Shared inferior Te means both struggle with objective decision-making but can support each other's growth.",
+          zh: "共同的下位功能Te意味着两者都在客观决策上挣扎，但可以相互支持成长。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their high compatibility stems from shared Fi dominance creating emotional resonance, while their differing auxiliary functions (Ne/Se) provide complementary perspectives. Both value authenticity and dislike conflict, creating a peaceful dynamic.",
+      zh: "他们的高兼容性源于共同的Fi主导功能创造的情感共鸣，而他们不同的辅助功能(Ne/Se)提供了互补的视角。两者都重视真实性且不喜欢冲突，创造了和平的互动。"
+    },
+    growthPotential: {
+      en: "INFP can help ISFP explore abstract possibilities, while ISFP can ground INFP in present-moment awareness. Both can develop their shared inferior Te through mutual support.",
+      zh: "INFP可以帮助ISFP探索抽象可能性，而ISFP可以让INFP扎根于当下的觉察。两者都可以通过相互支持发展他们共同的下位功能Te。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INFP and ISFP handle conflicts differently?",
+          zh: "INFP和ISFP处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "INFPs tend to analyze conflicts through abstract values, while ISFPs focus on immediate feelings and practical impacts. Both prefer avoiding direct confrontation.",
+          zh: "INFP倾向于通过抽象价值观分析冲突，而ISFP则关注即时感受和实际影响。两者都倾向于避免直接对抗。"
+        }
+      }
+    ]
+  }
+},
+"ISFP": {
+  "INFP": {
+    overallScore: 82,
+    mediator: "INFP",
+    provider: "ISFP",
+    summary: {
+      en: "From the ISFP perspective, INFP's abstract idealism is both inspiring and occasionally perplexing. ISFPs appreciate INFPs' depth of feeling but may wish for more tangible expressions. The shared introverted feeling creates strong bonds, while their differing perception functions provide balance - ISFPs keeping INFPs grounded while INFPs expand ISFPs' horizons.",
+      zh: "从ISFP的角度来看，INFP的抽象理想主义既鼓舞人心，偶尔也令人困惑。ISFP欣赏INFP的感受深度，但可能希望更多具体的表达。共同的内倾情感创造了牢固的联系，而他们不同的感知功能提供了平衡 - ISFP让INFP保持脚踏实地，而INFP则扩展ISFP的视野。"
+    },
+    relationshipType: {
+      en: "Artistic Kindred Spirits",
+      zh: "艺术灵魂伴侣"
+    },
+    relationshipDesc: {
+      en: "A creative partnership bonded by shared values and aesthetic appreciation.",
+      zh: "通过共同价值观和审美欣赏结合的创意伙伴关系。"
+    },
+    sharedValues: {
+      en: "Personal Freedom & Creativity",
+      zh: "个人自由与创造力"
+    },
+    sharedValuesDesc: {
+      en: "Both fiercely value personal autonomy and creative self-expression, though ISFPs express it more physically while INFPs do so conceptually.",
+      zh: "两者都非常重视个人自主权和创造性自我表达，尽管ISFP在身体上表现更多，而INFP则在概念上表现。"
+    },
+    communicationStyle: {
+      en: "Gentle & Experiential",
+      zh: "温和且体验式"
+    },
+    communicationDesc: {
+      en: "ISFPs prefer discussing concrete experiences while INFPs enjoy exploring abstract ideas, requiring mutual adaptation.",
+      zh: "ISFP更喜欢讨论具体体验，而INFP则喜欢探索抽象想法，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Fi": {
+        score: 95,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "This shared core function allows profound emotional connection and understanding of each other's values.",
+          zh: "这个共同的核心功能允许深刻的情感连接和对彼此价值观的理解。"
+        }
+      },
+      "Se_Ne": {
+        score: 72,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ISFP's present-focused Se balances INFP's future-oriented Ne, though they may sometimes talk past each other.",
+          zh: "ISFP关注当下的Se平衡了INFP面向未来的Ne，尽管他们有时可能会各说各话。"
+        }
+      },
+      "Ni_Si": {
+        score: 68,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Their different tertiary functions can cause minor misunderstandings about how to process information.",
+          zh: "他们不同的第三功能可能会导致关于如何处理信息的小误解。"
+        }
+      },
+      "Te_Te": {
+        score: 78,
+        type1Function: "Te (Inferior)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Both struggle with logical systems but can develop this function together through practical projects.",
+          zh: "两者都在逻辑系统上挣扎，但可以通过实际项目共同发展这个功能。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The strong compatibility comes from their shared Fi core, while their differing auxiliary functions create a complementary dynamic. ISFPs help INFPs engage with the physical world, while INFPs inspire ISFPs with new possibilities.",
+      zh: "强大的兼容性来自他们共同的Fi核心，而他们不同的辅助功能创造了互补的互动。ISFP帮助INFP参与物质世界，而INFP则用新的可能性激励ISFP。"
+    },
+    growthPotential: {
+      en: "ISFPs can learn from INFPs' ability to see patterns and possibilities, while INFPs can develop greater present-moment awareness from ISFPs. Both can strengthen their Te by collaborating on concrete projects.",
+      zh: "ISFP可以从INFP看到模式和可能性的能力中学习，而INFP则可以从ISFP那里发展更强的当下觉察。两者都可以通过在具体项目上合作来加强他们的Te。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do INFP and ISFP enjoy together?",
+          zh: "INFP和ISFP喜欢一起做什么活动？"
+        },
+        answer: {
+          en: "They enjoy artistic pursuits, nature experiences, and deep conversations. ISFPs may prefer hands-on creative activities while INFPs enjoy conceptual discussions, finding middle ground is key.",
+          zh: "他们喜欢艺术追求、自然体验和深入对话。ISFP可能更喜欢动手的创意活动，而INFP则喜欢概念性讨论，找到中间地带是关键。"
+        }
+      }
+    ]
+  }
+}
+```

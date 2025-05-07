@@ -1,0 +1,186 @@
+{
+  "ESFP": {
+    overallScore: 72,
+    mediator: "INTP",
+    provider: "ESFP",
+    summary: {
+      en: "The INTP-ESFP pairing creates an intriguing thinker-doer dynamic. INTPs bring analytical depth while ESFPs provide spontaneity and social energy. Their complementary functions can create balance, though they may struggle with long-term planning and abstract discussions. The INTP's Ti-Ne helps ground the ESFP's Se-Fi, while the ESFP can draw the INTP out of their shell.",
+      zh: "INTP与ESFP的配对形成了有趣的思考者-行动者动态。INTP带来分析深度，ESFP提供自发性和社交能量。他们的互补功能可以创造平衡，但可能在长期规划和抽象讨论方面存在困难。INTP的Ti-Ne有助于稳定ESFP的Se-Fi，而ESFP可以将INTP从他们的壳中拉出来。"
+    },
+    relationshipType: {
+      en: "Complementary Opposites",
+      zh: "互补对立"
+    },
+    relationshipDesc: {
+      en: "A pairing where theoretical meets experiential, with potential for mutual growth through their differences.",
+      zh: "理论遇上实践的配对，通过彼此的差异具有相互成长的潜力。"
+    },
+    sharedValues: {
+      en: "Freedom & Authenticity",
+      zh: "自由与真实性"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal freedom and being true to themselves, though they express it differently.",
+      zh: "两种类型都高度重视个人自由和忠于自我，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Theoretical ↔ Experiential",
+      zh: "理论性 ↔ 体验性"
+    },
+    communicationDesc: {
+      en: "INTPs prefer abstract, conceptual discussions while ESFPs focus on concrete, immediate experiences - finding middle ground is key.",
+      zh: "INTP喜欢抽象、概念性的讨论，而ESFP关注具体、即时的体验——找到中间地带是关键。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Se": {
+        score: 68,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "INTP's logical analysis may clash with ESFP's sensory focus, but can provide useful structure to experiences.",
+          zh: "INTP的逻辑分析可能与ESFP的感官关注冲突，但可以为体验提供有用的结构。"
+        }
+      },
+      "Ne_Fi": {
+        score: 75,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "INTP's exploratory thinking complements ESFP's personal values, creating interesting discussions.",
+          zh: "INTP的探索性思维与ESFP的个人价值观互补，创造有趣的讨论。"
+        }
+      },
+      "Si_Te": {
+        score: 65,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Both have underdeveloped practical functions which may cause challenges in daily logistics.",
+          zh: "两者都发展不足的实用功能可能在日常事务中造成挑战。"
+        },
+      },
+      "Fe_Ni": {
+        score: 70,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Shared discomfort with these functions can create mutual understanding of each other's blind spots.",
+          zh: "对这些功能共同的不适可以创造对彼此盲点的相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their complementary functions create balance - INTP provides depth to ESFP's experiences while ESFP helps INTP engage with the present moment. However, their different energy orientations (introverted thinking vs extroverted sensing) require conscious effort to bridge.",
+      zh: "他们的互补功能创造了平衡——INTP为ESFP的体验提供深度，而ESFP帮助INTP参与当下。然而，他们不同的能量导向（内向思考与外向感觉）需要有意识的努力来弥合。"
+    },
+    growthPotential: {
+      en: "INTP can develop greater present-moment awareness and social skills, while ESFP can learn to appreciate deeper analysis and theoretical frameworks through this relationship.",
+      zh: "INTP可以发展更强的当下意识和社会技能，而ESFP可以通过这种关系学会欣赏更深入的分析和理论框架。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTP and ESFP improve their communication?",
+          zh: "INTP和ESFP如何改善他们的沟通？"
+        },
+        answer: {
+          en: "INTPs should simplify abstract concepts with concrete examples, while ESFPs can practice patience with theoretical discussions. Finding shared activities helps bridge the gap.",
+          zh: "INTP应该用具体例子简化抽象概念，而ESFP可以对理论讨论练习耐心。找到共同活动有助于弥合差距。"
+        }
+      }
+    ]
+  }
+},
+"ESFP": {
+  "INTP": {
+    overallScore: 75,
+    mediator: "INTP",
+    provider: "ESFP",
+    summary: {
+      en: "ESFPs find INTPs intellectually stimulating and appreciate their unique perspectives, while INTPs enjoy ESFP's energy and ability to live in the moment. The ESFP's social nature helps the INTP engage with the world, while the INTP's depth provides new dimensions to the ESFP's experiences.",
+      zh: "ESFP觉得INTP在智力上很刺激，欣赏他们独特的观点，而INTP喜欢ESFP的能量和活在当下的能力。ESFP的社交性帮助INTP与世界接触，而INTP的深度为ESFP的体验提供了新的维度。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A dynamic where spontaneous action meets thoughtful analysis, creating exciting possibilities.",
+      zh: "自发性行动与深思熟虑的分析相遇的动态，创造了令人兴奋的可能性。"
+    },
+    sharedValues: {
+      en: "Curiosity & Novelty",
+      zh: "好奇心与新鲜感"
+    },
+    sharedValuesDesc: {
+      en: "Both types enjoy exploring new ideas and experiences, though INTPs prefer mental exploration while ESFPs seek physical engagement.",
+      zh: "两种类型都喜欢探索新的想法和体验，尽管INTP更喜欢心理探索，而ESFP寻求身体参与。"
+    },
+    communicationStyle: {
+      en: "Action-Oriented ↔ Concept-Oriented",
+      zh: "行动导向 ↔ 概念导向"
+    },
+    communicationDesc: {
+      en: "ESFPs communicate through doing and experiencing, while INTPs prefer discussing ideas - successful communication requires adaptation from both.",
+      zh: "ESFP通过行动和体验交流，而INTP更喜欢讨论想法——成功的沟通需要双方的适应。"
+    },
+    cognitiveCompatibility: {
+      "Se_Ti": {
+        score: 70,
+        type1Function: "Se (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ESFP's sensory focus can help ground INTP's abstract thinking in reality.",
+          zh: "ESFP的感官关注可以帮助INTP的抽象思维扎根于现实。"
+        }
+      },
+      "Fi_Ne": {
+        score: 72,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ESFP's values can guide INTP's exploratory thinking toward meaningful directions.",
+          zh: "ESFP的价值观可以引导INTP的探索性思维走向有意义的方向。"
+        }
+      },
+      "Te_Si": {
+        score: 65,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Both may struggle with practical organization, potentially causing logistical challenges.",
+          zh: "两者都可能在实际组织方面遇到困难，可能导致后勤挑战。"
+        }
+      },
+      "Ni_Fe": {
+        score: 68,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Shared discomfort with future planning and group harmony can create mutual understanding.",
+          zh: "对未来规划和群体和谐的共同不适可以创造相互理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESFPs appreciate how INTPs expand their perspective intellectually, while INTPs benefit from ESFPs' ability to engage them with the physical world. Their differences become strengths when properly balanced.",
+      zh: "ESFP欣赏INTP如何在智力上扩展他们的视野，而INTP受益于ESFP使他们参与物理世界的能力。当适当平衡时，他们的差异会成为优势。"
+    },
+    growthPotential: {
+      en: "ESFP can develop more patience for abstract thinking and future planning, while INTP can become more comfortable with spontaneous action and social engagement through this relationship.",
+      zh: "ESFP可以对抽象思维和未来规划发展更多耐心，而INTP可以通过这种关系对自发行动和社交参与变得更加自在。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities work best for ESFP-INTP couples?",
+          zh: "什么活动最适合ESFP-INTP情侣？"
+        },
+        answer: {
+          en: "Hands-on learning experiences, travel with intellectual components, or creative projects that combine theory and practice work well for this pairing.",
+          zh: "实践学习体验、带有智力成分的旅行，或结合理论和实践的创意项目对这种配对很有效。"
+        }
+      }
+    ]
+  }
+}

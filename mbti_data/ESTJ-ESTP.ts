@@ -1,0 +1,186 @@
+{
+  "ESTP": {
+    overallScore: 82,
+    mediator: "ESTP",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJs and ESTPs share an action-oriented, practical approach to life, making them highly compatible in dynamic environments. Both types value efficiency and results, though ESTJs prefer structure while ESTPs thrive on spontaneity. Their shared Extraverted Thinking (Te) creates strong logical communication, but ESTJ's Introverted Sensing (Si) may clash with ESTP's Extraverted Sensing (Se) regarding risk tolerance.",
+      zh: "ESTJ和ESTP都采取务实、行动导向的生活方式，在动态环境中高度兼容。两种类型都重视效率和结果，但ESTJ偏好结构而ESTP喜欢即兴发挥。他们共有的外向思考(Te)创造了强大的逻辑沟通，但ESTJ的内向感觉(Si)可能与ESTP的外向感觉(Se)在风险承受度上产生冲突。"
+    },
+    relationshipType: {
+      en: "Dynamic Duo",
+      zh: "活力搭档"
+    },
+    relationshipDesc: {
+      en: "A high-energy partnership that combines ESTJ's organization with ESTP's adaptability for effective problem-solving.",
+      zh: "结合ESTJ的组织能力和ESTP的适应性的高效合作关系，能有效解决问题。"
+    },
+    sharedValues: {
+      en: "Action & Results",
+      zh: "行动与结果导向"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize tangible outcomes and practical solutions over abstract theories or prolonged deliberation.",
+      zh: "两者都重视切实的成果和实用解决方案，而非抽象理论或冗长的讨论。"
+    },
+    communicationStyle: {
+      en: "Direct & Pragmatic",
+      zh: "直接务实型"
+    },
+    communicationDesc: {
+      en: "Conversations focus on facts and immediate applications, though ESTJs prefer more structure than ESTPs.",
+      zh: "交流聚焦于事实和即时应用，尽管ESTJ比ESTP更喜欢结构化沟通。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 90,
+        type1Function: "Te (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Shared Te enables efficient decision-making and objective problem-solving approaches.",
+          zh: "共有的Te功能使双方能高效决策并采用客观的问题解决方法。"
+        }
+      },
+      "Si_Se": {
+        score: 68,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "Si's preference for tradition may conflict with Se's desire for new experiences.",
+          zh: "Si对传统的偏好可能与Se对新体验的渴望产生冲突。"
+        }
+      },
+      "Ne_Ni": {
+        score: 72,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both have underdeveloped intuition but ESTP's Ni may occasionally surprise ESTJ.",
+          zh: "两者的直觉功能都不发达，但ESTP的Ni偶尔会让ESTJ感到意外。"
+        }
+      },
+      "Fi_Fe": {
+        score: 75,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "ESTP's Fe helps navigate social situations while ESTJ's Fi provides personal conviction.",
+          zh: "ESTP的Fe有助于处理社交场合，而ESTJ的Fi提供个人信念。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Te practicality, though ESTJ's need for structure may frustrate ESTP's spontaneity. ESTP helps ESTJ loosen up while ESTJ provides stability ESTP may secretly appreciate. Conflict arises when ESTJ's Si tradition clashes with ESTP's Se novelty-seeking.",
+      zh: "他们的兼容性源于共有的Te务实性，尽管ESTJ对结构的需求可能让ESTP感到沮丧。ESTP帮助ESTJ放松，而ESTJ提供ESTP可能暗自欣赏的稳定性。当ESTJ的Si传统与ESTP的Se求新发生冲突时会产生矛盾。"
+    },
+    growthPotential: {
+      en: "ESTJ can learn flexibility from ESTP while ESTP can adopt better planning from ESTJ. Both benefit from developing their inferior feeling functions for deeper connections.",
+      zh: "ESTJ可以向ESTP学习灵活性，而ESTP可以从ESTJ那里学到更好的规划能力。双方都能通过发展劣势情感功能来建立更深层次的联系。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ESTJ and ESTP handle conflicts?",
+          zh: "ESTJ和ESTP如何处理冲突？"
+        },
+        answer: {
+          en: "They address issues directly through logical debate (Te), but may need conscious effort to acknowledge emotional aspects.",
+          zh: "他们通过逻辑辩论(Te)直接解决问题，但可能需要有意识地承认情感因素。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "ESTJ": {
+    overallScore: 85,
+    mediator: "ESTP",
+    provider: "ESTJ",
+    summary: {
+      en: "From the ESTP perspective, ESTJs provide valuable structure and reliability to their spontaneous lifestyle. While ESTPs enjoy ESTJ's competence and decisiveness, they may feel constrained by their need for planning. The pairing works best when ESTP's adaptability balances ESTJ's rigidity.",
+      zh: "从ESTP的角度看，ESTJ为他们即兴的生活方式提供了宝贵的结构和可靠性。虽然ESTP欣赏ESTJ的能力和果断，但可能感到被他们的计划需求所限制。当ESTP的适应性与ESTJ的严格性达到平衡时，这种配对效果最佳。"
+    },
+    relationshipType: {
+      en: "Complementary Energizers",
+      zh: "互补能量组合"
+    },
+    relationshipDesc: {
+      en: "ESTP's spontaneity energizes ESTJ while ESTJ's planning prevents ESTP's ideas from remaining unrealized.",
+      zh: "ESTP的即兴发挥为ESTJ注入活力，而ESTJ的规划能力确保ESTP的想法得以实现。"
+    },
+    sharedValues: {
+      en: "Competence & Action",
+      zh: "能力与行动"
+    },
+    sharedValuesDesc: {
+      en: "Both respect competence and prefer doing over theorizing, creating mutual admiration for each other's skills.",
+      zh: "双方都尊重能力并偏好行动而非空谈，对彼此技能产生相互欣赏。"
+    },
+    communicationStyle: {
+      en: "Fast-Paced Debate",
+      zh: "快节奏辩论型"
+    },
+    communicationDesc: {
+      en: "Engaging exchanges where ESTP proposes ideas and ESTJ helps implement them practically.",
+      zh: "充满活力的交流，ESTP提出想法而ESTJ帮助实际实施。"
+    },
+    cognitiveCompatibility: {
+      "Se_Si": {
+        score: 70,
+        type1Function: "Se (Dominant)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ESTP's Se seeks new experiences while ESTJ's Si prefers proven methods, creating tension.",
+          zh: "ESTP的Se寻求新体验而ESTJ的Si偏好已验证的方法，造成紧张关系。"
+        }
+      },
+      "Te_Te": {
+        score: 92,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Strong shared Te creates effective problem-solving and mutual respect for competence.",
+          zh: "强大的共同Te功能创造有效的问题解决能力及对彼此能力的尊重。"
+        }
+      },
+      "Fe_Fi": {
+        score: 78,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "ESTP's Fe helps smooth over conflicts arising from ESTJ's sometimes rigid Fi principles.",
+          zh: "ESTP的Fe有助于缓和因ESTJ有时僵化的Fi原则而产生的冲突。"
+        }
+      },
+      "Ni_Ne": {
+        score: 65,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Both have weak intuition but ESTJ's Ne may occasionally inspire ESTP's underdeveloped Ni.",
+          zh: "两者直觉功能都较弱，但ESTJ的Ne偶尔能激发ESTP未充分发展的Ni。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESTPs appreciate ESTJ's reliability and decisiveness, while ESTJs admire ESTP's adaptability and quick thinking. The pairing succeeds when ESTP respects ESTJ's need for structure and ESTJ allows space for ESTP's spontaneity. Their shared Te creates strong practical collaboration.",
+      zh: "ESTP欣赏ESTJ的可靠性和果断，而ESTJ钦佩ESTP的适应性和快速思考。当ESTP尊重ESTJ对结构的需求且ESTJ为ESTP的即兴发挥留出空间时，这种配对就能成功。他们共有的Te功能创造了强大的实践协作。"
+    },
+    growthPotential: {
+      en: "ESTP can develop better follow-through from ESTJ while ESTJ learns to embrace spontaneity. Both benefit from developing their inferior intuitive functions for long-term vision.",
+      zh: "ESTP可以从ESTJ那里学到更好的执行力，而ESTJ学会接纳即兴发挥。双方都能通过发展劣势直觉功能来获得长期视野。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do ESTP and ESTJ enjoy together?",
+          zh: "ESTP和ESTJ喜欢一起进行什么活动？"
+        },
+        answer: {
+          en: "They thrive in action-oriented activities like sports, business ventures, or hands-on projects that combine ESTP's spontaneity with ESTJ's planning.",
+          zh: "他们在运动、商业冒险或实践项目等行动导向的活动中表现良好，这些活动结合了ESTP的即兴和ESTJ的规划。"
+        }
+      }
+    ]
+  }
+}

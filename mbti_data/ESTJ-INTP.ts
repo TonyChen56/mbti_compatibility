@@ -1,0 +1,186 @@
+{
+  "INTP": {
+    overallScore: 72,
+    mediator: "INTP",
+    provider: "ESTJ",
+    summary: {
+      en: "The ESTJ-INTP relationship is a classic case of opposites attracting, where the structured, practical ESTJ meets the abstract, theoretical INTP. While they approach life differently, ESTJs provide grounding for INTPs' ideas, while INTPs help ESTJs consider unconventional perspectives. Their complementary strengths can create a balanced partnership when mutual respect is established.",
+      zh: "ESTJ和INTP的关系是典型异性相吸的案例，讲究结构、实际的ESTJ遇到抽象理论的INTP。虽然生活方式不同，但ESTJ能为INTP的想法提供现实基础，而INTP能帮助ESTJ考虑非传统观点。当建立相互尊重时，他们的互补优势可以创造平衡的伙伴关系。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "A challenging but rewarding pairing where both types push each other out of their comfort zones.",
+      zh: "充满挑战但回报丰厚的关系，双方都能推动对方走出舒适区。"
+    },
+    sharedValues: {
+      en: "Intellectual Honesty",
+      zh: "知识诚实"
+    },
+    sharedValuesDesc: {
+      en: "Both value truth and logical consistency, though they arrive at conclusions through different processes.",
+      zh: "双方都重视真理和逻辑一致性，尽管他们通过不同的过程得出结论。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Exploratory",
+      zh: "直接型vs探索型"
+    },
+    communicationDesc: {
+      en: "ESTJs prefer concise, action-oriented communication while INTPs enjoy theoretical discussions, requiring patience from both sides.",
+      zh: "ESTJ偏好简洁、行动导向的沟通，而INTP喜欢理论讨论，需要双方耐心。"
+    },
+    cognitiveCompatibility: {
+      "Te_Dominant_Ti_Dominant": {
+        score: 68,
+        type1Function: "Te (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "Both value logic but clash in application - ESTJs seek external efficiency while INTPs pursue internal consistency.",
+          zh: "双方都重视逻辑但在应用上冲突——ESTJ追求外部效率而INTP追求内部一致性。"
+        }
+      },
+      "Si_Auxiliary_Ne_Auxiliary": {
+        score: 75,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "Si's practicality balances Ne's creativity, allowing concrete implementation of abstract ideas.",
+          zh: "Si的实用性与Ne的创造力平衡，使抽象想法能具体实施。"
+        }
+      },
+      "Ne_Tertiary_Fe_Tertiary": {
+        score: 82,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Their underdeveloped functions can create mutual growth opportunities in social situations.",
+          zh: "他们不发达的功能可以在社交场合创造共同成长机会。"
+        }
+      },
+      "Fi_Inferior_Si_Inferior": {
+        score: 65,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Both struggle with these functions but can support each other's emotional and practical vulnerabilities.",
+          zh: "双方在这些功能上都有困难，但可以支持对方的情感和实际弱点。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their complementary cognitive functions create potential for balance - ESTJs provide structure and action while INTPs offer innovation and depth. However, their differing decision-making approaches (Te vs Ti) require conscious effort to reconcile.",
+      zh: "他们互补的认知功能创造了平衡潜力——ESTJ提供结构和行动，而INTP提供创新和深度。然而，他们不同的决策方式(Te vs Ti)需要有意识的努力来调和。"
+    },
+    growthPotential: {
+      en: "ESTJs can learn flexibility and theoretical thinking from INTPs, while INTPs can develop practical implementation skills and social awareness from ESTJs.",
+      zh: "ESTJ可以从INTP那里学习灵活性和理论思维，而INTP可以从ESTJ那里发展实际执行技能和社交意识。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge in ESTJ-INTP relationships?",
+          zh: "ESTJ-INTP关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "The fundamental difference in decision-making - ESTJs prioritize efficiency and tradition while INTPs value theoretical purity and innovation.",
+          zh: "决策方式的根本差异——ESTJ优先考虑效率和传统，而INTP重视理论纯度和创新。"
+        }
+      }
+    ]
+  }
+},
+"INTP": {
+  "ESTJ": {
+    overallScore: 75,
+    mediator: "INTP",
+    provider: "ESTJ",
+    summary: {
+      en: "From the INTP perspective, ESTJs offer valuable structure and real-world application for their ideas. While initially frustrating, the ESTJ's practicality can help ground INTP's abstract theories. INTPs appreciate ESTJs' reliability but may feel constrained by their traditional approaches.",
+      zh: "从INTP角度看，ESTJ为他们的想法提供了宝贵的结构和现实应用。虽然最初令人沮丧，但ESTJ的实用性可以帮助INTP的抽象理论落地。INTP欣赏ESTJ的可靠性，但可能感到受其传统方法的限制。"
+    },
+    relationshipType: {
+      en: "Complementary Opposites",
+      zh: "互补对立"
+    },
+    relationshipDesc: {
+      en: "A relationship where differences become strengths when properly balanced.",
+      zh: "当适当平衡时，差异会成为优势的关系。"
+    },
+    sharedValues: {
+      en: "Competence & Knowledge",
+      zh: "能力与知识"
+    },
+    sharedValuesDesc: {
+      en: "Both respect intelligence and competence, though they define and demonstrate it differently.",
+      zh: "双方都尊重智慧和能力，尽管他们以不同方式定义和展示。"
+    },
+    communicationStyle: {
+      en: "Precision vs. Possibilities",
+      zh: "精确型vs可能性型"
+    },
+    communicationDesc: {
+      en: "INTPs explore all theoretical angles while ESTJs seek clear, actionable conclusions - requiring mutual adaptation.",
+      zh: "INTP探索所有理论角度而ESTJ寻求清晰、可操作的结论——需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Dominant_Te_Dominant": {
+        score: 70,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Ti's internal logic framework contrasts with Te's external efficiency focus, creating both tension and balance.",
+          zh: "Ti的内部逻辑框架与Te的外部效率焦点形成对比，既产生紧张又创造平衡。"
+        }
+      },
+      "Ne_Auxiliary_Si_Auxiliary": {
+        score: 78,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "Ne's idea generation combines well with Si's practical experience for innovative yet feasible solutions.",
+          zh: "Ne的想法生成与Si的实践经验结合，产生创新而可行的解决方案。"
+        }
+      },
+      "Si_Inferior_Ne_Tertiary": {
+        score: 72,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "INTPs can help ESTJs develop their weaker Ne, while ESTJs support INTPs with practical details.",
+          zh: "INTP可以帮助ESTJ发展他们较弱的Ne，而ESTJ用实际细节支持INTP。"
+        }
+      },
+      "Fe_Tertiary_Fi_Inferior": {
+        score: 65,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Both struggle with emotional expression but can develop healthier emotional intelligence together.",
+          zh: "双方都在情感表达上有困难，但可以共同发展更健康的情商。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "INTPs benefit from ESTJs' ability to implement ideas and maintain structure, while ESTJs gain from INTPs' innovative thinking. Their functional stack creates natural complementarity despite surface-level differences.",
+      zh: "INTP受益于ESTJ执行想法和维持结构的能力，而ESTJ从INTP的创新思维中获益。尽管表面存在差异，但他们的功能栈创造了自然的互补性。"
+    },
+    growthPotential: {
+      en: "INTPs can develop better time management and practical skills, while ESTJs can expand their creativity and tolerance for ambiguity through this relationship.",
+      zh: "INTP可以发展更好的时间管理和实践技能，而ESTJ可以通过这种关系扩展他们的创造力和对模糊性的容忍度。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTPs and ESTJs resolve conflicts?",
+          zh: "INTP和ESTJ如何解决冲突？"
+        },
+        answer: {
+          en: "By focusing on shared logical frameworks - using objective facts and mutually agreed principles rather than emotional appeals.",
+          zh: "通过关注共享的逻辑框架——使用客观事实和共同商定的原则，而不是情感诉求。"
+        }
+      }
+    ]
+  }
+}

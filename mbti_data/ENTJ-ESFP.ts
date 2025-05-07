@@ -1,0 +1,186 @@
+{
+  "ESFP": {
+    overallScore: 75,
+    mediator: "ESFP",
+    provider: "ENTJ",
+    summary: {
+      en: "The ENTJ-ESFP pairing creates a dynamic balance between strategic vision and spontaneous enjoyment. ENTJs bring structure and goal-orientation, while ESFPs infuse energy and adaptability. Their extroverted nature ensures active social engagement, though they may differ in long-term planning versus present-moment focus. With mutual respect, they can form a complementary partnership where both grow from their differences.",
+      zh: "ENTJ与ESFP的配对在战略远见和即兴享乐间创造了动态平衡。ENTJ带来结构和目标导向，ESFP则注入活力和适应力。他们的外向特质确保积极的社交互动，尽管在长期规划与当下关注方面可能存在差异。通过相互尊重，他们可以形成互补关系，双方都能从差异中获得成长。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A lively combination where ENTJ's leadership complements ESFP's spontaneity in pursuing exciting experiences.",
+      zh: "ENTJ的领导力与ESFP的自发性在追求刺激体验中形成生动互补的组合。"
+    },
+    sharedValues: {
+      en: "Action-Oriented, Social Engagement",
+      zh: "行动导向，社交参与"
+    },
+    sharedValuesDesc: {
+      en: "Both value active engagement with the world and enjoy being around people, though with different focuses - ENTJs on achievement, ESFPs on enjoyment.",
+      zh: "双方都重视与世界的积极互动并喜欢与人相处，尽管关注点不同——ENTJ注重成就，ESFP注重享受。"
+    },
+    communicationStyle: {
+      en: "Direct-Expressive",
+      zh: "直接-表达型"
+    },
+    communicationDesc: {
+      en: "ENTJs communicate with logical precision while ESFPs are more emotionally expressive, creating a vibrant but occasionally conflicting dynamic.",
+      zh: "ENTJ以逻辑精确性沟通，ESFP则更情感外露，形成活跃但偶尔冲突的互动模式。"
+    },
+    cognitiveCompatibility: {
+      "Te_Se": {
+        score: 82,
+        type1Function: "Te (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "ENTJ's decisive thinking complements ESFP's action-oriented perception, creating effective problem-solving in the moment.",
+          zh: "ENTJ的决断思维与ESFP的行动导向感知互补，形成即时的有效问题解决。"
+        }
+      },
+      "Ni_Fi": {
+        score: 68,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ENTJ's strategic foresight may clash with ESFP's personal values, requiring mutual understanding.",
+          zh: "ENTJ的战略远见可能与ESFP的个人价值观产生冲突，需要相互理解。"
+        }
+      },
+      "Se_Te": {
+        score: 78,
+        type1Function: "Se (Inferior)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Under stress, ENTJ may appreciate ESFP's present-moment focus, while ESFP can benefit from ENTJ's logical approach.",
+          zh: "压力下，ENTJ可能欣赏ESFP的当下关注，而ESFP能从ENTJ的逻辑方法中受益。"
+        }
+      },
+      "Fi_Ni": {
+        score: 65,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "ESFP's developing inner values may occasionally conflict with ENTJ's long-term visions.",
+          zh: "ESFP发展中的内在价值观可能偶尔与ENTJ的长期愿景产生冲突。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extraversion and action-orientation, with ENTJ providing structure and ESFP bringing flexibility. Challenges arise from ENTJ's future-focus versus ESFP's present-moment living, requiring mutual adaptation.",
+      zh: "他们的兼容性源于共同的外向性和行动导向，ENTJ提供结构而ESFP带来灵活性。挑战来自ENTJ的未来导向与ESFP的当下生活方式的差异，需要相互适应。"
+    },
+    growthPotential: {
+      en: "ENTJ can learn spontaneity and emotional expression from ESFP, while ESFP can develop better planning skills from ENTJ. Their differences offer rich growth opportunities if both remain open.",
+      zh: "ENTJ可以从ESFP那里学习自发性和情感表达，而ESFP可以从ENTJ那里发展更好的规划能力。如果双方保持开放，他们的差异提供了丰富的成长机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENTJ and ESFP handle conflicts?",
+          zh: "ENTJ和ESFP如何处理冲突？"
+        },
+        answer: {
+          en: "ENTJs prefer logical debate while ESFPs focus on emotional harmony. Successful resolution requires ENTJ to soften their approach and ESFP to articulate their feelings clearly.",
+          zh: "ENTJ偏好逻辑辩论而ESFP关注情感和谐。成功解决需要ENTJ软化方式，ESFP清晰表达感受。"
+        }
+      }
+    ]
+  }
+},
+"ESFP": {
+  "ENTJ": {
+    overallScore: 78,
+    mediator: "ESFP",
+    provider: "ENTJ",
+    summary: {
+      en: "ESFPs appreciate ENTJs' confidence and decisiveness, while ENTJs admire ESFPs' spontaneity and social charm. This pairing thrives when combining ENTJ's strategic planning with ESFP's adaptability. The ESFP brings joy and flexibility to the relationship, helping the ENTJ relax, while the ENTJ provides stability and direction.",
+      zh: "ESFP欣赏ENTJ的自信和决断力，而ENTJ钦佩ESFP的自发性和社交魅力。当ENTJ的战略规划与ESFP的适应性结合时，这种配对会蓬勃发展。ESFP为关系带来快乐和灵活性，帮助ENTJ放松，而ENTJ提供稳定性和方向。"
+    },
+    relationshipType: {
+      en: "Balanced Energizers",
+      zh: "平衡激励者"
+    },
+    relationshipDesc: {
+      en: "ESFP's lively spirit and ENTJ's determined nature create an energetic partnership that balances fun and achievement.",
+      zh: "ESFP的活泼精神与ENTJ的坚定本性创造了平衡乐趣与成就的活力伙伴关系。"
+    },
+    sharedValues: {
+      en: "People-Centric, Experiential Living",
+      zh: "以人为本，体验生活"
+    },
+    sharedValuesDesc: {
+      en: "Both enjoy engaging with people and real-world experiences, though ESFPs focus more on enjoyment while ENTJs emphasize achievement.",
+      zh: "双方都喜欢与人互动和现实体验，尽管ESFP更关注享受，而ENTJ强调成就。"
+    },
+    communicationStyle: {
+      en: "Expressive-Direct",
+      zh: "表达-直接型"
+    },
+    communicationDesc: {
+      en: "ESFPs communicate with emotional enthusiasm while ENTJs are more factual, creating a dynamic that benefits from blending both styles.",
+      zh: "ESFP以情感热情沟通，而ENTJ更注重事实，形成一种融合两种风格会受益的互动模式。"
+    },
+    cognitiveCompatibility: {
+      "Se_Te": {
+        score: 85,
+        type1Function: "Se (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "ESFP's present-moment awareness combines well with ENTJ's decisive action, creating effective immediate results.",
+          zh: "ESFP的当下意识与ENTJ的果断行动良好结合，创造有效的即时结果。"
+        }
+      },
+      "Fi_Ni": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ESFP's developing values may sometimes conflict with ENTJ's long-term visions, requiring compromise.",
+          zh: "ESFP发展中的价值观有时可能与ENTJ的长期愿景冲突，需要妥协。"
+        }
+      },
+      "Te_Se": {
+        score: 80,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "ENTJ can help ESFP develop more structured thinking, while ESFP helps ENTJ be more spontaneous.",
+          zh: "ENTJ可以帮助ESFP发展更有条理的思维，而ESFP帮助ENTJ更自发。"
+        }
+      },
+      "Ni_Fi": {
+        score: 67,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ENTJ's occasional intuitive leaps may confuse ESFP, who prefers concrete experiences.",
+          zh: "ENTJ偶尔的直觉跳跃可能会让偏好具体体验的ESFP感到困惑。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well because ESFPs soften ENTJs' intensity with their playful nature, while ENTJs help ground ESFPs' spontaneity. Their shared extraversion creates energetic interactions, though they must navigate different time orientations.",
+      zh: "这种配对效果良好，因为ESFP以其 playful 天性软化ENTJ的强度，而ENTJ帮助稳定ESFP的自发性。他们共同的外向性创造了充满活力的互动，尽管必须应对不同的时间导向。"
+    },
+    growthPotential: {
+      en: "ESFPs can learn strategic thinking from ENTJs, while ENTJs can develop greater spontaneity and emotional awareness from ESFPs. Their differences provide complementary growth opportunities.",
+      zh: "ESFP可以从ENTJ那里学习战略思维，而ENTJ可以从ESFP那里发展更强的自发性和情感意识。他们的差异提供了互补的成长机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ESFPs to ENTJs?",
+          zh: "ESFP被ENTJ吸引的原因是什么？"
+        },
+        answer: {
+          en: "ESFPs are drawn to ENTJs' confidence, leadership qualities, and ability to make things happen, while appreciating how ENTJs can provide structure to their spontaneous nature.",
+          zh: "ESFP被ENTJ的自信、领导素质和实现能力所吸引，同时欣赏ENTJ能为他们的自发天性提供结构。"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "ENTJ": {
+    overallScore: 85,
+    mediator: "INFJ",
+    provider: "ENTJ",
+    summary: {
+      en: "INFJs and ENTJs form a complementary pairing where the INFJ's deep intuition and empathy balance the ENTJ's decisive leadership. While their approaches differ, both value vision and purpose. The INFJ brings emotional depth while the ENTJ provides strategic direction, creating a dynamic where both can grow substantially when mutual respect is established.",
+      zh: "INFJ和ENTJ形成互补配对，INFJ的深刻直觉和共情能力平衡了ENTJ的果断领导力。虽然方法不同，但两者都重视愿景和目标。INFJ带来情感深度，ENTJ提供战略方向，在相互尊重的基础上形成能让双方大幅成长的动态关系。"
+    },
+    relationshipType: {
+      en: "Visionary Partnership",
+      zh: "远见伙伴关系"
+    },
+    relationshipDesc: {
+      en: "A strategic alliance where intuition meets execution, creating powerful synergy when aligned on shared goals.",
+      zh: "直觉与执行的战略联盟，在共同目标一致时能产生强大的协同效应。"
+    },
+    sharedValues: {
+      en: "Purpose & Growth",
+      zh: "目标与成长"
+    },
+    sharedValuesDesc: {
+      en: "Both types highly value personal growth and meaningful achievement, though they define success differently.",
+      zh: "两种类型都高度重视个人成长和有意义的成就，尽管他们对成功的定义有所不同。"
+    },
+    communicationStyle: {
+      en: "Conceptual ↔ Pragmatic",
+      zh: "概念性 ↔ 务实性"
+    },
+    communicationDesc: {
+      en: "INFJs communicate abstract possibilities while ENTJs focus on concrete plans, requiring conscious translation.",
+      zh: "INFJ交流抽象可能性，而ENTJ专注于具体计划，需要有意识的转换。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Te": {
+        score: 88,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Their shared Ni/Te focus creates strategic alignment, though INFJs prioritize insights while ENTJs prioritize results.",
+          zh: "他们共有的Ni/Te关注点创造了战略一致性，尽管INFJ优先考虑洞察力而ENTJ优先考虑结果。"
+        }
+      },
+      "Fe_Fi": {
+        score: 72,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "INFJ's Fe helps navigate ENTJ's underdeveloped Fi, providing emotional intelligence to the relationship.",
+          zh: "INFJ的Fe有助于引导ENTJ发展不足的Fi，为关系提供情商支持。"
+        }
+      },
+      "Ti_Se": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ENTJ's Se action-orientation can overwhelm INFJ's reflective Ti, requiring balance between doing and analyzing.",
+          zh: "ENTJ的Se行动导向可能压倒INFJ的反思性Ti，需要在行动和分析之间取得平衡。"
+        }
+      },
+      "Se_Ni": {
+        score: 80,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their shared Ni perspective creates intuitive understanding, though ENTJs implement insights more forcefully.",
+          zh: "他们共同的Ni视角创造了直觉理解，尽管ENTJ更强势地实施见解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well because INFJs provide the depth of understanding ENTJs sometimes lack, while ENTJs help INFJs turn visions into reality. Their cognitive functions create natural complementarity when both respect each other's strengths.",
+      zh: "这种配对效果良好，因为INFJ提供了ENTJ有时缺乏的深刻理解，而ENTJ帮助INFJ将愿景变为现实。当双方尊重彼此的优势时，他们的认知功能会形成自然的互补性。"
+    },
+    growthPotential: {
+      en: "INFJs can develop greater decisiveness and implementation skills, while ENTJs can cultivate emotional intelligence and consider broader impacts of their actions.",
+      zh: "INFJ可以培养更强的决断力和执行能力，而ENTJ可以培养情商并考虑其行动的更广泛影响。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INFJs and ENTJs resolve conflicts?",
+          zh: "INFJ和ENTJ如何解决冲突？"
+        },
+        answer: {
+          en: "INFJs should express needs directly while ENTJs should slow down to listen. Finding common ground in shared values helps bridge communication gaps.",
+          zh: "INFJ应直接表达需求，而ENTJ应放慢速度倾听。在共同价值观中找到共同点有助于弥合沟通差距。"
+        }
+      }
+    ]
+  }
+},
+"ENTJ": {
+  "INFJ": {
+    overallScore: 83,
+    mediator: "INFJ",
+    provider: "ENTJ",
+    summary: {
+      en: "ENTJs appreciate INFJs' depth of insight and ability to understand complex human dynamics, while INFJs benefit from ENTJs' decisive leadership and goal orientation. This pairing thrives when the ENTJ respects the INFJ's need for meaningful connection and the INFJ appreciates the ENTJ's drive for achievement.",
+      zh: "ENTJ欣赏INFJ的深刻洞察力和理解复杂人际关系的能力，而INFJ受益于ENTJ的果断领导力和目标导向。当ENTJ尊重INFJ对有意义连接的需求，且INFJ欣赏ENTJ的成就驱动力时，这种配对会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Strategic Synergy",
+      zh: "战略协同"
+    },
+    relationshipDesc: {
+      en: "A productive pairing where visionary insight meets effective execution, creating mutual growth opportunities.",
+      zh: "富有成效的配对，远见卓识与有效执行相遇，创造共同成长机会。"
+    },
+    sharedValues: {
+      en: "Excellence & Meaning",
+      zh: "卓越与意义"
+    },
+    sharedValuesDesc: {
+      en: "Both types strive for excellence in their domains, with ENTJs focusing on tangible results and INFJs on deeper significance.",
+      zh: "两种类型都在各自领域追求卓越，ENTJ专注于有形结果，INFJ专注于更深层次的意义。"
+    },
+    communicationStyle: {
+      en: "Direct ↔ Nuanced",
+      zh: "直接 ↔ 微妙"
+    },
+    communicationDesc: {
+      en: "ENTJs communicate with clear directives while INFJs convey layered meanings, requiring adaptation from both sides.",
+      zh: "ENTJ以明确的指令交流，而INFJ传达层次丰富的含义，需要双方适应。"
+    },
+    cognitiveCompatibility: {
+      "Te_Ni": {
+        score: 86,
+        type1Function: "Te (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Their Te/Ni synergy enables effective strategy development, with ENTJs executing what INFJs envision.",
+          zh: "他们的Te/Ni协同作用实现了有效的战略发展，ENTJ执行INFJ设想的内容。"
+        }
+      },
+      "Fi_Fe": {
+        score: 70,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "INFJ's developed Fe can help ENTJ access their Fi, creating emotional connection in the relationship.",
+          zh: "INFJ发展良好的Fe可以帮助ENTJ接触他们的Fi，在关系中建立情感连接。"
+        }
+      },
+      "Se_Ti": {
+        score: 68,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ENTJ's action-oriented Se may need to accommodate INFJ's need for Ti-based analysis before decisions.",
+          zh: "ENTJ以行动为导向的Se可能需要适应INFJ在决策前基于Ti分析的需求。"
+        }
+      },
+      "Ni_Se": {
+        score: 82,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Their shared intuitive perspective creates understanding, though ENTJs focus more on tangible outcomes.",
+          zh: "他们共同的直觉视角创造了理解，尽管ENTJ更专注于有形结果。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This relationship succeeds when ENTJs value INFJs' unique insights and INFJs appreciate ENTJs' ability to manifest visions. Their different strengths become complementary rather than conflicting when mutual appreciation exists.",
+      zh: "当ENTJ重视INFJ的独特见解且INFJ欣赏ENTJ实现愿景的能力时，这种关系就会成功。当存在相互欣赏时，他们不同的优势会变得互补而非冲突。"
+    },
+    growthPotential: {
+      en: "ENTJs can develop greater emotional intelligence and patience, while INFJs can become more assertive and action-oriented through this partnership.",
+      zh: "ENTJ可以培养更高的情商和耐心，而INFJ可以通过这种合作关系变得更自信和行动导向。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What challenges do ENTJs face when relating to INFJs?",
+          zh: "ENTJ在与INFJ相处时面临哪些挑战？"
+        },
+        answer: {
+          en: "ENTJs may struggle with INFJs' indirect communication style and need for processing time, requiring patience and adaptation to less direct approaches.",
+          zh: "ENTJ可能会对INFJ的间接沟通风格和处理时间需求感到困扰，需要耐心适应不那么直接的方式。"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "ESTP": {
+    overallScore: 85,
+    mediator: "ESTP",
+    provider: "ENTJ",
+    summary: {
+      en: "ENTJ and ESTP form a dynamic and action-oriented pairing. Both types are extroverted, pragmatic, and enjoy taking charge, creating a relationship full of energy and initiative. While ENTJs focus on long-term strategy, ESTPs thrive in immediate problem-solving, creating a complementary balance. Their shared direct communication style and love for challenges make them a powerful duo in both professional and personal settings.",
+      zh: "ENTJ与ESTP形成充满活力和行动导向的组合。两种类型都外向务实、喜欢主导，关系充满能量和主动性。ENTJ关注长期战略，ESTP擅长即时解决问题，形成互补平衡。他们直接的沟通风格和对挑战的热爱，使他们在职业和个人领域都是强大的搭档。"
+    },
+    relationshipType: {
+      en: "Power Partners",
+      zh: "强力搭档"
+    },
+    relationshipDesc: {
+      en: "A high-energy partnership that combines strategic vision with tactical execution.",
+      zh: "结合战略眼光与战术执行的高能量伙伴关系。"
+    },
+    sharedValues: {
+      en: "Action, Results, Freedom",
+      zh: "行动力、结果导向、自由"
+    },
+    sharedValuesDesc: {
+      en: "Both value decisive action, tangible results, and personal autonomy in pursuing their goals.",
+      zh: "双方都重视果断行动、切实成果以及在追求目标时的个人自主权。"
+    },
+    communicationStyle: {
+      en: "Direct and Pragmatic",
+      zh: "直接务实型"
+    },
+    communicationDesc: {
+      en: "Communication is straightforward, focused on practical solutions rather than emotional nuances.",
+      zh: "沟通直截了当，专注于实际解决方案而非情感细节。"
+    },
+    cognitiveCompatibility: {
+      "Te_Se": {
+        score: 88,
+        type1Function: "Te (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "ENTJ's strategic thinking complements ESTP's real-world awareness, creating effective problem-solving.",
+          zh: "ENTJ的战略思维与ESTP的现实感知互补，形成有效的问题解决能力。"
+        }
+      },
+      "Ni_Ti": {
+        score: 75,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ENTJ's intuition helps balance ESTP's logical analysis, though this pairing requires more effort.",
+          zh: "ENTJ的直觉有助于平衡ESTP的逻辑分析，尽管这对组合需要更多努力。"
+        }
+      },
+      "Se_Fi": {
+        score: 82,
+        type1Function: "Se (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Their shared underdeveloped feeling functions can lead to occasional insensitivity but also mutual understanding.",
+          zh: "他们共同欠发达的情感功能可能导致偶尔的不敏感，但也带来相互理解。"
+        }
+      },
+      "Fi_Fe": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both types may struggle with emotional expression, requiring conscious effort in this area.",
+          zh: "两种类型都可能难以表达情感，需要在这方面有意识地努力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extraversion and thinking preference, with ENTJ providing vision and ESTP offering adaptability. While both are strong-willed, their different time orientations (long-term vs immediate) create productive tension. The main challenge lies in emotional connection and patience with each other's blind spots.",
+      zh: "他们的兼容性源于共同的外向和思维偏好，ENTJ提供远见而ESTP提供适应力。虽然都很固执，但他们不同的时间导向(长期vs即时)创造了建设性的张力。主要挑战在于情感连接和对彼此盲点的耐心。"
+    },
+    growthPotential: {
+      en: "ENTJ can learn spontaneity and present-moment awareness from ESTP, while ESTP can develop strategic thinking from ENTJ. Both benefit from developing emotional intelligence and patience.",
+      zh: "ENTJ可以向ESTP学习自发性和当下意识，而ESTP可以从ENTJ那里发展战略思维。双方都能从发展情商和耐心中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENTJ and ESTP handle conflicts?",
+          zh: "ENTJ和ESTP如何处理冲突？"
+        },
+        answer: {
+          en: "Conflicts are typically direct and solution-focused. Both prefer logical arguments over emotional appeals, which can resolve issues quickly but may overlook feelings.",
+          zh: "冲突通常是直接且以解决方案为中心的。双方都偏好逻辑论证而非情感诉求，这能快速解决问题但可能忽视感受。"
+        }
+      }
+    ]
+  }
+},
+"ESTP": {
+  "ENTJ": {
+    overallScore: 83,
+    mediator: "ESTP",
+    provider: "ENTJ",
+    summary: {
+      en: "From ESTP's perspective, ENTJ offers strategic depth to their spontaneous nature. ESTPs appreciate ENTJ's decisiveness and goal orientation, while ENTJs value ESTP's adaptability and hands-on approach. Their relationship thrives on mutual respect for competence and action, though ESTP may sometimes feel constrained by ENTJ's need for structure.",
+      zh: "从ESTP的角度看，ENTJ为他们自发的天性提供了战略深度。ESTP欣赏ENTJ的果断和目标导向，而ENTJ重视ESTP的适应能力和实践方法。他们的关系建立在相互尊重能力和行动的基础上，尽管ESTP有时可能觉得ENTJ对结构的需求是一种约束。"
+    },
+    relationshipType: {
+      en: "Adventure Team",
+      zh: "冒险团队"
+    },
+    relationshipDesc: {
+      en: "A partnership that combines bold action with strategic direction for exciting ventures.",
+      zh: "将大胆行动与战略方向结合，共同开展激动人心的事业。"
+    },
+    sharedValues: {
+      en: "Competence, Excitement, Independence",
+      zh: "能力、刺激、独立性"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize skill mastery, enjoy challenges, and value personal freedom in their pursuits.",
+      zh: "双方都重视技能掌握，享受挑战，并在追求中珍视个人自由。"
+    },
+    communicationStyle: {
+      en: "Energetic and Results-Oriented",
+      zh: "充满活力且结果导向"
+    },
+    communicationDesc: {
+      en: "Fast-paced exchanges focused on actionable ideas and practical outcomes.",
+      zh: "快节奏的交流，专注于可操作的创意和实际结果。"
+    },
+    cognitiveCompatibility: {
+      "Se_Te": {
+        score: 86,
+        type1Function: "Se (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "ESTP's sensory awareness effectively implements ENTJ's logical frameworks in real time.",
+          zh: "ESTP的感官意识能有效实时实施ENTJ的逻辑框架。"
+        }
+      },
+      "Ti_Ni": {
+        score: 78,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ESTP's analytical side engages with ENTJ's intuitive insights, though with some friction.",
+          zh: "ESTP的分析面与ENTJ的直觉洞察相互作用，尽管存在一些摩擦。"
+        }
+      },
+      "Fe_Fi": {
+        score: 72,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both types' underdeveloped feeling functions may cause emotional misunderstandings.",
+          zh: "两种类型欠发达的情感功能可能导致情感误解。"
+        }
+      },
+      "Ni_Si": {
+        score: 68,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Their shared weakness in introverted perception can lead to overlooking details.",
+          zh: "他们在内向感知上的共同弱点可能导致忽视细节。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESTP finds ENTJ's leadership and vision inspiring, while ENTJ appreciates ESTP's ability to think on their feet. The pairing works best when ESTP's spontaneity is channeled productively within ENTJ's strategic framework. Potential friction arises from ESTP's resistance to long-term planning and ENTJ's impatience with improvisation.",
+      zh: "ESTP觉得ENTJ的领导力和远见鼓舞人心，而ENTJ欣赏ESTP的快速反应能力。当ESTP的自发性被有效引导到ENTJ的战略框架中时，这种配对效果最佳。潜在的摩擦来自ESTP对长期规划的抵触和ENTJ对即兴发挥的不耐烦。"
+    },
+    growthPotential: {
+      en: "ESTP can develop better foresight from ENTJ, while ENTJ can learn flexibility from ESTP. Both benefit from developing emotional attunement and appreciating their different time orientations.",
+      zh: "ESTP可以从ENTJ那里发展更好的远见，而ENTJ可以向ESTP学习灵活性。双方都能从发展情感协调和欣赏彼此不同的时间导向中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do ESTP and ENTJ enjoy together?",
+          zh: "ESTP和ENTJ喜欢一起做什么活动？"
+        },
+        answer: {
+          en: "They thrive in competitive sports, entrepreneurial ventures, and any high-energy activities that combine strategy with action.",
+          zh: "他们在竞技运动、创业项目和任何结合战略与行动的高能量活动中表现突出。"
+        }
+      }
+    ]
+  }
+}

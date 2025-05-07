@@ -1,0 +1,186 @@
+{
+  "INFJ": {
+    overallScore: 88,
+    mediator: "INFJ",
+    provider: "INTP",
+    summary: {
+      en: "The INTP-INFJ pairing forms a rare intellectual and emotional connection. INTPs provide logical depth while INFJs offer intuitive insights, creating a balanced dynamic. Their shared intuition allows profound discussions, though INFJs may need more emotional reciprocity than INTPs naturally provide. This pairing excels in idea exploration but may struggle with practical matters.",
+      zh: "INTP与INFJ的组合形成了罕见的智力与情感连接。INTP提供逻辑深度，INFJ带来直觉洞察，形成平衡的互动。他们共有的直觉功能允许深入讨论，但INFJ可能需要比INTP自然给予的更多情感回应。这对组合在思想探索方面表现出色，但在实际事务上可能存在困难。"
+    },
+    relationshipType: {
+      en: "Mind Meld",
+      zh: "心灵融合"
+    },
+    relationshipDesc: {
+      en: "A meeting of brilliant minds that can either create magic or frustration when their different processing styles collide.",
+      zh: "当两种不同思维模式相遇时，可能创造出神奇的火花，也可能导致挫折感的智慧碰撞。"
+    },
+    sharedValues: {
+      en: "Truth & Meaning",
+      zh: "真理与意义"
+    },
+    sharedValuesDesc: {
+      en: "Both types deeply value intellectual exploration and uncovering fundamental truths about existence and human nature.",
+      zh: "两种类型都高度重视智力探索，追求关于存在和人性本质的深层真理。"
+    },
+    communicationStyle: {
+      en: "Conceptual Depth",
+      zh: "概念深度"
+    },
+    communicationDesc: {
+      en: "Conversations tend to be abstract and theoretical, often skipping small talk for deeper philosophical discussions.",
+      zh: "对话往往抽象而理论化，经常跳过闲聊直接进入深层的哲学讨论。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fe": {
+        score: 82,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "INTP's logical precision balances INFJ's social harmony focus, creating complementary decision-making approaches.",
+          zh: "INTP的逻辑精确性与INFJ的社会和谐关注形成互补的决策方式。"
+        }
+      },
+      "Ne_Ni": {
+        score: 92,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Their intuitive functions synergize beautifully, with INTP generating possibilities and INFJ discerning patterns.",
+          zh: "他们的直觉功能完美协同，INTP产生可能性而INFJ辨识模式。"
+        }
+      },
+      "Si_Se": {
+        score: 68,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both struggle with sensory details, potentially creating practical life challenges in the relationship.",
+          zh: "两者都难以处理感官细节，可能在关系中造成实际生活挑战。"
+        }
+      },
+      "Fe_Ti": {
+        score: 85,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "INFJ helps INTP develop emotional intelligence while INTP helps INFJ strengthen logical consistency.",
+          zh: "INFJ帮助INTP发展情商，而INTP帮助INFJ增强逻辑一致性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works because their cognitive functions create natural complementarity - INTP's Ti-Ne provides analytical breadth while INFJ's Ni-Fe offers depth and social awareness. Their shared intuitive preference allows deep understanding, though they must navigate differences in emotional expression.",
+      zh: "这种配对之所以有效，是因为他们的认知功能形成了天然的互补性——INTP的Ti-Ne提供分析广度，而INFJ的Ni-Fe提供深度和社会意识。他们共有的直觉偏好允许深刻的理解，尽管他们必须处理好情感表达方式的差异。"
+    },
+    growthPotential: {
+      en: "INTPs can develop emotional intelligence and social skills from INFJs, while INFJs can learn to think more objectively and critically from INTPs. Both types help the other develop their inferior functions.",
+      zh: "INTP可以从INFJ那里发展情商和社交技能，而INFJ可以从INTP那里学会更客观和批判性地思考。两种类型都能帮助对方发展其劣势功能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTPs and INFJs resolve conflicts?",
+          zh: "INTP和INFJ如何解决冲突？"
+        },
+        answer: {
+          en: "INTPs should articulate their reasoning clearly while INFJs should express emotional needs directly. Finding logical solutions to emotional issues works best.",
+          zh: "INTP应清晰地阐述他们的推理，而INFJ应直接表达情感需求。为情感问题寻找逻辑解决方案最为有效。"
+        }
+      }
+    ]
+  }
+},
+"INFJ": {
+  "INTP": {
+    overallScore: 85,
+    mediator: "INFJ",
+    provider: "INTP",
+    summary: {
+      en: "INFJs find INTPs intellectually stimulating but sometimes emotionally distant. The INTP's logical approach complements the INFJ's intuitive-emotional style, creating a relationship that balances reason and feeling. While communication flows easily about ideas, emotional needs may require conscious attention.",
+      zh: "INFJ认为INTP在智力上很刺激但有时情感上疏远。INTP的逻辑方法补充了INFJ的直觉-情感风格，创造了一种平衡理性与情感的关系。虽然关于想法的交流很顺畅，但情感需求可能需要有意识的关注。"
+    },
+    relationshipType: {
+      en: "Wisdom Exchange",
+      zh: "智慧交换"
+    },
+    relationshipDesc: {
+      en: "A relationship where both partners grow through exchanging different perspectives - logic meets intuition.",
+      zh: "一种通过交换不同观点使双方共同成长的关系——逻辑遇见直觉。"
+    },
+    sharedValues: {
+      en: "Authenticity & Insight",
+      zh: "真实性与洞察力"
+    },
+    sharedValuesDesc: {
+      en: "Both types value genuine self-expression and penetrating insights into human nature and the universe.",
+      zh: "两种类型都重视真实的自我表达以及对人性和宇宙的深刻洞察。"
+    },
+    communicationStyle: {
+      en: "Idea-Focused",
+      zh: "以想法为中心"
+    },
+    communicationDesc: {
+      en: "Discussions tend to be intense and conceptual, often about abstract theories or philosophical questions.",
+      zh: "讨论往往是紧张而概念化的，通常是关于抽象理论或哲学问题。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Ne": {
+        score: 90,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "INFJ's focused intuition combines well with INTP's exploratory intuition for comprehensive understanding.",
+          zh: "INFJ的聚焦直觉与INTP的探索性直觉相结合，达成全面理解。"
+        }
+      },
+      "Fe_Ti": {
+        score: 83,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "INFJ's emotional intelligence helps navigate INTP's logical approach to relationships.",
+          zh: "INFJ的情商有助于应对INTP在关系中的逻辑方法。"
+        }
+      },
+      "Ti_Fe": {
+        score: 80,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "INTP's strong logic helps INFJ develop more objective thinking patterns.",
+          zh: "INTP的强大逻辑帮助INFJ发展更客观的思维模式。"
+        }
+      },
+      "Se_Si": {
+        score: 65,
+        type1Function: "Se (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Both types may neglect practical details, requiring conscious effort in daily life management.",
+          zh: "两种类型都可能忽视实际细节，需要在日常生活管理中付出有意识的努力。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing succeeds because INFJ's Ni-Fe seeks depth and meaning that INTP's Ti-Ne can intellectually satisfy. The INFJ provides emotional warmth while the INTP offers intellectual rigor, creating a balanced partnership that stimulates both minds and hearts.",
+      zh: "这种配对之所以成功，是因为INFJ的Ni-Fe追求的深度和意义能被INTP的Ti-Ne在智力上满足。INFJ提供情感温暖，而INTP提供智力严谨，创造了一个既能刺激思维又能温暖心灵的平衡伙伴关系。"
+    },
+    growthPotential: {
+      en: "INFJs help INTPs develop emotional awareness and social skills, while INTPs help INFJs strengthen logical analysis and objective thinking. Both types can grow by appreciating their different approaches to truth.",
+      zh: "INFJ帮助INTP发展情感意识和社会技能，而INTP帮助INFJ加强逻辑分析和客观思考。两种类型都能通过欣赏他们不同的求真方式而获得成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for INFJ-INTP relationships?",
+          zh: "INFJ-INTP关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "The primary challenge is balancing INFJ's need for emotional connection with INTP's more detached analytical style. Regular check-ins about emotional needs help bridge this gap.",
+          zh: "主要挑战是平衡INFJ对情感连接的需求与INTP更为超然的分析风格。定期检查情感需求有助于弥合这一差距。"
+        }
+      }
+    ]
+  }
+}

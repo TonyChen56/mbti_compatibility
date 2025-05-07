@@ -1,0 +1,188 @@
+```typescript
+"INTP": {
+  "ISFP": {
+    overallScore: 78,
+    mediator: "ISFP",
+    provider: "INTP",
+    summary: {
+      en: "The INTP-ISFP pairing creates an intriguing balance between logic and aesthetics. INTPs bring intellectual depth and conceptual thinking, while ISFPs offer sensory awareness and emotional authenticity. Their differences can lead to mutual growth, though communication may require effort due to their contrasting cognitive approaches.",
+      zh: "INTP和ISFP的组合在逻辑与美学之间创造了有趣的平衡。INTP带来智力深度和概念思维，而ISFP提供感官意识和情感真实性。他们的差异可以促进相互成长，但由于认知方式的差异，沟通可能需要额外努力。"
+    },
+    relationshipType: {
+      en: "Creative Complement",
+      zh: "创意互补"
+    },
+    relationshipDesc: {
+      en: "A relationship where abstract thinking meets sensory experience, creating unique synergies.",
+      zh: "抽象思维与感官体验相遇的关系，能产生独特的协同效应。"
+    },
+    sharedValues: {
+      en: "Authenticity & Exploration",
+      zh: "真实性与探索精神"
+    },
+    sharedValuesDesc: {
+      en: "Both value genuine self-expression and enjoy exploring new ideas or experiences in their own ways.",
+      zh: "双方都重视真实的自我表达，并以各自的方式享受探索新想法或体验。"
+    },
+    communicationStyle: {
+      en: "Conceptual-Practical",
+      zh: "概念-实践型"
+    },
+    communicationDesc: {
+      en: "INTPs prefer theoretical discussions while ISFPs focus on tangible experiences, requiring mutual adaptation.",
+      zh: "INTP偏好理论讨论，而ISFP关注实际体验，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Se": {
+        score: 82,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "INTP's logical analysis complements ISFP's sensory awareness, creating balanced decision-making.",
+          zh: "INTP的逻辑分析补充了ISFP的感官意识，形成平衡的决策过程。"
+        }
+      },
+      "Ne_Fi": {
+        score: 75,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "INTP's idea generation stimulates ISFP's values, though may sometimes overwhelm their focus.",
+          zh: "INTP的想法激发ISFP的价值观，虽然有时可能干扰他们的专注。"
+        }
+      },
+      "Si_Te": {
+        score: 68,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Their weaker functions can create challenges in practical organization and efficiency.",
+          zh: "他们较弱的认知功能可能在实践组织和效率方面带来挑战。"
+        }
+      },
+      "Fe_Ni": {
+        score: 72,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Both struggle with emotional expression but can develop deeper intuitive understanding over time.",
+          zh: "双方都在情感表达上有困难，但可以随时间发展出更深的直觉理解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions - INTP's Ti-Ne provides conceptual frameworks that ISFP's Fi-Se can apply practically. While their communication styles differ, they share a preference for authenticity and dislike of rigid social conventions. The INTP can help ISFP see bigger patterns, while ISFP grounds INTP in sensory reality.",
+      zh: "他们的兼容性源于互补的认知功能 - INTP的Ti-Ne提供概念框架，而ISFP的Fi-Se可以实际应用。虽然沟通方式不同，但他们共享对真实性的偏好和对刻板社交规范的厌恶。INTP可以帮助ISFP看到更大的模式，而ISFP将INTP锚定在感官现实中。"
+    },
+    growthPotential: {
+      en: "INTP can develop greater sensory awareness and emotional expression, while ISFP can enhance their abstract thinking and intellectual curiosity through this relationship.",
+      zh: "INTP可以发展更强的感官意识和情感表达，而ISFP可以通过这种关系增强抽象思维和智力好奇心。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can INTP and ISFP improve communication?",
+          zh: "INTP和ISFP如何改善沟通？"
+        },
+        answer: {
+          en: "INTPs should ground theories in practical examples, while ISFPs can practice articulating their values in conceptual terms.",
+          zh: "INTP应将理论建立在实践例子上，而ISFP可以练习用概念术语表达他们的价值观。"
+        }
+      }
+    ]
+  }
+},
+"ISFP": {
+  "INTP": {
+    overallScore: 76,
+    mediator: "ISFP",
+    provider: "INTP",
+    summary: {
+      en: "From the ISFP perspective, INTPs offer intellectual stimulation and novel perspectives, while ISFPs provide emotional depth and aesthetic sensitivity. Their relationship thrives when they appreciate each other's unique strengths and find common creative outlets.",
+      zh: "从ISFP的角度来看，INTP提供智力刺激和新颖视角，而ISFP带来情感深度和审美敏感度。当他们欣赏彼此独特的优势并找到共同的创意出口时，他们的关系就会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Aesthetic-Intellectual Fusion",
+      zh: "美学-智慧融合"
+    },
+    relationshipDesc: {
+      en: "A pairing where sensory beauty meets intellectual curiosity in harmonious contrast.",
+      zh: "感官美与求知欲在和谐对比中相遇的组合。"
+    },
+    sharedValues: {
+      en: "Individuality & Freedom",
+      zh: "个性与自由"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value personal freedom and resist external pressures to conform to societal expectations.",
+      zh: "双方都非常重视个人自由，抵制顺从社会期望的外部压力。"
+    },
+    communicationStyle: {
+      en: "Experiential-Theoretical",
+      zh: "体验-理论型"
+    },
+    communicationDesc: {
+      en: "ISFPs communicate through concrete experiences while INTPs prefer abstract concepts, requiring translation.",
+      zh: "ISFP通过具体体验交流，而INTP偏好抽象概念，需要转换。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Ne": {
+        score: 74,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ISFP's value-driven focus balances INTP's idea exploration, though may sometimes conflict.",
+          zh: "ISFP以价值为中心的焦点平衡了INTP的想法探索，虽然有时可能冲突。"
+        }
+      },
+      "Se_Ti": {
+        score: 80,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ISFP's sensory input provides concrete data for INTP's logical analysis, creating synergy.",
+          zh: "ISFP的感官输入为INTP的逻辑分析提供具体数据，产生协同效应。"
+        }
+      },
+      "Te_Si": {
+        score: 65,
+        type1Function: "Te (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Both may struggle with practical organization, requiring conscious effort in daily matters.",
+          zh: "双方都可能在实践组织方面有困难，需要在日常事务上有意识地努力。"
+        }
+      },
+      "Ni_Fe": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Their developing functions allow for gradual emotional and intuitive connection.",
+          zh: "他们发展中的功能允许逐渐建立情感和直觉连接。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISFPs appreciate INTPs' intellectual depth and originality, while INTPs admire ISFPs' authenticity and aesthetic sensibility. Their differences create a yin-yang dynamic where each compensates for the other's blind spots. The ISFP's present-moment awareness helps ground the INTP, while the INTP's big-picture thinking expands the ISFP's horizons.",
+      zh: "ISFP欣赏INTP的智力深度和原创性，而INTP钦佩ISFP的真实性和审美敏感性。他们的差异创造了阴阳动态，彼此弥补对方的盲点。ISFP的当下意识帮助INTP脚踏实地，而INTP的大局观拓展了ISFP的视野。"
+    },
+    growthPotential: {
+      en: "ISFPs can develop stronger analytical skills and broader perspectives, while INTPs can cultivate greater emotional presence and aesthetic appreciation through this relationship.",
+      zh: "ISFP可以发展更强的分析能力和更广阔的视角，而INTP可以通过这种关系培养更好的情感存在感和审美欣赏能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do INTP and ISFP both enjoy?",
+          zh: "INTP和ISFP都喜欢什么活动？"
+        },
+        answer: {
+          en: "Creative projects combining aesthetics and intellect, like photography with technical depth or music theory exploration.",
+          zh: "结合美学和智力的创意项目，如具有技术深度的摄影或音乐理论探索。"
+        }
+      }
+    ]
+  }
+}
+```

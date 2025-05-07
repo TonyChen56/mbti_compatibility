@@ -1,0 +1,186 @@
+{
+  "INTJ": {
+    overallScore: 85,
+    mediator: "INFP",
+    provider: "INTJ",
+    summary: {
+      en: "The INFP-INTJ pairing forms a complementary relationship where the INFP's idealism and emotional depth balance the INTJ's strategic thinking and pragmatism. While their approaches differ, they share a fundamental appreciation for authenticity and intellectual depth. The INFP brings warmth and empathy to the relationship, while the INTJ provides structure and vision. Their differences can lead to growth if both respect each other's perspectives.",
+      zh: "INFP和INTJ的配对形成互补关系，INFP的理想主义和情感深度平衡了INTJ的战略思维和务实精神。虽然他们的方法不同，但都重视真实性和思想深度。INFP为关系带来温暖和同理心，而INTJ提供结构和远见。如果双方尊重彼此的视角，差异可以促进成长。"
+    },
+    relationshipType: {
+      en: "Visionary Alliance",
+      zh: "远见联盟"
+    },
+    relationshipDesc: {
+      en: "A partnership where idealism meets strategic execution, creating potential for meaningful impact.",
+      zh: "理想主义与战略执行的结合，具有创造有意义影响的潜力。"
+    },
+    sharedValues: {
+      en: "Authenticity & Depth",
+      zh: "真实性与深度"
+    },
+    sharedValuesDesc: {
+      en: "Both types value genuine self-expression and dislike superficial interactions, seeking meaningful connections.",
+      zh: "两种类型都重视真实的自我表达，厌恶肤浅的互动，追求有意义的连接。"
+    },
+    communicationStyle: {
+      en: "Conceptual-Reflective",
+      zh: "概念性-反思型"
+    },
+    communicationDesc: {
+      en: "INFP communicates through values and emotions, while INTJ prefers logical frameworks, requiring mutual adaptation.",
+      zh: "INFP通过价值观和情感交流，而INTJ偏好逻辑框架，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Te": {
+        score: 82,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "INFP's dominant Fi provides moral compass while INTJ's Te offers practical solutions, creating balanced decision-making.",
+          zh: "INFP的主导Fi提供道德指南，而INTJ的Te提供实用方案，形成平衡的决策过程。"
+        }
+      },
+      "Ne_Ni": {
+        score: 88,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Their intuitive functions complement each other - INFP explores possibilities while INTJ focuses on singular vision.",
+          zh: "他们的直觉功能互补——INFP探索可能性，而INTJ专注于单一愿景。"
+        }
+      },
+      "Si_Se": {
+        score: 65,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both have underdeveloped sensing functions, potentially struggling with practical details and present-moment awareness.",
+          zh: "两者的感知功能都不发达，可能在实践细节和当下意识方面存在困难。"
+        }
+      },
+      "Te_Fi": {
+        score: 78,
+        type1Function: "Te (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "INTJ's developing Fi can resonate with INFP's values, while INFP can learn logical organization from INTJ's Te.",
+          zh: "INTJ发展的Fi能与INFP的价值观共鸣，而INFP可以从INTJ的Te学习逻辑组织。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions - INFP's Fi-Ne balances INTJ's Ni-Te, creating a relationship where intuition and values align while practical skills complement. The INTJ provides structure the INFP may lack, while the INFP brings emotional depth the INTJ may overlook.",
+      zh: "他们的兼容性源于互补的认知功能——INFP的Fi-Ne平衡了INTJ的Ni-Te，形成直觉和价值观一致而实践技能互补的关系。INTJ提供INFP可能缺乏的结构，而INFP带来INTJ可能忽视的情感深度。"
+    },
+    growthPotential: {
+      en: "INFP can develop stronger decision-making skills from INTJ, while INTJ can cultivate emotional intelligence and flexibility. Both may need to work on practical life skills and conflict resolution.",
+      zh: "INFP可以从INTJ那里发展更强的决策能力，而INTJ可以培养情商和灵活性。双方都可能需要提升实践生活技能和解决冲突的能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INFP and INTJ handle conflicts?",
+          zh: "INFP和INTJ如何处理冲突？"
+        },
+        answer: {
+          en: "INFPs may avoid conflict initially while INTJs confront directly. Healthy communication requires INFP to express feelings openly and INTJ to soften their logical approach.",
+          zh: "INFP可能最初回避冲突，而INTJ直接面对。健康的沟通需要INFP开放表达感受，INTJ软化他们的逻辑方式。"
+        }
+      }
+    ]
+  }
+},
+"INTJ": {
+  "INFP": {
+    overallScore: 83,
+    mediator: "INFP",
+    provider: "INTJ",
+    summary: {
+      en: "From the INTJ's perspective, the INFP offers emotional richness and creative inspiration that complements their strategic mindset. While INTJs appreciate INFPs' authenticity, they may find their emotional fluctuations challenging. The relationship works best when the INTJ respects the INFP's need for harmony and the INFP appreciates the INTJ's need for efficiency.",
+      zh: "从INTJ的角度看，INFP提供的情感丰富性和创意灵感补充了他们的战略思维。虽然INTJ欣赏INFP的真实性，但可能觉得他们的情绪波动具有挑战性。当INTJ尊重INFP对和谐的需求，且INFP欣赏INTJ对效率的需求时，关系最为融洽。"
+    },
+    relationshipType: {
+      en: "Strategic Complement",
+      zh: "战略互补"
+    },
+    relationshipDesc: {
+      en: "A pairing where emotional intelligence enhances strategic execution, creating holistic solutions.",
+      zh: "情商增强战略执行的配对，创造全面解决方案。"
+    },
+    sharedValues: {
+      en: "Integrity & Vision",
+      zh: "正直与远见"
+    },
+    sharedValuesDesc: {
+      en: "Both types value personal integrity and long-term vision, though they express these differently.",
+      zh: "两种类型都重视个人正直和长远眼光，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Abstract-Pragmatic",
+      zh: "抽象-务实型"
+    },
+    communicationDesc: {
+      en: "INTJs communicate with precision and logic, while INFPs use metaphor and emotion, requiring patience to bridge styles.",
+      zh: "INTJ用精确和逻辑交流，而INFP使用隐喻和情感，需要耐心来弥合风格差异。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Ne": {
+        score: 86,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "INTJ's focused intuition complements INFP's exploratory intuition, offering both depth and breadth of insight.",
+          zh: "INTJ专注的直觉补充INFP探索性的直觉，提供洞察的深度和广度。"
+        }
+      },
+      "Te_Fi": {
+        score: 80,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "INTJ's logical organization can help implement INFP's values, while INFP helps INTJ connect with personal ethics.",
+          zh: "INTJ的逻辑组织可以帮助实现INFP的价值观，而INFP帮助INTJ连接个人道德。"
+        }
+      },
+      "Fi_Te": {
+        score: 78,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "INTJ's developing Fi resonates with INFP's values, while INFP can learn from INTJ's efficient Te approaches.",
+          zh: "INTJ发展的Fi与INFP的价值观共鸣，而INFP可以从INTJ高效的Te方法中学习。"
+        }
+      },
+      "Se_Si": {
+        score: 62,
+        type1Function: "Se (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Both may neglect sensory details, potentially struggling with practical matters and routine maintenance.",
+          zh: "双方都可能忽视感官细节，可能在实践事务和日常维护方面存在困难。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "INTJs are drawn to INFPs' authenticity and creativity, while appreciating how INFPs humanize their strategic visions. The INTJ's structured thinking helps ground the INFP's idealism, while the INFP helps the INTJ consider human factors they might otherwise overlook.",
+      zh: "INTJ被INFP的真实性和创造力吸引，同时欣赏INFP如何使他们的战略愿景人性化。INTJ的结构化思维有助于落实INFP的理想主义，而INFP帮助INTJ考虑他们可能忽视的人为因素。"
+    },
+    growthPotential: {
+      en: "INTJs can develop greater emotional awareness and flexibility through INFPs, while INFPs can learn to implement their ideals more effectively. Both may need to consciously develop practical life skills.",
+      zh: "INTJ可以通过INFP发展更强的情绪意识和灵活性，而INFP可以学习更有效地实现理想。双方都可能需要有意识地发展实践生活技能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts INTJs to INFPs?",
+          zh: "INTJ被INFP什么特质吸引？"
+        },
+        answer: {
+          en: "INTJs admire INFPs' genuine nature, creative thinking, and ability to see beyond surface-level logic to deeper human meanings.",
+          zh: "INTJ欣赏INFP的真实本性、创造性思维，以及超越表面逻辑看到更深层人文意义的能力。"
+        }
+      }
+    ]
+  }
+}

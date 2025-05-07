@@ -1,0 +1,188 @@
+```typescript
+"ISTP": {
+  "ESFJ": {
+    overallScore: 72,
+    mediator: "ESFJ",
+    provider: "ESFJ",
+    summary: {
+      en: "ISTP and ESFJ have complementary but sometimes conflicting personality traits. ISTPs are logical, independent problem-solvers who prefer action over words, while ESFJs are warm, social organizers who value harmony and tradition. Their differences can create initial attraction but may lead to misunderstandings. The ESFJ's need for emotional connection may clash with the ISTP's reserved nature, while the ISTP's spontaneity may unsettle the ESFJ's structured approach to life.",
+      zh: "ISTP和ESFJ具有互补但有时冲突的性格特征。ISTP是逻辑性强、独立的问题解决者，更喜欢行动而非言语；而ESFJ是热情、善于社交的组织者，重视和谐与传统。他们的差异可能产生最初的吸引力，但也可能导致误解。ESFJ对情感连接的需求可能与ISTP的保留性格产生冲突，而ISTP的自发性可能让ESFJ结构化的生活方式感到不安。"
+    },
+    relationshipType: {
+      en: "Practical Harmony",
+      zh: "实用和谐型"
+    },
+    relationshipDesc: {
+      en: "A relationship balancing action-oriented pragmatism with social warmth, requiring mutual understanding of differing needs.",
+      zh: "一种平衡行动导向的实用主义与社会温暖的关系，需要相互理解彼此不同的需求。"
+    },
+    sharedValues: {
+      en: "Practical Helpfulness",
+      zh: "实用的互助精神"
+    },
+    sharedValuesDesc: {
+      en: "Both types value tangible assistance - ISTPs through problem-solving, ESFJs through caregiving - though they express it differently.",
+      zh: "两种类型都重视实际的帮助——ISTP通过解决问题，ESFJ通过关怀照顾——尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Diplomatic",
+      zh: "直接 vs 委婉"
+    },
+    communicationDesc: {
+      en: "ISTPs communicate bluntly about facts while ESFJs focus on maintaining harmony, which can cause misunderstandings.",
+      zh: "ISTP直截了当地谈论事实，而ESFJ专注于维持和谐，这可能导致误解。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fe": {
+        score: 68,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Both value personal judgment (Ti) and social harmony (Fe), but prioritize them differently, causing potential tension.",
+          zh: "两者都重视个人判断(Ti)和社会和谐(Fe)，但优先级不同，可能导致潜在紧张。"
+        }
+      },
+      "Se_Si": {
+        score: 75,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ISTP's present-focused Se complements ESFJ's detail-oriented Si, creating practical collaboration potential.",
+          zh: "ISTP关注当下的Se与ESFJ注重细节的Si互补，创造了实际合作潜力。"
+        }
+      },
+      "Ni_Ne": {
+        score: 62,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Underdeveloped intuition functions may struggle to understand each other's future perspectives.",
+          zh: "发展不足的直觉功能可能难以理解彼此的未来视角。"
+        }
+      },
+      "Fe_Ti": {
+        score: 70,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "Their weaker functions mirror each other's strengths, offering mutual growth opportunities.",
+          zh: "他们较弱的功能反映了彼此的优势，提供了共同成长的机会。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary functions (Se/Si) but is challenged by differing priorities between logic (Ti) and harmony (Fe). The ISTP's independence may frustrate the ESFJ's need for connection, while the ESFJ's emotional expressiveness may overwhelm the ISTP.",
+      zh: "他们的兼容性源于互补功能(Se/Si)，但因逻辑(Ti)与和谐(Fe)的不同优先级而面临挑战。ISTP的独立性可能让需要连接的ESFJ感到沮丧，而ESFJ的情感表达可能让ISTP不知所措。"
+    },
+    growthPotential: {
+      en: "ISTPs can learn emotional expression from ESFJs, while ESFJs can develop more independence and logical analysis. Mutual respect for their differences is key to growth.",
+      zh: "ISTP可以向ESFJ学习情感表达，而ESFJ可以培养更强的独立性和逻辑分析能力。对彼此差异的相互尊重是成长的关键。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can an ISTP and ESFJ improve communication?",
+          zh: "ISTP和ESFJ如何改善沟通？"
+        },
+        answer: {
+          en: "ISTPs should practice expressing feelings, while ESFJs should accept that ISTPs show care through actions rather than words.",
+          zh: "ISTP应练习表达感受，而ESFJ应接受ISTP通过行动而非言语表达关心。"
+        }
+      }
+    ]
+  }
+},
+"ESFJ": {
+  "ISTP": {
+    overallScore: 75,
+    mediator: "ESFJ",
+    provider: "ESFJ",
+    summary: {
+      en: "From the ESFJ perspective, ISTPs offer refreshing independence and practical problem-solving skills. While ESFJs may initially find ISTPs emotionally distant, they can appreciate their reliability in crises. The ESFJ's natural caregiving complements the ISTP's need for personal space, creating a balanced dynamic when both respect each other's styles.",
+      zh: "从ESFJ的角度来看，ISTP提供了令人耳目一新的独立性和实际解决问题的能力。虽然ESFJ最初可能觉得ISTP在情感上疏远，但他们可以欣赏ISTP在危机中的可靠性。ESFJ天生的关怀与ISTP对个人空间的需求相辅相成，当双方尊重彼此的风格时，会形成一种平衡的动态。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的相反型"
+    },
+    relationshipDesc: {
+      en: "A pairing where social warmth meets independent practicality, requiring compromise on emotional expression needs.",
+      zh: "社会温暖与独立实用性相遇的组合，需要在情感表达需求上做出妥协。"
+    },
+    sharedValues: {
+      en: "Reliable Support",
+      zh: "可靠的相互支持"
+    },
+    sharedValuesDesc: {
+      en: "Both value being there for others - ESFJs emotionally, ISTPs practically - creating mutual respect for their different support styles.",
+      zh: "两者都重视为他人提供支持——ESFJ在情感上，ISTP在实际中——对他们不同的支持方式产生相互尊重。"
+    },
+    communicationStyle: {
+      en: "Emotional vs. Factual",
+      zh: "情感型 vs 事实型"
+    },
+    communicationDesc: {
+      en: "ESFJs communicate with emotional context while ISTPs focus on objective facts, requiring adaptation from both sides.",
+      zh: "ESFJ带着情感背景沟通，而ISTP专注于客观事实，需要双方适应。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Ti": {
+        score: 72,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ESFJ's social harmony focus balances ISTP's logical analysis, though they may initially misunderstand each other's priorities.",
+          zh: "ESFJ的社会和谐焦点平衡了ISTP的逻辑分析，尽管他们最初可能误解彼此的优先级。"
+        }
+      },
+      "Si_Se": {
+        score: 78,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ESFJ's attention to details and traditions complements ISTP's present-moment awareness in practical matters.",
+          zh: "ESFJ对细节和传统的关注在实际事务中与ISTP的当下意识互补。"
+        }
+      },
+      "Ne_Ni": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Their less-developed intuitive functions may cause occasional misunderstandings about future plans.",
+          zh: "他们发展较弱的直觉功能可能导致偶尔对未来计划的误解。"
+        }
+      },
+      "Ti_Fe": {
+        score: 70,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Each can help develop the other's weaker function - ESFJ's logic and ISTP's emotional expression.",
+          zh: "双方可以帮助发展对方较弱的功能——ESFJ的逻辑和ISTP的情感表达。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESFJs appreciate ISTPs' competence and reliability, while ISTPs value ESFJs' warmth and social skills. Challenges arise when ESFJs seek more emotional connection than ISTPs naturally provide, or when ISTPs' need for independence feels like rejection to ESFJs.",
+      zh: "ESFJ欣赏ISTP的能力和可靠性，而ISTP重视ESFJ的温暖和社交技巧。当ESFJ寻求比ISTP自然提供的更多情感连接，或者当ISTP对独立的需求让ESFJ感到被拒绝时，就会出现挑战。"
+    },
+    growthPotential: {
+      en: "ESFJs can learn to appreciate independent problem-solving from ISTPs, while ISTPs can develop emotional intelligence through ESFJs' example. Their differences become strengths when viewed as complementary.",
+      zh: "ESFJ可以学习欣赏ISTP独立解决问题的能力，而ISTP可以通过ESFJ的榜样发展情商。当被视为互补时，他们的差异会成为优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ESFJs to ISTPs?",
+          zh: "ESFJ被ISTP吸引的原因是什么？"
+        },
+        answer: {
+          en: "ESFJs admire ISTPs' calm competence, practical skills, and reliability in emergencies, balancing their own social focus.",
+          zh: "ESFJ欣赏ISTP在紧急情况下的冷静能力、实用技能和可靠性，这平衡了他们自己的社交焦点。"
+        }
+      }
+    ]
+  }
+}
+```

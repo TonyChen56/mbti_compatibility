@@ -1,0 +1,188 @@
+```typescript
+"ENFJ": {
+  "ESFJ": {
+    overallScore: 88,
+    mediator: "ENFJ",
+    provider: "ESFJ",
+    summary: {
+      en: "ENFJs and ESFJs share a warm, people-oriented approach to life, creating strong emotional connections. Both types value harmony and helping others, though ENFJs focus more on future possibilities while ESFJs prioritize present realities. Their shared Fe dominance ensures excellent social chemistry, but may lead to conflict avoidance.",
+      zh: "ENFJ和ESFJ都采取温暖、以人为本的生活方式，能建立深厚的情感连接。两种类型都重视和谐与助人，但ENFJ更关注未来可能性，而ESFJ更重视当下现实。他们共同的主导功能Fe确保了出色的社交化学反应，但也可能导致冲突回避。"
+    },
+    relationshipType: {
+      en: "Harmony Guardians",
+      zh: "和谐守护者"
+    },
+    relationshipDesc: {
+      en: "A relationship built on mutual care and social responsibility, thriving in community settings.",
+      zh: "建立在相互关怀和社会责任感基础上的关系，在社群环境中蓬勃发展。"
+    },
+    sharedValues: {
+      en: "People First, Harmony, Service",
+      zh: "以人为本、和谐、服务"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize others' needs and value maintaining positive social relationships above all.",
+      zh: "双方都将他人需求放在首位，最重视维护积极的社会关系。"
+    },
+    communicationStyle: {
+      en: "Expressive & Supportive",
+      zh: "表达型且支持型"
+    },
+    communicationDesc: {
+      en: "Warm, emotionally open dialogues with strong emphasis on encouragement and affirmation.",
+      zh: "温暖、情感开放的对话，特别强调鼓励和肯定。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Fe": {
+        score: 95,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Shared dominant Fe creates instant emotional understanding and strong social harmony.",
+          zh: "共同的主导功能Fe创造了即时的情感理解和强大的社交和谐。"
+        }
+      },
+      "Ni_Si": {
+        score: 70,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ENFJ's future vision may clash with ESFJ's tradition focus, but both support Fe goals.",
+          zh: "ENFJ的未来愿景可能与ESFJ的传统关注点冲突，但都支持Fe目标。"
+        }
+      },
+      "Se_Ne": {
+        score: 75,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "ESFJ's emerging curiosity complements ENFJ's present-moment awareness nicely.",
+          zh: "ESFJ新兴的好奇心与ENFJ的当下意识很好地互补。"
+        }
+      },
+      "Ti_Ti": {
+        score: 68,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "Shared inferior Ti means both may struggle with objective analysis under stress.",
+          zh: "共同的下位功能Ti意味着双方在压力下都可能难以进行客观分析。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Fe dominance creating deep emotional resonance, though ENFJ's intuitive focus and ESFJ's sensory focus require mutual understanding. Both value social harmony highly and enjoy caring for others, making them natural partners in community-oriented activities.",
+      zh: "他们的兼容性源于共同的主导功能Fe创造的深刻情感共鸣，尽管ENFJ的直觉关注和ESFJ的感官关注需要相互理解。双方都高度重视社交和谐并乐于关心他人，使他们成为社群活动的天然伙伴。"
+    },
+    growthPotential: {
+      en: "ENFJs can help ESFJs see beyond immediate realities, while ESFJs can ground ENFJs in practical details. Both may need to develop healthier conflict resolution beyond harmony-seeking.",
+      zh: "ENFJ可以帮助ESFJ超越眼前现实，而ESFJ可以让ENFJ扎根于实际细节。双方都可能需要发展超越和谐寻求的更健康冲突解决方式。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENFJ and ESFJ handle conflicts differently?",
+          zh: "ENFJ和ESFJ处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "ENFJs tend to address underlying relationship dynamics, while ESFJs focus on restoring immediate harmony through concrete actions.",
+          zh: "ENFJ倾向于解决潜在的关系动态，而ESFJ则专注于通过具体行动恢复即时和谐。"
+        }
+      }
+    ]
+  }
+},
+"ESFJ": {
+  "ENFJ": {
+    overallScore: 85,
+    mediator: "ENFJ",
+    provider: "ESFJ",
+    summary: {
+      en: "ESFJs appreciate ENFJs' visionary leadership while providing practical support. The ESFJ's attention to detail complements the ENFJ's big-picture thinking. Both enjoy creating warm social environments, though ESFJs may find ENFJs too abstract at times.",
+      zh: "ESFJ欣赏ENFJ富有远见的领导力，同时提供实际支持。ESFJ对细节的关注与ENFJ的大局观相辅相成。双方都喜欢创造温暖的社会环境，尽管ESFJ有时可能觉得ENFJ过于抽象。"
+    },
+    relationshipType: {
+      en: "Nurturing Alliance",
+      zh: "滋养联盟"
+    },
+    relationshipDesc: {
+      en: "A complementary partnership where visionary inspiration meets practical caregiving.",
+      zh: "愿景灵感与实际关怀相辅相成的伙伴关系。"
+    },
+    sharedValues: {
+      en: "Community, Responsibility, Compassion",
+      zh: "社群、责任感、同情心"
+    },
+    sharedValuesDesc: {
+      en: "Both derive meaning from serving their communities and maintaining ethical standards.",
+      zh: "双方都从服务社群和维护道德标准中获得意义。"
+    },
+    communicationStyle: {
+      en: "Encouraging & Detailed",
+      zh: "鼓励型且细节型"
+    },
+    communicationDesc: {
+      en: "ESFJs provide concrete affirmations while ENFJs offer inspirational validation.",
+      zh: "ESFJ提供具体的肯定，而ENFJ则给予鼓舞人心的认可。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Fe": {
+        score: 95,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Their shared Fe creates immediate emotional rapport and social synchronization.",
+          zh: "他们共同的Fe创造了即时情感默契和社交同步。"
+        }
+      },
+      "Si_Ni": {
+        score: 72,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "ESFJ's memory for details balances ENFJ's future-oriented insights.",
+          zh: "ESFJ对细节的记忆平衡了ENFJ面向未来的洞察力。"
+        }
+      },
+      "Ne_Se": {
+        score: 78,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "ENFJ's present-moment awareness helps actualize ESFJ's emerging ideas.",
+          zh: "ENFJ的当下意识有助于实现ESFJ新兴的想法。"
+        }
+      },
+      "Ti_Ti": {
+        score: 65,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "Under stress, both may become overly critical or withdraw into logic.",
+          zh: "在压力下，双方都可能变得过度批判或退缩到逻辑中。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESFJs and ENFJs connect through their shared desire to nurture others, though ESFJs focus on tangible needs while ENFJs inspire personal growth. Their complementary perspectives (Si vs Ni) create a balanced approach to caregiving when well-integrated.",
+      zh: "ESFJ和ENFJ通过共同培养他人的愿望建立联系，尽管ESFJ关注有形需求而ENFJ激发个人成长。他们互补的视角(Si与Ni)在良好整合时创造了平衡的关怀方式。"
+    },
+    growthPotential: {
+      en: "ESFJs can learn visionary thinking from ENFJs, while ENFJs benefit from ESFJs' practical wisdom. Both may need to develop more comfort with necessary conflicts.",
+      zh: "ESFJ可以向ENFJ学习愿景思维，而ENFJ则受益于ESFJ的实践智慧。双方都可能需要培养对必要冲突的适应能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What household roles suit this pairing best?",
+          zh: "什么样的家庭角色最适合这对组合？"
+        },
+        answer: {
+          en: "ESFJs excel at daily household management while ENFJs shine in creating warm atmospheres and hosting gatherings.",
+          zh: "ESFJ擅长日常家务管理，而ENFJ在创造温暖氛围和举办聚会方面表现出色。"
+        }
+      }
+    ]
+  }
+}
+```

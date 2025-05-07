@@ -1,0 +1,186 @@
+{
+  "ENTJ": {
+    overallScore: 85,
+    mediator: "ENFJ",
+    provider: "ENTJ",
+    summary: {
+      en: "ENFJs and ENTJs form a dynamic and goal-oriented pairing where both types share a natural drive for achievement and leadership. While ENFJs focus on harmony and emotional connections, ENTJs prioritize efficiency and strategic outcomes. Their complementary strengths create a powerful team when they align on shared visions, though they may need to consciously appreciate each other's differing approaches.",
+      zh: "ENFJ和ENTJ形成了一种充满活力且目标导向的配对，两种类型都天生追求成就和领导力。ENFJ注重和谐与情感连接，而ENTJ则优先考虑效率和战略结果。当他们愿景一致时，互补的优势会创造强大的团队效应，但也需要主动欣赏彼此不同的处事方式。"
+    },
+    relationshipType: {
+      en: "Visionary Power Couple",
+      zh: "远见卓识的强力组合"
+    },
+    relationshipDesc: {
+      en: "A high-energy partnership where both types motivate each other to achieve ambitious goals while balancing emotional and practical needs.",
+      zh: "一种高能量的伙伴关系，双方互相激励实现雄心勃勃的目标，同时平衡情感与实际需求。"
+    },
+    sharedValues: {
+      en: "Growth & Achievement",
+      zh: "成长与成就"
+    },
+    sharedValuesDesc: {
+      en: "Both value personal development, competence and making tangible impacts in their communities.",
+      zh: "双方都重视个人发展、能力提升以及对社区产生切实影响。"
+    },
+    communicationStyle: {
+      en: "Directive-Expressive",
+      zh: "指导型-表达型"
+    },
+    communicationDesc: {
+      en: "ENTJs provide clear direction while ENFJs add emotional nuance, creating balanced communication when both styles are valued.",
+      zh: "ENTJ提供明确方向，ENFJ增添情感细腻度，当两种风格都受到重视时能形成平衡的沟通。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Te": {
+        score: 82,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "While both are extroverted judging functions, Fe focuses on social harmony whereas Te prioritizes efficiency, creating complementary decision-making styles.",
+          zh: "虽然都是外向判断功能，但Fe注重社会和谐，Te优先考虑效率，形成互补的决策风格。"
+        }
+      },
+      "Ni_Ni": {
+        score: 90,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Shared intuitive perception allows them to envision future possibilities together, though ENFJs apply it more to people while ENTJs focus on systems.",
+          zh: "共同的直觉功能让他们能一起展望未来可能性，不过ENFJ更应用于人际关系，ENTJ则聚焦于系统。"
+        }
+      },
+      "Se_Se": {
+        score: 78,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Both can enjoy sensory experiences but may struggle to stay present, with ENTJs being particularly prone to overlooking immediate details.",
+          zh: "双方都能享受感官体验但可能难以保持当下状态，ENTJ尤其容易忽略眼前细节。"
+        }
+      },
+      "Ti_Fi": {
+        score: 70,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Their weakest functions may cause occasional conflicts when personal logic or values clash with group needs.",
+          zh: "当个人逻辑或价值观与群体需求冲突时，他们最弱的功能可能导致偶尔的矛盾。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extraverted energy and goal-orientation, with ENFJs softening ENTJs' bluntness while ENTJs help ENFJs set healthier boundaries. Potential conflicts arise when emotional needs clash with efficiency demands.",
+      zh: "兼容性源于共同的外向能量和目标导向，ENFJ柔化ENTJ的直率，ENTJ帮助ENFJ建立更健康的界限。当情感需求与效率要求冲突时可能产生矛盾。"
+    },
+    growthPotential: {
+      en: "ENFJs can learn decisive action from ENTJs, while ENTJs develop emotional intelligence through ENFJs. Both grow by appreciating their different approaches to leadership.",
+      zh: "ENFJ能从ENTJ身上学习果断行动，ENTJ则通过ENFJ发展情商。双方都能通过欣赏彼此不同的领导方式获得成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENFJs and ENTJs handle conflicts differently?",
+          zh: "ENFJ和ENTJ处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "ENFJs seek harmony and emotional resolution, while ENTJs focus on logical solutions and may overlook emotional aspects unless consciously reminded.",
+          zh: "ENFJ追求和谐与情感解决，而ENTJ专注于逻辑方案，除非有意识提醒，否则可能忽略情感层面。"
+        }
+      }
+    ]
+  }
+},
+"ENTJ": {
+  "ENFJ": {
+    overallScore: 83,
+    mediator: "ENFJ",
+    provider: "ENTJ",
+    summary: {
+      en: "ENTJs admire ENFJs' people skills and ability to motivate teams, while ENFJs respect ENTJs' strategic thinking and effectiveness. This pairing thrives when they combine their strengths to lead organizations or projects, though ENTJs may need to slow down to appreciate ENFJs' relational approach.",
+      zh: "ENTJ欣赏ENFJ的人际技巧和激励团队的能力，ENFJ则尊重ENTJ的战略思维和高效。当他们结合优势领导组织或项目时，这种配对会蓬勃发展，不过ENTJ可能需要放慢脚步来欣赏ENFJ的关系导向方式。"
+    },
+    relationshipType: {
+      en: "Strategic Synergy",
+      zh: "战略协同"
+    },
+    relationshipDesc: {
+      en: "A complementary leadership duo where big-picture thinking meets emotional intelligence for powerful results.",
+      zh: "互补的领导组合，宏观思维与情商相遇产生强大效果。"
+    },
+    sharedValues: {
+      en: "Excellence & Influence",
+      zh: "卓越与影响力"
+    },
+    sharedValuesDesc: {
+      en: "Both strive for excellence in their domains and desire to positively influence those around them.",
+      zh: "双方都追求各自领域的卓越，并希望积极影响周围的人。"
+    },
+    communicationStyle: {
+      en: "Results-Oriented with Heart",
+      zh: "结果导向但有心"
+    },
+    communicationDesc: {
+      en: "ENTJs drive conversations toward outcomes while ENFJs ensure people's feelings are considered, creating well-rounded discussions.",
+      zh: "ENTJ推动对话朝向结果，ENFJ则确保考虑人们感受，形成全面的讨论。"
+    },
+    cognitiveCompatibility: {
+      "Te_Fe": {
+        score: 80,
+        type1Function: "Te (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Te's logical organization complements Fe's social awareness, though they may initially misunderstand each other's priorities.",
+          zh: "Te的逻辑组织与Fe的社会意识互补，尽管最初可能误解彼此的优先事项。"
+        }
+      },
+      "Ni_Ni": {
+        score: 88,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "Their shared intuition helps them develop long-term visions together, with ENFJs adding human element to ENTJs' strategic plans.",
+          zh: "共同的直觉功能帮助他们一起制定长期愿景，ENFJ为ENTJ的战略计划增添人文元素。"
+        }
+      },
+      "Se_Se": {
+        score: 75,
+        type1Function: "Se (Inferior)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "Both can enjoy action-oriented activities but may need to consciously create space for sensory experiences in their busy lives.",
+          zh: "双方都喜欢行动导向的活动，但可能需要有意识地在忙碌生活中为感官体验创造空间。"
+        }
+      },
+      "Fi_Ti": {
+        score: 68,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "When stressed, ENTJs may become insensitive while ENFJs may over-personalize, requiring conscious effort to understand each other.",
+          zh: "压力下ENTJ可能变得迟钝，ENFJ则可能过度个人化，需要有意努力理解彼此。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works well because ENTJs provide structure and direction that ENFJs appreciate, while ENFJs bring emotional depth that helps ENTJs connect with people more effectively. Challenges emerge when ENTJs dismiss feelings or ENFJs avoid necessary confrontations.",
+      zh: "这种配对运作良好，因为ENTJ提供ENFJ欣赏的结构和方向，而ENFJ带来情感深度帮助ENTJ更有效地与人连接。当ENTJ忽视感受或ENFJ回避必要对抗时会出现挑战。"
+    },
+    growthPotential: {
+      en: "ENTJs develop greater emotional intelligence through ENFJs, while ENFJs learn to make tougher decisions from ENTJs. Both expand their leadership capabilities by integrating each other's strengths.",
+      zh: "ENTJ通过ENFJ发展更高情商，ENFJ则从ENTJ学习做出更艰难的决定。双方通过整合彼此优势扩展领导能力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge in ENTJ-ENFJ relationships?",
+          zh: "ENTJ-ENFJ关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "Balancing ENTJs' focus on efficiency with ENFJs' need for emotional connection - finding ways to achieve goals while maintaining relationship harmony.",
+          zh: "平衡ENTJ对效率的关注与ENFJ对情感连接的需求 - 找到在保持关系和谐的同时实现目标的方法。"
+        }
+      }
+    ]
+  }
+}

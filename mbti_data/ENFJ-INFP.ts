@@ -1,0 +1,186 @@
+{
+  "INFP": {
+    overallScore: 92,
+    mediator: "INFP",
+    provider: "ENFJ",
+    summary: {
+      en: "ENFJs and INFPs form a deeply harmonious pairing where the ENFJ's warmth and leadership complements the INFP's creativity and idealism. Their shared focus on values and human potential creates a nurturing relationship where both feel understood. The ENFJ provides structure and encouragement, while the INFP offers profound emotional depth and authenticity.",
+      zh: "ENFJ和INFP形成一种深度和谐的配对，ENFJ的温暖和领导力与INFP的创造力和理想主义相得益彰。他们共同关注价值观和人类潜能，创造了一种相互理解的滋养关系。ENFJ提供结构和鼓励，而INFP则提供深刻的情感深度和真实性。"
+    },
+    relationshipType: {
+      en: "Soul Connection",
+      zh: "灵魂共鸣"
+    },
+    relationshipDesc: {
+      en: "A spiritually fulfilling bond where both types inspire each other's growth while appreciating their differences.",
+      zh: "一种精神上充实的联结，双方在欣赏彼此差异的同时激励对方成长。"
+    },
+    sharedValues: {
+      en: "Authenticity & Human Potential",
+      zh: "真实性与人类潜能"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize personal growth, authenticity, and making a positive difference in people's lives.",
+      zh: "双方都重视个人成长、真实性以及在人们生活中产生积极影响。"
+    },
+    communicationStyle: {
+      en: "Heart-to-Heart",
+      zh: "心灵对话"
+    },
+    communicationDesc: {
+      en: "Conversations flow naturally with emotional depth, though ENFJs may initiate more while INFPs reflect deeply.",
+      zh: "对话自然流畅且富有情感深度，尽管ENFJ可能更主动，而INFP会深入反思。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Fi": {
+        score: 88,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "ENFJ's external emotional harmony complements INFP's internal value system, creating mutual understanding.",
+          zh: "ENFJ的外部情感和谐与INFP的内部价值体系互补，创造相互理解。"
+        }
+      },
+      "Ni_Ne": {
+        score: 85,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "INFP's imaginative possibilities inspire ENFJ's visionary insights, fostering creative synergy.",
+          zh: "INFP的想象可能性激发ENFJ的远见洞察，促进创造性协同。"
+        }
+      },
+      "Se_Si": {
+        score: 75,
+        type1Function: "Se (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Both may struggle with practical details but INFP's memory helps ground ENFJ's big-picture thinking.",
+          zh: "双方可能在细节处理上有困难，但INFP的记忆力有助于落实ENFJ的宏观思维。"
+        }
+      },
+      "Ti_Te": {
+        score: 80,
+        type1Function: "Ti (Critical Parent)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "ENFJ can help INFP develop logical frameworks while respecting their values-based decision making.",
+          zh: "ENFJ可以帮助INFP发展逻辑框架，同时尊重他们基于价值观的决策。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions where ENFJ's Fe harmonizes with INFP's Fi, creating emotional understanding. Both are idealists who value deep connections, though they express it differently - ENFJs through action and INFPs through introspection.",
+      zh: "他们的兼容性源于互补的认知功能，ENFJ的Fe与INFP的Fi相协调，创造情感理解。双方都是重视深度连接的理想主义者，尽管表达方式不同——ENFJ通过行动，INFP通过内省。"
+    },
+    growthPotential: {
+      en: "ENFJs can learn authenticity and self-care from INFPs, while INFPs can develop leadership skills and social confidence from ENFJs. Together they balance action with reflection.",
+      zh: "ENFJ可以从INFP那里学习真实性和自我关怀，而INFP可以从ENFJ那里发展领导技能和社交信心。他们共同平衡行动与反思。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENFJs and INFPs handle conflict?",
+          zh: "ENFJ和INFP如何处理冲突？"
+        },
+        answer: {
+          en: "They typically avoid harsh conflicts. ENFJs seek harmony while INFPs withdraw temporarily. Open communication about needs resolves most issues.",
+          zh: "他们通常会避免激烈冲突。ENFJ寻求和谐，而INFP会暂时退缩。关于需求的开放沟通能解决大多数问题。"
+        }
+      }
+    ]
+  }
+},
+"INFP": {
+  "ENFJ": {
+    overallScore: 90,
+    mediator: "INFP",
+    provider: "ENFJ",
+    summary: {
+      en: "From the INFP's perspective, ENFJs provide the perfect balance of emotional support and gentle guidance. INFPs appreciate ENFJs' ability to actualize shared ideals while respecting their need for autonomy. This pairing thrives when both honor each other's emotional languages.",
+      zh: "从INFP的角度来看，ENFJ提供了情感支持和温和指导的完美平衡。INFP欣赏ENFJ实现共同理想的能力，同时尊重他们的自主需求。当双方尊重彼此的情感语言时，这种配对会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Mutual Inspiration",
+      zh: "相互启发"
+    },
+    relationshipDesc: {
+      en: "INFP's depth complements ENFJ's breadth, creating a relationship where both feel empowered to be their best selves.",
+      zh: "INFP的深度与ENFJ的广度互补，创造了一种让双方都能成为最好自我的关系。"
+    },
+    sharedValues: {
+      en: "Meaning & Compassion",
+      zh: "意义与同情心"
+    },
+    sharedValuesDesc: {
+      en: "Both seek meaningful connections and believe in the inherent goodness of people, though they express it differently.",
+      zh: "双方都寻求有意义的联系并相信人的内在善良，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Nuanced & Supportive",
+      zh: "细致入微且相互支持"
+    },
+    communicationDesc: {
+      en: "INFPs express themselves poetically while ENFJs respond with enthusiastic validation, creating safe emotional space.",
+      zh: "INFP以诗意的方式表达自己，而ENFJ以热情的肯定回应，创造了安全的情感空间。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Fe": {
+        score: 86,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "INFP's authentic self-expression helps ground ENFJ's people-pleasing tendencies in deeper truth.",
+          zh: "INFP的真实自我表达有助于将ENFJ的取悦倾向建立在更深层的真理上。"
+        }
+      },
+      "Ne_Ni": {
+        score: 83,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "ENFJ's future vision helps focus INFP's creative possibilities into actionable plans.",
+          zh: "ENFJ的未来愿景有助于将INFP的创造性可能性转化为可执行的计划。"
+        }
+      },
+      "Si_Se": {
+        score: 72,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "INFP's attention to personal experiences balances ENFJ's occasional overwhelm with sensory details.",
+          zh: "INFP对个人经历的关注平衡了ENFJ偶尔对感官细节的不知所措。"
+        }
+      },
+      "Te_Ti": {
+        score: 78,
+        type1Function: "Te (Inferior)",
+        type2Function: "Ti (Critical Parent)",
+        description: {
+          en: "ENFJ can model healthy logical analysis without dismissing INFP's value-based reasoning.",
+          zh: "ENFJ可以示范健康的逻辑分析，同时不否定INFP基于价值的推理。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works because INFPs help ENFJs connect with their authentic selves, while ENFJs help INFPs manifest their ideals in the real world. Their different approaches to feeling (Fi vs Fe) create a beautiful balance between individuality and harmony.",
+      zh: "这种配对之所以有效，是因为INFP帮助ENFJ与真实的自我连接，而ENFJ帮助INFP在现实世界中实现理想。他们不同的情感处理方式(Fi vs Fe)在个性与和谐之间创造了美丽的平衡。"
+    },
+    growthPotential: {
+      en: "INFPs can develop greater social engagement and practical implementation skills, while ENFJs learn deeper self-awareness and boundaries. Together they create wholeness.",
+      zh: "INFP可以发展更强的社交参与和实践技能，而ENFJ可以学习更深的自我意识和边界。他们共同创造完整。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What challenges might INFP-ENFJ couples face?",
+          zh: "INFP-ENFJ伴侣可能面临什么挑战？"
+        },
+        answer: {
+          en: "Potential challenges include ENFJ's need for socializing vs INFP's need for solitude, and differing conflict styles (ENFJs want immediate resolution while INFPs need processing time).",
+          zh: "潜在挑战包括ENFJ的社交需求与INFP的独处需求，以及不同的冲突处理风格(ENFJ希望立即解决，而INFP需要处理时间)。"
+        }
+      }
+    ]
+  }
+}

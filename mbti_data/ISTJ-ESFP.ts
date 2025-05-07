@@ -1,0 +1,186 @@
+{
+  "ESFP": {
+    overallScore: 72,
+    mediator: "ESFP",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJ and ESFP can form a complementary relationship where their differences create balance. ISTJs provide structure and reliability, while ESFPs bring spontaneity and fun. The ISTJ's introverted sensing (Si) helps ground the ESFP's extroverted sensing (Se), while the ESFP can help the ISTJ loosen up. However, conflicts may arise from ISTJ's need for order clashing with ESFP's impulsiveness.",
+      zh: "ISTJ和ESFP可以形成互补关系，他们的差异创造了平衡。ISTJ提供结构和可靠性，而ESFP带来自发性和乐趣。ISTJ的内倾感觉(Si)有助于稳定ESFP的外倾感觉(Se)，而ESFP可以帮助ISTJ放松。然而，ISTJ对秩序的需求可能与ESFP的冲动性产生冲突。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的对立面"
+    },
+    relationshipDesc: {
+      en: "A practical-realist meets a spontaneous-optimist, creating yin-yang energy through their contrasting approaches to life.",
+      zh: "务实现实主义者遇上自发乐观主义者，通过他们对生活的不同态度创造出阴阳能量。"
+    },
+    sharedValues: {
+      en: "Loyalty & Sensory Experiences",
+      zh: "忠诚与感官体验"
+    },
+    sharedValuesDesc: {
+      en: "Both value loyalty in relationships and appreciate tangible, sensory experiences though they approach them differently.",
+      zh: "两者都重视关系中的忠诚，并欣赏有形的感官体验，尽管他们的方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs Expressive",
+      zh: "直接vs表达"
+    },
+    communicationDesc: {
+      en: "ISTJs communicate in factual terms while ESFPs are more emotionally expressive, requiring adaptation from both sides.",
+      zh: "ISTJ以事实为导向沟通，而ESFP更情感外露，需要双方适应。"
+    },
+    cognitiveCompatibility: {
+      "Si_Se": {
+        score: 75,
+        type1Function: "Si (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "Both are sensing types but ISTJ focuses on past experiences while ESFP lives in the present moment.",
+          zh: "两者都是感觉型，但ISTJ关注过去经验，而ESFP活在当下。"
+        }
+      },
+      "Te_Fi": {
+        score: 68,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ISTJ's logical thinking may clash with ESFP's personal values, requiring mutual understanding.",
+          zh: "ISTJ的逻辑思维可能与ESFP的个人价值观冲突，需要相互理解。"
+        }
+      },
+      "Fi_Te": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Both have these functions but in reversed order, creating potential for both conflict and balance.",
+          zh: "两者都有这些功能但顺序相反，既可能产生冲突也可能创造平衡。"
+        }
+      },
+      "Ne_Ni": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both struggle with intuition but in different ways, making long-term planning challenging.",
+          zh: "两者都在直觉方面有困难但方式不同，使得长期规划具有挑战性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary sensing functions (Si-Se) and shared practical orientation, though they need to bridge the thinking-feeling gap. The ISTJ provides stability the ESFP needs, while the ESFP helps the ISTJ enjoy life more spontaneously.",
+      zh: "他们的兼容性源于互补的感觉功能(Si-Se)和共同的务实导向，尽管他们需要弥合思维与情感的差距。ISTJ提供ESFP所需的稳定性，而ESFP帮助ISTJ更自发地享受生活。"
+    },
+    growthPotential: {
+      en: "ISTJ can learn to be more spontaneous from ESFP, while ESFP can develop better organization skills from ISTJ. Both can expand their emotional and logical intelligence respectively.",
+      zh: "ISTJ可以向ESFP学习更自发，而ESFP可以从ISTJ那里发展更好的组织能力。双方可以分别扩展他们的情感和逻辑智能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ISTJ and ESFP improve their communication?",
+          zh: "ISTJ和ESFP如何改善他们的沟通？"
+        },
+        answer: {
+          en: "ISTJs should practice expressing feelings while ESFPs should learn to structure their thoughts. Meeting halfway is key.",
+          zh: "ISTJ应练习表达感受，而ESFP应学习组织他们的想法。折中是关键。"
+        }
+      }
+    ]
+  }
+},
+"ESFP": {
+  "ISTJ": {
+    overallScore: 75,
+    mediator: "ESFP",
+    provider: "ISTJ",
+    summary: {
+      en: "From the ESFP perspective, the ISTJ provides much-needed stability and practical support. While ESFPs may initially find ISTJs too rigid, they often come to appreciate their reliability. The ESFP's energy and social skills can help draw the ISTJ out of their shell, creating a mutually beneficial dynamic.",
+      zh: "从ESFP的角度来看，ISTJ提供了急需的稳定性和实际支持。虽然ESFP最初可能觉得ISTJ太死板，但他们往往会欣赏其可靠性。ESFP的能量和社交技巧可以帮助ISTJ走出自己的壳，创造互利的动态。"
+    },
+    relationshipType: {
+      en: "Stability-Meets-Spontaneity",
+      zh: "稳定遇上自发"
+    },
+    relationshipDesc: {
+      en: "The ESFP enjoys the ISTJ's grounding presence while bringing excitement to their lives.",
+      zh: "ESFP享受ISTJ的稳定存在，同时为他们的生活带来兴奋。"
+    },
+    sharedValues: {
+      en: "Practicality & Enjoyment",
+      zh: "实用性与享受"
+    },
+    sharedValuesDesc: {
+      en: "Both appreciate life's tangible pleasures though ESFPs seek novelty while ISTJs prefer familiarity.",
+      zh: "两者都欣赏生活的有形乐趣，尽管ESFP追求新奇而ISTJ更喜欢熟悉感。"
+    },
+    communicationStyle: {
+      en: "Expressive vs Concrete",
+      zh: "表达vs具体"
+    },
+    communicationDesc: {
+      en: "ESFPs communicate emotionally while ISTJs focus on facts, requiring patience from both.",
+      zh: "ESFP情感化沟通，而ISTJ关注事实，需要双方耐心。"
+    },
+    cognitiveCompatibility: {
+      "Se_Si": {
+        score: 78,
+        type1Function: "Se (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "ESFP's present-focused sensing complements ISTJ's experience-based sensing.",
+          zh: "ESFP关注当下的感觉与ISTJ基于经验的感觉互补。"
+        }
+      },
+      "Fi_Te": {
+        score: 72,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "ESFP's values-based decisions can balance ISTJ's logic-focused approach.",
+          zh: "ESFP基于价值观的决策可以平衡ISTJ以逻辑为中心的方法。"
+        }
+      },
+      "Te_Fi": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both can access these functions but may apply them differently in stress.",
+          zh: "两者都能使用这些功能但在压力下可能以不同方式应用。"
+        }
+      },
+      "Ni_Ne": {
+        score: 63,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Both may struggle with abstract thinking but in complementary ways.",
+          zh: "两者都可能与抽象思维斗争但以互补的方式。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESFPs benefit from ISTJs' reliability and practical skills, while ISTJs appreciate ESFPs' energy and social ease. Their sensing-dominant nature creates common ground, though they must navigate their different decision-making styles.",
+      zh: "ESFP受益于ISTJ的可靠性和实用技能，而ISTJ欣赏ESFP的能量和社交轻松。他们以感觉为主导的本质创造了共同点，尽管他们必须驾驭不同的决策风格。"
+    },
+    growthPotential: {
+      en: "ESFPs can learn responsibility and planning from ISTJs, while ISTJs can develop spontaneity and social flexibility from ESFPs. Together they can become more well-rounded individuals.",
+      zh: "ESFP可以向ISTJ学习责任感和规划，而ISTJ可以从ESFP那里发展自发性和社交灵活性。他们一起可以成为更全面的人。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge for ESFP-ISTJ relationships?",
+          zh: "ESFP-ISTJ关系的最大挑战是什么？"
+        },
+        answer: {
+          en: "Balancing ESFP's need for spontaneity with ISTJ's need for structure requires compromise from both parties.",
+          zh: "平衡ESFP对自发性的需求与ISTJ对结构的需求需要双方的妥协。"
+        }
+      }
+    ]
+  }
+}

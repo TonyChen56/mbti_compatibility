@@ -1,0 +1,188 @@
+```typescript
+"ESFP": {
+  "ESFJ": {
+    overallScore: 85,
+    mediator: "ESFJ",
+    provider: "ESFP",
+    summary: {
+      en: "ESFP and ESFJ share an outgoing, people-oriented nature that creates vibrant social connections. Their complementary cognitive functions allow ESFPs to bring spontaneity while ESFJs provide structure, forming a balanced partnership. Potential friction may arise from ESFPs' dislike of routine conflicting with ESFJs' need for organization.",
+      zh: "ESFP和ESFJ都外向且以人为本，能建立活跃的社交关系。ESFP带来即兴活力，ESFJ提供结构支持，形成互补。潜在的摩擦可能源于ESFP不喜欢常规与ESFJ需要条理之间的冲突。"
+    },
+    relationshipType: {
+      en: "Vibrant Companions",
+      zh: "活力伙伴"
+    },
+    relationshipDesc: {
+      en: "A dynamic duo that thrives on social energy and shared experiences, balancing fun with responsibility.",
+      zh: "充满社交能量和共同体验的活力组合，在乐趣与责任间取得平衡。"
+    },
+    sharedValues: {
+      en: "People-First, Experience-Oriented",
+      zh: "以人为本，注重体验"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize human connections and tangible experiences over abstract concepts, valuing present-moment enjoyment.",
+      zh: "两者都重视人际关系和实际体验而非抽象概念，珍视当下的快乐。"
+    },
+    communicationStyle: {
+      en: "Expressive & Practical",
+      zh: "表达型且务实"
+    },
+    communicationDesc: {
+      en: "Conversations flow easily with concrete topics and emotional expression, though ESFJs may seek more closure than ESFPs.",
+      zh: "具体话题和情感表达使交流顺畅，但ESFJ可能比ESFP更追求明确的结论。"
+    },
+    cognitiveCompatibility: {
+      "Se_Fe": {
+        score: 88,
+        type1Function: "Se (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Their shared focus on sensory experiences and social harmony creates immediate connection and mutual understanding.",
+          zh: "共同关注感官体验和社会和谐，能快速建立连接和相互理解。"
+        }
+      },
+      "Fi_Fe": {
+        score: 82,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "ESFJ's Fe helps navigate social situations while ESFP's Fi adds authentic personal expression to the relationship.",
+          zh: "ESFJ的Fe帮助处理社交场合，而ESFP的Fi为关系增添真实的个人表达。"
+        }
+      },
+      "Te_Si": {
+        score: 75,
+        type1Function: "Te (Inferior)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ESFJ's Si provides stability that can support ESFP's underdeveloped Te, though may feel restrictive at times.",
+          zh: "ESFJ的Si提供稳定性支持ESFP较弱的Te，虽然有时可能感觉受限。"
+        }
+      },
+      "Ni_Ti": {
+        score: 68,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their shared weaker intuitive functions may cause occasional misunderstandings about long-term implications.",
+          zh: "共同较弱的直觉功能可能导致偶尔对长期影响的误解。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extroversion and focus on present realities, with ESFJ's Fe complementing ESFP's Se. Differences in judging functions (ESFJ's Si/Fe vs ESFP's Se/Fi) create a balanced dynamic where each can learn from the other's strengths.",
+      zh: "兼容性源于共同的外向性和对当下现实的关注，ESFJ的Fe与ESFP的Se互补。判断功能的差异(ESFJ的Si/Fe与ESFP的Se/Fi)创造了平衡动态，双方都能学习对方的优势。"
+    },
+    growthPotential: {
+      en: "ESFPs can learn organization from ESFJs, while ESFJs can embrace more spontaneity. Both may need to consciously develop their inferior functions (Ni for ESFP, Ti for ESFJ) for deeper understanding.",
+      zh: "ESFP可向ESFJ学习条理性，ESFJ可接纳更多即兴。双方都需要有意识地发展弱势功能(ESFP的Ni，ESFJ的Ti)以获得更深理解。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ESFP and ESFJ handle conflicts differently?",
+          zh: "ESFP和ESFJ处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "ESFPs tend to address conflicts directly but move on quickly, while ESFJs seek harmonious resolutions and may dwell on relationship implications longer.",
+          zh: "ESFP倾向于直接解决冲突但很快翻篇，而ESFJ寻求和谐解决方案，可能更长时间考虑关系影响。"
+        }
+      }
+    ]
+  }
+},
+"ESFJ": {
+  "ESFP": {
+    overallScore: 83,
+    mediator: "ESFJ", 
+    provider: "ESFP",
+    summary: {
+      en: "ESFJs appreciate ESFPs' energy and spontaneity, while providing the structure ESFPs sometimes need. Their shared focus on people creates strong initial bonds, though ESFJs may need to adapt to ESFPs' more flexible approach to commitments.",
+      zh: "ESFJ欣赏ESFP的活力和即兴，同时提供ESFP有时需要的结构。共同对人的关注创造强烈初始联结，尽管ESFJ可能需要适应ESFP对承诺更灵活的态度。"
+    },
+    relationshipType: {
+      en: "Social Synergy",
+      zh: "社交协同"
+    },
+    relationshipDesc: {
+      en: "A mutually energizing relationship where both types bring out each other's social strengths while balancing different needs.",
+      zh: "相互激励的关系，双方都能激发彼此的社交优势，同时平衡不同需求。"
+    },
+    sharedValues: {
+      en: "Community & Enjoyment",
+      zh: "社群与享受"
+    },
+    sharedValuesDesc: {
+      en: "Both value creating positive social experiences and making others feel included, though express it differently.",
+      zh: "都重视创造积极的社交体验和让他人有归属感，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Warm & Engaging",
+      zh: "温暖且投入"
+    },
+    communicationDesc: {
+      en: "Natural conversationalists who enjoy discussing people and experiences, with ESFJs adding more structure to discussions.",
+      zh: "天生的交谈者，喜欢讨论人和经历，ESFJ为对话增添更多结构。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Se": {
+        score: 86,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Se (Dominant)",
+        description: {
+          en: "ESFJ's Fe harmonizes well with ESFP's Se, creating socially attuned interactions full of warmth and liveliness.",
+          zh: "ESFJ的Fe与ESFP的Se和谐配合，创造充满温暖和活力的社交互动。"
+        }
+      },
+      "Si_Fi": {
+        score: 78,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ESFJ's Si provides stability that can ground ESFP's Fi expressions in practical realities.",
+          zh: "ESFJ的Si提供稳定性，使ESFP的Fi表达扎根于实际现实。"
+        }
+      },
+      "Ti_Te": {
+        score: 72,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "Their shared weaker thinking functions may lead to occasional logical inconsistencies in decision-making.",
+          zh: "共同较弱的思维功能可能导致决策时偶尔出现逻辑不一致。"
+        }
+      },
+      "Ne_Ni": {
+        score: 65,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both may struggle with abstract future planning, preferring to focus on immediate, tangible concerns.",
+          zh: "双方都可能不擅长抽象的未来规划，更喜欢关注直接、具体的事务。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The pairing works well due to complementary strengths - ESFJs provide social organization while ESFPs bring adaptability. Potential growth comes from ESFJs learning to be more spontaneous and ESFPs appreciating structured approaches when beneficial.",
+      zh: "这种配对因互补优势而运作良好 - ESFJ提供社交组织性，ESFP带来适应性。潜在成长在于ESFJ学习更即兴，ESFP在有益时欣赏结构化方法。"
+    },
+    growthPotential: {
+      en: "ESFJs can help ESFPs develop consistency, while ESFPs can teach ESFJs to embrace uncertainty. Both benefit from developing their inferior intuitive functions for better long-term perspective.",
+      zh: "ESFJ可帮助ESFP培养一致性，而ESFP可教会ESFJ接纳不确定性。双方都受益于发展弱势直觉功能以获得更好的长期视角。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What household responsibilities might cause tension between ESFJ and ESFP?",
+          zh: "哪些家务责任可能导致ESFJ和ESFP之间的紧张？"
+        },
+        answer: {
+          en: "ESFJs' preference for scheduled chores may conflict with ESFPs' spontaneous approach. Finding a balance between routine and flexibility is key.",
+          zh: "ESFJ偏好计划性家务可能与ESFP的即兴方式冲突。在常规和灵活间找到平衡是关键。"
+        }
+      }
+    ]
+  }
+}
+```

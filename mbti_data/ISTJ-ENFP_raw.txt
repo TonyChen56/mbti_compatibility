@@ -1,0 +1,188 @@
+```typescript
+"ISTJ": {
+  "ENFP": {
+    overallScore: 75,
+    mediator: "ENFP",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJ and ENFP form a complementary pair with potential for growth. ISTJs provide stability and structure while ENFPs bring creativity and spontaneity. Their differences can create initial friction but also opportunities for mutual learning. ISTJs help ground ENFPs' ideas, while ENFPs encourage ISTJs to explore new possibilities.",
+      zh: "ISTJ和ENFP形成互补配对，具有成长潜力。ISTJ提供稳定性和结构，而ENFP带来创造力和自发性。他们的差异可能产生初期摩擦，但也创造了相互学习的机会。ISTJ帮助ENFP落实想法，而ENFP鼓励ISTJ探索新的可能性。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的互补"
+    },
+    relationshipDesc: {
+      en: "A relationship where structure meets spontaneity, creating both challenges and growth opportunities.",
+      zh: "一种结构性与自发性相遇的关系，既带来挑战也创造成长机会。"
+    },
+    sharedValues: {
+      en: "Loyalty, Integrity",
+      zh: "忠诚、正直"
+    },
+    sharedValuesDesc: {
+      en: "Both types value authenticity and commitment in relationships, though they express it differently.",
+      zh: "两种类型都重视关系中的真实性和承诺，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs. Expressive",
+      zh: "直接型 vs 表达型"
+    },
+    communicationDesc: {
+      en: "ISTJs prefer concise, factual communication while ENFPs enjoy exploring ideas and possibilities.",
+      zh: "ISTJ偏好简洁、事实性的沟通，而ENFP喜欢探索想法和可能性。"
+    },
+    cognitiveCompatibility: {
+      "Si_Ne": {
+        score: 82,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ISTJ's Si provides stability while ENFP's Ne brings new perspectives, creating a balanced dynamic.",
+          zh: "ISTJ的主导Si提供稳定性，而ENFP的辅助Ne带来新视角，形成平衡的互动。"
+        }
+      },
+      "Te_Fi": {
+        score: 78,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "ISTJ's Te helps organize ENFP's ideas, while ENFP's Fi helps ISTJ connect with personal values.",
+          zh: "ISTJ的辅助Te帮助组织ENFP的想法，而ENFP的第三功能Fi帮助ISTJ连接个人价值观。"
+        }
+      },
+      "Fi_Te": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Te (Inferior)",
+        description: {
+          en: "ENFP's stronger Te can help ISTJ develop their weaker Fi, though this may cause occasional tension.",
+          zh: "ENFP较强的Te可以帮助ISTJ发展较弱的Fi，尽管这可能偶尔造成紧张。"
+        }
+      },
+      "Ne_Si": {
+        score: 68,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Demonstrative)",
+        description: {
+          en: "ENFP's comfort with Ne can help ISTJ explore possibilities, though ISTJ may find this uncomfortable.",
+          zh: "ENFP对Ne的适应可以帮助ISTJ探索可能性，尽管ISTJ可能对此感到不适。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their cognitive functions create a complementary dynamic where ISTJ provides structure and ENFP provides inspiration. While different, they can balance each other well if they appreciate their differences.",
+      zh: "他们的认知功能创造了互补的互动模式，ISTJ提供结构，ENFP提供灵感。虽然不同，但如果能欣赏彼此的差异，他们可以很好地平衡对方。"
+    },
+    growthPotential: {
+      en: "ISTJ can learn to be more open to new experiences, while ENFP can develop better organizational skills. Their differences can become strengths if approached with mutual respect.",
+      zh: "ISTJ可以学会对新体验更开放，而ENFP可以发展更好的组织能力。如果以相互尊重的方式相处，他们的差异可以变成优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are the main challenges in ISTJ-ENFP relationships?",
+          zh: "ISTJ-ENFP关系中的主要挑战是什么？"
+        },
+        answer: {
+          en: "The biggest challenges are differing communication styles and approaches to planning (structured vs. spontaneous). ISTJs may find ENFPs unpredictable, while ENFPs may see ISTJs as rigid.",
+          zh: "最大的挑战是沟通风格和计划方式的不同（结构性vs自发性）。ISTJ可能觉得ENFP难以预测，而ENFP可能认为ISTJ过于刻板。"
+        }
+      }
+    ]
+  }
+},
+"ENFP": {
+  "ISTJ": {
+    overallScore: 78,
+    mediator: "ENFP",
+    provider: "ISTJ",
+    summary: {
+      en: "ENFPs and ISTJs can form a surprisingly effective partnership. ENFPs appreciate ISTJs' reliability and practical support, while ISTJs value ENFPs' enthusiasm and ability to see possibilities. Their differences complement each other when both types are willing to adapt.",
+      zh: "ENFP和ISTJ可以形成出奇有效的伙伴关系。ENFP欣赏ISTJ的可靠性和实际支持，而ISTJ重视ENFP的热情和看到可能性的能力。当双方都愿意适应时，他们的差异会相互补充。"
+    },
+    relationshipType: {
+      en: "Practical Dreamers",
+      zh: "务实的梦想家"
+    },
+    relationshipDesc: {
+      en: "A pairing that combines visionary thinking with practical execution when working well together.",
+      zh: "当配合良好时，这种配对将愿景思维与实际执行相结合。"
+    },
+    sharedValues: {
+      en: "Authenticity, Responsibility",
+      zh: "真实性、责任感"
+    },
+    sharedValuesDesc: {
+      en: "Both types value being true to themselves and taking responsibility for their commitments.",
+      zh: "两种类型都重视忠于自我并对自己的承诺负责。"
+    },
+    communicationStyle: {
+      en: "Expressive vs. Direct",
+      zh: "表达型 vs 直接型"
+    },
+    communicationDesc: {
+      en: "ENFPs enjoy exploring ideas verbally while ISTJs prefer getting to the point efficiently.",
+      zh: "ENFP喜欢口头探索想法，而ISTJ偏好高效地直达要点。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Si": {
+        score: 85,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ENFP's Ne generates ideas that ISTJ's Si can help implement practically.",
+          zh: "ENFP的主导Ne产生的想法可以被ISTJ的辅助Si实际落实。"
+        }
+      },
+      "Fi_Te": {
+        score: 80,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "ENFP's Fi helps ISTJ connect with emotions, while ISTJ's Te helps ENFP organize thoughts.",
+          zh: "ENFP的辅助Fi帮助ISTJ连接情感，而ISTJ的第三功能Te帮助ENFP组织思维。"
+        }
+      },
+      "Te_Fi": {
+        score: 72,
+        type1Function: "Te (Inferior)",
+        type2Function: "Fi (Demonstrative)",
+        description: {
+          en: "ISTJ's stronger Te can support ENFP's weaker Te, though ENFP may resist being overly structured.",
+          zh: "ISTJ较强的Te可以支持ENFP较弱的Te，尽管ENFP可能抗拒过度结构化。"
+        }
+      },
+      "Si_Ne": {
+        score: 65,
+        type1Function: "Si (Demonstrative)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "ISTJ's comfort with Si can help ground ENFP, though ENFP may find routine restrictive.",
+          zh: "ISTJ对Si的适应可以帮助ENFP脚踏实地，尽管ENFP可能觉得常规限制性太强。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFPs benefit from ISTJs' stability and practical approach, while ISTJs gain new perspectives from ENFPs. Their cognitive functions create natural areas of complementarity when both appreciate their differences.",
+      zh: "ENFP受益于ISTJ的稳定性和实际方法，而ISTJ从ENFP那里获得新视角。当双方都欣赏彼此的差异时，他们的认知功能创造了自然的互补领域。"
+    },
+    growthPotential: {
+      en: "ENFPs can learn to appreciate structure and follow-through from ISTJs, while ISTJs can become more open to new experiences through ENFPs' influence. Their relationship can foster significant personal growth.",
+      zh: "ENFP可以学会欣赏ISTJ的结构性和执行力，而ISTJ可以通过ENFP的影响对新体验更加开放。他们的关系可以促进显著的个人成长。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENFPs and ISTJs improve their communication?",
+          zh: "ENFP和ISTJ如何改善他们的沟通？"
+        },
+        answer: {
+          en: "ENFPs should try to be more concise at times, while ISTJs should practice active listening and show interest in ENFPs' ideas. Finding a middle ground between structure and spontaneity is key.",
+          zh: "ENFP应尝试有时更简洁，而ISTJ应练习积极倾听并对ENFP的想法表现出兴趣。在结构性和自发性之间找到中间地带是关键。"
+        }
+      }
+    ]
+  }
+}
+```

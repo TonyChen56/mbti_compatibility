@@ -1,0 +1,186 @@
+{
+  "ISFJ": {
+    overallScore: 72,
+    mediator: "ISFJ",
+    provider: "ENTP",
+    summary: {
+      en: "The ENTP-ISFJ pairing creates an intriguing dynamic between innovation and tradition. ENTPs bring intellectual stimulation and big-picture thinking, while ISFJs provide practical support and emotional grounding. Their complementary functions can create balance, though they may struggle with communication styles - ENTPs preferring abstract debates while ISFJs value concrete, harmonious exchanges.",
+      zh: "ENTP与ISFJ的配对在创新与传统之间创造了有趣的动态。ENTP带来智力刺激和宏观思维，而ISFJ提供实际支持和情感基础。他们的互补功能可以创造平衡，尽管可能在沟通风格上存在困难——ENTP喜欢抽象辩论，而ISFJ重视具体和谐的交流。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "This pairing challenges both types to develop their inferior functions while appreciating their differences.",
+      zh: "这种配对促使双方发展自己的劣势功能，同时欣赏彼此的差异。"
+    },
+    sharedValues: {
+      en: "Helping Others, Personal Growth",
+      zh: "帮助他人，个人成长"
+    },
+    sharedValuesDesc: {
+      en: "Both types value making a positive impact, though ENTPs focus on systemic change while ISFJs prefer direct personal assistance.",
+      zh: "两种类型都重视产生积极影响，尽管ENTP关注系统性变革，而ISFJ更喜欢直接的个人帮助。"
+    },
+    communicationStyle: {
+      en: "Debater vs. Supporter",
+      zh: "辩论者vs支持者"
+    },
+    communicationDesc: {
+      en: "ENTPs enjoy intellectual sparring while ISFJs seek harmonious exchanges, requiring mutual adaptation.",
+      zh: "ENTP喜欢智力交锋，而ISFJ寻求和谐交流，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Si": {
+        score: 68,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "ENTP's exploratory Ne clashes with ISFJ's detail-oriented Si, creating tension between possibilities and traditions.",
+          zh: "ENTP探索性的Ne与ISFJ注重细节的Si冲突，在可能性与传统之间制造紧张。"
+        }
+      },
+      "Ti_Fe": {
+        score: 75,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "Their secondary functions can complement well - Ti provides logical analysis while Fe ensures emotional consideration.",
+          zh: "他们的辅助功能可以很好互补——Ti提供逻辑分析，而Fe确保情感考量。"
+        }
+      },
+      "Fe_Ti": {
+        score: 82,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their tertiary functions show potential for growth, with ENTP developing emotional intelligence and ISFJ logical analysis.",
+          zh: "他们的第三功能显示出成长潜力，ENTP发展情商，ISFJ发展逻辑分析。"
+        }
+      },
+      "Si_Ne": {
+        score: 65,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Their inferior functions represent growth areas - ENTPs developing attention to detail, ISFJs embracing possibilities.",
+          zh: "他们的劣势功能代表成长领域——ENTP发展对细节的关注，ISFJ拥抱可能性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "While their dominant functions (Ne vs Si) create tension, their shared auxiliary judgment functions (Ti-Fe) provide common ground. The ENTP can help the ISFJ see new perspectives, while the ISFJ can ground the ENTP's ideas in reality.",
+      zh: "虽然他们的主导功能(Ne vs Si)制造紧张，但他们共享的辅助判断功能(Ti-Fe)提供了共同点。ENTP可以帮助ISFJ看到新视角，而ISFJ可以将ENTP的想法落实到现实中。"
+    },
+    growthPotential: {
+      en: "This pairing offers significant growth potential as each type develops their inferior functions - ENTPs becoming more detail-oriented, ISFJs more open to possibilities.",
+      zh: "这种配对提供了显著的成长潜力，因为每种类型都发展他们的劣势功能——ENTP变得更注重细节，ISFJ对可能性更开放。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENTPs and ISFJs improve communication?",
+          zh: "ENTP和ISFJ如何改善沟通？"
+        },
+        answer: {
+          en: "ENTPs should soften their debating style, while ISFJs can practice engaging with abstract ideas. Finding practical applications for discussions helps bridge the gap.",
+          zh: "ENTP应该软化他们的辩论风格，而ISFJ可以练习参与抽象想法。为讨论找到实际应用有助于弥合差距。"
+        }
+      }
+    ]
+  }
+},
+"ISFJ": {
+  "ENTP": {
+    overallScore: 75,
+    mediator: "ISFJ",
+    provider: "ENTP",
+    summary: {
+      en: "From the ISFJ perspective, ENTPs offer exciting intellectual stimulation and help expand their worldview. While initially overwhelming, ISFJs can appreciate how ENTPs challenge their assumptions and introduce new possibilities. The ISFJ's stability provides a safe space for the ENTP to explore ideas.",
+      zh: "从ISFJ的角度来看，ENTP提供了令人兴奋的智力刺激，并帮助扩展他们的世界观。虽然最初可能令人不知所措，但ISFJ可以欣赏ENTP如何挑战他们的假设并引入新的可能性。ISFJ的稳定性为ENTP探索想法提供了安全空间。"
+    },
+    relationshipType: {
+      en: "Balanced Opposites",
+      zh: "平衡的对立面"
+    },
+    relationshipDesc: {
+      en: "ISFJs find ENTPs both fascinating and challenging, creating a relationship that promotes mutual growth.",
+      zh: "ISFJ发现ENTP既迷人又具有挑战性，创造了一种促进共同成长的关系。"
+    },
+    sharedValues: {
+      en: "Service, Continuous Learning",
+      zh: "服务，持续学习"
+    },
+    sharedValuesDesc: {
+      en: "Both types value helping others and personal development, though they approach these goals differently.",
+      zh: "两种类型都重视帮助他人和个人发展，尽管他们实现这些目标的方式不同。"
+    },
+    communicationStyle: {
+      en: "Practical vs. Theoretical",
+      zh: "实用vs理论"
+    },
+    communicationDesc: {
+      en: "ISFJs prefer concrete, practical discussions while ENTPs enjoy abstract theorizing, requiring compromise.",
+      zh: "ISFJ更喜欢具体实际的讨论，而ENTP喜欢抽象理论化，需要妥协。"
+    },
+    cognitiveCompatibility: {
+      "Si_Ne": {
+        score: 65,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ISFJ's detail-focused Si contrasts with ENTP's big-picture Ne, creating fundamental differences in perception.",
+          zh: "ISFJ注重细节的Si与ENTP宏观的Ne形成对比，在感知上产生根本差异。"
+        }
+      },
+      "Fe_Ti": {
+        score: 78,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "Their secondary functions create balance - Fe provides emotional awareness while Ti offers logical analysis.",
+          zh: "他们的辅助功能创造平衡——Fe提供情感意识，而Ti提供逻辑分析。"
+        }
+      },
+      "Ti_Fe": {
+        score: 80,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Their tertiary functions show complementary potential for growth in logical and emotional intelligence.",
+          zh: "他们的第三功能显示出在逻辑和情商方面互补的成长潜力。"
+        }
+      },
+      "Ne_Si": {
+        score: 70,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Their inferior functions represent areas where each can help the other grow - ISFJs developing intuition, ENTPs attention to detail.",
+          zh: "他们的劣势功能代表彼此可以帮助对方成长的领域——ISFJ发展直觉，ENTP注重细节。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISFJs and ENTPs can form a complementary pair when they appreciate their differences. The ISFJ's practicality helps implement ENTP ideas, while the ENTP's innovation helps the ISFJ see beyond established routines.",
+      zh: "当ISFJ和ENTP欣赏彼此的差异时，他们可以形成互补的一对。ISFJ的实用性有助于实施ENTP的想法，而ENTP的创新帮助ISFJ超越既定常规。"
+    },
+    growthPotential: {
+      en: "This relationship helps ISFJs develop flexibility and openness to new ideas, while ENTPs learn the value of stability and practical application.",
+      zh: "这种关系帮助ISFJ发展对新想法的灵活性和开放性，而ENTP学习稳定性和实际应用的价值。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What do ISFJs find most challenging about ENTPs?",
+          zh: "ISFJ觉得ENTP最具挑战性的是什么？"
+        },
+        answer: {
+          en: "ISFJs often struggle with ENTPs' tendency to debate everything and their apparent disregard for established traditions and routines.",
+          zh: "ISFJ经常难以应对ENTP喜欢辩论一切以及他们明显忽视既定传统和常规的倾向。"
+        }
+      }
+    ]
+  }
+}

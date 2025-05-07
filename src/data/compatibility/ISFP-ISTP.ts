@@ -1,0 +1,95 @@
+export default {
+  "ISFP": {
+    "ISTP": {
+    overallScore: 82,
+    mediator: "ISFP",
+    provider: "ISTP",
+    summary: {
+      en: "ISTPs appreciate ISFPs' authenticity and emotional depth, while ISFPs admire ISTPs' practical skills and logical approach. Their relationship thrives when balancing action with emotional connection, though may need conscious effort to discuss feelings.",
+      zh: "ISTP欣赏ISFP的真实性和情感深度，而ISFP钦佩ISTP的实践技能和逻辑方法。当平衡行动与情感连接时，他们的关系会蓬勃发展，尽管可能需要有意识地努力讨论感受。"
+    },
+    relationshipType: {
+      en: "Skill Exchange",
+      zh: "技能交换"
+    },
+    relationshipDesc: {
+      en: "ISTPs teach practical solutions while ISFPs offer emotional insight, creating mutual growth.",
+      zh: "ISTP教授实用解决方案，而ISFP提供情感洞察，创造共同成长。"
+    },
+    sharedValues: {
+      en: "Present-Moment Living",
+      zh: "活在当下"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize immediate experience over abstract planning, enjoying life as it comes.",
+      zh: "双方都优先考虑即时体验而非抽象规划，随遇而安地享受生活。"
+    },
+    communicationStyle: {
+      en: "Non-Verbal Understanding",
+      zh: "非语言理解"
+    },
+    communicationDesc: {
+      en: "Often communicate through actions and shared activities rather than words, understanding each other intuitively.",
+      zh: "经常通过行动和共同活动而非语言交流，凭直觉理解对方。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Fi": {
+        score: 80,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "While different (logic vs values), both functions are introspective, creating mutual respect for each other's decision-making process.",
+          zh: "虽然不同(逻辑vs价值观)，但两种功能都是内省的，对彼此的决策过程产生相互尊重。"
+        }
+      },
+      "Se_Se": {
+        score: 95,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "Shared Se enables effortless cooperation in physical activities and immediate problem-solving.",
+          zh: "共同的Se功能使双方在体力活动和即时问题解决中能轻松合作。"
+        }
+      },
+      "Ni_Ni": {
+        score: 70,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Underdeveloped in both types but can create occasional moments of intuitive connection.",
+          zh: "在两种类型中都不太发达，但可以创造偶尔的直觉连接时刻。"
+        }
+      },
+      "Fe_Fe": {
+        score: 60,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both may struggle with emotional expression, potentially leading to unspoken tensions.",
+          zh: "双方可能在情感表达上有困难，可能导致未说出口的紧张。"
+        }
+},
+    compatibilityReason: {
+      en: "The strong Se connection creates natural understanding in the moment, while their different dominant functions (Ti vs Fi) allow them to approach problems from complementary angles. Both value competence and dislike unnecessary rules.",
+      zh: "强大的Se连接创造了当下的自然理解，而不同的主导功能(Ti vs Fi)让他们能从互补的角度处理问题。双方都重视能力，不喜欢不必要的规则。"
+    },
+    growthPotential: {
+      en: "ISTPs can develop emotional intelligence through ISFPs, while ISFPs can strengthen logical thinking through ISTPs. Their inferior Fe may develop through positive interactions.",
+      zh: "ISTP可以通过ISFP发展情商，而ISFP可以通过ISTP加强逻辑思维。他们的劣势Fe功能可能通过积极的互动得到发展。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What activities do ISFP and ISTP enjoy together?",
+          zh: "ISFP和ISTP喜欢一起做什么活动？"
+        },
+        answer: {
+          en: "Hands-on activities like sports, crafting, or outdoor adventures where they can engage their shared Se function while avoiding excessive verbal processing.",
+          zh: "体育运动、手工制作或户外冒险等动手活动，可以调动他们共同的Se功能，同时避免过多的语言处理。"
+        }
+      }
+    ]
+  }
+}
+  }
+}

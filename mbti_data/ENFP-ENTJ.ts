@@ -1,0 +1,186 @@
+{
+  "ENTJ": {
+    overallScore: 85,
+    mediator: "ENFP",
+    provider: "ENTJ",
+    summary: {
+      en: "ENFPs and ENTJs form a dynamic and stimulating partnership. The ENFP's creativity and enthusiasm complement the ENTJ's strategic thinking and leadership. While ENFPs bring spontaneity and emotional depth, ENTJs provide structure and goal-orientation. Their shared intuition creates exciting possibilities, though they may need to work on balancing flexibility with planning.",
+      zh: "ENFP和ENTJ形成充满活力和激励的伙伴关系。ENFP的创造力和热情与ENTJ的战略思维和领导力相得益彰。ENFP带来自发性和情感深度，而ENTJ提供结构和目标导向。他们共有的直觉功能创造了令人兴奋的可能性，但需要平衡灵活性与计划性。"
+    },
+    relationshipType: {
+      en: "Visionary Power Couple",
+      zh: "远见卓识的强力组合"
+    },
+    relationshipDesc: {
+      en: "A high-energy pairing where imagination meets execution, creating mutual inspiration and achievement.",
+      zh: "高能量的配对，想象力与执行力相遇，创造相互启发和成就。"
+    },
+    sharedValues: {
+      en: "Growth & Possibilities",
+      zh: "成长与可能性"
+    },
+    sharedValuesDesc: {
+      en: "Both value personal growth and exploring new ideas, though ENFPs focus on experiences while ENTJs prioritize results.",
+      zh: "双方都重视个人成长和探索新想法，但ENFP关注体验，而ENTJ优先考虑结果。"
+    },
+    communicationStyle: {
+      en: "Big Picture & Passionate",
+      zh: "宏观且充满激情"
+    },
+    communicationDesc: {
+      en: "Conversations flow easily about ideas and future plans, though ENTJs may find ENFPs too scattered while ENFPs may feel ENTJs are too direct.",
+      zh: "关于想法和未来计划的交流很顺畅，但ENTJ可能觉得ENFP太散漫，而ENFP可能认为ENTJ太直接。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Te": {
+        score: 88,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "ENFP's idea generation synergizes with ENTJ's ability to implement, creating powerful innovation.",
+          zh: "ENFP的想法产生与ENTJ的执行能力协同作用，创造强大的创新。"
+        }
+      },
+      "Fi_Te": {
+        score: 75,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "ENFP's personal values may sometimes clash with ENTJ's efficiency focus, requiring mutual understanding.",
+          zh: "ENFP的个人价值观有时可能与ENTJ的效率重点冲突，需要相互理解。"
+        }
+      },
+      "Te_Ne": {
+        score: 82,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ENTJ's strategic thinking helps ground ENFP's ideas, while ENFP inspires ENTJ's creativity.",
+          zh: "ENTJ的战略思维有助于落实ENFP的想法，而ENFP激发ENTJ的创造力。"
+        }
+      },
+      "Si_Ni": {
+        score: 68,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ni (Tertiary)",
+        description: {
+          en: "Both may overlook details, with ENFPs forgetting practicalities and ENTJs missing subtle patterns.",
+          zh: "双方都可能忽视细节，ENFP忘记实用性，ENTJ错过微妙模式。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary strengths - ENFPs inspire ENTJs with possibilities while ENTJs help ENFPs focus and achieve. Shared intuition creates understanding, though they must respect their different decision-making styles (values vs logic).",
+      zh: "他们的兼容性源于互补优势 - ENFP用可能性激励ENTJ，而ENTJ帮助ENFP专注和实现目标。共同的直觉功能创造理解，但他们必须尊重不同的决策风格(价值观vs逻辑)。"
+    },
+    growthPotential: {
+      en: "ENFPs can learn focus and execution from ENTJs, while ENTJs can develop emotional intelligence and flexibility from ENFPs. Together they can achieve remarkable things while balancing each other's weaknesses.",
+      zh: "ENFP可以向ENTJ学习专注和执行，而ENTJ可以从ENFP那里发展情商和灵活性。他们可以共同实现非凡成就，同时平衡彼此的弱点。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENFPs and ENTJs handle conflicts?",
+          zh: "ENFP和ENTJ如何处理冲突？"
+        },
+        answer: {
+          en: "ENTJs prefer direct confrontation while ENFPs avoid harsh conflicts. They need to find a middle ground where both feel heard without emotional damage.",
+          zh: "ENTJ喜欢直接对抗，而ENFP避免激烈冲突。他们需要找到一个中间立场，让双方都能在不伤害感情的情况下表达意见。"
+        }
+      }
+    ]
+  }
+},
+"ENTJ": {
+  "ENFP": {
+    overallScore: 83,
+    mediator: "ENFP",
+    provider: "ENTJ",
+    summary: {
+      en: "ENTJs appreciate ENFPs' creativity and energy, while ENFPs admire ENTJs' competence and vision. The ENTJ provides direction and structure that the ENFP often lacks, while the ENFP brings spontaneity and emotional warmth that softens the ENTJ's intensity. Their differences can create friction but also powerful synergy when balanced well.",
+      zh: "ENTJ欣赏ENFP的创造力和活力，而ENFP钦佩ENTJ的能力和远见。ENTJ提供ENFP通常缺乏的方向和结构，而ENFP带来自发性和情感温暖，软化ENTJ的强度。他们的差异可能产生摩擦，但平衡好时也能创造强大的协同效应。"
+    },
+    relationshipType: {
+      en: "Strategic Dream Team",
+      zh: "战略梦想团队"
+    },
+    relationshipDesc: {
+      en: "A productive partnership where visionary ideas meet decisive action, driving mutual growth.",
+      zh: "富有成效的伙伴关系，远见卓识的想法与果断行动相遇，推动共同成长。"
+    },
+    sharedValues: {
+      en: "Innovation & Achievement",
+      zh: "创新与成就"
+    },
+    sharedValuesDesc: {
+      en: "Both value progress and dislike stagnation, though ENTJs focus on tangible results while ENFPs enjoy the creative process.",
+      zh: "双方都重视进步，厌恶停滞，但ENTJ关注切实成果，而ENFP享受创造过程。"
+    },
+    communicationStyle: {
+      en: "Energetic & Goal-Oriented",
+      zh: "充满活力且目标导向"
+    },
+    communicationDesc: {
+      en: "Fast-paced exchanges of ideas, with ENTJs keeping conversations focused while ENFPs expand possibilities.",
+      zh: "快速交流想法，ENTJ保持对话专注，而ENFP扩展可能性。"
+    },
+    cognitiveCompatibility: {
+      "Te_Ne": {
+        score: 86,
+        type1Function: "Te (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ENTJ's decisive action combines well with ENFP's idea generation for effective innovation.",
+          zh: "ENTJ的果断行动与ENFP的想法产生很好地结合，实现有效创新。"
+        }
+      },
+      "Ni_Fi": {
+        score: 72,
+        type1Function: "Ni (Tertiary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ENTJ's strategic foresight may sometimes overlook ENFP's personal values, requiring conscious attention.",
+          zh: "ENTJ的战略远见有时可能忽视ENFP的个人价值观，需要有意识的关注。"
+        }
+      },
+      "Ne_Te": {
+        score: 84,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "ENFP's creative exploration helps ENTJ see new angles, while ENTJ helps implement ENFP's visions.",
+          zh: "ENFP的创造性探索帮助ENTJ看到新角度，而ENTJ帮助实现ENFP的愿景。"
+        }
+      },
+      "Se_Si": {
+        score: 65,
+        type1Function: "Se (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Both may struggle with practical details, though ENTJs are generally more organized in daily matters.",
+          zh: "双方都可能在实际细节上遇到困难，尽管ENTJ在日常事务中通常更有条理。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works because ENTJs gain fresh perspectives from ENFPs while providing the structure ENFPs need. Their shared intuition creates mutual understanding, though ENTJs must be patient with ENFP's flexibility while ENFPs should appreciate ENTJ's directness.",
+      zh: "这种配对有效，因为ENTJ从ENFP那里获得新视角，同时提供ENFP需要的结构。他们共同的直觉功能创造相互理解，尽管ENTJ必须对ENFP的灵活性保持耐心，而ENFP应该欣赏ENTJ的直接。"
+    },
+    growthPotential: {
+      en: "ENTJs can learn to be more adaptable and emotionally expressive from ENFPs, while ENFPs can develop better focus and follow-through from ENTJs. Their differences become strengths when embraced constructively.",
+      zh: "ENTJ可以向ENFP学习更适应性和情感表达，而ENFP可以从ENTJ那里发展更好的专注力和执行力。当建设性地接纳时，他们的差异会变成优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What attracts ENTJs to ENFPs?",
+          zh: "ENTJ被ENFP什么吸引？"
+        },
+        answer: {
+          en: "ENTJs admire ENFPs' creativity, optimism, and ability to connect with people - qualities that complement their own strategic focus.",
+          zh: "ENTJ欣赏ENFP的创造力、乐观精神以及与人们建立联系的能力 - 这些特质补充了他们自己的战略重点。"
+        }
+      }
+    ]
+  }
+}

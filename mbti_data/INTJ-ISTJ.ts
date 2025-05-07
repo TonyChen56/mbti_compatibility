@@ -1,0 +1,186 @@
+{
+  "ISTJ": {
+    overallScore: 78,
+    mediator: "INTJ",
+    provider: "ISTJ",
+    summary: {
+      en: "INTJs and ISTJs share a practical, logical approach to life but differ in their focus. INTJs are strategic visionaries while ISTJs are detail-oriented traditionalists. Their mutual Te function enables efficient collaboration, though INTJ's intuitive Ni may clash with ISTJ's sensory Si. With understanding, they form a complementary partnership where ISTJs provide stability and INTJs bring innovation.",
+      zh: "INTJ和ISTJ都秉持务实理性的生活态度，但关注点不同。INTJ是战略远见者，而ISTJ是注重细节的传统主义者。他们共有的Te功能可实现高效协作，但INTJ的直觉Ni可能与ISTJ的实感Si产生冲突。若能相互理解，他们能形成互补关系：ISTJ提供稳定性，INTJ带来创新性。"
+    },
+    relationshipType: {
+      en: "Complementary Partners",
+      zh: "互补型伙伴"
+    },
+    relationshipDesc: {
+      en: "A balanced pairing where structure meets vision, creating synergy between tradition and innovation.",
+      zh: "结构性与远见性的平衡组合，在传统与创新间创造协同效应。"
+    },
+    sharedValues: {
+      en: "Efficiency & Integrity",
+      zh: "效率与诚信"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value competence, logical consistency and keeping commitments, though express these values differently.",
+      zh: "双方都高度重视能力、逻辑一致性和信守承诺，尽管表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct & Fact-Based",
+      zh: "直接且基于事实"
+    },
+    communicationDesc: {
+      en: "Conversations tend to be straightforward and information-focused, though INTJs prefer abstract concepts while ISTJs favor concrete details.",
+      zh: "交流通常直接且以信息为导向，不过INTJ偏好抽象概念，而ISTJ倾向具体细节。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 88,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Shared Te enables efficient problem-solving and objective decision-making, creating strong work compatibility.",
+          zh: "共有的Te功能促成高效问题解决和客观决策，建立强大的工作兼容性。"
+        }
+      },
+      "Ni_Si": {
+        score: 65,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Ni's future-focus contrasts with Si's past-reference, potentially causing misunderstandings about priorities.",
+          zh: "Ni的未来导向与Si的过往参照形成对比，可能导致优先事项的误解。"
+        }
+      },
+      "Fi_Fe": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Both have underdeveloped feeling functions but can bond over shared ethical standards when mature.",
+          zh: "双方的情感功能都不够成熟，但成熟后可通过共同的道德标准建立联结。"
+        }
+      },
+      "Se_Ne": {
+        score: 72,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Shared inferior extraverted perceiving functions create mutual understanding about discomfort with unpredictability.",
+          zh: "共有的外向感知劣势功能使双方能理解彼此对不可预测性的不适。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Te which facilitates practical cooperation, while their differing dominant functions (Ni vs Si) provide complementary perspectives. INTJs benefit from ISTJ's attention to detail and reliability, while ISTJs gain from INTJ's strategic vision. Potential conflicts arise from INTJ's impatience with routine and ISTJ's resistance to change.",
+      zh: "兼容性源于共有的Te功能促进务实合作，而不同的主导功能(Ni与Si)提供互补视角。INTJ受益于ISTJ的细节关注和可靠性，ISTJ则获益于INTJ的战略眼光。潜在冲突可能来自INTJ对常规的急躁和ISTJ对改变的抗拒。"
+    },
+    growthPotential: {
+      en: "INTJs can develop greater attention to practical details and respect for established systems, while ISTJs may expand their capacity for strategic thinking and openness to innovation through this relationship.",
+      zh: "INTJ可以培养对实际细节的更多关注和对既有体系的尊重，而ISTJ可能通过这种关系扩展战略思维能力和对创新的开放性。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INTJ and ISTJ handle conflicts differently?",
+          zh: "INTJ和ISTJ处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "INTJs approach conflicts logically with long-term solutions, while ISTJs focus on practical facts and past precedents. Both may need to consciously address emotional aspects.",
+          zh: "INTJ以逻辑性思维寻求长期解决方案，ISTJ则关注实际事实和过往先例。双方都需要有意识地处理情感层面。"
+        }
+      }
+    ]
+  }
+},
+"ISTJ": {
+  "INTJ": {
+    overallScore: 76,
+    mediator: "INTJ",
+    provider: "ISTJ",
+    summary: {
+      en: "From the ISTJ perspective, INTJs offer valuable strategic insights but may seem impractical. ISTJs appreciate INTJ's competence but may find their abstract thinking confusing. The ISTJ's reliability grounds the relationship, while the INTJ pushes for necessary changes. Mutual respect for competence forms the foundation.",
+      zh: "从ISTJ角度看，INTJ提供有价值的战略见解但可能显得不切实际。ISTJ欣赏INTJ的能力但可能觉得其抽象思维令人困惑。ISTJ的可靠性稳固关系，而INTJ推动必要改变。对能力的相互尊重构成基础。"
+    },
+    relationshipType: {
+      en: "Stability-Meets-Innovation",
+      zh: "稳定遇见创新"
+    },
+    relationshipDesc: {
+      en: "ISTJs provide the solid foundation that allows INTJs' ideas to become reality through systematic implementation.",
+      zh: "ISTJ提供坚实基础，使INTJ的想法能通过系统化实施成为现实。"
+    },
+    sharedValues: {
+      en: "Responsibility & Achievement",
+      zh: "责任感与成就导向"
+    },
+    sharedValuesDesc: {
+      en: "Both take commitments seriously and derive satisfaction from completing tasks effectively, though with different approaches.",
+      zh: "双方都认真对待承诺并从有效完成任务中获得满足感，尽管方式不同。"
+    },
+    communicationStyle: {
+      en: "Precision-Oriented",
+      zh: "精确导向型"
+    },
+    communicationDesc: {
+      en: "ISTJs prefer step-by-step explanations while INTJs jump to conclusions; finding middle ground is key.",
+      zh: "ISTJ偏好逐步解释而INTJ直接得出结论；找到中间地带是关键。"
+    },
+    cognitiveCompatibility: {
+      "Te_Te": {
+        score: 85,
+        type1Function: "Te (Dominant)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Shared Te creates mutual understanding in work environments and decision-making processes.",
+          zh: "共有的Te功能在工作环境和决策过程中创造相互理解。"
+        }
+      },
+      "Si_Ni": {
+        score: 68,
+        type1Function: "Si (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Si's concrete memory contrasts with Ni's abstract patterns, requiring effort to bridge the gap.",
+          zh: "Si的具体记忆与Ni的抽象模式形成对比，需要努力弥合差异。"
+        }
+      },
+      "Fe_Fi": {
+        score: 72,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Both struggle with emotional expression but can develop deeper connection through shared values.",
+          zh: "双方都难以表达情感，但可通过共享价值观发展更深层次联结。"
+        }
+      },
+      "Ne_Se": {
+        score: 70,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Shared discomfort with extraverted perceiving functions leads to mutual understanding of each other's need for predictability.",
+          zh: "对外向感知功能的共同不适使双方能理解彼此对可预测性的需求。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTJs value INTJs' strategic thinking but may feel frustrated by their neglect of established procedures. INTJs challenge ISTJs to see beyond immediate realities, while ISTJs help INTJs ground their visions. The relationship thrives when both appreciate their complementary strengths in executing projects.",
+      zh: "ISTJ重视INTJ的战略思维，但可能因其忽视既定程序而感到沮丧。INTJ挑战ISTJ超越眼前现实，而ISTJ帮助INTJ落实愿景。当双方都欣赏彼此在执行项目中的互补优势时，关系就会蓬勃发展。"
+    },
+    growthPotential: {
+      en: "ISTJs can learn to appreciate unconventional approaches and think more strategically, while INTJs may develop greater respect for practical constraints and historical context through this relationship.",
+      zh: "ISTJ可以学会欣赏非传统方法并更具战略性地思考，而INTJ可能通过这种关系培养对实际限制和历史背景的更多尊重。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What workplace roles suit an INTJ-ISTJ partnership best?",
+          zh: "INTJ-ISTJ组合最适合哪些职场角色？"
+        },
+        answer: {
+          en: "They excel in project-based work where ISTJs handle implementation details and INTJs provide big-picture strategy, such as operations management or systems design.",
+          zh: "他们擅长基于项目的工作，ISTJ处理实施细节而INTJ提供宏观战略，例如运营管理或系统设计。"
+        }
+      }
+    ]
+  }
+}

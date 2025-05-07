@@ -1,0 +1,186 @@
+{
+  "ISTP": {
+    overallScore: 82,
+    mediator: "ENTP",
+    provider: "ISTP",
+    summary: {
+      en: "ENTP and ISTP form a dynamic and stimulating partnership. The ENTP's innovative ideas and the ISTP's practical problem-solving create a balanced synergy. While ENTPs focus on theoretical possibilities, ISTPs ground these ideas in reality. Their shared love for freedom and hands-on experiences makes them adventurous companions, though ENTPs may need to be more sensitive to ISTP's need for space.",
+      zh: "ENTP和ISTP形成充满活力和激发性的伙伴关系。ENTP的创新想法与ISTP的实际解决问题能力形成平衡的协同效应。ENTP关注理论可能性，而ISTP将这些想法落实于现实。他们对自由和动手体验的共同热爱使他们成为冒险伙伴，尽管ENTP可能需要更敏感地对待ISTP对个人空间的需求。"
+    },
+    relationshipType: {
+      en: "Adventure Partners",
+      zh: "冒险伙伴"
+    },
+    relationshipDesc: {
+      en: "A relationship built on mutual respect for independence and shared thrill-seeking tendencies.",
+      zh: "建立在相互尊重独立性和共同追求刺激倾向上的关系。"
+    },
+    sharedValues: {
+      en: "Freedom & Practical Innovation",
+      zh: "自由与实践创新"
+    },
+    sharedValuesDesc: {
+      en: "Both value autonomy and enjoy finding creative, hands-on solutions to problems.",
+      zh: "双方都重视自主权，并享受寻找创造性的实践解决方案。"
+    },
+    communicationStyle: {
+      en: "Direct & Idea-Focused",
+      zh: "直接且以想法为中心"
+    },
+    communicationDesc: {
+      en: "Conversations are straightforward and centered around practical applications of ideas.",
+      zh: "对话直截了当，围绕想法的实际应用展开。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ti": {
+        score: 88,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ti (Dominant)",
+        description: {
+          en: "ENTP's idea generation complements ISTP's logical analysis, creating innovative yet practical solutions.",
+          zh: "ENTP的想法生成与ISTP的逻辑分析互补，创造出创新又实用的解决方案。"
+        }
+      },
+      "Ti_Ne": {
+        score: 85,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Both enjoy logical exploration, though ENTP focuses more on possibilities while ISTP prefers concrete applications.",
+          zh: "双方都喜欢逻辑探索，尽管ENTP更关注可能性，而ISTP偏好具体应用。"
+        }
+      },
+      "Fe_Se": {
+        score: 72,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Se (Auxiliary)",
+        description: {
+          en: "ENTP's social awareness can help draw out ISTP's sensory experiences, though this isn't their strongest connection.",
+          zh: "ENTP的社交意识可以帮助引出ISTP的感官体验，尽管这不是他们最强的连接点。"
+        }
+      },
+      "Si_Ni": {
+        score: 65,
+        type1Function: "Si (Inferior)",
+        type2Function: "Ni (Inferior)",
+        description: {
+          en: "Both may struggle with long-term planning, but can support each other in developing this area.",
+          zh: "双方可能在长期规划方面存在困难，但可以互相支持发展这一领域。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions - ENTP's Ne and ISTP's Ti create a balance between innovation and practicality. Both types value independence and hands-on problem solving, though they may need to work on emotional connection.",
+      zh: "他们的兼容性源于互补的认知功能 - ENTP的Ne和ISTP的Ti在创新和实用性之间创造了平衡。两种类型都重视独立性和动手解决问题的能力，尽管他们可能需要努力建立情感连接。"
+    },
+    growthPotential: {
+      en: "ENTP can learn practical implementation from ISTP, while ISTP can expand their thinking through ENTP's ideas. Both can develop their weaker functions (Fe and Ni) through this relationship.",
+      zh: "ENTP可以向ISTP学习实际执行，而ISTP可以通过ENTP的想法扩展思维。双方都可以通过这种关系发展他们的弱势功能(Fe和Ni)。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENTP and ISTP handle conflicts?",
+          zh: "ENTP和ISTP如何处理冲突？"
+        },
+        answer: {
+          en: "They tend to approach conflicts logically, with ENTP debating ideas and ISTP focusing on practical solutions. Emotional aspects may need conscious attention.",
+          zh: "他们倾向于逻辑性地处理冲突，ENTP辩论想法，ISTP专注于实际解决方案。情感方面可能需要有意识地关注。"
+        }
+      }
+    ]
+  }
+},
+"ISTP": {
+  "ENTP": {
+    overallScore: 80,
+    mediator: "ENTP",
+    provider: "ISTP",
+    summary: {
+      en: "From the ISTP's perspective, ENTPs bring exciting intellectual stimulation and new perspectives. ISTPs appreciate ENTP's ability to think outside the box while respecting their independence. The ISTP's grounded nature helps balance ENTP's tendency toward theoretical abstraction, creating a mutually beneficial dynamic.",
+      zh: "从ISTP的角度来看，ENTP带来了令人兴奋的智力刺激和新视角。ISTP欣赏ENTP跳出框架思考的能力，同时尊重他们的独立性。ISTP脚踏实地的特质有助于平衡ENTP倾向于理论抽象的倾向，创造互利的动态关系。"
+    },
+    relationshipType: {
+      en: "Mutual Challengers",
+      zh: "互相挑战者"
+    },
+    relationshipDesc: {
+      en: "A relationship where both types intellectually challenge and inspire each other's growth.",
+      zh: "一种双方在智力上互相挑战并激发彼此成长的关系。"
+    },
+    sharedValues: {
+      en: "Autonomy & Problem-Solving",
+      zh: "自主权与问题解决"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value personal freedom and enjoy tackling complex problems in their own ways.",
+      zh: "双方都非常重视个人自由，并喜欢以自己的方式解决复杂问题。"
+    },
+    communicationStyle: {
+      en: "Practical & Exploratory",
+      zh: "实用与探索性"
+    },
+    communicationDesc: {
+      en: "ISTP's concise communication balances ENTP's expansive style, focusing discussions on actionable ideas.",
+      zh: "ISTP简洁的沟通平衡了ENTP的扩展风格，将讨论集中在可操作的想上。"
+    },
+    cognitiveCompatibility: {
+      "Ti_Ne": {
+        score: 86,
+        type1Function: "Ti (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ISTP's logical precision helps ground ENTP's abstract thinking in practical reality.",
+          zh: "ISTP的逻辑精确性有助于将ENTP的抽象思维落实到实际现实中。"
+        }
+      },
+      "Se_Fe": {
+        score: 75,
+        type1Function: "Se (Auxiliary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "ISTP's present-moment awareness can help ENTP become more attuned to immediate experiences.",
+          zh: "ISTP的当下意识可以帮助ENTP更好地适应即时体验。"
+        }
+      },
+      "Ne_Ti": {
+        score: 84,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "ENTP's idea generation stimulates ISTP's thinking, though ISTP may prefer more concrete applications.",
+          zh: "ENTP的想法生成刺激了ISTP的思考，尽管ISTP可能更喜欢具体的应用。"
+        }
+      },
+      "Ni_Si": {
+        score: 68,
+        type1Function: "Ni (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Both may avoid long-term planning but can support each other in developing this skill.",
+          zh: "双方都可能回避长期规划，但可以互相支持发展这项技能。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ISTPs find ENTPs stimulating yet sometimes overwhelming. The compatibility comes from their shared Ti logic and respect for independence. ISTPs help ENTPs focus their ideas, while ENTPs expand ISTPs' perspectives.",
+      zh: "ISTP觉得ENTP既刺激又有时令人不知所措。兼容性来自他们共享的Ti逻辑和对独立的尊重。ISTP帮助ENTP集中想法，而ENTP扩展ISTP的视野。"
+    },
+    growthPotential: {
+      en: "ISTP can develop broader thinking through ENTP, while ENTP learns practical implementation from ISTP. Both can work on emotional expression (Fe) and long-term vision (Ni/Si).",
+      zh: "ISTP可以通过ENTP发展更广阔的思维，而ENTP从ISTP学习实际执行。双方都可以在情感表达(Fe)和长期愿景(Ni/Si)方面努力。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What might ISTP find frustrating about ENTP?",
+          zh: "ISTP可能会对ENTP的什么感到沮丧？"
+        },
+        answer: {
+          en: "ISTPs may get impatient with ENTP's tendency to jump between ideas without concrete follow-through, preferring more focused, practical discussions.",
+          zh: "ISTP可能会对ENTP在想法间跳跃而没有具体跟进感到不耐烦，更喜欢专注、实际的讨论。"
+        }
+      }
+    ]
+  }
+}

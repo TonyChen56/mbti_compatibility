@@ -1,0 +1,188 @@
+```typescript
+"ESFJ": {
+  "ENTP": {
+    overallScore: 82,
+    mediator: "ENTP",
+    provider: "ESFJ",
+    summary: {
+      en: "ESFJs and ENTPs form a dynamic duo where the ESFJ's warmth and practicality balance the ENTP's innovation and debate-loving nature. While ESFJs provide emotional support and structure, ENTPs stimulate intellectual growth and new perspectives. Their differences create a complementary relationship where both can learn from each other, though they may need to work on understanding each other's core motivations.",
+      zh: "ESFJ和ENTP形成一种动态组合，ESFJ的温暖务实与ENTP的创新思辨相互平衡。ESFJ提供情感支持和结构，ENTP则激发智力成长和新视角。他们的差异创造了互补关系，双方都能互相学习，但需要努力理解彼此的核心动机。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "A stimulating relationship where both types challenge and expand each other's worldviews while providing complementary strengths.",
+      zh: "一种相互激励的关系，双方在提供互补优势的同时挑战并扩展彼此的世界观。"
+    },
+    sharedValues: {
+      en: "People-Focused Growth",
+      zh: "以人为本的成长"
+    },
+    sharedValuesDesc: {
+      en: "Both value human connections and personal development, though they approach these goals from different angles.",
+      zh: "双方都重视人际关系和个人发展，尽管他们从不同角度实现这些目标。"
+    },
+    communicationStyle: {
+      en: "Practical vs Theoretical",
+      zh: "务实vs理论"
+    },
+    communicationDesc: {
+      en: "ESFJs prefer concrete discussions while ENTPs enjoy abstract debates, requiring mutual adaptation in communication styles.",
+      zh: "ESFJ偏好具体讨论，而ENTP喜欢抽象辩论，需要在沟通方式上相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Ne": {
+        score: 85,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "ESFJ's dominant Fe harmonizes well with ENTP's Ne, creating a balance between social awareness and idea generation.",
+          zh: "ESFJ主导的Fe与ENTP的Ne和谐相处，在社会意识和创意产生之间创造平衡。"
+        }
+      },
+      "Si_Ti": {
+        score: 70,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "ESFJ's practical Si may clash with ENTP's analytical Ti, requiring patience in decision-making processes.",
+          zh: "ESFJ务实的Si可能与ENTP分析的Ti产生冲突，需要在决策过程中保持耐心。"
+        }
+      },
+      "Ti_Fe": {
+        score: 78,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "ESFJ's developing Ti appreciates ENTP's logical approach, while ENTP's Fe admires ESFJ's emotional intelligence.",
+          zh: "ESFJ发展的Ti欣赏ENTP的逻辑方法，而ENTP的Fe则钦佩ESFJ的情商。"
+        }
+      },
+      "Ne_Si": {
+        score: 75,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "ESFJ's cautious Ne benefits from ENTP's idea generation, while ENTP's Si gains stability from ESFJ's experience.",
+          zh: "ESFJ谨慎的Ne受益于ENTP的创意产生，而ENTP的Si从ESFJ的经验中获得稳定性。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from complementary cognitive functions - ESFJ's Fe-Si provides stability and warmth that balances ENTP's Ne-Ti innovation and debate. While they approach life differently, they can form a powerful team when respecting each other's strengths.",
+      zh: "他们的兼容性源于互补的认知功能——ESFJ的Fe-Si提供稳定性和温暖，平衡了ENTP的Ne-Ti创新和辩论。尽管生活方式不同，但当尊重彼此优势时，他们可以形成强大的团队。"
+    },
+    growthPotential: {
+      en: "ESFJs can learn to embrace change and abstract thinking from ENTPs, while ENTPs can develop emotional intelligence and practical skills from ESFJs. Their differences become growth opportunities.",
+      zh: "ESFJ可以向ENTP学习拥抱变化和抽象思维，而ENTP可以向ESFJ学习情商和实用技能。他们的差异成为成长机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What's the biggest challenge in ESFJ-ENTP relationships?",
+          zh: "ESFJ-ENTP关系中最大的挑战是什么？"
+        },
+        answer: {
+          en: "The main challenge is bridging ESFJ's need for harmony with ENTP's love of debate, and finding common ground between practicality and abstract ideas.",
+          zh: "主要挑战是在ESFJ对和谐的需求与ENTP对辩论的热爱之间架起桥梁，并在务实性和抽象想法之间找到共同点。"
+        }
+      }
+    ]
+  }
+},
+"ENTP": {
+  "ESFJ": {
+    overallScore: 80,
+    mediator: "ENTP",
+    provider: "ESFJ",
+    summary: {
+      en: "ENTPs find in ESFJs a grounding force that complements their abstract nature with practical care and emotional support. While ENTPs enjoy intellectual stimulation, they benefit from ESFJs' ability to create warm, structured environments. This pairing thrives when ENTPs appreciate ESFJs' social intelligence and ESFJs value ENTPs' innovative thinking.",
+      zh: "ENTP在ESFJ身上找到了一种接地气的力量，用实际的关怀和情感支持补充了他们抽象的天性。虽然ENTP享受智力刺激，但他们受益于ESFJ创造温暖、结构化环境的能力。当ENTP欣赏ESFJ的社交智慧而ESFJ重视ENTP的创新思维时，这种配对就会蓬勃发展。"
+    },
+    relationshipType: {
+      en: "Complementary Energizers",
+      zh: "互补能量源"
+    },
+    relationshipDesc: {
+      en: "A relationship where ENTP's intellectual curiosity meets ESFJ's nurturing practicality, creating a balanced dynamic.",
+      zh: "ENTP的求知欲与ESFJ的养育务实性相遇的关系，创造出平衡的动态。"
+    },
+    sharedValues: {
+      en: "Social Engagement",
+      zh: "社交参与"
+    },
+    sharedValuesDesc: {
+      en: "Both types enjoy social interaction, though ESFJs focus on harmony while ENTPs seek intellectual exchange.",
+      zh: "两种类型都喜欢社交互动，尽管ESFJ注重和谐，而ENTP寻求智力交流。"
+    },
+    communicationStyle: {
+      en: "Debate vs Consensus",
+      zh: "辩论vs共识"
+    },
+    communicationDesc: {
+      en: "ENTPs enjoy challenging ideas while ESFJs prefer agreeable discussions, requiring mutual understanding in conversations.",
+      zh: "ENTP喜欢挑战想法，而ESFJ更喜欢和谐的讨论，需要在对话中相互理解。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Fe": {
+        score: 83,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "ENTP's Ne finds creative expression through ESFJ's Fe, combining idea generation with social awareness.",
+          zh: "ENTP的Ne通过ESFJ的Fe找到创造性表达，将创意产生与社会意识相结合。"
+        }
+      },
+      "Ti_Si": {
+        score: 68,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "ENTP's analytical Ti may initially conflict with ESFJ's traditional Si, but can learn from each other over time.",
+          zh: "ENTP分析的Ti最初可能与ESFJ传统的Si冲突，但随着时间的推移可以互相学习。"
+        }
+      },
+      "Fe_Ti": {
+        score: 76,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "ENTP's developing Fe appreciates ESFJ's emotional skills, while ESFJ's Ti benefits from ENTP's logical approach.",
+          zh: "ENTP发展的Fe欣赏ESFJ的情感技能，而ESFJ的Ti受益于ENTP的逻辑方法。"
+        }
+      },
+      "Si_Ne": {
+        score: 72,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "ENTP's practical Si can ground ESFJ's cautious Ne, creating a balance between innovation and stability.",
+          zh: "ENTP务实的Si可以使ESFJ谨慎的Ne落地，在创新和稳定之间创造平衡。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing works because ENTPs' idea-oriented nature finds practical application through ESFJs, while ESFJs gain exposure to new perspectives. Their functional stack creates natural growth opportunities where each type develops their weaker functions through interaction.",
+      zh: "这种配对之所以有效，是因为ENTP以想法为导向的天性通过ESFJ找到实际应用，而ESFJ则接触到新视角。他们的功能堆栈创造了自然的成长机会，每种类型都通过互动发展他们较弱的功能。"
+    },
+    growthPotential: {
+      en: "ENTPs can develop emotional intelligence and practical skills from ESFJs, while ESFJs can expand their thinking patterns and adaptability through ENTPs. Their differences serve as mutual growth catalysts.",
+      zh: "ENTP可以从ESFJ那里发展情商和实用技能，而ESFJ可以通过ENTP扩展思维模式和适应能力。他们的差异成为相互成长的催化剂。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENTPs and ESFJs resolve conflicts effectively?",
+          zh: "ENTP和ESFJ如何有效解决冲突？"
+        },
+        answer: {
+          en: "By recognizing that ESFJs need emotional validation while ENTPs need intellectual understanding. Finding a balance between heart and mind is key.",
+          zh: "通过认识到ESFJ需要情感确认而ENTP需要智力理解。在心和脑之间找到平衡是关键。"
+        }
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,186 @@
+{
+  "ESFJ": {
+    overallScore: 82,
+    mediator: "ESFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJ and ESFJ share a practical and duty-oriented approach to life, creating a stable and harmonious relationship. While ISTJs provide logical structure and reliability, ESFJs contribute warmth and social harmony. Their complementary strengths can build a balanced partnership, though they may need to navigate differences in spontaneity versus planning.",
+      zh: "ISTJ和ESFJ都秉持务实和责任感的生活态度，能建立稳定和谐的关系。ISTJ提供逻辑结构和可靠性，ESFJ带来温暖和社交和谐。他们的优势互补能形成平衡的伙伴关系，但需要在随性与计划性之间找到平衡。"
+    },
+    relationshipType: {
+      en: "Mutual Supporters",
+      zh: "互助型关系"
+    },
+    relationshipDesc: {
+      en: "A stable partnership where both types support each other's practical and social needs effectively.",
+      zh: "稳定的伙伴关系，双方能有效满足彼此的实际需求和社交需求。"
+    },
+    sharedValues: {
+      en: "Responsibility & Tradition",
+      zh: "责任感与传统"
+    },
+    sharedValuesDesc: {
+      en: "Both value duty, reliability and maintaining social conventions, creating strong common ground.",
+      zh: "双方都重视责任感、可靠性和维护社会传统，这形成了坚实的共同基础。"
+    },
+    communicationStyle: {
+      en: "Fact-based & Considerate",
+      zh: "基于事实且体贴"
+    },
+    communicationDesc: {
+      en: "ISTJs communicate directly with facts while ESFJs add emotional consideration, creating balanced exchanges.",
+      zh: "ISTJ以事实直接沟通，ESFJ则加入情感考量，形成平衡的交流方式。"
+    },
+    cognitiveCompatibility: {
+      "Si_Si": {
+        score: 90,
+        type1Function: "Si (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Shared dominant Si creates strong mutual understanding of practical realities and traditions.",
+          zh: "共同的主导功能Si使他们对现实和传统有很强的相互理解。"
+        }
+      },
+      "Te_Fe": {
+        score: 75,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Fe (Auxiliary)",
+        description: {
+          en: "Te's logic complements Fe's social harmony, though may cause occasional friction in decision-making.",
+          zh: "Te的逻辑与Fe的社交和谐互补，但在决策时可能偶尔产生摩擦。"
+        }
+      },
+      "Fi_Ti": {
+        score: 68,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their weaker introspective functions may struggle to understand each other's personal reasoning.",
+          zh: "他们较弱的自省功能可能难以理解对方的个人推理方式。"
+        }
+      },
+      "Ne_Se": {
+        score: 72,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Shared discomfort with unpredictability but can bond over practical new experiences.",
+          zh: "都对不可预测性感到不适，但可以通过实际的新体验建立联系。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared Sensing-Judging preferences and complementary Te/Fe functions. While ISTJs provide structure, ESFJs add social warmth, creating a balanced dynamic. Potential challenges arise from ISTJ's reserved nature conflicting with ESFJ's social needs.",
+      zh: "他们的兼容性源于共同的Sensing-Judging偏好和互补的Te/Fe功能。ISTJ提供结构，ESFJ增加社交温暖，形成平衡的动态关系。潜在挑战来自ISTJ的内敛性格与ESFJ的社交需求之间的冲突。"
+    },
+    growthPotential: {
+      en: "ISTJs can learn emotional expression from ESFJs, while ESFJs can develop more logical consistency from ISTJs. Together they can balance practicality with social connection.",
+      zh: "ISTJ可以向ESFJ学习情感表达，ESFJ则可以从ISTJ那里发展出更强的逻辑一致性。他们可以共同平衡实用性和社交联系。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ISTJ and ESFJ handle conflicts?",
+          zh: "ISTJ和ESFJ如何处理冲突？"
+        },
+        answer: {
+          en: "ISTJs focus on facts while ESFJs prioritize harmony. Successful resolution requires ISTJs to consider feelings and ESFJs to address practical issues.",
+          zh: "ISTJ关注事实，ESFJ优先考虑和谐。成功的解决需要ISTJ考虑感受，ESFJ解决实际问题。"
+        }
+      }
+    ]
+  }
+},
+"ESFJ": {
+  "ISTJ": {
+    overallScore: 85,
+    mediator: "ESFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ESFJs appreciate ISTJs' reliability and practical approach, while ISTJs value ESFJs' social skills and warmth. This pairing creates a stable, traditional relationship where both feel secure and valued. ESFJs may need to give ISTJs more space, while ISTJs should reciprocate ESFJs' emotional efforts.",
+      zh: "ESFJ欣赏ISTJ的可靠性和务实态度，ISTJ则重视ESFJ的社交技巧和温暖。这种配对创造了稳定传统的关系，双方都感到安全和被重视。ESFJ可能需要给ISTJ更多空间，而ISTJ应该回应ESFJ的情感付出。"
+    },
+    relationshipType: {
+      en: "Traditional Anchors",
+      zh: "传统锚点"
+    },
+    relationshipDesc: {
+      en: "A conventional yet comforting relationship where both types fulfill each other's core needs.",
+      zh: "传统而舒适的关系，双方都能满足彼此的核心需求。"
+    },
+    sharedValues: {
+      en: "Stability & Service",
+      zh: "稳定性与服务"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize creating stable environments and serving their communities/families.",
+      zh: "双方都优先考虑创造稳定环境和服务社区/家庭。"
+    },
+    communicationStyle: {
+      en: "Harmonious & Detailed",
+      zh: "和谐且细致"
+    },
+    communicationDesc: {
+      en: "ESFJs soften ISTJs' directness with emotional awareness, while ISTJs help ground ESFJs' conversations.",
+      zh: "ESFJ用情感意识软化ISTJ的直接，而ISTJ帮助ESFJ的对话更加实际。"
+    },
+    cognitiveCompatibility: {
+      "Si_Si": {
+        score: 90,
+        type1Function: "Si (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Shared focus on concrete experiences and traditions creates strong mutual understanding.",
+          zh: "对具体经验和传统的共同关注创造了很强的相互理解。"
+        }
+      },
+      "Fe_Te": {
+        score: 78,
+        type1Function: "Fe (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Fe's social awareness balances Te's efficiency, creating complementary strengths.",
+          zh: "Fe的社交意识平衡了Te的效率，形成互补优势。"
+        }
+      },
+      "Ti_Fi": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their weaker personal logic systems may occasionally cause misunderstandings.",
+          zh: "他们较弱的个人逻辑系统可能偶尔导致误解。"
+        }
+      },
+      "Se_Ne": {
+        score: 70,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Shared preference for familiarity over novelty, but can enjoy practical new experiences together.",
+          zh: "都偏好熟悉而非新奇，但可以一起享受实际的新体验。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ESFJs find security in ISTJs' reliability while providing the social connection ISTJs often lack. Their shared SJ temperament ensures similar lifestyles, with ESFJs adding emotional warmth to ISTJs' practical stability.",
+      zh: "ESFJ在ISTJ的可靠性中找到安全感，同时提供ISTJ常缺乏的社交联系。他们共同的SJ气质确保了相似的生活方式，ESFJ为ISTJ的实际稳定增添了情感温暖。"
+    },
+    growthPotential: {
+      en: "ESFJs can help ISTJs develop emotional expression, while ISTJs can teach ESFJs more objective decision-making. Together they create a balanced blend of heart and practicality.",
+      zh: "ESFJ可以帮助ISTJ发展情感表达，而ISTJ可以教会ESFJ更客观的决策。他们共同创造了情感与实际的平衡融合。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What social challenges might this pairing face?",
+          zh: "这种配对可能面临哪些社交挑战？"
+        },
+        answer: {
+          en: "ESFJs' need for frequent social interaction may overwhelm ISTJs, requiring compromise on social calendar and alone time.",
+          zh: "ESFJ对频繁社交互动的需求可能让ISTJ不堪重负，需要在社交安排和独处时间上妥协。"
+        }
+      }
+    ]
+  }
+}

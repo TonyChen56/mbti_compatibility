@@ -1,0 +1,186 @@
+{
+  "ENFJ": {
+    overallScore: 82,
+    mediator: "ENFJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ESTJ and ENFJ form a dynamic and productive partnership. ESTJs bring structure and efficiency while ENFJs provide warmth and vision. Their shared extraversion creates energetic interactions, though ESTJs may find ENFJs too emotionally focused, and ENFJs may see ESTJs as rigid. With mutual respect, they can balance each other well - ESTJs grounding ENFJs' idealism while ENFJs help ESTJs consider people's feelings.",
+      zh: "ESTJ和ENFJ形成充满活力且高效的伙伴关系。ESTJ带来结构和效率，ENFJ提供温暖和愿景。他们共同的外向特质创造了充满活力的互动，尽管ESTJ可能认为ENFJ过于情感化，而ENFJ可能觉得ESTJ过于刻板。在相互尊重的基础上，他们能很好地互补——ESTJ让ENFJ的理想主义落地，而ENFJ帮助ESTJ考虑他人感受。"
+    },
+    relationshipType: {
+      en: "Productive Synergy",
+      zh: "高效协同"
+    },
+    relationshipDesc: {
+      en: "A goal-oriented partnership where both types motivate each other to achieve tangible results while maintaining harmony.",
+      zh: "目标导向的伙伴关系，两种类型互相激励取得实际成果，同时保持和谐。"
+    },
+    sharedValues: {
+      en: "Responsibility & Social Engagement",
+      zh: "责任感与社会参与"
+    },
+    sharedValuesDesc: {
+      en: "Both value contributing to society and fulfilling obligations, though ESTJs focus on systems while ENFJs prioritize people.",
+      zh: "双方都重视社会贡献和履行责任，但ESTJ关注系统，ENFJ更重视人。"
+    },
+    communicationStyle: {
+      en: "Direct but Caring",
+      zh: "直接但关怀"
+    },
+    communicationDesc: {
+      en: "ESTJs communicate factually while ENFJs add emotional context, creating balanced discussions when both styles are respected.",
+      zh: "ESTJ注重事实沟通，ENFJ补充情感背景，当两种风格都受到尊重时，能创造平衡的讨论。"
+    },
+    cognitiveCompatibility: {
+      "Te_Fe": {
+        score: 85,
+        type1Function: "Te (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Both lead with judging functions, creating decisive action. Te focuses on efficiency while Fe prioritizes harmony, providing complementary strengths.",
+          zh: "两者都以判断功能为主导，产生果断行动。Te注重效率，Fe优先考虑和谐，形成互补优势。"
+        }
+      },
+      "Si_Ni": {
+        score: 70,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "Si's practical experience balances Ni's future vision, though may cause occasional friction between tradition and innovation.",
+          zh: "Si的实践经验平衡Ni的未来愿景，尽管可能在传统与创新间偶尔产生摩擦。"
+        }
+      },
+      "Ne_Se": {
+        score: 75,
+        type1Function: "Ne (Tertiary)",
+        type2Function: "Se (Tertiary)",
+        description: {
+          en: "Both enjoy new experiences but differ in focus - Ne explores possibilities while Se engages with immediate realities.",
+          zh: "双方都喜欢新体验但关注点不同——Ne探索可能性，Se参与当下现实。"
+        }
+      },
+      "Fi_Ti": {
+        score: 68,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Ti (Inferior)",
+        description: {
+          en: "Their inferior functions may surface under stress, with ESTJs becoming overly sensitive and ENFJs overly critical.",
+          zh: "他们的劣势功能可能在压力下显现，ESTJ变得过度敏感，ENFJ变得过度批判。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared extraversion and judging preferences, creating energetic, organized interactions. ESTJs provide structure to ENFJs' visions while ENFJs help ESTJs consider emotional impacts. Potential conflicts arise from ESTJs' rigidity and ENFJs' emotional intensity.",
+      zh: "他们的兼容性源于共同的外向和判断偏好，创造充满活力且有组织的互动。ESTJ为ENFJ的愿景提供结构，ENFJ帮助ESTJ考虑情感影响。潜在冲突来自ESTJ的刻板和ENFJ的情感强度。"
+    },
+    growthPotential: {
+      en: "ESTJs can develop emotional intelligence from ENFJs, while ENFJs can learn practical implementation from ESTJs. Both benefit from appreciating their different approaches to decision-making.",
+      zh: "ESTJ可以从ENFJ那里发展情商，而ENFJ可以从ESTJ那里学习实际执行。双方都能从欣赏彼此不同的决策方法中受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ESTJ and ENFJ handle conflicts?",
+          zh: "ESTJ和ENFJ如何处理冲突？"
+        },
+        answer: {
+          en: "ESTJs prefer direct, logical solutions while ENFJs focus on emotional reconciliation. Successful resolution requires both approaches.",
+          zh: "ESTJ偏好直接、逻辑的解决方案，而ENFJ关注情感和解。成功的解决需要两种方法结合。"
+        }
+      }
+    ]
+  }
+},
+"ENFJ": {
+  "ESTJ": {
+    overallScore: 84,
+    mediator: "ENFJ",
+    provider: "ESTJ",
+    summary: {
+      en: "ENFJs appreciate ESTJs' reliability and organizational skills, while ESTJs admire ENFJs' charisma and people skills. ENFJs may need to adapt their communication to be more direct with ESTJs, while ESTJs should acknowledge ENFJs' need for emotional connection. Their shared extraversion creates lively interactions, and when they combine ENFJs' vision with ESTJs' execution, they make a formidable team.",
+      zh: "ENFJ欣赏ESTJ的可靠性和组织能力，而ESTJ钦佩ENFJ的魅力和人际技巧。ENFJ可能需要调整沟通方式，对ESTJ更直接，而ESTJ应认可ENFJ对情感连接的需求。他们共同的外向特质创造了活跃的互动，当他们将ENFJ的愿景与ESTJ的执行力结合时，会形成强大的团队。"
+    },
+    relationshipType: {
+      en: "Visionary Implementers",
+      zh: "愿景执行者"
+    },
+    relationshipDesc: {
+      en: "ENFJs inspire while ESTJs execute, creating a powerful combination for achieving meaningful goals.",
+      zh: "ENFJ激励，ESTJ执行，为实现有意义的目标创造了强大的组合。"
+    },
+    sharedValues: {
+      en: "Community & Achievement",
+      zh: "社区与成就"
+    },
+    sharedValuesDesc: {
+      en: "Both value making tangible contributions to their communities, though ENFJs focus on people development while ESTJs emphasize systems improvement.",
+      zh: "双方都重视对社区的实际贡献，尽管ENFJ关注人的发展，ESTJ强调系统改进。"
+    },
+    communicationStyle: {
+      en: "Harmonious & Structured",
+      zh: "和谐且有结构"
+    },
+    communicationDesc: {
+      en: "ENFJs' diplomatic approach complements ESTJs' straightforward style when both appreciate their differences.",
+      zh: "当双方都欣赏彼此差异时，ENFJ的外交方式与ESTJ的直接风格互补。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Te": {
+        score: 87,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "Fe's focus on group harmony blends well with Te's drive for efficient systems, creating a people-oriented yet productive dynamic.",
+          zh: "Fe对群体和谐的关注与Te对高效系统的驱动力很好地融合，创造以人为本又富有成效的活力。"
+        }
+      },
+      "Ni_Si": {
+        score: 72,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "Ni's future vision benefits from Si's practical experience, though ENFJs may need to ground their ideas in ESTJs' reality.",
+          zh: "Ni的未来愿景受益于Si的实践经验，尽管ENFJ可能需要将想法建立在ESTJ的现实中。"
+        }
+      },
+      "Se_Ne": {
+        score: 78,
+        type1Function: "Se (Tertiary)",
+        type2Function: "Ne (Tertiary)",
+        description: {
+          en: "Both enjoy action and new experiences, with Se engaging the present moment and Ne exploring possibilities.",
+          zh: "双方都喜欢行动和新体验，Se参与当下时刻，Ne探索可能性。"
+        }
+      },
+      "Ti_Fi": {
+        score: 65,
+        type1Function: "Ti (Inferior)",
+        type2Function: "Fi (Inferior)",
+        description: {
+          en: "Under stress, ENFJs may become overly analytical while ESTJs may become overly sensitive - both need patience during these moments.",
+          zh: "在压力下，ENFJ可能变得过度分析，而ESTJ可能变得过度敏感——这些时刻双方都需要耐心。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFJs and ESTJs complement each other's strengths - ENFJs bring people skills and vision while ESTJs provide structure and reliability. Their shared extraversion and judging functions create natural alignment in pursuing goals, though they must navigate differences in decision-making priorities (people vs efficiency).",
+      zh: "ENFJ和ESTJ互补彼此的强项——ENFJ带来人际技巧和愿景，而ESTJ提供结构和可靠性。他们共同的外向和判断功能在追求目标时创造自然的一致性，尽管他们必须处理决策优先级(人vs效率)的差异。"
+    },
+    growthPotential: {
+      en: "ENFJs can learn practical implementation from ESTJs, while ESTJs can develop greater emotional intelligence from ENFJs. Their differences become strengths when viewed as complementary rather than conflicting.",
+      zh: "ENFJ可以从ESTJ那里学习实际执行，而ESTJ可以从ENFJ那里发展更高的情商。当他们的差异被视为互补而非冲突时，就会变成优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What projects do ENFJ and ESTJ work best on together?",
+          zh: "ENFJ和ESTJ在什么项目上合作最好？"
+        },
+        answer: {
+          en: "Community initiatives or organizational projects where ENFJs can inspire people and ESTJs can implement effective systems.",
+          zh: "社区倡议或组织项目，ENFJ可以激励人们，ESTJ可以实施有效系统。"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+```typescript
+"INTJ": {
+  "ENTP": {
+    overallScore: 88,
+    mediator: "ENTP",
+    provider: "INTJ",
+    summary: {
+      en: "INTJs and ENTPs form a dynamic intellectual pairing with excellent strategic synergy. Both types share a love for abstract thinking and innovation, though INTJs prefer structured systems while ENTPs enjoy exploring possibilities. Their complementary functions create a balance between INTJ's decisive planning and ENTP's adaptive creativity.",
+      zh: "INTJ和ENTP形成充满活力的智力组合，具有出色的战略协同效应。两种类型都热爱抽象思维和创新，但INTJ偏好结构化系统，而ENTP喜欢探索可能性。他们互补的认知功能在INTJ的果断规划与ENTP的适应创造力之间创造了平衡。"
+    },
+    relationshipType: {
+      en: "Strategic Synergy",
+      zh: "战略协同"
+    },
+    relationshipDesc: {
+      en: "A power duo combining INTJ's long-term vision with ENTP's inventive adaptability to solve complex problems.",
+      zh: "强强联合，将INTJ的长期愿景与ENTP的创新适应性相结合，共同解决复杂问题。"
+    },
+    sharedValues: {
+      en: "Intellectual Curiosity & Efficiency",
+      zh: "求知欲与效率至上"
+    },
+    sharedValuesDesc: {
+      en: "Both value intellectual depth and optimized systems, though INTJs focus more on implementation while ENTPs prioritize exploration.",
+      zh: "双方都重视知识深度和优化系统，但INTJ更关注实施，而ENTP优先考虑探索。"
+    },
+    communicationStyle: {
+      en: "Debate-Driven Conceptual Exchange",
+      zh: "辩论驱动的概念交流"
+    },
+    communicationDesc: {
+      en: "Engage in stimulating theoretical discussions, with INTJs providing depth and ENTPs broadening perspectives through counterarguments.",
+      zh: "进行刺激的理论讨论，INTJ提供深度，ENTP通过反驳拓宽视角。"
+    },
+    cognitiveCompatibility: {
+      "Ni_Ne": {
+        score: 85,
+        type1Function: "Ni (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "Ni's focused foresight complements Ne's divergent thinking, creating comprehensive future scenarios.",
+          zh: "Ni的专注远见与Ne的发散思维互补，创造全面的未来情景。"
+        }
+      },
+      "Te_Ti": {
+        score: 82,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "Te's efficient execution balances Ti's analytical precision in problem-solving approaches.",
+          zh: "Te的高效执行平衡了Ti在解决问题方法中的分析精确性。"
+        }
+      },
+      "Fi_Fe": {
+        score: 70,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Fe (Inferior)",
+        description: {
+          en: "Fi's internal values may occasionally clash with Fe's social harmony focus, requiring mutual understanding.",
+          zh: "Fi的内在价值观可能偶尔与Fe的社会和谐焦点冲突，需要相互理解。"
+        }
+      },
+      "Se_Si": {
+        score: 75,
+        type1Function: "Se (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "Both share limited interest in sensory details but can collaborate on practical implementations when needed.",
+          zh: "双方对感官细节兴趣有限，但需要时可以合作实际实施。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared intuition dominance and complementary judging functions. INTJs provide strategic depth while ENTPs offer flexible innovation, creating a balanced intellectual partnership where both challenge and inspire each other's thinking.",
+      zh: "他们的兼容性源于共同的直觉主导和互补的判断功能。INTJ提供战略深度，ENTP提供灵活创新，形成平衡的智力伙伴关系，互相挑战和启发对方的思维。"
+    },
+    growthPotential: {
+      en: "INTJs can develop greater adaptability from ENTPs, while ENTPs may learn better focus and follow-through from INTJs. Both benefit from expanding their emotional intelligence through their inferior feeling functions.",
+      zh: "INTJ可以从ENTP那里发展更强的适应能力，而ENTP可以向INTJ学习更好的专注力和执行力。双方都通过劣势情感功能提升情商而受益。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do INTJ and ENTP handle conflicts?",
+          zh: "INTJ和ENTP如何处理冲突？"
+        },
+        answer: {
+          en: "They typically approach conflicts intellectually, debating ideas objectively. However, INTJs may become frustrated by ENTP's argumentative style, while ENTPs might view INTJs as overly rigid.",
+          zh: "他们通常以智力方式处理冲突，客观辩论观点。但INTJ可能因ENTP的好辩风格而沮丧，而ENTP可能认为INTJ过于僵化。"
+        }
+      }
+    ]
+  }
+},
+"ENTP": {
+  "INTJ": {
+    overallScore: 86,
+    mediator: "ENTP",
+    provider: "INTJ",
+    summary: {
+      en: "ENTPs find INTJs to be fascinating intellectual counterparts who can match their conceptual depth while providing much-needed structure. The INTJ's decisive nature helps ground ENTP's endless possibilities, creating a productive balance between exploration and execution.",
+      zh: "ENTP发现INTJ是迷人的智力对手，能匹配他们的概念深度同时提供急需的结构。INTJ的果断本质有助于落实ENTP无尽的可能性，在探索与执行间创造富有成效的平衡。"
+    },
+    relationshipType: {
+      en: "Idea Incubators",
+      zh: "创意孵化器"
+    },
+    relationshipDesc: {
+      en: "A mutually stimulating relationship where ENTP's brainstorming meets INTJ's strategic refinement for innovative solutions.",
+      zh: "相互激励的关系，ENTP的头脑风暴遇到INTJ的战略提炼，产生创新解决方案。"
+    },
+    sharedValues: {
+      en: "Innovation & Competence",
+      zh: "创新与能力"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value intellectual competence and novel ideas, though ENTPs seek variety while INTJs pursue mastery.",
+      zh: "双方都高度重视智力能力和新颖想法，但ENTP寻求多样性，而INTJ追求精通。"
+    },
+    communicationStyle: {
+      en: "Conceptual Ping-Pong",
+      zh: "概念乒乓球"
+    },
+    communicationDesc: {
+      en: "Rapid exchange of complex ideas where ENTPs propose concepts and INTJs systematically develop them.",
+      zh: "快速交流复杂想法，ENTP提出概念，INTJ系统性地发展它们。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ni": {
+        score: 87,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ni (Dominant)",
+        description: {
+          en: "Ne's expansive ideation combines powerfully with Ni's focused insight for comprehensive innovation.",
+          zh: "Ne的广泛构思与Ni的专注洞察力强大结合，实现全面创新。"
+        }
+      },
+      "Ti_Te": {
+        score: 84,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Ti's analytical frameworks gain practical direction from Te's organizational efficiency.",
+          zh: "Ti的分析框架从Te的组织效率中获得实际方向。"
+        }
+      },
+      "Fe_Fi": {
+        score: 68,
+        type1Function: "Fe (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Fe's social awareness may sometimes conflict with Fi's personal values, requiring conscious navigation.",
+          zh: "Fe的社会意识有时可能与Fi的个人价值观冲突，需要有意识地处理。"
+        }
+      },
+      "Si_Se": {
+        score: 72,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Neither prioritizes sensory details but can collaborate effectively on practical applications when motivated.",
+          zh: "双方都不优先考虑感官细节，但有动力时可以有效地合作实际应用。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "This pairing thrives on their shared intuitive dominance and complementary thinking styles. ENTPs appreciate INTJs' ability to develop their ideas into actionable plans, while INTJs value ENTPs' capacity to expand their perspectives and challenge assumptions.",
+      zh: "这种配对因他们共同的直觉主导和互补的思维方式而蓬勃发展。ENTP欣赏INTJ将其想法发展为可执行计划的能力，而INTJ重视ENTP扩展视角和挑战假设的能力。"
+    },
+    growthPotential: {
+      en: "ENTPs can develop greater follow-through and focus from INTJs, while INTJs may learn more flexibility and adaptability from ENTPs. Both can grow by developing their inferior feeling functions for better emotional connection.",
+      zh: "ENTP可以从INTJ那里发展更强的执行力和专注力，而INTJ可以向ENTP学习更多灵活性和适应性。双方都可以通过发展劣势情感功能来建立更好的情感连接。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What makes the ENTP-INTJ relationship unique?",
+          zh: "ENTP-INTJ关系的独特之处是什么？"
+        },
+        answer: {
+          en: "Their rare ability to engage in deep intellectual exploration while also producing concrete results sets them apart from other pairings, making them exceptional innovation partners.",
+          zh: "他们既能进行深入智力探索又能产生具体成果的罕见能力使他们与众不同，成为卓越的创新伙伴。"
+        }
+      }
+    ]
+  }
+}
+```

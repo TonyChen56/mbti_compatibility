@@ -1,0 +1,186 @@
+{
+  "ENTP": {
+    overallScore: 88,
+    mediator: "ENFP",
+    provider: "ENTP",
+    summary: {
+      en: "ENFPs and ENTPs form a dynamic and intellectually stimulating pair. Both types share a love for ideas, possibilities, and novelty, creating an energetic and creative relationship. Their shared Extraverted Intuition (Ne) dominant function fuels endless conversations and brainstorming sessions. While ENFPs bring warmth and emotional connection, ENTPs contribute logical analysis and debate skills, making them excellent partners in both personal and professional settings.",
+      zh: "ENFP和ENTP形成一对充满活力和智力刺激的组合。两种类型都热爱想法、可能性和新鲜事物，创造出充满能量的创意关系。他们共有的主导功能外倾直觉(Ne)能激发无尽的对话和头脑风暴。ENFP带来温暖和情感连接，而ENTP则贡献逻辑分析和辩论技巧，使他们在个人和职业领域都能成为出色的搭档。"
+    },
+    relationshipType: {
+      en: "Idea Powerhouse",
+      zh: "创意发电站"
+    },
+    relationshipDesc: {
+      en: "A relationship bursting with creativity, intellectual debates, and mutual inspiration that never runs dry.",
+      zh: "充满创意、智力辩论和永不枯竭的相互启发的伴侣关系"
+    },
+    sharedValues: {
+      en: "Freedom & Innovation",
+      zh: "自由与创新"
+    },
+    sharedValuesDesc: {
+      en: "Both highly value personal freedom, intellectual exploration, and breaking conventional boundaries.",
+      zh: "双方都高度重视个人自由、智力探索和打破常规界限"
+    },
+    communicationStyle: {
+      en: "Free-flowing & Associative",
+      zh: "自由流动与联想式"
+    },
+    communicationDesc: {
+      en: "Conversations jump from topic to topic with enthusiasm, often sparking new ideas and possibilities.",
+      zh: "对话充满热情地从一个话题跳到另一个话题，经常激发新的想法和可能性"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ne": {
+        score: 95,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "Their shared dominant Ne creates explosive creativity and endless idea generation together.",
+          zh: "他们共有的主导功能Ne能共同产生爆炸性的创造力和无穷的想法"
+        }
+      },
+      "Fi_Ti": {
+        score: 75,
+        type1Function: "Fi (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "ENFP's Fi provides emotional depth while ENTP's Ti offers logical structure, creating balance.",
+          zh: "ENFP的Fi提供情感深度，而ENTP的Ti提供逻辑结构，形成平衡"
+        }
+      },
+      "Te_Fe": {
+        score: 70,
+        type1Function: "Te (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Their tertiary functions help them connect with the external world in complementary ways.",
+          zh: "他们的第三功能以互补的方式帮助他们与外部世界连接"
+        }
+      },
+      "Si_Si": {
+        score: 65,
+        type1Function: "Si (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Shared inferior Si means they may both struggle with routine but can support each other's growth.",
+          zh: "共有的劣势功能Si意味着他们可能都难以应对常规事务，但可以互相支持成长"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their compatibility stems from shared dominant Ne that creates endless intellectual synergy, while their auxiliary functions (Fi vs Ti) provide complementary perspectives. The main challenge comes from ENFP's need for emotional connection potentially clashing with ENTP's more debate-oriented approach.",
+      zh: "他们的兼容性源于共有的主导功能Ne创造了无尽的智力协同效应，而他们的辅助功能(Fi与Ti)提供了互补的视角。主要挑战来自ENFP对情感连接的需求可能与ENTP更倾向于辩论的方式产生冲突"
+    },
+    growthPotential: {
+      en: "ENFPs can help ENTPs develop emotional intelligence and values clarity, while ENTPs can help ENFPs strengthen logical consistency and follow-through on ideas.",
+      zh: "ENFP可以帮助ENTP发展情商和价值观清晰度，而ENTP可以帮助ENFP加强逻辑一致性和想法的贯彻执行"
+    },
+    faq: [
+      {
+        question: {
+          en: "Do ENFPs and ENTPs make good romantic partners?",
+          zh: "ENFP和ENTP能成为好的浪漫伴侣吗？"
+        },
+        answer: {
+          en: "Yes, they form exciting and intellectually stimulating relationships, though ENFPs may need to understand ENTPs' debate style isn't personal.",
+          zh: "是的，他们能形成令人兴奋且智力刺激的关系，尽管ENFP可能需要理解ENTP的辩论风格并非针对个人"
+        }
+      }
+    ]
+  }
+},
+"ENTP": {
+  "ENFP": {
+    overallScore: 85,
+    mediator: "ENFP",
+    provider: "ENTP",
+    summary: {
+      en: "ENTPs find ENFPs to be wonderfully stimulating partners who match their intellectual curiosity while adding emotional warmth. The ENTP's logical approach complements the ENFP's values-driven perspective, creating a balanced dynamic. Both types thrive on novelty and exploration, making their relationship consistently engaging and unlikely to become stagnant.",
+      zh: "ENTP发现ENFP是极好的激励型伴侣，既能匹配他们的智力好奇心，又能增添情感温暖。ENTP的逻辑方法与ENFP的价值观驱动视角互补，创造出平衡的互动。两种类型都因新奇和探索而蓬勃发展，使他们的关系持续吸引人且不易停滞"
+    },
+    relationshipType: {
+      en: "Dynamic Duo",
+      zh: "活力二人组"
+    },
+    relationshipDesc: {
+      en: "A partnership where intellectual sparks fly and emotional connection deepens over shared adventures.",
+      zh: "在共同冒险中智力火花四射且情感连接加深的伙伴关系"
+    },
+    sharedValues: {
+      en: "Curiosity & Authenticity",
+      zh: "好奇心与真实性"
+    },
+    sharedValuesDesc: {
+      en: "Both prioritize genuine self-expression and relentless pursuit of interesting possibilities.",
+      zh: "双方都优先考虑真实的自我表达和对有趣可能性的不懈追求"
+    },
+    communicationStyle: {
+      en: "Rapid-fire & Idea-rich",
+      zh: "快速反应与创意丰富"
+    },
+    communicationDesc: {
+      en: "Their talks are fast-paced, jumping between abstract concepts and practical applications seamlessly.",
+      zh: "他们的对话节奏快，在抽象概念和实际应用之间无缝切换"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ne": {
+        score: 95,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "Their shared Ne dominance means they'll never run out of fascinating topics to explore together.",
+          zh: "他们共有的Ne主导意味着他们永远不会缺少一起探索的迷人话题"
+        }
+      },
+      "Ti_Fi": {
+        score: 72,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Fi (Auxiliary)",
+        description: {
+          en: "ENTP's Ti analyzes systems while ENFP's Fi evaluates personal values, offering different but valuable lenses.",
+          zh: "ENTP的Ti分析系统，而ENFP的Fi评估个人价值观，提供不同但有价值的视角"
+        }
+      },
+      "Fe_Te": {
+        score: 68,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Their tertiary functions help them engage with the world, though in different ways that can complement.",
+          zh: "他们的第三功能帮助他们与世界互动，尽管方式不同但可以互补"
+        }
+      },
+      "Si_Si": {
+        score: 63,
+        type1Function: "Si (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Shared inferior Si means they may neglect practical details but can laugh about it together.",
+          zh: "共有的劣势功能Si意味着他们可能忽视实际细节，但可以一起笑对这种情况"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENTPs appreciate ENFPs' ability to match their intellectual energy while adding emotional depth. The main compatibility challenge comes from ENTP's tendency to debate everything potentially hurting ENFP's feelings, requiring conscious sensitivity.",
+      zh: "ENTP欣赏ENFP匹配他们智力能量的能力，同时增添情感深度。主要的兼容性挑战来自ENTP倾向于辩论一切可能伤害ENFP感情的特性，需要有意识的敏感性"
+    },
+    growthPotential: {
+      en: "ENTPs can learn emotional authenticity and values clarity from ENFPs, while ENFPs can develop sharper critical thinking and idea implementation skills from ENTPs.",
+      zh: "ENTP可以向ENFP学习情感真实性和价值观清晰度，而ENFP可以从ENTP那里发展更敏锐的批判性思维和想法实施技能"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do ENTPs and ENFPs handle conflicts differently?",
+          zh: "ENTP和ENFP处理冲突的方式有何不同？"
+        },
+        answer: {
+          en: "ENTPs approach conflict logically as problems to solve, while ENFPs focus on emotional harmony and values alignment, requiring mutual understanding.",
+          zh: "ENTP以逻辑方式将冲突视为要解决的问题，而ENFP则关注情感和谐和价值观一致，需要相互理解"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+```typescript
+"ENTP": {
+  "ENTP": {
+    overallScore: 85,
+    mediator: "ENTP",
+    provider: "ENTP",
+    summary: {
+      en: "Two ENTPs form a dynamic and intellectually stimulating relationship. Their shared Ne dominance creates endless possibilities for exploration and debate. While their Ti provides logical consistency, their mutual neglect of Si may lead to practical challenges. This pairing thrives on mental sparring but needs conscious effort to maintain emotional connection.",
+      zh: "两个ENTP会形成充满活力和智力刺激的关系。他们共有的主导功能Ne创造了无限的探索和辩论可能。虽然他们的Ti提供了逻辑一致性，但共同忽视Si可能导致实际问题。这种配对在思维交锋中蓬勃发展，但需要有意努力来维持情感连接。"
+    },
+    relationshipType: {
+      en: "Idea Playground",
+      zh: "创意游乐场"
+    },
+    relationshipDesc: {
+      en: "A relationship built on endless brainstorming, where ideas flow freely and debates never end.",
+      zh: "建立在无尽头脑风暴上的关系，创意自由流动，辩论永无止境。"
+    },
+    sharedValues: {
+      en: "Intellectual Freedom & Novelty",
+      zh: "思想自由与新奇体验"
+    },
+    sharedValuesDesc: {
+      en: "Both value intellectual exploration, freedom of thought, and pursuing novel experiences above all else.",
+      zh: "双方都最重视智力探索、思想自由和追求新奇体验。"
+    },
+    communicationStyle: {
+      en: "Rapid-fire Debating",
+      zh: "快速辩论式"
+    },
+    communicationDesc: {
+      en: "Conversations are fast-paced, jumping between topics with logical precision and playful challenges.",
+      zh: "对话节奏快，在话题间跳跃，充满逻辑精确性和玩笑式的挑战。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ne": {
+        score: 95,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "Their shared dominant Ne creates explosive creativity and endless idea generation together.",
+          zh: "共有的主导功能Ne创造了爆炸性的创造力和无尽的创意产生。"
+        }
+      },
+      "Ti_Ti": {
+        score: 80,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "Mutual Ti provides logical consistency in discussions but may lead to over-analysis paralysis.",
+          zh: "共同的Ti为讨论提供逻辑一致性，但可能导致过度分析瘫痪。"
+        }
+      },
+      "Fe_Fe": {
+        score: 65,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Underdeveloped Fe in both may cause occasional insensitivity to each other's emotional needs.",
+          zh: "双方Fe功能都不够成熟，可能偶尔忽视彼此的情感需求。"
+        }
+      },
+      "Si_Si": {
+        score: 60,
+        type1Function: "Si (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Shared neglect of Si means practical matters and routine maintenance may fall through the cracks.",
+          zh: "共同忽视Si功能意味着实际事务和日常维护可能被遗漏。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENTPs connect deeply through intellectual stimulation and idea exchange. Their shared cognitive functions create understanding but also blind spots in emotional expression and practical matters. The relationship thrives when both consciously develop their Fe and Si.",
+      zh: "ENTP通过智力刺激和思想交流建立深刻连接。他们共有的认知功能创造了理解，但在情感表达和实际事务上也存在盲点。当双方都有意识地发展Fe和Si功能时，这种关系会蓬勃发展。"
+    },
+    growthPotential: {
+      en: "This pairing has tremendous potential for intellectual growth but needs to work on emotional attunement. Developing Fe can deepen their connection, while improving Si helps ground their ideas in reality.",
+      zh: "这种配对在智力成长方面潜力巨大，但需要培养情感协调。发展Fe可以加深他们的连接，而改善Si有助于将想法落实。"
+    },
+    faq: [
+      {
+        question: {
+          en: "Do two ENTPs make a good romantic couple?",
+          zh: "两个ENTP能成为好的浪漫伴侣吗？"
+        },
+        answer: {
+          en: "They can be exciting partners but need conscious effort to develop emotional intimacy beyond intellectual connection.",
+          zh: "他们可以成为令人兴奋的伴侣，但需要有意识地发展超越智力连接的情感亲密关系。"
+        }
+      }
+    ]
+  }
+},
+"ENTP": {
+  "ENTP": {
+    overallScore: 85,
+    mediator: "ENTP", 
+    provider: "ENTP",
+    summary: {
+      en: "When two ENTPs interact, the energy is electric with constant idea exchange. Their similar cognitive stacks create instant understanding but also similar weaknesses. This mirror relationship offers both stimulation and challenge in equal measure.",
+      zh: "当两个ENTP互动时，能量充沛，不断交换想法。他们相似的认知功能堆栈创造了即时理解，但也有相似的弱点。这种镜像关系提供了同等程度的刺激和挑战。"
+    },
+    relationshipType: {
+      en: "Mental Doppelgängers",
+      zh: "思维分身"
+    },
+    relationshipDesc: {
+      en: "A relationship where both see themselves reflected in the other's thought processes and energy.",
+      zh: "双方都能在对方的思维过程和能量中看到自己倒影的关系。"
+    },
+    sharedValues: {
+      en: "Innovation & Authenticity",
+      zh: "创新与真实"
+    },
+    sharedValuesDesc: {
+      en: "They prioritize innovative thinking and authentic self-expression over social conventions.",
+      zh: "他们重视创新思维和真实自我表达胜过社会惯例。"
+    },
+    communicationStyle: {
+      en: "Conceptual Ping-Pong",
+      zh: "概念乒乓"
+    },
+    communicationDesc: {
+      en: "Ideas bounce back and forth rapidly with each building upon the other's thoughts.",
+      zh: "想法快速来回反弹，每个人都建立在对方的想法之上。"
+    },
+    cognitiveCompatibility: {
+      "Ne_Ne": {
+        score: 95,
+        type1Function: "Ne (Dominant)",
+        type2Function: "Ne (Dominant)",
+        description: {
+          en: "Their Ne synergy creates an endless flow of possibilities and what-if scenarios.",
+          zh: "他们的Ne协同作用创造了无尽的可能性流和假设情景。"
+        }
+      },
+      "Ti_Ti": {
+        score: 80,
+        type1Function: "Ti (Auxiliary)",
+        type2Function: "Ti (Auxiliary)",
+        description: {
+          en: "Shared Ti allows them to follow each other's complex logical structures with ease.",
+          zh: "共有的Ti使他们能够轻松跟随彼此复杂的逻辑结构。"
+        }
+      },
+      "Fe_Fe": {
+        score: 65,
+        type1Function: "Fe (Tertiary)",
+        type2Function: "Fe (Tertiary)",
+        description: {
+          en: "Both may struggle to express emotional needs, leading to occasional misunderstandings.",
+          zh: "双方都可能难以表达情感需求，导致偶尔的误解。"
+        }
+      },
+      "Si_Si": {
+        score: 60,
+        type1Function: "Si (Inferior)",
+        type2Function: "Si (Inferior)",
+        description: {
+          en: "Their mutual Si weakness means details and follow-through may be neglected.",
+          zh: "他们共同的Si弱点意味着细节和后续行动可能被忽视。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "The ENTP-ENTP connection works because of their shared cognitive functions, creating natural understanding. However, their identical blind spots require conscious effort to overcome, particularly in emotional expression and practical matters.",
+      zh: "ENTP-ENTP连接之所以有效，是因为他们共有的认知功能创造了自然的理解。然而，他们相同的盲点需要有意识地克服，特别是在情感表达和实际事务方面。"
+    },
+    growthPotential: {
+      en: "This pairing can push each other to new intellectual heights while learning to balance their shared weaknesses. The challenge lies in developing emotional intelligence and practical skills together.",
+      zh: "这种配对可以推动彼此达到新的智力高度，同时学会平衡他们共同的弱点。挑战在于共同发展情商和实践技能。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How do two ENTPs handle conflict?",
+          zh: "两个ENTP如何处理冲突？"
+        },
+        answer: {
+          en: "They tend to intellectualize conflicts, debating the issues logically while potentially avoiding emotional aspects.",
+          zh: "他们倾向于将冲突理性化，逻辑地辩论问题，同时可能回避情感方面。"
+        }
+      }
+    ]
+  }
+}
+```

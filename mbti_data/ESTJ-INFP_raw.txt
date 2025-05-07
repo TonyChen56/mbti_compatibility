@@ -1,0 +1,188 @@
+```typescript
+"ESTJ": {
+  "INFP": {
+    overallScore: 72,
+    mediator: "INFP",
+    provider: "ESTJ",
+    summary: {
+      en: "The ESTJ-INFP pairing represents a classic case of opposites attracting. ESTJs bring structure and practicality, while INFPs contribute creativity and idealism. Their complementary strengths can create a balanced relationship where ESTJs provide stability and INFPs bring emotional depth. However, their fundamental differences in decision-making (logic vs values) and lifestyle (routine vs spontaneity) require conscious effort to bridge.",
+      zh: "ESTJ和INFP的配对是典型'异性相吸'的组合。ESTJ带来结构和务实性，而INFP则贡献创造力和理想主义。他们互补的优势可以创造一种平衡关系：ESTJ提供稳定性，INFP带来情感深度。但他们在决策方式(逻辑vs价值观)和生活方式(规律vs随性)上的根本差异需要双方有意识地努力弥合。"
+    },
+    relationshipType: {
+      en: "Growth Catalysts",
+      zh: "成长催化剂"
+    },
+    relationshipDesc: {
+      en: "This pairing challenges each other to develop their weaker functions while appreciating their differences.",
+      zh: "这种配对促使双方发展弱势功能，同时学会欣赏彼此的差异。"
+    },
+    sharedValues: {
+      en: "Integrity & Helping Others",
+      zh: "诚信与助人"
+    },
+    sharedValuesDesc: {
+      en: "Both types value honesty and making a positive impact, though they approach these goals differently.",
+      zh: "两种类型都重视诚实和产生积极影响，尽管他们实现这些目标的方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs Diplomatic",
+      zh: "直接vs委婉"
+    },
+    communicationDesc: {
+      en: "ESTJs communicate directly and factually while INFPs prefer more nuanced, feeling-based expression.",
+      zh: "ESTJ直接且基于事实地沟通，而INFP更喜欢细腻的、基于感受的表达方式。"
+    },
+    cognitiveCompatibility: {
+      "Te_Fi": {
+        score: 68,
+        type1Function: "Te (Dominant)",
+        type2Function: "Fi (Dominant)",
+        description: {
+          en: "ESTJ's logical Te clashes with INFP's value-driven Fi, causing decision-making friction.",
+          zh: "ESTJ的逻辑思维(Te)与INFP的价值观驱动(Fi)产生冲突，导致决策摩擦。"
+        }
+      },
+      "Si_Ne": {
+        score: 82,
+        type1Function: "Si (Auxiliary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "Their shared auxiliary functions allow creative problem-solving when they collaborate.",
+          zh: "他们共同的辅助功能在合作时能产生创造性的问题解决方案。"
+        }
+      },
+      "Fi_Te": {
+        score: 65,
+        type1Function: "Fi (Inferior)",
+        type2Function: "Te (Tertiary)",
+        description: {
+          en: "Under stress, ESTJ may become overly sensitive while INFP may become overly critical.",
+          zh: "压力下，ESTJ可能变得过度敏感，而INFP可能变得过度挑剔。"
+        }
+      },
+      "Ne_Si": {
+        score: 75,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Si (Tertiary)",
+        description: {
+          en: "INFP can help ESTJ explore possibilities while ESTJ helps INFP stay grounded.",
+          zh: "INFP可以帮助ESTJ探索可能性，而ESTJ帮助INFP保持务实。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "While their dominant functions (Te vs Fi) create tension, their shared auxiliary perceiving functions (Si/Ne) provide common ground. ESTJs appreciate INFPs' creativity and idealism, while INFPs value ESTJs' reliability and competence. With mutual respect, they can balance each other's weaknesses.",
+      zh: "虽然他们的主导功能(Te vs Fi)会产生紧张，但共同的辅助感知功能(Si/Ne)提供了共同点。ESTJ欣赏INFP的创造力和理想主义，而INFP看重ESTJ的可靠性和能力。在相互尊重的基础上，他们可以平衡彼此的弱点。"
+    },
+    growthPotential: {
+      en: "ESTJs can develop emotional awareness and flexibility, while INFPs can learn practical skills and assertiveness. Their differences become growth opportunities when approached with patience.",
+      zh: "ESTJ可以发展情感意识和灵活性，而INFP可以学习实用技能和自信。当以耐心对待时，他们的差异会成为成长机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ESTJs and INFPs resolve conflicts?",
+          zh: "ESTJ和INFP如何解决冲突？"
+        },
+        answer: {
+          en: "ESTJs should soften their directness while INFPs should express needs clearly. Finding logical (Te) and values-based (Fi) compromises is key.",
+          zh: "ESTJ应软化直接性，而INFP应清晰表达需求。找到基于逻辑(Te)和价值观(Fi)的折中方案是关键。"
+        }
+      }
+    ]
+  }
+},
+"INFP": {
+  "ESTJ": {
+    overallScore: 75,
+    mediator: "INFP",
+    provider: "ESTJ",
+    summary: {
+      en: "From the INFP perspective, ESTJs offer grounding stability and practical support that INFPs often lack. While initially put off by ESTJ's directness, INFPs come to appreciate their reliability and efficiency. The INFP's empathy helps soften ESTJ's edges, creating a mutually beneficial dynamic where both grow beyond their comfort zones.",
+      zh: "从INFP的角度看，ESTJ提供了INFP通常缺乏的稳定性和实际支持。虽然最初会被ESTJ的直接吓到，但INFP逐渐欣赏他们的可靠性和效率。INFP的同理心有助于软化ESTJ的棱角，创造一种互利的动态，使双方都能走出舒适区成长。"
+    },
+    relationshipType: {
+      en: "Complementary Partners",
+      zh: "互补伙伴"
+    },
+    relationshipDesc: {
+      en: "Their differences create a yin-yang balance when both value what the other brings.",
+      zh: "当双方都重视对方带来的特质时，他们的差异会形成阴阳平衡。"
+    },
+    sharedValues: {
+      en: "Authenticity & Responsibility",
+      zh: "真实性与责任感"
+    },
+    sharedValuesDesc: {
+      en: "Both types deeply value being true to themselves and fulfilling their commitments to others.",
+      zh: "两种类型都高度重视忠于自我和履行对他人的承诺。"
+    },
+    communicationStyle: {
+      en: "Harmony-Seeking vs Results-Oriented",
+      zh: "寻求和谐vs结果导向"
+    },
+    communicationDesc: {
+      en: "INFPs focus on maintaining emotional harmony while ESTJs prioritize achieving tangible outcomes.",
+      zh: "INFP注重保持情感和谐，而ESTJ优先考虑取得切实成果。"
+    },
+    cognitiveCompatibility: {
+      "Fi_Te": {
+        score: 70,
+        type1Function: "Fi (Dominant)",
+        type2Function: "Te (Dominant)",
+        description: {
+          en: "INFP's Fi provides moral compass while ESTJ's Te offers effective execution - powerful if aligned.",
+          zh: "INFP的Fi提供道德指南针，而ESTJ的Te提供有效执行——如果方向一致会很有力量。"
+        }
+      },
+      "Ne_Si": {
+        score: 85,
+        type1Function: "Ne (Auxiliary)",
+        type2Function: "Si (Auxiliary)",
+        description: {
+          en: "Their shared intuitive-sensing axis enables rich exchanges of ideas and practical applications.",
+          zh: "他们共同的直觉-感觉轴促成了丰富的想法交流和实践应用。"
+        }
+      },
+      "Te_Fi": {
+        score: 62,
+        type1Function: "Te (Inferior)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "INFP may feel criticized by ESTJ's Te, while ESTJ may feel frustrated by INFP's emotional reactions.",
+          zh: "INFP可能会觉得被ESTJ的Te批评，而ESTJ可能会对INFP的情绪反应感到沮丧。"
+        }
+      },
+      "Si_Ne": {
+        score: 78,
+        type1Function: "Si (Tertiary)",
+        type2Function: "Ne (Auxiliary)",
+        description: {
+          en: "ESTJ's detail-orientation complements INFP's big-picture thinking in productive collaborations.",
+          zh: "在高效合作中，ESTJ的细节导向与INFP的大局观相互补充。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "INFPs are drawn to ESTJs' competence and ability to manifest ideas in reality, while ESTJs admire INFPs' depth and creativity. The INFP's auxiliary Ne finds common ground with ESTJ's auxiliary Si, creating opportunities for meaningful connection despite their different priorities.",
+      zh: "INFP被ESTJ的能力和将想法变为现实的特质吸引，而ESTJ欣赏INFP的深度和创造力。INFP的辅助功能Ne与ESTJ的辅助功能Si找到共同点，尽管优先级不同，仍创造了有意义的连接机会。"
+    },
+    growthPotential: {
+      en: "INFPs can develop greater structure and follow-through, while ESTJs cultivate emotional intelligence and adaptability. Their contrasting approaches become assets when each learns from the other's strengths.",
+      zh: "INFP可以发展更强的结构和执行力，而ESTJ可以培养情商和适应性。当他们互相学习对方优点时，截然不同的方法会变成资产。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What do INFPs need to understand about ESTJs?",
+          zh: "INFP需要理解ESTJ的哪些方面？"
+        },
+        answer: {
+          en: "That ESTJ's directness isn't personal criticism but their way of improving situations efficiently.",
+          zh: "ESTJ的直接不是人身批评，而是他们有效改进情况的方式。"
+        }
+      }
+    ]
+  }
+}
+```

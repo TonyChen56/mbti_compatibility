@@ -1,0 +1,186 @@
+{
+  "ENFJ": {
+    overallScore: 78,
+    mediator: "ENFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ISTJ and ENFJ form a complementary pair with potential for mutual growth. The ISTJ's practicality and reliability balance the ENFJ's idealism and enthusiasm. While their approaches differ, they share core values of responsibility and commitment. The ENFJ can help the ISTJ open up emotionally, while the ISTJ can ground the ENFJ's visions in reality.",
+      zh: "ISTJ和ENFJ形成互补配对，具有相互成长的潜力。ISTJ的务实可靠与ENFJ的理想主义热情相互平衡。虽然他们的处事方式不同，但都重视责任和承诺的核心价值观。ENFJ可以帮助ISTJ在情感上更开放，而ISTJ则能让ENFJ的愿景更接地气。"
+    },
+    relationshipType: {
+      en: "Balanced Partnership",
+      zh: "平衡互补型"
+    },
+    relationshipDesc: {
+      en: "A relationship where structure meets inspiration, creating stability with room for growth.",
+      zh: "结构遇上灵感的关系，在稳定中留有成长空间。"
+    },
+    sharedValues: {
+      en: "Duty & Harmony",
+      zh: "责任感与和谐"
+    },
+    sharedValuesDesc: {
+      en: "Both value fulfilling obligations and maintaining peaceful relationships, though express it differently.",
+      zh: "双方都重视履行义务和维护和谐关系，只是表达方式不同。"
+    },
+    communicationStyle: {
+      en: "Direct vs Diplomatic",
+      zh: "直接型vs外交型"
+    },
+    communicationDesc: {
+      en: "ISTJs communicate factually while ENFJs focus on emotional impact, requiring mutual adaptation.",
+      zh: "ISTJ注重事实沟通，ENFJ关注情感影响，需要相互适应。"
+    },
+    cognitiveCompatibility: {
+      "Si_Fe": {
+        score: 82,
+        type1Function: "Si (Dominant)",
+        type2Function: "Fe (Dominant)",
+        description: {
+          en: "Si's attention to detail complements Fe's people focus, creating practical harmony.",
+          zh: "Si对细节的关注与Fe对人的关注互补，创造实际的和谐。"
+        }
+      },
+      "Te_Ni": {
+        score: 75,
+        type1Function: "Te (Auxiliary)",
+        type2Function: "Ni (Auxiliary)",
+        description: {
+          en: "Te's logical organization helps implement Ni's visionary insights effectively.",
+          zh: "Te的逻辑组织能力帮助有效实施Ni的远见洞察。"
+        }
+      },
+      "Fi_Ti": {
+        score: 68,
+        type1Function: "Fi (Tertiary)",
+        type2Function: "Ti (Tertiary)",
+        description: {
+          en: "Their tertiary functions may cause occasional value clashes but also mutual learning.",
+          zh: "他们的第三功能可能导致偶尔的价值观冲突，但也带来相互学习机会。"
+        }
+      },
+      "Ne_Se": {
+        score: 70,
+        type1Function: "Ne (Inferior)",
+        type2Function: "Se (Inferior)",
+        description: {
+          en: "Under stress, ISTJ's rigidness may clash with ENFJ's impulsiveness.",
+          zh: "压力下，ISTJ的固执可能与ENFJ的冲动产生冲突。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "Their dominant functions (Si-Fe) create natural balance between practicality and emotional intelligence. While different, their functions align in ways that allow them to cover each other's blind spots when both are mature.",
+      zh: "他们的主导功能(Si-Fe)在务实与情商之间创造自然平衡。虽然不同，但当双方都成熟时，他们的功能排列方式能够互相弥补盲点。"
+    },
+    growthPotential: {
+      en: "ISTJ can develop emotional expression while ENFJ learns practical implementation. Their differences become strengths when approached with mutual respect.",
+      zh: "ISTJ可以发展情感表达，而ENFJ可以学习实际执行。当以相互尊重的方式相处时，他们的差异会变成优势。"
+    },
+    faq: [
+      {
+        question: {
+          en: "What are common conflicts between ISTJ and ENFJ?",
+          zh: "ISTJ和ENFJ之间常见的冲突是什么？"
+        },
+        answer: {
+          en: "ISTJs may see ENFJs as overly emotional while ENFJs may view ISTJs as rigid. Conflict arises around decision-making styles and emotional expression.",
+          zh: "ISTJ可能认为ENFJ过于情绪化，而ENFJ可能认为ISTJ固执。冲突常出现在决策风格和情感表达方面。"
+        }
+      }
+    ]
+  }
+},
+"ENFJ": {
+  "ISTJ": {
+    overallScore: 80,
+    mediator: "ENFJ",
+    provider: "ISTJ",
+    summary: {
+      en: "ENFJs appreciate ISTJs' reliability and practical support, while ISTJs value ENFJs' warmth and ability to connect people. This pairing thrives when ENFJs moderate their intensity and ISTJs open to emotional expression. Their complementary strengths create a stable yet inspiring dynamic.",
+      zh: "ENFJ欣赏ISTJ的可靠性和实际支持，而ISTJ重视ENFJ的温暖和人际连接能力。当ENFJ调节自己的强度而ISTJ对情感表达更开放时，这种配对会蓬勃发展。他们的互补优势创造了稳定而鼓舞人心的动态。"
+    },
+    relationshipType: {
+      en: "Mutual Growth Partners",
+      zh: "共同成长伙伴"
+    },
+    relationshipDesc: {
+      en: "A relationship where emotional intelligence meets practical wisdom for balanced growth.",
+      zh: "情商与实用智慧相遇的关系，实现平衡成长。"
+    },
+    sharedValues: {
+      en: "Commitment & Service",
+      zh: "承诺与服务"
+    },
+    sharedValuesDesc: {
+      en: "Both types are dedicated to their commitments and helping others, albeit through different approaches.",
+      zh: "两种类型都致力于履行承诺和帮助他人，只是方式不同。"
+    },
+    communicationStyle: {
+      en: "Harmonizing vs Factual",
+      zh: "和谐型vs事实型"
+    },
+    communicationDesc: {
+      en: "ENFJs prioritize relationship harmony while ISTJs focus on factual accuracy, requiring conscious adjustment.",
+      zh: "ENFJ优先考虑关系和谐，而ISTJ关注事实准确性，需要有意识的调整。"
+    },
+    cognitiveCompatibility: {
+      "Fe_Si": {
+        score: 85,
+        type1Function: "Fe (Dominant)",
+        type2Function: "Si (Dominant)",
+        description: {
+          en: "Fe's social harmony blends well with Si's respect for traditions and stability.",
+          zh: "Fe的社会和谐与Si对传统和稳定的尊重很好地融合。"
+        }
+      },
+      "Ni_Te": {
+        score: 78,
+        type1Function: "Ni (Auxiliary)",
+        type2Function: "Te (Auxiliary)",
+        description: {
+          en: "Ni's insights gain practical structure through Te's organizational skills.",
+          zh: "Ni的洞察力通过Te的组织技能获得实际结构。"
+        }
+      },
+      "Ti_Fi": {
+        score: 65,
+        type1Function: "Ti (Tertiary)",
+        type2Function: "Fi (Tertiary)",
+        description: {
+          en: "Their tertiary functions may cause occasional analytical vs value-based disagreements.",
+          zh: "他们的第三功能可能导致偶尔的分析与基于价值观的分歧。"
+        }
+      },
+      "Se_Ne": {
+        score: 72,
+        type1Function: "Se (Inferior)",
+        type2Function: "Ne (Inferior)",
+        description: {
+          en: "Under stress, ENFJ may become controlling while ISTJ may resist change excessively.",
+          zh: "压力下，ENFJ可能变得控制欲强，而ISTJ可能过度抗拒改变。"
+        }
+      }
+    },
+    compatibilityReason: {
+      en: "ENFJs' dominant Fe naturally appreciates ISTJs' dependable nature, while ISTJs respect ENFJs' social skills. Their cognitive functions create a yin-yang balance of emotional and practical intelligence when both types are healthy.",
+      zh: "ENFJ的主导Fe自然欣赏ISTJ的可靠本性，而ISTJ尊重ENFJ的社交技巧。当两种类型都健康时，他们的认知功能创造了情商与实用智慧的阴阳平衡。"
+    },
+    growthPotential: {
+      en: "ENFJ can develop more practical implementation skills while ISTJ can enhance emotional connection. Their differences provide excellent opportunities for personal development when approached positively.",
+      zh: "ENFJ可以发展更多实际执行技能，而ISTJ可以加强情感连接。当积极面对时，他们的差异为个人发展提供了绝佳机会。"
+    },
+    faq: [
+      {
+        question: {
+          en: "How can ENFJs and ISTJs improve their relationship?",
+          zh: "ENFJ和ISTJ如何改善他们的关系？"
+        },
+        answer: {
+          en: "ENFJs should appreciate ISTJs' practical support while ISTJs should acknowledge ENFJs' emotional needs. Finding common projects that combine vision with implementation works well.",
+          zh: "ENFJ应该欣赏ISTJ的实际支持，而ISTJ应该承认ENFJ的情感需求。寻找结合愿景与执行的共同项目效果很好。"
+        }
+      }
+    ]
+  }
+}
