@@ -29,6 +29,7 @@ const translations = {
       faq: 'FAQ',
       language: 'Language',
       compatibility: 'Compatibility',
+      compatibilitySubtitle: 'Explore the relationship dynamics between',
       score: 'Compatibility Score',
       details: 'Details',
       mediator: 'Mediator',
@@ -51,7 +52,21 @@ const translations = {
       shareOnFacebook: 'Share on Facebook',
       copyLink: 'Copy Link',
       copied: 'Copied!',
-      download: 'Download'
+      download: 'Download',
+      faqTitle: 'Frequently Asked Questions',
+      faq1Question: 'What is MBTI compatibility?',
+      faq1Answer: 'MBTI compatibility refers to how well two personality types interact based on their cognitive functions, communication styles, and values. It helps understand relationship dynamics and potential areas of growth or conflict.',
+      faq2Question: 'Is MBTI compatibility scientifically proven?',
+      faq2Answer: 'While MBTI is widely used, it\'s important to note that compatibility between types isn\'t deterministic. Our analysis is based on cognitive function theory and observed patterns, but individual differences always play a significant role.',
+      faq3Question: 'Can incompatible MBTI types have successful relationships?',
+      faq3Answer: 'Absolutely! Lower compatibility scores don\'t mean a relationship is doomed. They simply highlight areas that might require more attention and understanding. Many "incompatible" types develop wonderful relationships by appreciating their differences.',
+      faq4Question: 'How accurate is this compatibility tool?',
+      faq4Answer: 'This tool provides general insights based on MBTI theory and cognitive functions. It\'s meant as a guide rather than a definitive assessment. Real-world relationships are complex and influenced by many factors beyond personality type.'
+    },
+    navigation: {
+      home: 'Home',
+      about: 'About',
+      compatibility: 'Compatibility'
     },
     home: {
       hero: 'Discover your personality compatibility',
@@ -87,6 +102,7 @@ const translations = {
       faq: '常见问题',
       language: '语言',
       compatibility: '兼容性',
+      compatibilitySubtitle: '探索两种性格类型之间的关系动态：',
       score: '兼容性评分',
       details: '详情',
       mediator: '调停者',
@@ -109,7 +125,21 @@ const translations = {
       shareOnFacebook: '分享到Facebook',
       copyLink: '复制链接',
       copied: '已复制！',
-      download: '下载'
+      download: '下载',
+      faqTitle: '常见问题解答',
+      faq1Question: '什么是MBTI兼容性？',
+      faq1Answer: 'MBTI兼容性指的是两种性格类型如何基于其认知功能、沟通风格和价值观进行互动。它帮助理解关系动态和潜在的成长或冲突领域。',
+      faq2Question: 'MBTI兼容性有科学依据吗？',
+      faq2Answer: '虽然MBTI被广泛使用，但重要的是要注意类型之间的兼容性并不是决定性的。我们的分析基于认知功能理论和观察到的模式，但个体差异始终起着重要作用。',
+      faq3Question: '不兼容的MBTI类型可以有成功的关系吗？',
+      faq3Answer: '当然可以！较低的兼容性分数并不意味着关系注定失败。它们只是突出了可能需要更多关注和理解的领域。许多"不兼容"的类型通过欣赏彼此的差异发展出了很好的关系。',
+      faq4Question: '这个兼容性工具有多准确？',
+      faq4Answer: '该工具基于MBTI理论和认知功能提供一般见解。它是一个指南而非权威评估。现实世界的关系很复杂，受到性格类型之外的许多因素影响。'
+    },
+    navigation: {
+      home: '首页',
+      about: '关于',
+      compatibility: '兼容性'
     },
     home: {
       hero: '探索你的性格兼容性',

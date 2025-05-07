@@ -130,3 +130,8 @@ export const mbtiTypes: MbtiType[] = [
     color: '#A1887F'
   }
 ];
+
+// 验证MBTI类型是否有效
+export const isValidMbtiType = (type: string): boolean => {
+  return mbtiTypes.some(mbtiType => mbtiType.id === type);
+};

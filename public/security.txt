@@ -1,0 +1,7 @@
+# security.txt for MBTI Compatibility Tool
+# Learn more at https://securitytxt.org/
+Contact: mailto:security@mbti-compatibility.vercel.app
+Expires: 2025-12-31T23:59:59Z
+Preferred-Languages: zh, en
+Policy: https://mbti-compatibility.vercel.app/security-policy
+# This is a demo project 

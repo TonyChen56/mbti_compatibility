@@ -1,0 +1,6 @@
+# MBTI Compatibility Analysis Tool
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mbti-compatibility.vercel.app/sitemap.xml 
