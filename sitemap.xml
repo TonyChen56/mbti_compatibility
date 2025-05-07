@@ -8,9 +8,18 @@
 
 
 <url>
-  <loc>https://www.mbticompatibility.net/</loc>
+  <loc>https://mbti-compatibility.vercel.app/</loc>
   <lastmod>2025-05-07T09:38:26+00:00</lastmod>
 </url>
 
+<url>
+  <loc>https://mbti-compatibility.vercel.app/about</loc>
+  <lastmod>2025-05-07T09:38:26+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://mbti-compatibility.vercel.app/compatibility/INFP/INFJ</loc>
+  <lastmod>2025-05-07T09:38:26+00:00</lastmod>
+</url>
 
 </urlset>
