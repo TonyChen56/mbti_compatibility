@@ -28,8 +28,13 @@ const Header = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
-              <span className="text-indigo-600 font-bold text-xl">MBTI</span>
-              <span className="ml-1 font-medium text-gray-800">Match</span>
+              <img 
+                src="/images/mbti-logo.svg" 
+                alt="MBTI Match Logo" 
+                className="h-8 w-auto" 
+                width="180" 
+                height="40"
+              />
             </Link>
           </div>
 
